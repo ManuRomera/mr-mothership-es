@@ -902,7 +902,8 @@
         "PopupFullExpertName": "Conjunto de experto",
         "PopupFullExperDescription": "Elige 1 habilidad experta, y una habilidad entrenada como requisito previo.",
         "ChoiceWord": "Opción",
-        "ChoiceText": "Elige 1 de estas opciones de bono de habilidad"
+        "ChoiceText": "Elige 1 de estas opciones de bono de habilidad",
+        "PopupFullExpertDescription": "Elige 1 habilidad experta y una habilidad entrenada como requisito previo."
       },
       "Tables": "Tablas",
       "Table": {
@@ -1146,6 +1147,49 @@
     "Errors": {
       "SkillAlreadyInList": "Esta habilidad ya está en la lista.",
       "NoDropTarget": "Algo ha salido mal al soltar, inténtalo de nuevo."
+    },
+    "MajorRepair": "Reparación mayor",
+    "MinorRepair": "Reparación menor",
+    "MajorRepairs": "Reparaciones mayores",
+    "ShipSetup": "Configuración de la nave",
+    "RollStartingCondition": "Tirar estado inicial",
+    "Finish": "Terminar",
+    "CloseMenu": "Cerrar menú",
+    "MegadamageEffects": "Efectos de megadaño",
+    "OrQuarterAsDetermineByWarden": "o un cuarto, según determine el Guardián",
+    "TreesBulkheadWallsMetalFurniture": "Árboles, mamparos, muros y muebles metálicos",
+    "EditModule": "Editar módulo",
+    "DeleteModule": "Eliminar módulo",
+    "CreateModule": "Crear módulo",
+    "CreateArmor": "Crear armadura",
+    "MAX": "MÁX",
+    "CURRENT": "ACTUAL",
+    "Distress": "Socorro",
+    "Captain": "Capitán",
+    "EditAbility": "Editar habilidad especial",
+    "DeleteAbility": "Eliminar habilidad especial",
+    "CreateAbility": "Crear habilidad especial",
+    "EditCrewMember": "Editar tripulante",
+    "DeleteCrewMember": "Eliminar tripulante",
+    "CreateCrewMember": "Crear tripulante"
+  },
+  "TYPES": {
+    "Actor": {
+      "character": "Personaje",
+      "creature": "Criatura",
+      "ship": "Nave"
+    },
+    "Item": {
+      "item": "Objeto",
+      "skill": "Habilidad",
+      "weapon": "Arma",
+      "armor": "Armadura",
+      "ability": "Habilidad especial",
+      "module": "Módulo",
+      "condition": "Condición",
+      "crew": "Tripulante",
+      "repair": "Reparación",
+      "class": "Clase"
     }
   }
 }

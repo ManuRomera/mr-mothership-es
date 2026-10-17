@@ -69,3 +69,4 @@ for p in sorted((U/'packs').glob('macros_*.db')):
                 unidades[hashlib.sha1(pieza.encode()).hexdigest()[:10]] = pieza
 json.dump(unidades, open(S/'macrotext.json', 'w'), ensure_ascii=False, indent=1)
 print('unidades de macro:', len(unidades))
+

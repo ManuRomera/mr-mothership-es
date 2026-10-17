@@ -133,7 +133,7 @@
   "Minor/Major Injuries": "Heridas menores/mayores",
   "Morale Check": "Tirada de moral",
   "Name": "Nombre",
-  "Net HP": "Salud neta",
+  "Net HP": "PV netos",
   "New Skill": "Nueva habilidad",
   "Next": "Siguiente",
   "No Character Selected": "No hay ningún personaje seleccionado",
@@ -219,6 +219,58 @@
   "to find out when you regain consciousness. Crew members with a medscanner, relevant skills like First Aid or Biology, or scientists and androids who pass an": "para averiguar cuándo recuperas la consciencia. Los tripulantes con un medscanner, Habilidades relevantes como Primeros auxilios o Biología, o los científicos y androides que superen una",
   "to reveal your fate. If your death seems imminent, make your last moments count: save someone’s life, solve an important mystery, or give the others time to escape.": "para revelar tu destino. Si tu muerte parece inminente, haz que tus últimos momentos cuenten: salva la vida de alguien, resuelve un misterio importante o da tiempo a los demás para escapar.",
   "wounds, if not treated can quickly overwhelm you.": "las heridas, si no se tratan, pueden superarte rápidamente.",
+  ", with a severity of": ", con una gravedad de",
+  "Adds android-specific tables for Panic and Calm checks.": "Añade tablas específicas de androides para las tiradas de Pánico y Calma.",
+  "As the ship shudders under the impact of enemy fire, a sense of urgency fills the control room. Alarms blare, emergency lights bath the crew in a stark glow, but there is no panic. The crew, seasoned and unyielding, maintain their focus on the task at hand.": "Mientras la nave se estremece bajo el impacto del fuego enemigo, una sensación de urgencia invade la sala de control. Las alarmas aúllan y las luces de emergencia bañan a la tripulación en un resplandor crudo, pero no hay pánico. La tripulación, curtida e implacable, mantiene la concentración en la tarea que tiene entre manos.",
+  "Auto Stress Gain on Failures?": "¿Aumento automático de Estrés al fallar?",
+  "Automatically handles stress gain on a failed roll.": "Gestiona automáticamente el aumento de Estrés al fallar una tirada.",
+  "Body": "Cuerpo",
+  "Critical Hit Damage": "Daño de impacto crítico",
+  "Currently selected character for the player": "Personaje seleccionado actualmente por el jugador",
+  "Currently selected token(s) in the scene": "Token(s) seleccionado(s) actualmente en la escena",
+  "Customize which rolltables are used.": "Personaliza qué tablas de tiradas se utilizan.",
+  "Damage Dice": "Dados de daño",
+  "Damage Dice Theme": "Tema de los dados de daño",
+  "Defer to each weapon's critical damage": "Usa el daño crítico de cada arma",
+  "Double the damage dice": "Duplica los dados de daño",
+  "Double the damage result": "Duplica el resultado de daño",
+  "Fear": "Miedo",
+  "Gain 1d10 Calm.": "Gana 1d10 de Calma.",
+  "Hide 0e Weight": "Ocultar peso de 0e",
+  "Hide the 0e weight mechanic in the items list for players and ships?": "¿Ocultar la mecánica de peso de 0e en la lista de objetos para jugadores y naves?",
+  "If DiceSoNice is installed, what theme should be applied to damage dice?": "Si DiceSoNice está instalado, ¿qué tema debe aplicarse a los dados de daño?",
+  "If DiceSoNice is installed, what theme should be applied to the panic die?": "Si DiceSoNice está instalado, ¿qué tema debe aplicarse al dado de pánico?",
+  "Loyalty": "Lealtad",
+  "Macro Target": "Objetivo de macro",
+  "Maximum possible damage result": "Resultado de daño máximo posible",
+  "No critical damage": "Sin daño crítico",
+  "Ok": "Aceptar",
+  "Panic Die": "Dado de pánico",
+  "Panic Die Theme": "Tema del dado de pánico",
+  "Quantity has increased from": "La cantidad ha aumentado de",
+  "Resolve": "Determinación",
+  "Roll Dice": "Tirar dados",
+  "Roll with advantage": "Tirar con ventaja",
+  "Severity has increased from": "La gravedad ha aumentado de",
+  "Strength": "Fuerza",
+  "The crew, once focused on their tasks, now exchange anxious glances as the reality of the situation set in. Struggling to maintain composure in the chaos, the crew decides to send a hail and hope for mercy.": "La tripulación, antes concentrada en sus tareas, ahora intercambia miradas ansiosas mientras asimila la realidad de la situación. Luchando por mantener la compostura en medio del caos, la tripulación decide enviar un saludo y esperar clemencia.",
+  "Use Android Panic Tables?": "¿Usar tablas de pánico para androides?",
+  "Use Calm?": "¿Usar Calma?",
+  "Use the 1st edition rules and character sheet.": "Usa las reglas y la hoja de personaje de la 1.ª edición.",
+  "Uses the traaa.sh Calm system instead of Stress.": "Usa el sistema de Calma de traaa.sh en lugar del Estrés.",
+  "What should the damage be on a critical hit?": "¿Cuál debería ser el daño de un impacto crítico?",
+  "Who should be the target for macros?": "¿Quién debe ser el objetivo de las macros?",
+  "Wounds": "Heridas",
+  "You add": "Añades",
+  "You inflict [[": "Infliges [[",
+  "You strike your target for <strong>[[floor(": "Infliges a tu objetivo <strong>[[floor(",
+  "]] points of damage.": "]] puntos de daño.",
+  "did not roll": "no obtuvo",
+  "greater than": "mayor que",
+  "greater than or equal to": "mayor o igual que",
+  "less than": "menor que",
+  "less than or equal to": "menor o igual que",
+  "of these to your inventory.": "de estos a tu inventario.",
   "Bleeding": "Sangrado",
   "SUCCESS!": "¡ÉXITO!",
   "FAILURE!": "¡FALLO!",
@@ -226,8 +278,34 @@
   "CRITICAL FAILURE!": "¡FALLO CRÍTICO!",
   "to": "a",
   "Reduce the most relevant Stat or Save by": "Reduce la Característica o Salvación más relevante en",
+  "Strength Check": "Tirada de Fuerza",
+  "Speed Check": "Tirada de Velocidad",
+  "Combat Check": "Tirada de Combate",
+  "Instinct Check": "Tirada de Instinto",
+  "Loyalty Check": "Tirada de Lealtad",
+  "Sanity Save": "Salvación de Cordura",
+  "Fear Save": "Salvación de Miedo",
+  "Body Save": "Salvación de Cuerpo",
+  "Armor Save": "Salvación de Armadura",
+  "Thrusters Save": "Salvación de propulsores",
+  "Battle Save": "Salvación de batalla",
+  "Systems Save": "Salvación de sistemas",
+  "Bankruptcy Save": "Salvación de bancarrota",
+  "An Ability": "Una habilidad especial",
+  "This is a description": "Esto es una descripción",
+  "Minimum": "Mínimo",
+  "plus": "más el bono de",
+  "skill bonus.": ".",
+  "points of damage.": "puntos de daño.",
+  "damage": "de daño",
+  "1e Rules": "Reglas de 1e",
+  "You strike your target for": "Golpeas a tu objetivo causando",
+  "roll": "tirada",
+  "success": "éxito",
+  "failure": "fallo",
   "+1 Stress": "+1 Estrés",
-  "-1d10 Calm": "-1d10 Calma"
+  "-1d10 Calm": "-1d10 Calma",
+  "Calm": "Calma"
  },
  "patrones": [
   {
@@ -249,6 +327,56 @@
   {
    "en": "^Health: (.+)$",
    "es": "Salud: $1"
+  },
+  {
+   "en": "^(.+): Deckplan$",
+   "es": "$1: Plano de cubierta"
+  },
+  {
+   "en": "^(.+): Creature Settings$",
+   "es": "$1: Ajustes de criatura"
+  },
+  {
+   "en": "^(.+): Megadamage Effects$",
+   "es": "$1: Efectos de megadaño"
+  },
+  {
+   "en": "^(.+): Ship Macros$",
+   "es": "$1: Macros de la nave"
+  },
+  {
+   "en": "^(.+): Ship Setup$",
+   "es": "$1: Configuración de la nave"
+  },
+  {
+   "en": "^You (rolled|did not roll) (less than or equal to|less than|greater than or equal to|greater than) your$",
+   "es": "$1 $2 tu",
+   "map": {
+    "rolled": "Has sacado",
+    "did not roll": "No has sacado",
+    "less than": "menos que",
+    "less than or equal to": "menos o igual que",
+    "greater than": "más que",
+    "greater than or equal to": "más o igual que"
+   }
+  },
+  {
+   "en": "^(.*?)((?:Minimum |Maximum )?)(Bankruptcy|Intellect|Thrusters|Instinct|Bleeding|Strength|Systems|Loyalty|Resolve|Battle|Combat|Stress|Health|Wounds|Sanity|Net HP|Armor|Speed|Body|Calm|Fear) (increased|decreased) from$",
+   "es": "$1$3 $2$4 de",
+   "map": {
+    "Minimum": "mínimo",
+    "Maximum": "máximo",
+    "increased": "aumenta",
+    "decreased": "disminuye"
+   }
+  },
+  {
+   "en": "^(Minimum|Maximum) (.+)$",
+   "es": "$2 $1",
+   "map": {
+    "Minimum": "mínimo",
+    "Maximum": "máximo"
+   }
   },
   {
    "en": "^(.+) from$",

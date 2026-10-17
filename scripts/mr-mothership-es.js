@@ -13,7 +13,7 @@ async function cargar() {
     const r = await fetch(`modules/${ID}/lang/literales.json`);
     const j = await r.json();
     literales = j.literales ?? {};
-    patrones = (j.patrones ?? []).map(p => ({re: new RegExp(p.en), es: p.es}));
+    patrones = (j.patrones ?? []).map(p => ({re: new RegExp(p.en), es: p.es, map: p.map ?? {}}));
   } catch (e) { console.warn(`${ID} | no se pudieron cargar los literales`, e); }
 }
 
@@ -26,7 +26,11 @@ function traducir(texto) {
   if (es === undefined) {
     for (const p of patrones) {
       const m = limpio.match(p.re);
-      if (m) { es = p.es.replace(/\$(\d)/g, (_, n) => m[n] ?? ""); break; }
+      if (m) {
+        // cada captura se traduce con el mapa del patrón o con el diccionario de literales
+        es = p.es.replace(/\$(\d)/g, (_, n) => { const c = (m[n] ?? "").trim(); return (p.map[c] ?? literales[c] ?? c) + (/\s$/.test(m[n] ?? "") ? " " : ""); });
+        break;
+      }
     }
   }
   if (es === undefined || es === limpio) return null;

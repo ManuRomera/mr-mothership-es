@@ -33,14 +33,18 @@ def check(a, b):
 def run(name, i, part):
     f = OUT/f'{name}.{i:02d}.json'
     if f.exists(): return f
-    prompt = BRIEF + '\n\nENTRADA:\n' + json.dumps(part, ensure_ascii=False, indent=1)
+    lista = all(k == v for k, v in part.items())  # literales: la clave es el propio texto -> se envía con claves numéricas
+    envio = {f'k{n}': v for n, v in enumerate(part.values())} if lista else part
+    orig_keys = list(part)
+    prompt = BRIEF + '\n\nENTRADA:\n' + json.dumps(envio, ensure_ascii=False, indent=1)
     for intento in range(3):
         cmd = ['codex', 'exec', '-m', 'gpt-5.6-luna', '-c', 'model_reasoning_effort="low"', '--skip-git-repo-check', prompt] if os.environ.get('MOTOR') == 'codex' else ['opencode', 'run', '-m', MODEL, prompt]
         r = subprocess.run(cmd, capture_output=True, text=True, stdin=subprocess.DEVNULL, timeout=600)
         m = re.search(r'\{.*\}', r.stdout, re.S)
         try:
             out = json.loads(m.group(0))
-            err = check(part, out)
+            err = check(envio, out)
+            if not err and lista: out = {orig_keys[n]: out[f'k{n}'] for n in range(len(orig_keys))}
         except Exception as e:
             err = f'JSON inválido: {e}'
         if not err:
