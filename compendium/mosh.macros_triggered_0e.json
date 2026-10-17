@@ -1,0 +1,285 @@
+{
+ "label": "Macros de activación (0e)",
+ "mapping": {},
+ "entries": {
+  "a6cVSyPThSc5Sm9C": {
+   "name": "+1 Anhedonia"
+  },
+  "jSpqyVlFDm06mKoL": {
+   "name": "+1 Deterioro de bits"
+  },
+  "WnHQfgURx5sGWjlx": {
+   "name": "+1 Roto"
+  },
+  "bivbH22VbRq3YUsz": {
+   "name": "+1 Cobardía"
+  },
+  "UcHSw6s1TkqSEj7Y": {
+   "name": "+1 Pulsión de muerte"
+  },
+  "kuhC3Z3UJvckrSt1": {
+   "name": "+1 Núcleo lógico desviado"
+  },
+  "m4Vck3KB3uRVDQpQ": {
+   "name": "+1 Desapego emocional"
+  },
+  "WlaJ7iBNqeDmPSOj": {
+   "name": "+1 Evasión"
+  },
+  "CyzJOPdMcwAQBkPy": {
+   "name": "+1 Fallo de directriz ética"
+  },
+  "0gTuiRlPfdstHmYb": {
+   "name": "+1 Directriz ética malinterpretada"
+  },
+  "RVsycsQASBlxC4Yw": {
+   "name": "+1 Heurística defectuosa"
+  },
+  "vhzVIN705rL5riS9": {
+   "name": "+1 Núcleo lógico quemado"
+  },
+  "TUkbH9np5Zj6DPHX": {
+   "name": "+1 Alucinaciones"
+  },
+  "KkBd22eQ2CPxsWih": {
+   "name": "+1 Hipervigilancia"
+  },
+  "TJP579V4h7t68jY1": {
+   "name": "+1 Demencia"
+  },
+  "eJ4SRSSZA5dqgkQ0": {
+   "name": "+1 Interruptor de seguridad activado"
+  },
+  "P73qKstwgnwSMJDO": {
+   "name": "+1 Perdiendo el control"
+  },
+  "VIaKtzF0Tzopegln": {
+   "name": "+1 Presa del pánico"
+  },
+  "s7rHLmODfmUMGr65": {
+   "name": "+1 Paranoia"
+  },
+  "qwmJTfTgmjNEApfX": {
+   "name": "+1 Fobia"
+  },
+  "tQGoF2BlWn91nqyd": {
+   "name": "+1 Episodios psicóticos"
+  },
+  "dj3gsNrPwit8tNHK": {
+   "name": "+1 Descontrol"
+  },
+  "2W6ohovHitQXJ8bK": {
+   "name": "+1 Pesadillas recurrentes"
+  },
+  "PUBUZ11A5zqhsJKD": {
+   "name": "+1 Salvación de Cordura"
+  },
+  "AF7kX52Y75COaFzj": {
+   "name": "+1 Ansiedad grave"
+  },
+  "cTtJcLmQWR1WCKyO": {
+   "name": "+1 Ansiedad social"
+  },
+  "cN3hUL8tjBPvgwba": {
+   "name": "+1 Software inflado"
+  },
+  "GodJbchiu5gOgtkn": {
+   "name": "+1 Estrés"
+  },
+  "V5xWdJnaUM06WNhA": {
+   "name": "+1 Temblores"
+  },
+  "cN53sbP5eAe596vL": {
+   "name": "+1 Fallo de evaluación de amenaza"
+  },
+  "pkpAwHnAmKAN6pbs": {
+   "name": "+1 Fallo del test de Turing"
+  },
+  "3NLLvLRxm99cjUVv": {
+   "name": "+1 Nervioso"
+  },
+  "o7BidBvPsCmUxWnb": {
+   "name": "+1 Fallo de vocalización"
+  },
+  "ZeHhiHDz9hSRfKKq": {
+   "name": "+1 Adoración del peligro"
+  },
+  "gVR2dbgBFypZ1M9m": {
+   "name": "+1d10 Combate"
+  },
+  "ur6kX3P3xHVaEQpB": {
+   "name": "+1d10 Salvación de Miedo"
+  },
+  "YqqXUAVyWiUkOzMJ": {
+   "name": "+1d10 Estrés máx."
+  },
+  "0dFnFfJtZt6a0ih4": {
+   "name": "+1d10 Estrés"
+  },
+  "BnQZTR7V7va8WRGO": {
+   "name": "+1d5 Estrés"
+  },
+  "WEICDPMGI3waJ6PX": {
+   "name": "+2 Estrés"
+  },
+  "tqvhwdQ7eqzVQmMO": {
+   "name": "+2d10 Salvación de Cuerpo"
+  },
+  "iyFZyThqdvBQ43KG": {
+   "name": "+2d10 Velocidad"
+  },
+  "sUBAlHB1OcA4h185": {
+   "name": "+2d10 Fuerza"
+  },
+  "ZcqUtSMCGvERjQlG": {
+   "name": "+3 Estrés"
+  },
+  "pZDIIFKNOo3wIelH": {
+   "name": "-1 Estrés mínimo"
+  },
+  "egXQ98YOVTaIvw8Z": {
+   "name": "-1 Estrés"
+  },
+  "nLbL5WG3o55pQHVt": {
+   "name": "-1 Herida"
+  },
+  "4G0yEepSUvif6b6r": {
+   "name": "-1d10 Salvación de Cuerpo"
+  },
+  "ZHLgJKrIG82SNbt8": {
+   "name": "-1d10 Salud"
+  },
+  "P1XjeNN1XswJ2nSC": {
+   "name": "-1d10 Intelecto"
+  },
+  "FGraO3xTnChUfWGY": {
+   "name": "-1d10 Estrés máx."
+  },
+  "5jMEd9JjJPIJBKHr": {
+   "name": "-1d10 Estrés"
+  },
+  "m0X0cPbdEy9xWfQ2": {
+   "name": "-1d5 Salvación de Cordura"
+  },
+  "M91INKwIL3rOZBcx": {
+   "name": "-1d5 Estrés"
+  },
+  "fRja0aFO5muR0q3H": {
+   "name": "-2 Estrés máx."
+  },
+  "qENogEcf1awpT98o": {
+   "name": "-5 Intelecto"
+  },
+  "VZPWorbauAExrYLZ": {
+   "name": "-5 Velocidad"
+  },
+  "k663ybRMCY3u0OXF": {
+   "name": "-5 Fuerza"
+  },
+  "lggrLQD14n5dmWOW": {
+   "name": "Salvación de Cuerpo"
+  },
+  "WRtYAbOhyR7K7oCF": {
+   "name": "Salvación de Cuerpo -"
+  },
+  "8oU8H31xWldZB5mR": {
+   "name": "Salvación de Cuerpo +"
+  },
+  "5N4b4Q2OhEj1zv0P": {
+   "name": "Tirada de Combate"
+  },
+  "N20OKT1TDhywkeco": {
+   "name": "Tirada de Combate -"
+  },
+  "voAUUe17Qw4MJlup": {
+   "name": "Tirada de Combate +"
+  },
+  "4hmYrNF0uWVqsfEk": {
+   "name": "Salvación de Muerte -"
+  },
+  "Az3RocMlh0JFxAlu": {
+   "name": "Salvación de Muerte +"
+  },
+  "Er4ULzvdn2urxuet": {
+   "name": "Salvación de Miedo"
+  },
+  "RdJ2nh41wDUT4ZTP": {
+   "name": "Salvación de Miedo -"
+  },
+  "RzOmeM0RNSpFAna0": {
+   "name": "Salvación de Miedo +"
+  },
+  "iah49MKBQXykdwEg": {
+   "name": "Tirada de Intelecto"
+  },
+  "XveTnYVPtLcgJEGf": {
+   "name": "Tirada de Intelecto -"
+  },
+  "AhrhCp1Tz8ZaLhby": {
+   "name": "Tirada de Intelecto +"
+  },
+  "31nDVp25qvTkkGXQ": {
+   "name": "Reduce la Salud a 1"
+  },
+  "3AADaQaHl78Og7aR": {
+   "name": "Reduce el Estrés mínimo a 2"
+  },
+  "8MYFWpBYht987SZm": {
+   "name": "Reduce las Heridas a 0"
+  },
+  "ruNXfSNPSJmY4SE2": {
+   "name": "Tirada de Pánico -"
+  },
+  "lCEvKZVAMkfJHAXl": {
+   "name": "Tirada de Pánico +"
+  },
+  "z5V92LyXHjfMxnRQ": {
+   "name": "Aumenta la Calma máx. a 85"
+  },
+  "GprYY2FK5Y5Xddvk": {
+   "name": "Aumenta el Estrés mínimo a 5"
+  },
+  "WAPt73hfeft7m19K": {
+   "name": "Salvación de Descanso -"
+  },
+  "81hTf1Du6PRu28wj": {
+   "name": "Salvación de Descanso +"
+  },
+  "a7iEwMDULoi6CdkU": {
+   "name": "Tira 1d10 en la Tabla de Pánico de Androide"
+  },
+  "iBXpuINls8gKcvk5": {
+   "name": "Tira en la Tabla de Pánico de Androide"
+  },
+  "a6hO0gUht5v0aDqj": {
+   "name": "Tira en la Tabla de Pánico"
+  },
+  "Dua2j9hZpTLCbxXU": {
+   "name": "Salvación de Cordura"
+  },
+  "tYduVcRgKAdFAZ6l": {
+   "name": "Salvación de Cordura -"
+  },
+  "MKl9Q4poMvwpVL8v": {
+   "name": "Salvación de Cordura +"
+  },
+  "Sg8rTwkExTpF4HHp": {
+   "name": "Tirada de Velocidad"
+  },
+  "lfehxXMWB7kGhrjn": {
+   "name": "Tirada de Velocidad -"
+  },
+  "0Yw4QWSAeOuUzRqB": {
+   "name": "Tirada de Velocidad +"
+  },
+  "cbCtuBYXwQOR0ZaB": {
+   "name": "Tirada de Fuerza"
+  },
+  "Jsj2jOwoLTdyXP8z": {
+   "name": "Tirada de Fuerza -"
+  },
+  "lBDQAgzfJGadClAT": {
+   "name": "Tirada de Fuerza +"
+  }
+ }
+}

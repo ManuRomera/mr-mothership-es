@@ -1,0 +1,102 @@
+{
+ "JM9PnNw2HVWcAfOX": {
+  "name": "Anhedonia",
+  "description": "<p>Siempre que fueras a recuperar Calma, recupera la mitad de Calma en su lugar.</p>"
+ },
+ "H1dqOrGg0voG2DmC": {
+  "name": "Podredumbre de bits",
+  "description": "<p>Siempre que fueras a recuperar Calma, recupera la mitad en su lugar.</p>"
+ },
+ "pxtF1NfletmoFFGV": {
+  "name": "Bleeding",
+  "description": "<p>Algunas armas o Heridas hacen que <strong>sangres</strong>. Esto significa que recibes <strong>1 de Daño cada ronda hasta que se detenga el sangrado.</strong> Esto es acumulativo. Si un personaje está sangrando 1 de Daño por ronda y gana <strong>Sangrado +1,</strong> ahora recibe 2 de Daño por ronda. El daño por sangrado ignora la armadura y la reducción de daño.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.aur5HWqZJNspwdCd]{Recibir daño por sangrado}</p>"
+ },
+ "ZXyoVuMAsEDmU5Qi": {
+  "name": "Roto",
+  "description": "<p>Haz una Tirada de Pánico siempre que un miembro de la tripulación cercano falle una Salvación.</p>"
+ },
+ "acxtiC0oGwQloAwj": {
+  "name": "Atmósfera corrosiva",
+  "description": "<p>Los planetas con atmósferas corrosivas requieren equipo especial para explorarse; de lo contrario, existe el riesgo de sufrir daño o incluso la muerte.<br><br>La atmósfera del planeta es letal y destructiva. Inflige Daño cada ronda mientras estés en él. <strong>Esto va desde 1 DMG / ronda <em>(Ligeramente corrosiva)</em> hasta 10 DMG / ronda <em>(Altamente corrosiva)</em>.</strong> Cualquier valor superior es sencillamente imposible de atravesar con seguridad sin equipo y armadura especializados.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.vwpxRBbMwjfDCQVG]{-1 Salud}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.C9iTlPOpROuuYi2F]{-10 Salud}</p>"
+ },
+ "YIF9QkUlexxauSCE": {
+  "name": "Cobarde",
+  "description": "<p>Debes hacer una Salvación de Miedo para participar en violencia; de lo contrario, huyes.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Salvación de Miedo}</p>"
+ },
+ "j26FZQ2gYuNfMKkc": {
+  "name": "Criomareo",
+  "description": "<p>Para soportar largos viajes espaciales o saltos al hiperespacio, las tripulaciones usan criocápsulas, cápsulas con forma de ataúd que los congelan en una animación suspendida llamada criosueño. Mientras están en criosueño, las constantes vitales se preservan y el envejecimiento se ralentiza. Sin embargo, al despertar experimentas una sensación similar a la resaca llamada criomareo, que provoca lentitud y reflejos lentos. <strong>Mientras tienes criomareo sufres [-] en todas las tiradas durante 1 semana.</strong> Las criocámaras mejoradas pueden ayudar a mitigar estos efectos, y un stimpak puede curarlos al instante.</p>"
+ },
+ "srws3n4rpl4oCj83": {
+  "name": "Deseo de muerte",
+  "description": "<p>Durante las próximas 24 horas, siempre que te encuentres con un desconocido o un enemigo conocido, haz una Salvación de Cordura o atácalo de inmediato.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.TkMfT4RIczQb56j2]{Salvación de Cordura}</p>"
+ },
+ "waimTU6LXaADcJrT": {
+  "name": "Desinflado",
+  "description": "<p>Siempre que un miembro de la tripulación cercano falle una Salvación, gana 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}</p>"
+ },
+ "PTK6ds7eJvJDonbp": {
+  "name": "Núcleo de lógica desviada",
+  "description": "<p>Siempre que hagas una salvación de Miedo, tira por debajo de tu Miedo o tu Calma, el que sea menor.</p>"
+ },
+ "x41AwiI03h7wNjaM": {
+  "name": "Condenado",
+  "description": "<p>Te sientes maldito y desafortunado. Todos los Éxitos Críticos son en su lugar Fallos Críticos.</p>"
+ },
+ "iiiAIZvpfUUNai74": {
+  "name": "Desapego emocional",
+  "description": "<p>Ahora pierdes la mitad de la Calma <em>(redondeando hacia arriba)</em> que normalmente perderías de todas las fuentes, pero ganas el Efecto de Pánico de un Androide, además del de tu propia clase. Si eres un Androide, ganas el Efecto de Pánico de un Marine.</p>"
+ },
+ "qejBMjd8niz1y3Zi": {
+  "name": "Escapismo",
+  "description": "<p>Siempre tienes Desventaja en las Salvaciones de Cuerpo para evitar la Adicción.</p>"
+ },
+ "pe7ChrErjX6N57VP": {
+  "name": "Fallo de directiva ética",
+  "description": "<p>Ahora pierdes la mitad de la Calma <em>(redondeando hacia arriba)</em> que normalmente perderías de todas las fuentes, pero ahora tienes el Efecto de Pánico de un Marine, además del de un Androide.</p>"
+ },
+ "OBpJQ7uYIj3KezNc": {
+  "name": "Mala lectura de directiva ética",
+  "description": "<p>Pierde toda expresividad. Debate sobre la irracionalidad de las Fobias y busca provocarlas en los demás.</p>"
+ },
+ "jfcpnfM3bSHvMJlG": {
+  "name": "Agotado",
+  "description": "<p>Las largas y agotadoras caminatas por planetas inexplorados pueden desgastarte con facilidad. Si resulta relevante, controla el agotamiento haciendo una Salvación de Cuerpo cada hora tras 12 horas de actividad. Si fallas, gana 1 de Estrés y recibe 1 de Daño. <strong>Tras 24 horas de agotamiento, tira con Desventaja en todas las tiradas hasta que puedas descansar durante 8 horas.</strong><br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Salvación de Cuerpo}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.vwpxRBbMwjfDCQVG]{-1 Salud}</p>"
+ },
+ "uco5QbXZ6ZTKxx9g": {
+  "name": "Frío extremo",
+  "description": "<p>En la mayoría de los casos, un clima frío no tiene efectos notables. Sin embargo, en lugares de frío extremo deberías hacer Salvaciones de Cuerpo cada hora o sucumbir al Frío Extremo.<br><br>En temperaturas bajo cero, la hipotermia y las congelaciones pueden aparecer en 10-30 min en quienes no vayan vestidos adecuadamente. Para sobrevivir debes devolver a tu cuerpo a su temperatura normal. La hipotermia puede matar en 30 min a 6 horas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Salvación de Cuerpo}</p>"
+ },
+ "9DsSQajDLqPGpK2i": {
+  "name": "Calor extremo",
+  "description": "<p>En la mayoría de los casos, un clima cálido no tiene efectos notables. Sin embargo, en lugares de calor extremo deberías hacer Salvaciones de Cuerpo cada hora o sucumbir al Calor Extremo.<br><br>El calor extremo superior a 100ºF/40ºC puede causar insolación y matar en cuestión de horas. Las víctimas deben trasladarse de inmediato a un lugar más fresco para bajar su temperatura.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Salvación de Cuerpo}</p>"
+ },
+ "uPVp78kHmvMSYx2F": {
+  "name": "Heurística defectuosa",
+  "description": "<p>Siempre que hagas una salvación de Cordura, tira por debajo de tu Cordura o tu Calma, la que sea menor.</p>"
+ },
+ "kYdj6XJlPvJAhBEN": {
+  "name": "Núcleo lógico frito",
+  "description": "<p>Comportamiento frenético y sin sentido. Siempre que pierdas Calma, todos los demás que estén cerca pierden la misma cantidad de Calma.</p>"
+ },
+ "z0avrplKe6M0RcXk": {
+  "name": "Asustado",
+  "description": "<p>Cuando te encuentres con aquello que te asustó, haz una Salvación de Miedo [-] o gana 1d5 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.wVhApjRP5MXue2kh]{Salvación de Miedo -}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.luNKvwmm2tjUJhT6]{+1d5 Estrés}</p>"
+ },
+ "oTafwWjoNOE7nBrj": {
+  "name": "Alucinaciones",
+  "description": "<p>Tienes problemas para distinguir entre la realidad y la fantasía.</p>"
+ },
+ "olC4JytslvUrQN8g": {
+  "name": "Atormentado",
+  "description": "<p>Algo empieza a visitarte por la noche. En tus sueños. Con el rabillo del ojo. Y pronto empezará a hacer exigencias.</p>"
+ },
+ "tGYYK71q2QxnPtpL": {
+  "name": "Hipervigilancia",
+  "description": "<p>Ganas Ventaja en todas las tiradas de sorpresa, pero pierdes 1d10 de Calma cada día.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jHyqXb2yDFTNWxpy]{-1d10 Calma}</p>"
+ },
+ "0ZAwhewvLBwX3opf": {
+  "name": "Demente",
+  "description": "<p>Te vuelves demente de forma permanente e irreparable. Ahora el Guardián controla a tu personaje.</p>"
+ }
+}

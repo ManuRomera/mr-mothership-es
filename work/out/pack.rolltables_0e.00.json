@@ -1,0 +1,38 @@
+{
+ "cZOHlhEJcYGZsQBM": {
+  "name": "Salvación de Muerte",
+  "description": "<p><strong>Siempre que llegues a 0 de Salud, haz una Salvación de Cuerpo: si fallas, mueres.</strong> Si tienes éxito, quedas inconsciente; haz una <strong>Salvación de Muerte</strong> para averiguar cuándo recuperas la consciencia. Los miembros de la tripulación con un escáner médico, habilidades relevantes como Primeros auxilios o Biología, o científicos y androides que superen una <strong>Tirada de Intelecto</strong> pueden determinar tu estado.</p>",
+  "results": {
+   "BeGMLNZIYhH9Kk49": "Estás en coma y con muerte cerebral. Solo medidas extraordinarias te devolverán al mundo de los vivos.",
+   "9EhaHZAAGcpGMnIJ": "Despiertas en [[/r 1d10]] días, con 1 de Salud. -5 Fuerza, -5 Velocidad, -5 Intelecto <em>(pérdida permanente)</em>. Desventaja en todas las tiradas durante [[/r 1d10]] días. +1d10 Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.31nDVp25qvTkkGXQ]{Bajar Salud a 1}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.k663ybRMCY3u0OXF]{-5 Fuerza}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.VZPWorbauAExrYLZ]{-5 Velocidad}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.qENogEcf1awpT98o]{-5 Intelecto}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.0dFnFfJtZt6a0ih4]{+1d10 Estrés}",
+   "uGHUqa42KpSYkP31": "Despiertas en [[/r 1d10]] horas. 1 de Salud. -5 Fuerza y -5 Velocidad <em>(pérdida permanente)</em>. Desventaja en todas las tiradas durante [[/r 1d10]] horas. +3 Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.31nDVp25qvTkkGXQ]{Bajar Salud a 1}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.k663ybRMCY3u0OXF]{-5 Fuerza}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.VZPWorbauAExrYLZ]{-5 Velocidad}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.ZcqUtSMCGvERjQlG]{+3 Estrés}",
+   "z7WuF36CDjDa64g8": "Despiertas en [[/r 1d10]] minutos. 1 de Salud. -5 Fuerza <em>(pérdida permanente)</em>. Desventaja en todas las tiradas durante [[/r 3d10]] minutos. +2 Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.31nDVp25qvTkkGXQ]{Bajar Salud a 1}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.k663ybRMCY3u0OXF]{-5 Fuerza}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.WEICDPMGI3waJ6PX]{+2 Estrés}",
+   "ClE7nNEIW7D3Q5Bh": "Despiertas de inmediato. 1 de Salud. Desventaja en todas las tiradas durante [[/r 1d10]] minutos. +1 Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.31nDVp25qvTkkGXQ]{Bajar Salud a 1}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.GodJbchiu5gOgtkn]{+1 Estrés}"
+  }
+ },
+ "1vCm4ElRPotQXgNB": {
+  "name": "Tirada de Pánico (Estrés, Normal)",
+  "description": "<p>Tarde o temprano, el Estrés, el Daño y el desgaste emocional te llevarán a tu límite. Cuando eso ocurra, existe la posibilidad de que pierdas el control y entres en Pánico. Para determinar si eres capaz de mantener la calma bajo una presión extrema, haz una <strong>Tirada de Pánico</strong>. Aunque los resultados son principalmente negativos, también cabe la posibilidad de conservar la serenidad bajo el fuego.</p>",
+  "results": {
+   "gjINwaOSGbiQf15s": "<strong>Concentración láser.</strong> Ventaja en todas las tiradas durante las próximas [[/r 1d10]] horas.",
+   "wii7XKePcKZKLVHx": "<strong>Subidón de adrenalina mayor.</strong> Ventaja en todas las tiradas durante los próximos [[/r 3d10]] minutos.",
+   "bV0AaE9jq7s2AmjB": "<strong>Subidón de adrenalina menor.</strong> Ventaja en todas las tiradas durante los próximos [[/r 1d10]] minutos.",
+   "PZrg6c1p4Xr0cqlq": "<strong>Ansioso.</strong> Ganas 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.GodJbchiu5gOgtkn]{+1 Estrés}",
+   "aTLuigXTQpFTx9Cz": "<strong>Tic nervioso.</strong> Ganas 2 de Estrés. El miembro de la tripulación más cercano también gana 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.WEICDPMGI3waJ6PX]{+2 Estrés}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.GodJbchiu5gOgtkn]{+1 Estrés}",
+   "hxZEEMqmwAFHNKyF": "<strong>Cobardía.</strong> Ganas 1 de Estrés. Durante las próximas [[/r 1d10]] horas debes superar una Salvación de Miedo para entrar en combate o, si no, huir.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.GodJbchiu5gOgtkn]{+1 Estrés}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.bivbH22VbRq3YUsz]{+1 Cobardía}",
+   "Crrcasmzj7y9XUnN": "<strong>Alucinaciones.</strong> Durante las próximas [[/r 2d10]] horas <em>(determinadas en secreto)</em> tienes problemas para distinguir entre la realidad y la fantasía.<><>@UUID[Compendium.mosh.macros_triggered_0e.Macro.TUkbH9np5Zj6DPHX]{+1 Alucinaciones}",
+   "zfG2mvPccJzn8dct": "<strong>Miedo paralizante.</strong> Ganas una nueva fobia permanente. Cada vez que te enfrentes a esta fobia, haz una Salvación de Miedo con Desventaja o gana 1d10 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.qwmJTfTgmjNEApfX]{+1 Fobia}",
+   "bWvfXFmnaFVNKEbM": "<strong>Abrumado.</strong> Ganas 1d10 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.0dFnFfJtZt6a0ih4]{+1d10 Estrés}",
+   "eIHnn5v4D9ylqKFj": "<strong>Conmocionado.</strong> Sueltas un grito escalofriante. Desventaja en todas las tiradas durante [[/r 2d10]] minutos.",
+   "dUPFZ24CDjDBRaiG": "<strong>Paranoico.</strong> Durante los próximos [[/r 1d10]] días, cada vez que un personaje se una a tu grupo <em>(aunque solo se haya ausentado un breve periodo de tiempo)</em>, haz una Salvación de Miedo o gana 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.s7rHLmODfmUMGr65]{+1 Paranoico}",
+   "YnUIrPXx6puT44yd": "<strong>Pulsión de muerte.</strong> Durante los próximos [[/r (@other.stress.value)d10]]{Xd10} días <em>(donde X=Estrés)</em>, cada vez que te encuentres con un desconocido o un enemigo conocido, debes hacer una Salvación de Cordura o atacarlo de inmediato.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.UcHSw6s1TkqSEj7Y]{+1 Pulción de muerte}",
+   "oVDIQ0ZVwsOP73ZZ": "<strong>Catatónico.</strong> Te vuelves insensible e inmóvil durante [[/r (@other.stress.value)d10]]{Xd10} minutos <em>(donde X=Estrés)</em>.",
+   "gKxVByejEy2c51yz": "<strong>Quebrantado.</strong> Durante los próximos [[/r (@other.stress.value)d10]]{Xd10} días <em>(donde X=Estrés)</em>, haz una Tirada de Pánico cada vez que un miembro de la tripulación cercano falle una Salvación.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.WnHQfgURx5sGWjlx]{+1 Quebrantado}",
+   "DOJz9VI7dJeAq0BL": "<strong>Psicótico.</strong> Atacas de inmediato al miembro de la tripulación más cercano hasta causar al menos [[/r 2d10]] de Daño. Si no hay ningún miembro de la tripulación cerca, atacas el entorno.",
+   "aJTpD1gYWkGfVJld": "<strong>Problemas acumulados.</strong> Tira dos veces en esta tabla.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.a6hO0gUht5v0aDqj]{Tirar en la tabla de Pánico}",
+   "eAlz1CK3Qp2krP6A": "<strong>Descenso a la locura.</strong> Ganas 2 nuevas fobias. Tu Estrés no puede reducirse por debajo de 5.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.qwmJTfTgmjNEApfX]{+1 Fobia}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.GprYY2FK5Y5Xddvk]{Subir el Estrés mínimo a 5}",
+   "Tush1aneEvadtPr0": "<strong>Colapso psicológico.</strong> Te vuelves loco de forma permanente e irreparable. Ahora el Guardián interpreta a tu personaje.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.TJP579V4h7t68jY1]{+1 Demente}",
+   "0cXTzjZy0czVcdN8": "<strong>Ataque al corazón.</strong> Muerte instantánea."
+  }
+ }
+}

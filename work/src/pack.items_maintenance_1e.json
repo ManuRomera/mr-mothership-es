@@ -1,0 +1,402 @@
+{
+ "ciAkQXkxSXTG8MV1": {
+  "name": "Rancid smell permeates cabins.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "pLleYaFjcIuAm4Pp": {
+  "name": "Huge mess everywhere.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "dReCCsfiV7it4lsm": {
+  "name": "Staticky comms.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "4JRD71mvWNtFUDL7": {
+  "name": "Faulty electrical system.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "59cXdcrZlmjUcJpV": {
+  "name": "Loose couplings.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "CLvIvoNryBARtU7T": {
+  "name": "Hidden (highly illegal) contraband.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "vip6FxWcX4ReJD3b": {
+  "name": "Autopilot systems down.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "AQt9nXy6S0Ev50r7": {
+  "name": "Leaking hydraulic systems.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "QUyfvbFhCqb9d7Lu": {
+  "name": "Creaking hull.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "SW5kVSjiFbBxIeiu": {
+  "name": "Damaged bulkheads.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "wNm669fzbdZGwr0g": {
+  "name": "Misaligned docking clamps.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "3l0LUZpjizvZmHWs": {
+  "name": "Viewports blocked.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "c8SXxPHMsG7uycas": {
+  "name": "Jammed exterior airlocks.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "9kS8VjGuSMpghdCk": {
+  "name": "Dysfunctional gravity plating.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "Low2X1z7m1iB3rkA": {
+  "name": "Out of code compliance.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "BicB3xA1h978ZevJ": {
+  "name": "Controls sticking.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "C9dQYp7gcjtq5QRz": {
+  "name": "Coolant leak.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "1HNvL7XEUcMQbLps": {
+  "name": "Miscalibrated Thruster Gimbal System.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "xa9MPzfrPglkSJjg": {
+  "name": "Bevvy of OSHA violations.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "ZbAFemnvHB1YTHBK": {
+  "name": "Blocked air vents.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "wjyAZnOOafvv4xzB": {
+  "name": "Emergency lighting only.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "l1OGQ0IXZHjnO4Ys": {
+  "name": "Internal networking issues.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "vleMoz5bbkZ5w28o": {
+  "name": "Inaccurate data collection.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "T4wAR08WyT3g9C6D": {
+  "name": "Oxygen leak. If ship is low on O2, lose 1d5 extra per day.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.u7TchSo3qutnzaKF]{-1d5 Oxygen}",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "fbrN7sbgPjIwkk7I": {
+  "name": "Throttled Afterburners. -2d10 Thrusters.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jmOh8n2ps0YIeBC0]{-2d10 Thrusters}",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "7GqbGIOzA9vYOPiI": {
+  "name": "Lemon. Maintenance Checks at [-].<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.C04VbNoj8LgfY8QK]{Maintenance Check [-]}",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "dgisAPnBbrIOiisk": {
+  "name": "Slow acceleration. +1 Week to travel.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "d94uF9rpmeP60Kl4": {
+  "name": "Inaccurate navigation.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "3Ptitg8HBZfl2CXN": {
+  "name": "Miscalibrated Targeting Sensors. -1d10 Battle.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3cL9eS2HOPxhLH5]{-1d10 Battle}",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "mK1Acfk5NAgs1MHC": {
+  "name": "Faulty Cryopods. Nightmares. Cryosickness lasts an additional week.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "IR1sWnYXniMg9TdP": {
+  "name": "Malfunctioning escape pods.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "FIqSHePAeLJywerx": {
+  "name": "Unable to send distress signals.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "4kmMuAbW1jnfVMYP": {
+  "name": "Sabotaged coolant system.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "ALplRgZtneMRdloo": {
+  "name": "Death trap. [-] on all rolls.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "2pxf4O2NrLdwYRtO": {
+  "name": "Worn landing struts.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "64AQJ3zQDOb7NOR1": {
+  "name": "Out-of-date air filters.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "PKBXKvgWZwafKWJ3": {
+  "name": "Corroded pipes.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "NgKPVhRkD8Gteo5Z": {
+  "name": "Innaccurate orbital transfer navigation.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "5d220ZzrEV3qx6Fy": {
+  "name": "Worn out fuel injection nozzles.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "IGx8nQrwfz07r6TR": {
+  "name": "Inoperative exterior lighting system.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "pW1FUDxp2N0M0D1y": {
+  "name": "Defective intercom system.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "UPAxtEOrSF3Il4uA": {
+  "name": "Inadequate waste recycling.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "m04JdXL1xGQOkDyp": {
+  "name": "Faulty altitude control thrusters.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "OWkfB73RTSLDMlsU": {
+  "name": "Insufficient Life Support redundancy.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "hNJYqetiMKUlZzYH": {
+  "name": "Delayed communication relays.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "rlW0LUlsK7vDGZEh": {
+  "name": "Damaged fuel lines.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "IDiwAbD8DTbec7S1": {
+  "name": "Corroded exhaust manifolds.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "EteEoBrlnzcySppN": {
+  "name": "Terminal displays non-functional.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "guvCGNRa75AB2Avg": {
+  "name": "Check engine light won’t turn off.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "cbXMdd4ugxSOT5TU": {
+  "name": "Failed backup systems.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "kftgvuQoefQ7pl28": {
+  "name": "Faulty door locks.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "Odpb5coSTST7kCkc": {
+  "name": "Buggy communications.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "vMRVXZxu6ozj0iw2": {
+  "name": "Infected food storage facilities.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "4Lqg0lqjjTlNlr0j": {
+  "name": "Corrupted data banks.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "Ka8elMGKtcakUIxx": {
+  "name": "Jammed cargo bay doors.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "TAerNMqv19pANCxq": {
+  "name": "Flickering interior lights.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "vv1VykTwiQmgEj6N": {
+  "name": "Failed airlock seals.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "GW1KGmYdxYYf4ZWT": {
+  "name": "Fuel Leak. Burn +1 Fuel everytime you spend fuel.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "FLaPtHcegheN7wHw": {
+  "name": "Jump Bug. 10% chance Jump takes 2d10 months, not 2d10 days.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "g9Z7He5zPHNrxYe1": {
+  "name": "Fragile. Always take +1 MDMG.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "IiPryFS9MOGZXeuG": {
+  "name": "Cracked heat shields.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "FmPqHYH3UoGpaWYL": {
+  "name": "Outdated software. -1d10 Systems.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.oDftFxRKkCQRNY2O]{-1d10 Systems}",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "NLwybTzXJ1bndki3": {
+  "name": "Inadequate Water Filtration. Parasites in the water supply.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "oySXnFIbRW0WRoeF": {
+  "name": "Malfunctioning waste management system.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "RiHvRQ9nZDygwvvB": {
+  "name": "Fusion Reactors overheating.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "wCYGQrI9qonhWy8F": {
+  "name": "Failed radiation filter.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "5J4r3yw4xDj890yZ": {
+  "name": "Radiation leak. Entire ship is at Radiation Level 2.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "XmIcQgho4un7hYki": {
+  "name": "Miscalibrated guidance system.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "KhlrUaPjVIoyhnaL": {
+  "name": "Overloaded power storage.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "LRumIQdUBzD0Jc0X": {
+  "name": "Malfunctioning sensor arrays.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "e144cIdUEyTJgN1G": {
+  "name": "Failed Water Recovery System.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "b2b3j5JtanbyWlNd": {
+  "name": "Micrometoroid hull damage.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "5OBjTojgrp5N9mEw": {
+  "name": "Faulty Carbon Dioxide Removal Assembly.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "8s1eBY5bEcQQTCz0": {
+  "name": "Solar panel degradation.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "5UiJy739gvGHkRYp": {
+  "name": "Computer failure from cosmic radiation.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "yJY9CzP1KA15aMqV": {
+  "name": "Overloaded circuitry.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "nHac0gkEcCNew7RX": {
+  "name": "Malfunctioning plasma thruster.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "DYHuVA4CQlmK2MJy": {
+  "name": "Thermal management system failure.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "QIcoFYoC0hxW84qD": {
+  "name": "Intermittent electrical outages.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "AuTERG3m7ECQKrKs": {
+  "name": "Fire suppression system out of code.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "1iOSKp82goZGJZch": {
+  "name": "Damaged floor pannelling.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "ZBUtxiX72udqLzIk": {
+  "name": "Broken light fixture in remote corridor.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "iwFmPpAth3VbRRL8": {
+  "name": "Damaged coolant pump.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "Eo0l4WMxcS62GCMP": {
+  "name": "Cracked viewports.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "miRqXNzkW0biml1I": {
+  "name": "Systems overloaded with malware.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "cOLcJ3Dnecbe6ZIU": {
+  "name": "Leaky fuel valve.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "zRzb3Laiuw4ac6p0": {
+  "name": "Jammed exhaust vent.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "EZzGAO6DneH1qmQM": {
+  "name": "Stuck waste disposal chute.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "Tp6k1gPwhQmT6hCo": {
+  "name": "Lifts non-functioning.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "2Ht7fg78511Hd49u": {
+  "name": "Damaged communications antenna.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "XLEhMV9SnSfeEE7E": {
+  "name": "Clogged Air Filtration. Crew capacity cut in half.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.DUuRY7kHKd7n5luv]{-50% Crew Capacity}",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "Z8raruNDvfNASFQi": {
+  "name": "Malfunctioning climate control. 85º at all times.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "3rulbOVhyRlTizT0": {
+  "name": "No emergency power.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "ulWxa2UtTOQihTyz": {
+  "name": "Weak Frame. -1 Hull, -1 Upgrade.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.uPY19Y49bGCLGK3N]{-1 Hull}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.06NSvDYTtmkeUtLq]{-1 Upgrade}",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "EnogUslNNusSfVFy": {
+  "name": "Toxic chemical spill.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "ElXLL32uNYiPmE4G": {
+  "name": "Poor scanners. Ship has to be one range band closer than normal.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "b081FxEAclRKji3q": {
+  "name": "Counterfit papers. Ship is stolen. There is a bounty on it.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "zHsnShUX37Zvyi2O": {
+  "name": "Corrupted A.I.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "58KhhfMQ9p0XJZHc": {
+  "name": "Warp Cores fail 10% of the time.",
+  "description": "<p>Maintenance Issue</p>"
+ },
+ "60QSsxrVOt83OU9p": {
+  "name": "Rust bucket. Everything that can go wrong, does. +1 Minimum Stress to crew.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Minimum Stress}",
+  "description": "<p>Maintenance Issue</p>"
+ }
+}

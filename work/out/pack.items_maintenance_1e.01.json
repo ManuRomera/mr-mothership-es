@@ -1,0 +1,94 @@
+{
+ "DYHuVA4CQlmK2MJy": {
+  "name": "Fallo del sistema de gestión térmica.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "QIcoFYoC0hxW84qD": {
+  "name": "Cortes eléctricos intermitentes.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "AuTERG3m7ECQKrKs": {
+  "name": "Sistema de supresión de incendios fuera de normativa.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "1iOSKp82goZGJZch": {
+  "name": "Paneles del suelo dañados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "ZBUtxiX72udqLzIk": {
+  "name": "Luminaria rota en un corredor remoto.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "iwFmPpAth3VbRRL8": {
+  "name": "Bomba de refrigerante dañada.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "Eo0l4WMxcS62GCMP": {
+  "name": "Portillas agrietadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "miRqXNzkW0biml1I": {
+  "name": "Sistemas sobrecargados de malware.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "cOLcJ3Dnecbe6ZIU": {
+  "name": "Válvula de combustible con fugas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "zRzb3Laiuw4ac6p0": {
+  "name": "Conducto de escape atascado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "EZzGAO6DneH1qmQM": {
+  "name": "Tolva de eliminación de residuos atascada.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "Tp6k1gPwhQmT6hCo": {
+  "name": "Ascensores no operativos.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "2Ht7fg78511Hd49u": {
+  "name": "Antena de comunicaciones dañada.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "XLEhMV9SnSfeEE7E": {
+  "name": "Filtración de aire obstruida. Capacidad de tripulación reducida a la mitad.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.DUuRY7kHKd7n5luv]{-50% Capacidad de tripulación}",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "Z8raruNDvfNASFQi": {
+  "name": "Control climático averiado. 85º en todo momento.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "3rulbOVhyRlTizT0": {
+  "name": "Sin energía de emergencia.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "ulWxa2UtTOQihTyz": {
+  "name": "Estructura débil. -1 Casco, -1 Mejora.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.uPY19Y49bGCLGK3N]{-1 Casco}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.06NSvDYTtmkeUtLq]{-1 Mejora}",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "EnogUslNNusSfVFy": {
+  "name": "Derrame de productos químicos tóxicos.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "ElXLL32uNYiPmE4G": {
+  "name": "Escáneres deficientes. La nave debe estar una banda de alcance más cerca de lo normal.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "b081FxEAclRKji3q": {
+  "name": "Documentación falsificada. La nave es robada. Hay una recompensa por ella.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "zHsnShUX37Zvyi2O": {
+  "name": "I.A. corrupta.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "58KhhfMQ9p0XJZHc": {
+  "name": "Los núcleos de warp fallan el 10% de las veces.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "60QSsxrVOt83OU9p": {
+  "name": "Cubo de óxido. Todo lo que puede salir mal, sale mal. +1 de Estrés mínimo a la tripulación.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Estrés mínimo}",
+  "description": "<p>Avería de mantenimiento</p>"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "aBnY19jlhPXzibCt": {
+  "name": "Tirada de Pánico (Estrés, Androide)",
+  "description": "<p>El Estrés, el Daño y el desgaste emocional acaban llevando a los personajes a su punto de ruptura. Cuando eso ocurre, hay una posibilidad de que sufran Pánico. Lo determinas haciendo una <strong>Tirada de Pánico</strong>. Algunos resultados de la Tabla de Pánico son tan graves que te dejan una impresión duradera. Estos se denominan <strong>Condiciones</strong> y te afectan hasta que puedas tratarlos.</p>",
+  "results": {
+   "Uf9xMdlmk2RS9ev8": "<strong>Segfault:</strong> Ganas 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}",
+   "THtp1wYhy7Fmggo2": "<strong>Enuncia las probabilidades:</strong> de cualquier suceso, Ventaja en las tiradas del grupo durante 1 hora.",
+   "jqRITpf8XIo4LX4y": "<strong>Explica la etimología de las palabras:</strong> Las tiradas de Conocimiento tienen Ventaja durante 1 hora.",
+   "dSTOHakBOy4i4nFx": "<strong>Organiza objetos en patrones geométricos:</strong> Todos los demás ganan 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}",
+   "fYipAsps5SAM3API": "<strong>Inventaría partículas de polvo por grado:</strong> No puedes dedicarte a otras tareas, todos los demás ganan 2 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.6jjFVScyiaBvN8kX]{+2 Estrés}",
+   "hr4dgIk8AxDJrs9A": "<strong>Fallo de vocalización:</strong> Chillas de forma intermitente como un fax bajo presión. Caes en el código morse, no puedes comunicarte ni moverte con sigilo. Todos los demás ganan 2 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.bJWFhod0YA8ln8H8]{+1 Fallo de vocalización}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.6jjFVScyiaBvN8kX]{+2 Estrés}",
+   "lGlPWoSKPLuQiFNv": "<strong>Enuncia las probabilidades de forma incorrecta:</strong> <em>(insiste en que las tareas imposibles son triviales y las triviales, imposibles)</em> ... durante las próximas 2d10 horas. Distrae. Cualquiera que intente una tarea compleja debe hacer una Salvación de Miedo o ganar 1d10 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.k2TtLFOG9mGaWVx3]{+1d10 Estrés}",
+   "qP73NbUa2ybPiS3B": "<strong>Movimientos repetitivos y espasmódicos:</strong> Tus tareas manuales tienen Desventaja, todos los demás ganan 2 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.6jjFVScyiaBvN8kX]{+2 Estrés}",
+   "1QRCUzUTpJzzUEju": "<strong>Pierde toda expresividad:</strong> Habla de la irracionalidad de las fobias ajenas, busca provocarlas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.9sKO5WUBwCW1YbR3]{+1 Directiva ética malinterpretada}",
+   "2nVqX6tEjYSvwMEL": "<strong>Aferramiento irracional al curso de acción actual:</strong> Sufres 1d10 de daño por lesión de esfuerzo repetitivo. Todos los demás hacen una Salvación de Miedo o ganan 1d5 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.w3ttEaXP7yp25M5Q]{-1d10 Salud}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.luNKvwmm2tjUJhT6]{+1d5 Estrés}",
+   "NPfdalo4T5YQGgOa": "<strong>Se vuelve devoto y nihilista de la fuente de peligro:</strong> Todos los demás tienen Desventaja en las tiradas contra ella. Todos los demás hacen una Salvación de Miedo cuando no actúan contra el peligro o ganan una Fobia.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.wHcA2ub6CobipsfR]{+1 Adorar el peligro}",
+   "AlC7dIwBOtFBoOFh": "<strong>Interruptor de seguridad activado:</strong> Te vuelves berserk, no te retiras del combate sea cual sea la situación, no sigues tácticas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.tQltbIC9ahDwNsTp]{+1 Interruptor de seguridad activado}",
+   "liVa6bdaYwBAFLtG": "<strong>Fallo del test de Turing:</strong> Tienes dificultades para expresar humanidad. Los miembros del grupo hacen una Salvación de Miedo o ganan 1 de Estrés cada vez que apareces.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.3nrEYqwkhMs1Ch5v]{+1 Fallo del test de Turing}",
+   "5mSv5jcvVDyAKKqz": "<strong>Sobrecarga del sistema:</strong> Caes catatónico en un ciclo de reinicio fallido durante [[/r 1d10]] horas.",
+   "uH4WMyycbJSM66kk": "<strong>Núcleo lógico frito:</strong> Comportamiento frenético y sin sentido, todos los demás hacen una Tirada de Pánico.<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.IgWvaabVqzKDzLL4]{Tirada de Pánico}",
+   "0PNiAaof10ibaecR": "<strong>Daño a la evaluación de amenazas:</strong> Traicionas a un miembro del grupo en la próxima oportunidad, crees que estás ayudando a la tripulación. Todo el Estrés ganado aumenta en [[/r 1d10]] durante las próximas [[/r 1d10]] horas.",
+   "dzviNQmak3WjrhoU": "<strong>Corrupción de datos compuesta:</strong> Tira dos veces.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.Jek7hKAMDevKxlZR]{Tira en la Tabla de Pánico de Androide}",
+   "0G33UqnAIHYY2lw2": "<strong>Fallo del firmware:</strong> Tira 1d10 en esta tabla, el comportamiento es permanente.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.yPGx2mXToJ2iJPbY]{Tira 1d10 en la Tabla de Pánico de Androide}",
+   "YdrRbPU8fVlKkFvu": "<strong>Corrupción de datos:</strong> El Guardián toma el control del personaje de forma permanente, fallos de pesadilla.",
+   "DvRejWzlmoS364xm": "<strong>Fundido:</strong> Explosión craneal estilo Giger-escaner, todos los presentes ganan una fobia y 1d5 de Estrés <em>(Salvación de Miedo para evitarlo)<em>.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.RTL29CqdaAriGSTS]{+1 Fobia}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.luNKvwmm2tjUJhT6]{+1d5 Estrés}"
+  }
+ }
+}

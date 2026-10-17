@@ -1,0 +1,28 @@
+{
+ "ypcoikqHLhnc9tNs": {
+  "name": "Tirada de Pánico (Estrés, Normal)",
+  "description": "<p>El Estrés, el daño y el desgaste emocional acaban llevando a los personajes a su punto de ruptura. Cuando eso ocurre, hay una posibilidad de que entren en Pánico. Lo determinas haciendo una <strong>Tirada de Pánico</strong>. Algunos resultados de la Tabla de Pánico son tan graves que te dejan una impresión duradera. Se llaman <strong>Condiciones</strong> y te afectan hasta que puedas tratarlas.</p>",
+  "results": {
+   "C3v1mSfDXIklIAUB": "<strong>SUBIDÓN DE ADRENALINA.</strong> [+] en todas las tiradas durante los próximos [[/r 2d10]] minutos. Reduce el Estrés en 1d5.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.AvKZE5IFubIaAIUy]{-1d5 Estrés}",
+   "U9WjdvVrVvGEWA9e": "<strong>NERVIOSO.</strong> Ganas 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}",
+   "qrw2SQ9MMwmmz5U1": "<strong>INQUIETO.</strong> Ganas 1 de Estrés. Todos los tripulantes Cercanos ganan 2 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.6jjFVScyiaBvN8kX]{+2 Estrés}",
+   "xfR9AtZFClqK4Tkk": "<strong>AGOBIADO.</strong> [-] en todas las tiradas durante los próximos [[/r 1d10]] minutos. Aumenta el Estrés Mínimo en 1.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Estrés Mínimo}",
+   "6O6QNEIIVFSTifl6": "<strong>COBARDE.</strong> Ganas una nueva <strong>Condición:</strong> Debes hacer una Salvación de Miedo para recurrir a la violencia; de lo contrario, huyes.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.b0jk4XwP7by8a3uc]{+1 Cobarde}",
+   "HclQqfxT8Q9NShBa": "<strong>ASUSTADO.</strong> Ganas una nueva <strong>Condición:</strong> Cuando te encuentres con lo que te asustó, haz una Salvación de Miedo [-] o ganas 1d5 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BEQvMZ5N7QOBqnId]{+1 Asustado}",
+   "j1jjGls1snJ3uCWS": "<strong>PESADILLAS.</strong> Ganas una nueva <strong>Condición:</strong> Dormir es difícil, ganas [-] en las Salvaciones de Descanso.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.AZbaGWu663wio9mI]{+1 Pesadillas}",
+   "qnBXWm15pc7Kn7bf": "<strong>PÉRDIDA DE CONFIANZA.</strong> Ganas una nueva <strong>Condición:</strong> Elige una Habilidad y pierde el bonificador de esa Habilidad.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.54Krt3opbJe1WATH]{+1 Pérdida de Confianza}",
+   "5YQKw63GB18XUYDp": "<strong>DESANIMADO.</strong> Ganas una nueva <strong>Condición:</strong> Siempre que un tripulante Cercano falle una Salvación, ganas 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.2aD5avpn35wdzdm5]{+1 Desanimado}",
+   "FpTmgA9FxG4W1x0a": "<strong>CONDENADO.</strong> Ganas una nueva <strong>Condición:</strong> Te sientes maldito y gafado. Todos los Éxitos Críticos son en su lugar Fallos Críticos.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.8IPhlAuMEQJC6zxA]{+1 Condenado}",
+   "6qInELrRmGGogpkW": "<strong>SUSPICAZ.</strong> Durante la próxima semana, siempre que alguien se una a la tripulación <em>(aunque solo se haya ido un rato),</em> haz una Salvación de Miedo o ganas 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.5K7wZEvEXjOH4IM7]{+1 Suspicaz}",
+   "SjCav3ZLlpQ9fyo3": "<strong>ATORMENTADO.</strong> Ganas una nueva <strong>Condición:</strong> Algo empieza a visitarte por la noche. En tus sueños. Por el rabillo del ojo. Y pronto empezará a hacer exigencias.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.Eo56QFyTeoCcFmD8]{+1 Atormentado}",
+   "2aJpNteB4MaFIbVn": "<strong>DESEO DE MUERTE.</strong> Durante las próximas 24 horas, siempre que te encuentres con un desconocido o un enemigo conocido, haz una Salvación de Cordura o atácalo de inmediato.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.Yh2CTFXfWMe9o2lv]{+1 Deseo de Muerte}",
+   "g6JDKtnXUFWlTPMV": "<strong>VISIÓN PROFÉTICA.</strong> Experimentas de inmediato una alucinación o visión intensa de un terror inminente o un suceso horripilante. Aumenta el Estrés Mínimo en 2.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.bFPoNLOGusT1ocqt]{+2 Estrés Mínimo}",
+   "wFbLrig0F2WSM6hM": "<strong>CATATÓNICO.</strong> Quedas insensible e inmóvil durante [[/r 2d10]] minutos. Reduce el Estrés en 1d10.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jHyqXb2yDFTNWxpy]{-1d10 Estrés}",
+   "mN1KTYh1TcDKLMjj": "<strong>IRA.</strong> [+] en todas las tiradas de Daño durante las próximas [[/r 1d10]] horas. Todos los tripulantes ganan 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}",
+   "fFp8wFcomRNUgtdP": "<strong>EN ESPIRAL.</strong> Ganas una nueva <strong>Condición:</strong> Las Tiradas de Pánico tienen [-].<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.3AjUWUSRvYy8Mwji]{+1 En Espiral}",
+   "RI06IV89j3Bxtxkz": "<strong>PROBLEMAS QUE SE ACUMULAN.</strong> Tira dos veces en esta tabla. Aumenta tu Estrés Mínimo en 1.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.2DnKZpyj03HvpeCy]{Tirar en la Tabla de Pánico}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Estrés Mínimo}",
+   "zJkYrssfrdWBSeRm": "<strong>ATAQUE AL CORAZÓN / CORTOCIRCUITO (ANDROIDES).</strong> Reduce las Heridas Máximas en 1. Ganas [-] en todas las tiradas durante [[/r 1d10]] horas. Aumenta tu Estrés Mínimo en 1.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.qD8Mvegkf3zVarFr]{-1 Herida Máxima}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Estrés Mínimo}",
+   "uluHEycHi6Ul2GMj": "<strong>RETÍRATE.</strong> Crea un personaje nuevo para jugar."
+  }
+ }
+}

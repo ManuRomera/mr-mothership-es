@@ -1,0 +1,50 @@
+{
+ "31YibfjueXuZdNLb": {
+  "name": "Herida por traumatismo contundente",
+  "description": "<p>Cuando sufras una herida por traumatismo contundente, tira en esta tabla para determinar el efecto. Las <strong>heridas superficiales</strong> son pequeños inconvenientes. Las <strong>lesiones leves/graves</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>lesiones letales</strong> pueden matarte si no se tratan de inmediato. Las <strong>lesiones fatales</strong> pueden matarte en el acto. Las heridas <strong>sangrantes</strong>, si no se tratan, pueden superarte rápidamente.</p>",
+  "results": {
+   "kGDBRdD9azQLJRDl": "<strong>Herida superficial:</strong> Derribado.",
+   "mYsLkuttsbN0PPzE": "<strong>Lesión leve:</strong> Sin aliento. [-] hasta que recuperes el aliento.",
+   "RnmOw1OvhVaYQsJV": "<strong>Lesión leve:</strong> Tobillo torcido. [-] en tiradas de Velocidad.",
+   "rCPAVwvuRI5PDapO": "<strong>Lesión leve:</strong> Conmoción cerebral. [-] en tareas mentales.",
+   "gYfGKit1I8vIlXas": "<strong>Lesión leve:</strong> Pierna o pie roto. [-] en tiradas de Velocidad.",
+   "Xvo8mQoXzQb18gms": "<strong>Lesión grave:</strong> Brazo o mano roto. [-] en tareas manuales.",
+   "AiacUbJlw1slbsW3": "<strong>Lesión grave:</strong> Clavícula rota. [-] en tiradas de Fuerza.",
+   "bxD3uLX6GcVG7kwG": "<strong>Lesión letal:</strong> Espalda rota. [-] en todas las tiradas. Salvación de Muerte en [[/r 1d10]] rondas.",
+   "5WHDRIu6o2xp1Vml": "<strong>Lesión letal:</strong> Cráneo agrietado. [-] en todas las tiradas. Salvación de Muerte en [[/r 1d10]] rondas.",
+   "NzrMxLpPo52Ayoq7": "<strong>Lesión fatal:</strong> Columna o cuello roto. Salvación de Muerte.<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.NsRHfRuuNGPfkYVf]{Salvación de Muerte}"
+  }
+ },
+ "ata3fRz3uoPfNCLh": {
+  "name": "Herida sangrante",
+  "description": "<p>Cuando sufras una herida sangrante, tira en esta tabla para determinar el efecto. Las <strong>heridas superficiales</strong> son pequeños inconvenientes. Las <strong>lesiones leves/graves</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>lesiones letales</strong> pueden matarte si no se tratan de inmediato. Las <strong>lesiones fatales</strong> pueden matarte en el acto. Las heridas <strong>sangrantes</strong>, si no se tratan, pueden superarte rápidamente.</p>",
+  "results": {
+   "58jsAYGMOoYV0aXe": "<strong>Herida superficial:</strong> Sueltas el objeto que sostienes.",
+   "qVUXginkyIDKa6fe": "<strong>Lesión leve:</strong> Mucha sangre. Los que estén Cerca ganan 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}",
+   "uvF7ftDjXr9excYX": "<strong>Lesión leve:</strong> Sangre en los ojos. [-] hasta que te la limpies.",
+   "5ED6Ynmibq9pKDEk": "<strong>Lesión leve:</strong> Laceración. Sangrado +1.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BH7tgbDVH6jdcZ4u]{+1 Sangrado}",
+   "hO9e9wmIsTXWfZns": "<strong>Lesión leve:</strong> Corte grave. Sangrado +2.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.IIVNXuhckFQfzXah]{+2 Sangrado}",
+   "8eTGRuBUdp9s2Z46": "<strong>Lesión grave:</strong> Dedos seccionados. Sangrado +3.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.LawygQJAPu8XEnSc]{+3 Sangrado}",
+   "FZ9GwrHFQJUmHQ7k": "<strong>Lesión grave:</strong> Mano o pie seccionado. Sangrado +4.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.QkCJK7Vmda5bGAA7]{+4 Sangrado}",
+   "kLAtlJUE9QfCX38s": "<strong>Lesión letal:</strong> Extremidad seccionada. Sangrado +5. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.CZ2gqnRHcOpCLlG0]{+5 Sangrado}",
+   "806d8NZZaysIHJvm": "<strong>Lesión letal:</strong> Arteria principal cortada. Sangrado +6. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.Tx19z2BhTY6onldp]{+6 Sangrado}",
+   "439gBR7gGeLatpfl": "<strong>Lesión fatal:</strong> Garganta cortada o corazón perforado. Salvación de Muerte.<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.NsRHfRuuNGPfkYVf]{Salvación de Muerte}"
+  }
+ },
+ "XjDU2xFOWEasaZK0": {
+  "name": "Herida por disparo",
+  "description": "<p>Cuando sufras una herida por disparo, tira en esta tabla para determinar el efecto. Las <strong>heridas superficiales</strong> son pequeños inconvenientes. Las <strong>lesiones leves/graves</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>lesiones letales</strong> pueden matarte si no se tratan de inmediato. Las <strong>lesiones fatales</strong> pueden matarte en el acto. Las heridas <strong>sangrantes</strong>, si no se tratan, pueden superarte rápidamente.</p>",
+  "results": {
+   "LubF6RyYnl11EmUj": "<strong>Herida superficial:</strong> Rozado. Derribado.",
+   "EFQBqcegsqHQ4Jih": "<strong>Lesión leve:</strong> Sangrado +1.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BH7tgbDVH6jdcZ4u]{+1 Sangrado}",
+   "tNz8bKJY9cDDQmQ6": "<strong>Lesión leve:</strong> Costilla rota.",
+   "YwdH5Q7uuxu78jQp": "<strong>Lesión leve:</strong> Extremidad fracturada.",
+   "kOw2Sk8NgE5zWvGz": "<strong>Lesión leve:</strong> Hemorragia interna. Sangrado +2.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.IIVNXuhckFQfzXah]{+2 Sangrado}",
+   "1EEfUVqLk1vcvmBl": "<strong>Lesión grave:</strong> Bala alojada. Requiere cirugía.",
+   "4si8KPgRXJSi2R94": "<strong>Lesión grave:</strong> Herida por disparo en el cuello.",
+   "wbmBeO70jbk5cNAi": "<strong>Lesión letal:</strong> Pérdida masiva de sangre. Sangrado +4. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.QkCJK7Vmda5bGAA7]{+4 Sangrado}",
+   "SXF0bbAqIyqvPvb9": "<strong>Lesión letal:</strong> Herida torácica abierta. Sangrado +5. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.CZ2gqnRHcOpCLlG0]{+5 Sangrado}",
+   "8rlgfH4GJ8H0LHhL": "<strong>Lesión fatal:</strong> Disparo en la cabeza. Salvación de Muerte.<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.NsRHfRuuNGPfkYVf]{Salvación de Muerte}"
+  }
+ }
+}

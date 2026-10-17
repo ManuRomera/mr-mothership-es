@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MR- Mothership en español</title>
+<meta name="description" content="Traducción completa al español de España del sistema MoSh (Unofficial Mothership) para Foundry VTT: interfaz, hojas, chat y compendios.">
+<style>
+:root { --bg:#09181e; --panel:#0f2a31; --ink:#e6eeee; --mut:#8fa9ab; --amb:#e0913a; --teal:#57d8c8; }
+@media (prefers-color-scheme: light) { :root { --bg:#f5f2ea; --panel:#fff; --ink:#15262a; --mut:#5d7174; --amb:#b0600f; --teal:#0f6a64; } }
+* { box-sizing:border-box; } body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.55 'Iowan Old Style',Charter,Georgia,serif; }
+.hero { min-height:78vh; display:grid; align-content:end; padding:8vh 6vw 7vh; background:linear-gradient(0deg,var(--bg) 0%,rgba(9,24,30,.2) 55%,rgba(9,24,30,.6) 100%),url(img/banner.webp) center/cover; }
+.hero small { font:600 .8rem 'Avenir Next Condensed','Arial Narrow',sans-serif; letter-spacing:.3em; text-transform:uppercase; color:var(--amb); }
+.hero h1 { margin:.2em 0; font:700 clamp(2.8rem,9vw,6.5rem)/.92 'Avenir Next Condensed','Arial Narrow',sans-serif; text-transform:uppercase; color:#fff; }
+.hero h1 span { color:var(--amb); display:block; } .hero p { max-width:36em; font-size:1.2rem; color:#dfe9e9; }
+.btns { display:flex; flex-wrap:wrap; gap:.8rem; margin-top:1.2rem; }
+a.b { display:inline-block; padding:.8rem 1.3rem; border:1px solid var(--amb); color:var(--amb); text-decoration:none; font:600 .85rem 'Avenir Next',Arial,sans-serif; letter-spacing:.12em; text-transform:uppercase; }
+a.b.p { background:var(--amb); color:#09181e; } a.b:focus-visible, a.b:hover { outline:2px solid var(--teal); outline-offset:2px; }
+main { max-width:60rem; margin:0 auto; padding:4rem 6vw; } h2 { font:700 1.7rem 'Avenir Next Condensed','Arial Narrow',sans-serif; text-transform:uppercase; letter-spacing:.04em; color:var(--amb); border-top:1px solid var(--mut); padding-top:.8rem; margin-top:3rem; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)); gap:1rem; } .card { background:var(--panel); padding:1rem 1.2rem; border-top:3px solid var(--amb); font-family:'Avenir Next',Arial,sans-serif; font-size:.95rem; } .card b { display:block; color:var(--teal); font-size:.75rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:.3rem; }
+code { background:var(--panel); padding:.7rem 1rem; display:block; overflow-x:auto; font:.85rem Menlo,monospace; color:var(--teal); }
+footer { text-align:center; padding:3rem 1rem; color:var(--mut); font:.8rem 'Avenir Next',Arial,sans-serif; }
+</style>
+</head>
+<body>
+<header class="hero">
+  <small>Traducción no oficial · Foundry VTT v13</small>
+  <h1>Mothership<span>en español</span></h1>
+  <p>El sistema MoSh de Foundry, completo en español de España: interfaz, hojas, diálogos, mensajes de chat y los compendios de las ediciones 0e y 1e.</p>
+  <div class="btns">
+    <a class="b p" href="https://github.com/ManuRomera/mr-mothership-es/releases/latest">Última versión</a>
+    <a class="b" href="https://github.com/ManuRomera/mr-mothership-es">Repositorio</a>
+  </div>
+</header>
+<main>
+  <h2>Qué traduce</h2>
+  <div class="grid">
+    <div class="card"><b>Interfaz</b>Más de 640 cadenas del sistema: hojas de personaje, criatura y nave, ajustes y avisos.</div>
+    <div class="card"><b>Textos fijos</b>Diálogos, botones y mensajes que el sistema escribe en inglés dentro del código.</div>
+    <div class="card"><b>Compendios</b>Condiciones, averías, tablas y macros de 0e y 1e, con Babele; no se tocan los datos originales.</div>
+    <div class="card"><b>Glosario</b>Guardián, Cordura, Miedo, Cuerpo, Estrés, Determinación… coherente en todo el sistema.</div>
+  </div>
+  <h2>Instalar en Foundry</h2>
+  <p>Necesitas el sistema <i>MoSh – Unofficial Mothership</i> y el módulo <b>Babele</b>. En <b>Add-on Modules → Install Module → Manifest URL</b>:</p>
+  <code>https://github.com/ManuRomera/mr-mothership-es/releases/latest/download/module.json</code>
+  <p>Activa el módulo en tu mundo Mothership y pon Foundry en <b>Español</b> (Configuración → Idioma).</p>
+</main>
+<footer>MIT · © Manu Romera · Obra independiente y no oficial. Mothership es marca de Tuesday Knight Games.</footer>
+</body>
+</html>

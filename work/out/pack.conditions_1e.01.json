@@ -1,0 +1,94 @@
+{
+ "gSTHeVqpynRxoQEy": {
+  "name": "Irradiado",
+  "description": "<p>Ya sea por rayos cósmicos, una fuga del motor o algún mineral de asteroide nunca antes descubierto, la radiación puede matarte si no tienes cuidado.<br><br><ul><li><strong>Nivel 1 - Radiación residual</strong><br>Radiación normal y cotidiana, rayos cósmicos. Daño: Ninguno de inmediato. Posibles efectos secundarios a largo plazo <em>(cáncer, etc.).</em></li><li><strong>Nivel 2 - Radiación aguda</strong><br>Reactores/núcleos de warp sin blindaje. Daño: Reduce todas las Características y Salvaciones en 1 cada asalto.</li><li><strong>Nivel 3 - Radiación letal</strong><br>Armas atómicas, manipulación directa de núcleos de warp. Daño: Cada asalto: Salvación de Cuerpo o dosis letal <em>(muerte en [[/r 1d5]] días).</em></li></ul><br>La armadura con <strong>Blindaje contra radiación</strong> <em>(p. ej., el Traje de peligro).</em> bloquea los tres niveles de radiación.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.V1PPeCwryXNQAkUe]{-1 All Stats/Saves}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Body Save}</p>"
+ },
+ "g6CuxCqbyRnNa57N": {
+  "name": "Interruptor de seguridad activado",
+  "description": "<p>Enloquece, no se retirará del combate independientemente de la situación, no seguirá tácticas.</p>"
+ },
+ "kNjz3I0yAYkt9CV0": {
+  "name": "Perdiendo el control",
+  "description": "<p>Siempre que hagas una salvación de Cordura, tira por debajo de tu Cordura o tu Calma, la que sea más baja.</p>"
+ },
+ "kbbVOYgjwzoODs7N": {
+  "name": "Pérdida de confianza",
+  "description": "<p>Elige una Habilidad y pierde el bonificador de esa Habilidad.</p>"
+ },
+ "MLPSYfWrwY6R7JDy": {
+  "name": "Pesadillas",
+  "description": "<p>Dormir es difícil, obtienes [-] en las Salvaciones de descanso.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.AM9nIK5l7mC5Ho8C]{Rest Save [-]}</p>"
+ },
+ "EW7X6FfetwxmZDzf": {
+  "name": "Preso del pánico",
+  "description": "<p>Siempre que hagas una salvación de Miedo, tira por debajo de tu Miedo o tu Calma, la que sea más baja.</p>"
+ },
+ "NuzL7Yi7PvUOeWsj": {
+  "name": "Fobia",
+  "description": "<p>Obtienes una nueva fobia permanente. Siempre que te enfrentes a esta fobia, haz una Salvación de Miedo con Desventaja.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.wVhApjRP5MXue2kh]{Fear Save [-]}</p>"
+ },
+ "og4lXN03vH5pwSDC": {
+  "name": "Episodios psicóticos",
+  "description": "<p>Una vez por sesión, el Guardián puede controlar tu personaje durante un asalto.</p>"
+ },
+ "lXoBqGW2eCK0b1tX": {
+  "name": "Descontrol",
+  "description": "<p>Una vez por sesión, el Guardián puede controlar tu personaje durante un asalto. Estos episodios duplican su duración <em>(o pasan a ser el doble de frecuentes)</em> cada sesión.</p>"
+ },
+ "S2kZpUl3nNPS4wNS": {
+  "name": "Pesadillas recurrentes",
+  "description": "<p>Cada vez que descanses, haz una salvación de Miedo. Si fallas, pierdes 1d10 de Calma y no recuperas salud. El Guardián describirá tu pesadilla.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jHyqXb2yDFTNWxpy]{-1d10 Calm}</p>"
+ },
+ "CPRLqpW9inXDLYjS": {
+  "name": "Ansiedad grave",
+  "description": "<p>Pierdes el doble de Calma de todas las fuentes.</p>"
+ },
+ "hskhRKLEAJN7huAk": {
+  "name": "Ansiedad social",
+  "description": "<p>Pierdes 1d10 de Calma siempre que converses con alguien nuevo.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jHyqXb2yDFTNWxpy]{-1d10 Calm}</p>"
+ },
+ "dA6COSDLbpmKdOkm": {
+  "name": "Software inflado",
+  "description": "<p>Pierdes el doble de Calma de todas las fuentes.</p>"
+ },
+ "Bt2rl2c5jGyt3QAr": {
+  "name": "Desmoronamiento",
+  "description": "<p>Las Tiradas de Pánico son con [-].<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.EwZbGIwHB3JuRvx5]{Panic Check [-]}</p>"
+ },
+ "6zDq1nvEr3AYLcLn": {
+  "name": "Inanición",
+  "description": "<p>Los humanos pueden sobrevivir aproximadamente 3 semanas sin comida. <strong>Tras 24 horas sin comida, tienes Desventaja en todas las tiradas.</strong><br><br>Para el mínimo vital de supervivencia necesitas 1 litro de agua al día. Sin embargo, a este nivel, cualquier actividad extenuante <em>(p. ej., correr, combatir, hacer reparaciones mecánicas)</em> te obliga a hacer una Salvación de Cuerpo o desmayarte. <strong>Cuando el agua es escasa y la estás controlando tan de cerca, tienes Desventaja en todas las tiradas.</strong><br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Body Save}</p>"
+ },
+ "VCgpc7OwyMU23Clv": {
+  "name": "Asfixia",
+  "description": "<p>En el espacio puedes aguantar 15 segundos sin oxígeno antes de perder el conocimiento. Tras desmayarte, puedes sobrevivir [[/r 1d5]] minutos antes de morir.<br><br>Si todo el sistema de soporte vital de una nave se apaga, tira [[/r 1d10]] y multiplícalo por la capacidad máxima de tripulación. Ese es el suministro de oxígeno restante.<br><br><strong>Cada 24 horas, resta el número total de tripulantes que respiran del suministro de oxígeno restante.</strong> Cualquier tripulante que realice actividad extenuante <em>(p. ej., correr, combatir, reparaciones mecánicas, etc.)</em> reduce además el suministro de oxígeno en 2 cada uno.<br><br><strong>Siempre que el suministro de oxígeno sea inferior al doble de la cantidad de pasajeros que respiran,</strong> todas las tiradas tienen Desventaja, ya que la tripulación sufre dolores de cabeza, fatiga, ansiedad y torpeza general.<br><br><strong>Siempre que el suministro de oxígeno sea inferior a la cantidad total de pasajeros que respiran,</strong> cada pasajero que respira debe hacer una Salvación de Cuerpo o, de lo contrario, hacer una <strong>Salvación de Muerte</strong> mientras sufre jadeos, mareos, dolores de cabeza intensos, visión borrosa y tinnitus.<br><br><strong>Una vez que se agota el suministro de oxígeno,</strong> puedes sobrevivir 15 segundos antes de perder el conocimiento. Tras perder el conocimiento, <strong>puedes sobrevivir [[/r 1d5]] minutos sin oxígeno antes de morir.</strong><br><br>Los androides no consumen oxígeno del suministro. Quienes están en criosueño no reducen el suministro de Oxígeno.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Body Save}<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.NsRHfRuuNGPfkYVf]{Death Save}</p>"
+ },
+ "8lOkseRbg09YFvv7": {
+  "name": "Receloso",
+  "description": "<p>Durante la próxima semana, siempre que alguien se una a la tripulación <em>(aunque solo se haya ausentado un breve periodo de tiempo),</em> haz una Salvación de Miedo o gana 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Fear Save}</p>"
+ },
+ "d3KlY4zMdD1j3CTW": {
+  "name": "Temblor",
+  "description": "<p>Ya no puedes mantener las manos firmes. Desventaja en ataques a distancia y en todas las tareas que requieran motricidad fina. Las drogas podrían ayudar con esto.</p>"
+ },
+ "HZBI88iwvtQVWKOR": {
+  "name": "Fallo de evaluación de amenazas",
+  "description": "<p>Pierdes la capacidad de distinguir amigos de enemigos, tratando a todas las entidades vagamente humanoideas como tratarías a los miembros de tu tripulación.</p>"
+ },
+ "TCB5GnuGt45WbPsw": {
+  "name": "Atmósfera tóxica",
+  "description": "<p>Los planetas con atmósferas tóxicas requieren equipo especial para explorarlos; de lo contrario, existe el riesgo de sufrir daños o incluso la muerte.<br><br>La atmósfera del planeta no es apta para respirar, pero por lo demás es segura. Se requiere un respirador o una armadura con su propio suministro de oxígeno. Sin ellos, <strong>los personajes sufren 1d10 de daño por asalto, Salvación de Cuerpo para la mitad.</strong><br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Body Save}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.w3ttEaXP7yp25M5Q]{-1d10 Health}</p>"
+ },
+ "a87x3Hk72ymOx5rf": {
+  "name": "Fallo del test de Turing",
+  "description": "<p>Tienes dificultades para expresar humanidad. Los miembros del grupo hacen una Salvación de Miedo siempre que apareces.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Fear Save}</p>"
+ },
+ "kiJyYYxzy5TdjTfS": {
+  "name": "Nervioso",
+  "description": "<p>Tus tareas manuales tienen Desventaja.</p>"
+ },
+ "ZO4f9gvaiVSKDmRC": {
+  "name": "Fallo de vocalización",
+  "description": "<p>Chilla de forma intermitente como una máquina de fax bajo presión. Recae en el código morse, no puede comunicarse ni moverse sigilosamente.</p>"
+ }
+}

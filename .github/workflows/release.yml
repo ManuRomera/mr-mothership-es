@@ -1,0 +1,41 @@
+name: Publicar
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Comprobar versión y JSON
+        run: |
+          V=$(jq -r .version module.json)
+          [ "v$V" = "${GITHUB_REF_NAME}" ] || [ "${GITHUB_EVENT_NAME}" = workflow_dispatch ] || { echo "la etiqueta no coincide con module.json ($V)"; exit 1; }
+          for f in module.json lang/*.json compendium/*.json; do jq empty "$f"; done
+      - name: Empaquetar
+        run: |
+          mkdir -p dist
+          zip -r dist/mr-mothership-es.zip module.json scripts lang compendium LICENSE NOTICE.md README.md
+          unzip -l dist/mr-mothership-es.zip | grep -q compendium/mosh.rolltables_1e.json
+          unzip -l dist/mr-mothership-es.zip | grep -q lang/literales.json
+      - name: Notas
+        run: |
+          V=$(jq -r .version module.json)
+          awk -v v="$V" '$0 ~ "^## "v" " {f=1; next} /^## / {f=0} f' CHANGELOG.md > notes.md
+          [ -s notes.md ] || echo "MR- Mothership en español v$V" > notes.md
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V=$(jq -r .version module.json); TAG="v$V"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" dist/mr-mothership-es.zip module.json --clobber
+            gh release edit "$TAG" --notes-file notes.md
+          else
+            gh release create "$TAG" dist/mr-mothership-es.zip module.json --title "MR- Mothership en español v$V" --notes-file notes.md
+          fi

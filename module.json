@@ -1,0 +1,55 @@
+{
+  "id": "mr-mothership-es",
+  "title": "MR- Mothership en español",
+  "description": "Traducción completa al español de España del sistema MoSh (Unofficial Mothership): interfaz, hojas, diálogos, mensajes de chat y todos los compendios (condiciones, averías, macros y tablas de 0e y 1e).",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Manu Romera",
+      "url": "https://github.com/ManuRomera"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "mosh",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.6.1"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.7.5"
+        },
+        "reason": "Aplica la traducción a los compendios del sistema sin modificar sus datos originales."
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/mr-mothership-es.js"
+  ],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "system": "mosh"
+    }
+  ],
+  "url": "https://github.com/ManuRomera/mr-mothership-es",
+  "manifest": "https://github.com/ManuRomera/mr-mothership-es/releases/latest/download/module.json",
+  "download": "https://github.com/ManuRomera/mr-mothership-es/releases/latest/download/mr-mothership-es.zip",
+  "bugs": "https://github.com/ManuRomera/mr-mothership-es/issues",
+  "readme": "https://github.com/ManuRomera/mr-mothership-es#readme",
+  "changelog": "https://github.com/ManuRomera/mr-mothership-es/blob/main/CHANGELOG.md",
+  "license": "MIT"
+}

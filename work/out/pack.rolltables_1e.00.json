@@ -1,0 +1,22 @@
+{
+ "BsfdIl7CJNs1PViS": {
+  "name": "Salvación de bancarrota",
+  "description": "<p>Como propietario de esta operación, haz una Salvación de bancarrota para determinar la salud financiera de la compañía.</p>",
+  "results": {
+   "PmxxNHaOwjUgXDuj": "Obtienes un pequeño beneficio. Elige una:<br><ul><li>Compra 1 mejora mayor para la nave.</li><li>Repara 1d5 reparaciones mayores.</li><li>Paga 1d5x100kcr a cada miembro de la tripulación.</li><li>Aumenta tu Salvación de bancarrota en 1d10.</li></ul>",
+   "u9hjcZZUKwuho0Qx": "Sales adelante a duras penas. Elige una:<br><ul><li>Compra 1 mejora menor para la nave.</li><li>Compra 1 reparación menor para la nave.</li><li>Paga 2d10 de salario a cada miembro de la tripulación.</li><li>Aumenta tu Salvación de bancarrota en 1d5.</li></ul>",
+   "9kfZTUWCaEDUgYRh": "Debes 1d10mcr a prestamistas despiadados.",
+   "tRv3vRvOVTteMz5Y": "La compañía quiebra y debe una deuda enorme a las peores personas imaginables."
+  }
+ },
+ "W36WFIpCfMknKgHy": {
+  "name": "Salvación de muerte",
+  "description": "<p>Tu personaje queda incapacitado cuando recibes una herida fatal, o cuando tus Heridas actuales igualan tus Heridas máximas. En cuanto alguien dedique un turno a comprobar tus constantes vitales, haz una <strong>Salvación de muerte</strong> para revelar tu destino. Si tu muerte parece inminente, haz que tus últimos momentos cuenten: salva la vida de alguien, resuelve un misterio importante o da a los demás tiempo para escapar.</p>",
+  "results": {
+   "4TFF3HjlrKsOCyT5": "<strong>Estás inconsciente.</strong> Despiertas en [[/r 2d10]] minutos. Reduce tu Salud máx. en 1d5.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.yYujq1tBZPqGrQlh]{-1d5 Salud máx.}",
+   "C0ht8FBreWQjhNi7": "<strong>Estás inconsciente y moribundo.</strong> Mueres en [[/r 1d5]] rondas sin intervención.",
+   "WTOIWYApDTqwAHu6": "<strong>Estás en coma.</strong> Solo medidas extraordinarias pueden devolverte al mundo de los despiertos.",
+   "ygaJ1Gc5LuuXbJZq": "<strong>Has muerto.</strong> Crea un personaje nuevo."
+  }
+ }
+}

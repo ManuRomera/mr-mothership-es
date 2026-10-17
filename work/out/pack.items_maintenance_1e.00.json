@@ -1,0 +1,310 @@
+{
+ "ciAkQXkxSXTG8MV1": {
+  "name": "Un olor rancio impregna las cabinas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "pLleYaFjcIuAm4Pp": {
+  "name": "Un desastre enorme por todas partes.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "dReCCsfiV7it4lsm": {
+  "name": "Comunicaciones con estática.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "4JRD71mvWNtFUDL7": {
+  "name": "Sistema eléctrico defectuoso.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "59cXdcrZlmjUcJpV": {
+  "name": "Acoplamientos sueltos.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "CLvIvoNryBARtU7T": {
+  "name": "Contrabando oculto (totalmente ilegal).",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "vip6FxWcX4ReJD3b": {
+  "name": "Sistemas de piloto automático fuera de servicio.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "AQt9nXy6S0Ev50r7": {
+  "name": "Sistemas hidráulicos con fugas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "QUyfvbFhCqb9d7Lu": {
+  "name": "Casco que cruje.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "SW5kVSjiFbBxIeiu": {
+  "name": "Mamparos dañados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "wNm669fzbdZGwr0g": {
+  "name": "Abrazaderas de atraque desalineadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "3l0LUZpjizvZmHWs": {
+  "name": "Portillas bloqueadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "c8SXxPHMsG7uycas": {
+  "name": "Esclusas exteriores atascadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "9kS8VjGuSMpghdCk": {
+  "name": "Placas de gravedad disfuncionales.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "Low2X1z7m1iB3rkA": {
+  "name": "Incumplimiento de la normativa.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "BicB3xA1h978ZevJ": {
+  "name": "Los controles se atascan.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "C9dQYp7gcjtq5QRz": {
+  "name": "Fuga de refrigerante.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "1HNvL7XEUcMQbLps": {
+  "name": "Sistema de cardán de propulsores descalibrado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "xa9MPzfrPglkSJjg": {
+  "name": "Un sinfín de infracciones de OSHA.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "ZbAFemnvHB1YTHBK": {
+  "name": "Respiraderos de aire bloqueados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "wjyAZnOOafvv4xzB": {
+  "name": "Solo iluminación de emergencia.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "l1OGQ0IXZHjnO4Ys": {
+  "name": "Problemas de red interna.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "vleMoz5bbkZ5w28o": {
+  "name": "Recopilación de datos imprecisa.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "T4wAR08WyT3g9C6D": {
+  "name": "Fuga de oxígeno. Si a la nave le queda poco O₂, pierde 1d5 extra al día.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.u7TchSo3qutnzaKF]{-1d5 Oxígeno}",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "fbrN7sbgPjIwkk7I": {
+  "name": "Postquemadores limitados. -2d10 Propulsores.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jmOh8n2ps0YIeBC0]{-2d10 Propulsores}",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "7GqbGIOzA9vYOPiI": {
+  "name": "Un cacharro. Tiradas de mantenimiento con [-].<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.C04VbNoj8LgfY8QK]{Tirada de mantenimiento [-]}",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "dgisAPnBbrIOiisk": {
+  "name": "Aceleración lenta. +1 semana de viaje.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "d94uF9rpmeP60Kl4": {
+  "name": "Navegación imprecisa.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "3Ptitg8HBZfl2CXN": {
+  "name": "Sensores de puntería descalibrados. -1d10 Batalla.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3cL9eS2HOPxhLH5]{-1d10 Batalla}",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "mK1Acfk5NAgs1MHC": {
+  "name": "Criocápsulas defectuosas. Pesadillas. El mal de criosueño dura una semana más.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "IR1sWnYXniMg9TdP": {
+  "name": "Cápsulas de escape averiadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "FIqSHePAeLJywerx": {
+  "name": "Imposible enviar señales de socorro.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "4kmMuAbW1jnfVMYP": {
+  "name": "Sistema de refrigerante saboteado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "ALplRgZtneMRdloo": {
+  "name": "Una trampa mortal. [-] en todas las tiradas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "2pxf4O2NrLdwYRtO": {
+  "name": "Patas de aterrizaje desgastadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "64AQJ3zQDOb7NOR1": {
+  "name": "Filtros de aire desactualizados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "PKBXKvgWZwafKWJ3": {
+  "name": "Tuberías corroídas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "NgKPVhRkD8Gteo5Z": {
+  "name": "Navegación de transferencia orbital imprecisa.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "5d220ZzrEV3qx6Fy": {
+  "name": "Inyectores de combustible desgastados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "IGx8nQrwfz07r6TR": {
+  "name": "Sistema de iluminación exterior inoperativo.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "pW1FUDxp2N0M0D1y": {
+  "name": "Sistema de intercomunicación defectuoso.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "UPAxtEOrSF3Il4uA": {
+  "name": "Reciclaje de residuos inadecuado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "m04JdXL1xGQOkDyp": {
+  "name": "Propulsores de control de altitud defectuosos.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "OWkfB73RTSLDMlsU": {
+  "name": "Redundancia insuficiente del sistema de soporte vital.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "hNJYqetiMKUlZzYH": {
+  "name": "Repetidores de comunicaciones con retardo.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "rlW0LUlsK7vDGZEh": {
+  "name": "Conductos de combustible dañados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "IDiwAbD8DTbec7S1": {
+  "name": "Colectores de escape corroídos.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "EteEoBrlnzcySppN": {
+  "name": "Pantallas de terminal no funcionales.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "guvCGNRa75AB2Avg": {
+  "name": "La luz de revisión del motor no se apaga.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "cbXMdd4ugxSOT5TU": {
+  "name": "Sistemas de respaldo averiados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "kftgvuQoefQ7pl28": {
+  "name": "Cerraduras defectuosas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "Odpb5coSTST7kCkc": {
+  "name": "Comunicaciones con errores.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "vMRVXZxu6ozj0iw2": {
+  "name": "Almacenes de comida infectados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "4Lqg0lqjjTlNlr0j": {
+  "name": "Bancos de datos corruptos.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "Ka8elMGKtcakUIxx": {
+  "name": "Puertas de la bodega de carga atascadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "TAerNMqv19pANCxq": {
+  "name": "Luces interiores parpadeantes.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "vv1VykTwiQmgEj6N": {
+  "name": "Juntas de esclusa averiadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "GW1KGmYdxYYf4ZWT": {
+  "name": "Fuga de combustible. Consume +1 de combustible cada vez que gastas combustible.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "FLaPtHcegheN7wHw": {
+  "name": "Fallo de salto. 10% de probabilidad de que el Salto dure 2d10 meses en lugar de 2d10 días.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "g9Z7He5zPHNrxYe1": {
+  "name": "Frágil. Siempre recibes +1 MDMG.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "IiPryFS9MOGZXeuG": {
+  "name": "Escudos térmicos agrietados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "FmPqHYH3UoGpaWYL": {
+  "name": "Software desactualizado. -1d10 Sistemas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.oDftFxRKkCQRNY2O]{-1d10 Sistemas}",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "NLwybTzXJ1bndki3": {
+  "name": "Filtración de agua inadecuada. Parásitos en el suministro de agua.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "oySXnFIbRW0WRoeF": {
+  "name": "Sistema de gestión de residuos averiado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "RiHvRQ9nZDygwvvB": {
+  "name": "Reactores de fusión sobrecalentados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "wCYGQrI9qonhWy8F": {
+  "name": "Filtro de radiación averiado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "5J4r3yw4xDj890yZ": {
+  "name": "Fuga de radiación. Toda la nave está en Nivel de radiación 2.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "XmIcQgho4un7hYki": {
+  "name": "Sistema de guiado descalibrado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "KhlrUaPjVIoyhnaL": {
+  "name": "Almacenamiento de energía sobrecargado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "LRumIQdUBzD0Jc0X": {
+  "name": "Matrices de sensores averiadas.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "e144cIdUEyTJgN1G": {
+  "name": "Sistema de recuperación de agua averiado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "b2b3j5JtanbyWlNd": {
+  "name": "Daño en el casco por micrometeoritos.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "5OBjTojgrp5N9mEw": {
+  "name": "Conjunto de eliminación de dióxido de carbono defectuoso.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "8s1eBY5bEcQQTCz0": {
+  "name": "Degradación de los paneles solares.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "5UiJy739gvGHkRYp": {
+  "name": "Fallo informático por radiación cósmica.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "yJY9CzP1KA15aMqV": {
+  "name": "Circuitos sobrecargados.",
+  "description": "<p>Avería de mantenimiento</p>"
+ },
+ "nHac0gkEcCNew7RX": {
+  "name": "Propulsor de plasma averiado.",
+  "description": "<p>Avería de mantenimiento</p>"
+ }
+}

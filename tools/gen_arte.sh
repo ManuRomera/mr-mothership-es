@@ -1,0 +1,5 @@
+#!/bin/bash
+# Arte del banner con Codex (modelo económico). Sin texto en la imagen: el título se superpone por código.
+cd "$(dirname "$0")/.."
+codex exec -m gpt-5.6-luna -c 'model_reasoning_effort="low"' --skip-git-repo-check -s workspace-write \
+"Usa tu herramienta de generación de imágenes para crear UNA sola imagen panorámica de 1792x768 sin ningún texto ni letras. Escena: el interior de la cabina de una nave comercial de carga de ciencia ficción retro-futurista (estética Alien de 1979 / Mothership RPG), monitores CRT verdes y ámbar con interfaz de datos abstracta, cableado grueso, luz tenue y humo, y al fondo por la ventana una nave remolcador enorme sobre un planeta helado. Paleta: negro azulado, verde fósforo y ámbar apagado. Atmósfera de terror industrial y soledad; deja el tercio izquierdo más oscuro y despejado. Después copia EL PNG QUE TU HERRAMIENTA ACABA DE DEVOLVER EN ESTA SESIÓN (ruta exacta; nunca el archivo más reciente de una carpeta) a art_src/banner_raw.png y responde solo con esa ruta." < /dev/null

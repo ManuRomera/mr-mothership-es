@@ -1,0 +1,20 @@
+{
+ "c6da1f3916": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Armadura:</strong> Resistencia al daño sufrido durante el combate, ya sean balas, garras, dientes, etc.\n            </span>",
+ "585ee8b80e": "Tienes cuatro Características que representan tu capacidad para actuar bajo una presión extrema. Cuando quieras hacer algo y el precio del fracaso sea alto, haz una tirada de característica. <strong>Si sacas menos que tu Característica, tienes éxito. De lo contrario, fallas y ganas 1 Estrés.</strong> Una tirada de 90-99 siempre es un fracaso. Un Fracaso Crítico significa que ocurre algo malo y, además, debes hacer una Tirada de Pánico.",
+ "9de0b8c911": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Fuerza:</strong> Mantener cerradas las esclusas, transportar a camaradas caídos, escalar, empujar, saltar.\n            </span>",
+ "e64f7cd392": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Velocidad:</strong> Salir de la bodega de carga antes de que se cierren las puertas blindadas, actuar antes que otra persona <em>(o cosa)</em>, huir.\n            </span>",
+ "2af8f154dc": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Intelecto:</strong> Recordar tu formación y experiencia bajo presión, resolver problemas difíciles, inventar o arreglar cosas.\n            </span>",
+ "5e7bb913a5": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Combate:</strong> Luchar por tu vida.\n            </span>",
+ "4f5e3a9062": "Tu personaje queda incapacitado cuando recibe una herida mortal o cuando sus Heridas actuales igualan sus Heridas máximas. En cuanto alguien emplee un turno en comprobar tus constantes vitales, haz una <strong>Salvación de Muerte</strong> para descubrir tu destino. Si tu muerte parece inminente, haz que tus últimos momentos cuenten: salva la vida de alguien, resuelve un misterio importante o da tiempo a los demás para escapar.",
+ "132bf2c647": "En ocasiones, ciertos momentos, lugares o acontecimientos pueden <strong>calmarte automáticamente.</strong> Escapar de situaciones peligrosas, encontrar un lugar sereno o vivir un momento conmovedor con un ser querido puede tener un impacto significativo en tu estado de ánimo y tu perspectiva de la vida. Si tu Calma se acerca a 0, deberías plantearte hacer una <strong>Salvación de Descanso</strong>, ya que los efectos de una <strong>Tirada de Pánico</strong> fallida pueden ser devastadores.",
+ "c151c587d0": "Haz una <strong>Tirada de Herida</strong> según el tipo de daño recibido.",
+ "5336cf5e58": "Las <strong>Heridas superficiales</strong> son pequeños inconvenientes.",
+ "ed6a32676f": "Las <strong>Heridas leves/graves</strong> provocan problemas persistentes que requieren tratamiento.",
+ "5cef749a9e": "Las <strong>Heridas letales</strong> pueden matarte si no se tratan de inmediato.",
+ "1c74c140db": "Las <strong>Heridas mortales</strong> pueden matarte al instante.",
+ "56aefa8855": "Las heridas con <strong>Sangrado</strong>, si no se tratan, pueden dejarte rápidamente fuera de combate.",
+ "aa091c666a": "<span style=\"display: table-cell; vertical-align: middle;\">\n                <strong>Traumatismo contundente:</strong> Recibir un puñetazo, un golpe con una palanca o un objeto arrojado, caer, etc.\n              </span>",
+ "ffe14ac47d": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Sangrado:</strong> Recibir una puñalada o un corte.\n            </span>",
+ "4b038bf1f1": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Disparo:</strong> Recibir un disparo de un arma de fuego.\n            </span>",
+ "3479d5fd5f": "<span style=\"display: table-cell; vertical-align: middle;\">\n              <strong>Fuego y explosivos:</strong> Granadas, lanzallamas, ser rociado con combustible y prendido fuego, etc.\n            </span>"
+}

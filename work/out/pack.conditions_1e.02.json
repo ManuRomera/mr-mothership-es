@@ -1,0 +1,10 @@
+{
+ "LDoAzwiELtLjgxrf": {
+  "name": "Adoración al Peligro",
+  "description": "<p>Se convierte en un adorador nihilista de la fuente del peligro. Todos los demás tienen Desventaja en las tiradas contra ello. Todos los demás hacen una Salvación de Miedo cuando no actúan contra el peligro o ganan una Fobia.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Salvación de Miedo}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.RTL29CqdaAriGSTS]{+1 Fobia}</p>"
+ },
+ "PCPGYzzFaFjws1LL": {
+  "name": "La enfermedad descompresiva",
+  "description": "<p>Dudas de la verdadera naturaleza de tu identidad. Si eres humano, has empezado a creer que podrías ser un androide con recuerdos implantados. Si eres un androide, has empezado a creer que eres una persona real.<br><br>La gravedad de esta afección empieza en 5 a menos que todavía tengas tu <strong>Baratija</strong> de la creación de personaje, en cuyo caso empieza en 0. La enfermedad descompresiva nunca puede reducirse por debajo de 5, a menos que nunca pierdas el control de tu Baratija. Así que nunca deberías perderla. <strong>Jamás.</strong></p>"
+ }
+}

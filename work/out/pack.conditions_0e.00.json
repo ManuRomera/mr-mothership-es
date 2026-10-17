@@ -1,0 +1,138 @@
+{
+ "2D3zgP8KtRTAqlfS": {
+  "name": "Adicción",
+  "description": "<p>El uso excesivo de Pastillas para el dolor o Estimulantes requiere una <strong>Salvación de Cuerpo para evitar la adicción</strong>. Una vez adicto, haz una Salvación de Cuerpo diaria o gana 1d10 de Estrés cada día que pases sin consumir. Si lo usas una vez al día durante una semana, necesitarás tomar el doble de pastillas para obtener el mismo efecto.<br><br>Siempre que tomes más de una pastilla a la vez, tira 1d10. Si sacas igual o menos que el número tomado, haz una Salvación de Cuerpo. Si fallas, quedas inconsciente y el Guardián tira una Salvación de Muerte. Puedes curar una adicción mediante tratamiento en el juego o subiendo de nivel.</p>"
+ },
+ "QEVnimwq5o0DxmZz": {
+  "name": "Anhedonia",
+  "description": "<p>Siempre que vayas a recuperar Calma, recupera la mitad de Calma en su lugar.</p>"
+ },
+ "23qE7TnIHxtw1E9y": {
+  "name": "Descomposición de bits",
+  "description": "<p>Siempre que vayas a recuperar Calma, recupera la mitad en su lugar.</p>"
+ },
+ "ZzvKo0yTqOcRP5Xo": {
+  "name": "Quebrado",
+  "description": "<p>Haz una Tirada de Pánico siempre que un miembro de la tripulación cercano falle una Salvación.</p>"
+ },
+ "Qnv6ZDPsbOXLi9go": {
+  "name": "Cobardía",
+  "description": "<p>Debes hacer una Salvación de Miedo para entrar en combate o, si no, huir.</p>"
+ },
+ "uoeVaOy5a6BIAGAi": {
+  "name": "Pulsión de muerte",
+  "description": "<p>Siempre que te encuentres con un desconocido o un enemigo conocido, debes hacer una Salvación de Cordura o atacarlo de inmediato.</p>"
+ },
+ "PiMuPeHR5EobSPBP": {
+  "name": "Núcleo lógico desviado",
+  "description": "<p>Siempre que hagas una Salvación de Miedo, tira por debajo de tu Miedo o tu Calma, el que sea menor.</p>"
+ },
+ "dAJRV7JG0Wh1shcJ": {
+  "name": "Desapego emocional",
+  "description": "<p>Ahora pierdes la mitad de la Calma <em>(redondeando hacia arriba)</em> que normalmente perderías de todas las fuentes, pero ganas el Efecto de Pánico de un Androide, además del de tu propia clase. Si eres un Androide, ganas el Efecto de Pánico de un Marine.</p>"
+ },
+ "6vExNGxZiXcC3RFy": {
+  "name": "Escapismo",
+  "description": "<p>Siempre tienes Desventaja en las Salvaciones de Cuerpo para evitar la Adicción.</p>"
+ },
+ "kI2Yxt0Eo2mEywpZ": {
+  "name": "Fallo de directriz ética",
+  "description": "<p>Ahora pierdes la mitad de la Calma <em>(redondeando hacia arriba)</em> que normalmente perderías de todas las fuentes, pero ahora tienes el Efecto de Pánico de un Marine, además del de un Androide.</p>"
+ },
+ "5E3FGlNzi05S792f": {
+  "name": "Lectura errónea de directriz ética",
+  "description": "<p>Pierde toda expresividad. Diserta sobre la irracionalidad de las Fobias y busca provocarlas en los demás.</p>"
+ },
+ "8D9ZtBYScCKjcBH3": {
+  "name": "Heurística defectuosa",
+  "description": "<p>Siempre que hagas una Salvación de Cordura, tira por debajo de tu Cordura o tu Calma, la que sea menor.</p>"
+ },
+ "B8vRorrFy3c2cOf5": {
+  "name": "Núcleo lógico fundido",
+  "description": "<p>Comportamiento frenético y sin sentido. Siempre que pierdas Calma, todos los demás cerca pierden la misma cantidad de Calma.</p>"
+ },
+ "RZ5X3UuiM0Wzg3pQ": {
+  "name": "Alucinaciones",
+  "description": "<p>Tienes problemas para distinguir entre la realidad y la fantasía.</p>"
+ },
+ "A3qRm3Gs36Nbfs29": {
+  "name": "Hipervigilancia",
+  "description": "<p>Ganas Ventaja en todas las tiradas de sorpresa, pero pierdes 1d10 de Calma cada día.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.5jMEd9JjJPIJBKHr]{-1d10 Calma}</p>"
+ },
+ "9vveNoR1VA9Bx0Wo": {
+  "name": "Demente",
+  "description": "<p>Te vuelves demente de forma permanente e irreparable. El Guardián pasa a interpretar a tu personaje.</p>"
+ },
+ "hAfwbHxZih4Xb0qi": {
+  "name": "Interruptor de seguridad activado",
+  "description": "<p>Te vuelves berserk, no te retiras del combate sea cual sea la situación y no sigues tácticas.</p>"
+ },
+ "1r6ruvSdxn2bHHIk": {
+  "name": "Perdiendo el control",
+  "description": "<p>Siempre que hagas una Salvación de Cordura, tira por debajo de tu Cordura o tu Calma, la que sea menor.</p>"
+ },
+ "AXxmouWPp6Tx1JbK": {
+  "name": "Preso del pánico",
+  "description": "<p>Siempre que hagas una Salvación de Miedo, tira por debajo de tu Miedo o tu Calma, el que sea menor.</p>"
+ },
+ "lxIZLdg2IkwOC2b9": {
+  "name": "Paranoico",
+  "description": "<p>Siempre que un personaje se una a tu grupo <em>(aunque solo se haya ausentado un breve periodo de tiempo)</em>, haz una Salvación de Miedo o gana 1 de Estrés.<><>@UUID[Compendium.mosh.macros_triggered_0e.Macro.Er4ULzvdn2urxuet]{Salvación de Miedo}</p>"
+ },
+ "lf1QZaUHSy82w7SR": {
+  "name": "Fobia",
+  "description": "<p>Ganas una nueva fobia permanente. Siempre que te enfrentes a esta fobia, haz una Salvación de Miedo con Desventaja.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.RdJ2nh41wDUT4ZTP]{Salvación de Miedo [-]}</p>"
+ },
+ "Gm2XrTqVMbECVPan": {
+  "name": "Episodios psicóticos",
+  "description": "<p>Una vez por sesión, el Guardián puede controlar a tu personaje durante un asalto.</p>"
+ },
+ "GbDO8pRNdPA5tQXE": {
+  "name": "Rampancia",
+  "description": "<p>Una vez por sesión, el Guardián puede controlar a tu personaje durante un asalto. Estos episodios duplican su duración <em>(o se vuelven el doble de frecuentes)</em> cada sesión.</p>"
+ },
+ "zbKI2RCl5h3vowoy": {
+  "name": "Pesadillas recurrentes",
+  "description": "<p>Cada vez que descanses, haz una Salvación de Miedo. Si fallas, pierdes 1d10 de Calma y no te curas. El Guardián describirá tu pesadilla.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.5jMEd9JjJPIJBKHr]{-1d10 Calma}</p>"
+ },
+ "H4UUQsZOSaYGRPSY": {
+  "name": "Ansiedad grave",
+  "description": "<p>Pierdes el doble de Calma de todas las fuentes.</p>"
+ },
+ "xVW5zbK05EqQmaA4": {
+  "name": "Ansiedad social",
+  "description": "<p>Pierdes 1d10 de Calma siempre que converses con alguien nuevo.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.5jMEd9JjJPIJBKHr]{-1d10 Calma}</p>"
+ },
+ "1rUlQJ5iwD29X4oT": {
+  "name": "Software inflado",
+  "description": "<p>Pierdes el doble de Calma de todas las fuentes.</p>"
+ },
+ "XxjONzW7H4tIIAkN": {
+  "name": "Inanición",
+  "description": "<p>Los humanos pueden sobrevivir unas 3 semanas sin comida. <strong>Tras 24 horas sin comida tienes Desventaja en todas las tiradas.</strong><br><br>El mínimo imprescindible para sobrevivir: necesitarás <strong>1 litro de agua al día</strong>. Sin embargo, en este nivel, cualquier actividad extenuante (como correr, el Combate o hacer reparaciones mecánicas) te obligará a hacer una Salvación de Cuerpo o desmayarte. Cuando el agua escasea y la estás controlando tan de cerca, tienes Desventaja en todas las Pruebas.</p>"
+ },
+ "uOPcbqhk5sQHB8A2": {
+  "name": "Asfixia",
+  "description": "<p>En el espacio puedes aguantar 15 segundos sin oxígeno antes de perder el conocimiento. Tras desmayarte, puedes sobrevivir de 3 a 5 minutos antes de morir.<br><br><ul><li>Si queda menos de la mitad del oxígeno original, todas las tiradas se hacen con Desventaja. Toda la tripulación sufre dolores de cabeza, fatiga, ansiedad y torpeza general.</li><li>Si queda menos de un cuarto de la cantidad original de oxígeno, los jugadores deben hacer una Salvación de Cuerpo una vez al día (y después de cada actividad extenuante) o desmayarse. Toda la tripulación sufre jadeo, mareos, dolores de cabeza intensos y visión borrosa y acúfenos.</li><li>Si un jugador se queda sin oxígeno, debe hacer una Salvación de Cuerpo. Si falla, muere. Si tiene éxito, se desmaya y absorbe oxígeno de un jugador aleatorio cada día.</li></ul></p>"
+ },
+ "JV43ilZwsikj75j1": {
+  "name": "Temblores",
+  "description": "<p>Ya no puedes mantener las manos firmes. Desventaja en ataques a distancia y en todas las tareas que requieran motricidad fina. Puede que las drogas ayuden con esto.</p>"
+ },
+ "xlKWL5nZm3SJPhrf": {
+  "name": "Fallo de evaluación de amenazas",
+  "description": "<p>Pierdes la capacidad de distinguir entre amigos y enemigos, tratando a todas las entidades vagamente humanoideas como tratarías a los miembros de tu tripulación.</p>"
+ },
+ "iZzcfZ26I2svoonl": {
+  "name": "Fallo del test de Turing",
+  "description": "<p>Tienes dificultades para expresar humanidad. Los miembros del grupo hacen una Salvación de Miedo siempre que apareces.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.Er4ULzvdn2urxuet]{Salvación de Miedo}</p>"
+ },
+ "qsOHsbKMonl9tiaq": {
+  "name": "Nervioso",
+  "description": "<p>Tus tareas manuales tienen Desventaja.</p>"
+ },
+ "x0YRvBbVoHPILD6x": {
+  "name": "Fallo de vocalización",
+  "description": "<p>Chilla de forma intermitente como una máquina de fax bajo presión. Cae en el código morse, no puede comunicarse ni moverse sigilosamente.</p>"
+ }
+}

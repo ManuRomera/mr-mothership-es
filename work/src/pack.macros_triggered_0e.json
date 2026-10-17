@@ -1,0 +1,281 @@
+{
+ "a6cVSyPThSc5Sm9C": {
+  "name": "+1 Anhedonia"
+ },
+ "jSpqyVlFDm06mKoL": {
+  "name": "+1 Bit Rot"
+ },
+ "WnHQfgURx5sGWjlx": {
+  "name": "+1 Broken"
+ },
+ "bivbH22VbRq3YUsz": {
+  "name": "+1 Cowardice"
+ },
+ "UcHSw6s1TkqSEj7Y": {
+  "name": "+1 Death Drive"
+ },
+ "kuhC3Z3UJvckrSt1": {
+  "name": "+1 Deviant Logic Core"
+ },
+ "m4Vck3KB3uRVDQpQ": {
+  "name": "+1 Emotional Detachment"
+ },
+ "WlaJ7iBNqeDmPSOj": {
+  "name": "+1 Escapism"
+ },
+ "CyzJOPdMcwAQBkPy": {
+  "name": "+1 Ethical Directive Failure"
+ },
+ "0gTuiRlPfdstHmYb": {
+  "name": "+1 Ethical Directive Misread"
+ },
+ "RVsycsQASBlxC4Yw": {
+  "name": "+1 Faulty Heuristics"
+ },
+ "vhzVIN705rL5riS9": {
+  "name": "+1 Fried Logic Core"
+ },
+ "TUkbH9np5Zj6DPHX": {
+  "name": "+1 Hallucinations"
+ },
+ "KkBd22eQ2CPxsWih": {
+  "name": "+1 Hypervigilance"
+ },
+ "TJP579V4h7t68jY1": {
+  "name": "+1 Insane"
+ },
+ "eJ4SRSSZA5dqgkQ0": {
+  "name": "+1 Killswitch Engaged"
+ },
+ "P73qKstwgnwSMJDO": {
+  "name": "+1 Losing Your Grip"
+ },
+ "VIaKtzF0Tzopegln": {
+  "name": "+1 Panicky"
+ },
+ "s7rHLmODfmUMGr65": {
+  "name": "+1 Paranoid"
+ },
+ "qwmJTfTgmjNEApfX": {
+  "name": "+1 Phobia"
+ },
+ "tQGoF2BlWn91nqyd": {
+  "name": "+1 Psychotic Episodes"
+ },
+ "dj3gsNrPwit8tNHK": {
+  "name": "+1 Rampancy"
+ },
+ "2W6ohovHitQXJ8bK": {
+  "name": "+1 Recurring Nightmares"
+ },
+ "PUBUZ11A5zqhsJKD": {
+  "name": "+1 Sanity Save"
+ },
+ "AF7kX52Y75COaFzj": {
+  "name": "+1 Severe Anxiety"
+ },
+ "cTtJcLmQWR1WCKyO": {
+  "name": "+1 Social Anxiety"
+ },
+ "cN3hUL8tjBPvgwba": {
+  "name": "+1 Software Bloat"
+ },
+ "GodJbchiu5gOgtkn": {
+  "name": "+1 Stress"
+ },
+ "V5xWdJnaUM06WNhA": {
+  "name": "+1 The Shakes"
+ },
+ "cN53sbP5eAe596vL": {
+  "name": "+1 Threat Assessment Failure"
+ },
+ "pkpAwHnAmKAN6pbs": {
+  "name": "+1 Turing Test Failure"
+ },
+ "3NLLvLRxm99cjUVv": {
+  "name": "+1 Twitchy"
+ },
+ "o7BidBvPsCmUxWnb": {
+  "name": "+1 Vocalization Failure"
+ },
+ "ZeHhiHDz9hSRfKKq": {
+  "name": "+1 Worship Danger"
+ },
+ "gVR2dbgBFypZ1M9m": {
+  "name": "+1d10 Combat"
+ },
+ "ur6kX3P3xHVaEQpB": {
+  "name": "+1d10 Fear Save"
+ },
+ "YqqXUAVyWiUkOzMJ": {
+  "name": "+1d10 Maximum Stress"
+ },
+ "0dFnFfJtZt6a0ih4": {
+  "name": "+1d10 Stress"
+ },
+ "BnQZTR7V7va8WRGO": {
+  "name": "+1d5 Stress"
+ },
+ "WEICDPMGI3waJ6PX": {
+  "name": "+2 Stress"
+ },
+ "tqvhwdQ7eqzVQmMO": {
+  "name": "+2d10 Body Save"
+ },
+ "iyFZyThqdvBQ43KG": {
+  "name": "+2d10 Speed"
+ },
+ "sUBAlHB1OcA4h185": {
+  "name": "+2d10 Strength"
+ },
+ "ZcqUtSMCGvERjQlG": {
+  "name": "+3 Stress"
+ },
+ "pZDIIFKNOo3wIelH": {
+  "name": "-1 Minimum Stress"
+ },
+ "egXQ98YOVTaIvw8Z": {
+  "name": "-1 Stress"
+ },
+ "nLbL5WG3o55pQHVt": {
+  "name": "-1 Wound"
+ },
+ "4G0yEepSUvif6b6r": {
+  "name": "-1d10 Body Save"
+ },
+ "ZHLgJKrIG82SNbt8": {
+  "name": "-1d10 Health"
+ },
+ "P1XjeNN1XswJ2nSC": {
+  "name": "-1d10 Intellect"
+ },
+ "FGraO3xTnChUfWGY": {
+  "name": "-1d10 Maximum Stress"
+ },
+ "5jMEd9JjJPIJBKHr": {
+  "name": "-1d10 Stress"
+ },
+ "m0X0cPbdEy9xWfQ2": {
+  "name": "-1d5 Sanity Save"
+ },
+ "M91INKwIL3rOZBcx": {
+  "name": "-1d5 Stress"
+ },
+ "fRja0aFO5muR0q3H": {
+  "name": "-2 Maximum Stress"
+ },
+ "qENogEcf1awpT98o": {
+  "name": "-5 Intellect"
+ },
+ "VZPWorbauAExrYLZ": {
+  "name": "-5 Speed"
+ },
+ "k663ybRMCY3u0OXF": {
+  "name": "-5 Strength"
+ },
+ "lggrLQD14n5dmWOW": {
+  "name": "Body Save"
+ },
+ "WRtYAbOhyR7K7oCF": {
+  "name": "Body Save -"
+ },
+ "8oU8H31xWldZB5mR": {
+  "name": "Body Save +"
+ },
+ "5N4b4Q2OhEj1zv0P": {
+  "name": "Combat Check"
+ },
+ "N20OKT1TDhywkeco": {
+  "name": "Combat Check -"
+ },
+ "voAUUe17Qw4MJlup": {
+  "name": "Combat Check +"
+ },
+ "4hmYrNF0uWVqsfEk": {
+  "name": "Death Save -"
+ },
+ "Az3RocMlh0JFxAlu": {
+  "name": "Death Save +"
+ },
+ "Er4ULzvdn2urxuet": {
+  "name": "Fear Save"
+ },
+ "RdJ2nh41wDUT4ZTP": {
+  "name": "Fear Save -"
+ },
+ "RzOmeM0RNSpFAna0": {
+  "name": "Fear Save +"
+ },
+ "iah49MKBQXykdwEg": {
+  "name": "Intellect Check"
+ },
+ "XveTnYVPtLcgJEGf": {
+  "name": "Intellect Check -"
+ },
+ "AhrhCp1Tz8ZaLhby": {
+  "name": "Intellect Check +"
+ },
+ "31nDVp25qvTkkGXQ": {
+  "name": "Lower Health to 1"
+ },
+ "3AADaQaHl78Og7aR": {
+  "name": "Lower Minimum Stress to 2"
+ },
+ "8MYFWpBYht987SZm": {
+  "name": "Lower Wounds to 0"
+ },
+ "ruNXfSNPSJmY4SE2": {
+  "name": "Panic Check -"
+ },
+ "lCEvKZVAMkfJHAXl": {
+  "name": "Panic Check +"
+ },
+ "z5V92LyXHjfMxnRQ": {
+  "name": "Raise Maximum Calm to 85"
+ },
+ "GprYY2FK5Y5Xddvk": {
+  "name": "Raise Minimum Stress to 5"
+ },
+ "WAPt73hfeft7m19K": {
+  "name": "Rest Save -"
+ },
+ "81hTf1Du6PRu28wj": {
+  "name": "Rest Save +"
+ },
+ "a7iEwMDULoi6CdkU": {
+  "name": "Roll 1d10 on Android Panic Table"
+ },
+ "iBXpuINls8gKcvk5": {
+  "name": "Roll on Android Panic Table"
+ },
+ "a6hO0gUht5v0aDqj": {
+  "name": "Roll on Panic Table"
+ },
+ "Dua2j9hZpTLCbxXU": {
+  "name": "Sanity Save"
+ },
+ "tYduVcRgKAdFAZ6l": {
+  "name": "Sanity Save -"
+ },
+ "MKl9Q4poMvwpVL8v": {
+  "name": "Sanity Save +"
+ },
+ "Sg8rTwkExTpF4HHp": {
+  "name": "Speed Check"
+ },
+ "lfehxXMWB7kGhrjn": {
+  "name": "Speed Check -"
+ },
+ "0Yw4QWSAeOuUzRqB": {
+  "name": "Speed Check +"
+ },
+ "cbCtuBYXwQOR0ZaB": {
+  "name": "Strength Check"
+ },
+ "Jsj2jOwoLTdyXP8z": {
+  "name": "Strength Check -"
+ },
+ "lBDQAgzfJGadClAT": {
+  "name": "Strength Check +"
+ }
+}

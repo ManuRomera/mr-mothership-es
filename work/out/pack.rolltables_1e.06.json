@@ -1,0 +1,61 @@
+{
+ "lqiaWwh5cGcJhvnu": {
+  "name": "Herida de Fuego y explosivos",
+  "description": "<p>Cada vez que sufras una Herida de Fuego y explosivos, tira en esta tabla para determinar el efecto. Las <strong>Heridas leves</strong> son pequeñas molestias. Las <strong>Lesiones menores/mayores</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>Lesiones letales</strong> pueden matarte si no las tratas de inmediato. Las <strong>Lesiones fatales</strong> pueden matarte al instante. Las heridas de <strong>Sangrado</strong>, si no se tratan, pueden superarte rápidamente.</p>",
+  "results": {
+   "VYN9lwpyPTW4Hnmh": "<strong>Herida leve:</strong> Pelo quemado. Ganas 1d5 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.luNKvwmm2tjUJhT6]{+1d5 Estrés}",
+   "V3np2nl2cIVshF5D": "<strong>Lesión menor:</strong> Cicatriz impresionante. +1 de Estrés mínimo.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Estrés mínimo}",
+   "Wen5sWpWmN2j4Zcb": "<strong>Lesión menor:</strong> Chamuscado. [-] en la próxima acción.",
+   "OD9Ilkg4OA11sU8H": "<strong>Lesión menor:</strong> Metralla/quemadura grave.",
+   "0BvZK2vdM2oweYvg": "<strong>Lesión menor:</strong> Quemaduras de tercer grado.",
+   "syEHXuDiZFwD4l4G": "<strong>Lesión mayor:</strong> Quemadura grave. Salvación de Cuerpo -2d10.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.ISd2nEMYvWCPQpl0]{-2d10 Salvación de Cuerpo}",
+   "MRl6Iid4Xgjb6myY": "<strong>Lesión mayor:</strong> Requiere injertos de piel. Salvación de Cuerpo -2d10.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.ISd2nEMYvWCPQpl0]{-2d10 Salvación de Cuerpo}",
+   "bHNeXD95WH4o2Rjz": "<strong>Lesión letal:</strong> Extremidad en llamas. 2d10 de daño por ronda. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.pS6A6OklvM6S3bvO]{-2d10 Salud}",
+   "F9aNmmfK5oSh4kAs": "<strong>Lesión letal:</strong> Cuerpo en llamas. 3d10 de daño por ronda. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.nECUu4pcwsNTE8C5]{-3d10 Salud}",
+   "V0ZCYS4xQCoqnKuC": "<strong>Lesión fatal:</strong> Envuelto en una explosión de fuego. Salvación de Muerte.<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.NsRHfRuuNGPfkYVf]{Salvación de Muerte}"
+  }
+ },
+ "uVfC1CqYdojaJ7yR": {
+  "name": "Herida de Desgarro y masivo",
+  "description": "<p>Cada vez que sufras una Herida de Desgarro y masivo, tira en esta tabla para determinar el efecto. Las <strong>Heridas leves</strong> son pequeñas molestias. Las <strong>Lesiones menores/mayores</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>Lesiones letales</strong> pueden matarte si no las tratas de inmediato. Las <strong>Lesiones fatales</strong> pueden matarte al instante. Las heridas de <strong>Sangrado</strong>, si no se tratan, pueden superarte rápidamente.</p>",
+  "results": {
+   "aJN3DtKVY9bG3ubv": "<strong>Herida leve:</strong> Vómito. [-] en la próxima acción.",
+   "Lf5EQIYpu4DXFQix": "<strong>Lesión menor:</strong> Cicatriz impresionante. +1 de Estrés mínimo.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Estrés mínimo}",
+   "1NnoNAENwZjlIxh8": "<strong>Lesión menor:</strong> Dedo mutilado.",
+   "8iAPqxJpCEgQJXq6": "<strong>Lesión menor:</strong> Ojos arrancados.",
+   "NcPFW20iV54oar6P": "<strong>Lesión menor:</strong> Carne arrancada. -1d10 de Fuerza.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.V3L1iRkWwyTzCZK9]{-1d10 Fuerza}",
+   "QP4863dIgMJ28XWs": "<strong>Lesión mayor:</strong> Paralizado de cintura para abajo.",
+   "ayHuDn1OuCcbgCZt": "<strong>Lesión mayor:</strong> Extremidad amputada. Sangrado +5.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.CZ2gqnRHcOpCLlG0]{+5 Sangrado}",
+   "h2hZbBnnY5DVnyLL": "<strong>Lesión letal:</strong> Empalado. Sangrado +6. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.Tx19z2BhTY6onldp]{+6 Sangrado}",
+   "JB623Z5gI9hP5cOs": "<strong>Lesión letal:</strong> Tripas esparcidas por el suelo. Sangrado +7. Salvación de Muerte en [[/r 1d10]] rondas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.ZJaVFBB0Kslv1k4f]{+7 Sangrado}",
+   "9LPNxRgcnpZHjENW": "<strong>Lesión fatal:</strong> La cabeza explota.<br><br><strong>Sin Salvación de Muerte. Has muerto.</strong>"
+  }
+ },
+ "UxAjAqUTjYTcCbS8": {
+  "name": "Señal de socorro",
+  "description": "<p>En ocasiones puede que tengas que poner tu nave en energía de emergencia, encerraros en criocápsulas, enviar una Señal de socorro y esperar ayuda. Es una posibilidad remota, pero a veces es la única que tienes. Cuando esto ocurra, tira en esta tabla.</p>",
+  "results": {
+   "4W0riCssZ2SEzGLe": "<strong>[[2D10]] SEMANAS.</strong> Eres de los afortunados.",
+   "tG7DvLzk0nIDsGxH": "<strong>[[2D10]] MESES.</strong> Nota mental: recuerda revisar la política de la Compañía sobre pagos atrasados en caso de crioemergencia.",
+   "Bx4dP1VaEfohIdO9": "<strong>[[2D10]] AÑOS.</strong> Haz una Salvación de Cuerpo o pierdes 1d5 en todas las Características y Salvaciones.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Salvación de Cuerpo}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.SeMStXQGIaeiLwvw]{-1d5 Todas las Características/Salvaciones}",
+   "K9MvgxDKYTflPZDl": "<strong>[[2D10]] DÉCADAS.</strong> Haz una Salvación de Cuerpo [-] o pierdes 1d10 en todas las Características y Salvaciones.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.ItHLy3URKFQVLipe]{Salvación de Cuerpo [-]}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.2MuANcdgp2g8SDlF]{-1d10 Todas las Características/Salvaciones}",
+   "rFLMF0FIuJOK582Z": "<strong>NUNCA.</strong> La nave flota sin fin en el vacío devorador del espacio. Gracias por jugar a Mothership."
+  }
+ },
+ "AqGWwoWXzijFs427": {
+  "name": "Efectos de megadaño",
+  "description": "<p>El <strong>Megadaño (MDMG)</strong> es como el Daño y las Heridas de un personaje combinados en uno. Cada vez que tu nave reciba MDMG, súmalo al MDMG acumulado anteriormente, marca el nuevo total en el registro y aplica el efecto indicado. Si tu nave llega a tener 9 o más MDMG en total, queda destruida. Tu nave ignora todo el MDMG inferior a su Casco. Si la nave recibe en un solo impacto MDMG igual o superior a su Casco, el casco queda destruido y la nave sufre el MDMG restante.</p>",
+  "results": {
+   "ENq0mvm5iqtMh1ft": "<strong>TODOS LOS SISTEMAS NORMALES.</strong><br> 5x5. Listo para partir.",
+   "yVzV5Y0tNWSqPVpS": "<strong>FUGA DE COMBUSTIBLE DE EMERGENCIA.</strong><br> Cada vez que gastes combustible, gastas 1 más.",
+   "Vnfbw2I9XRvrjKQ0": "<strong>ARMAS FUERA DE LÍNEA.</strong><br> Fallas automáticamente las Tiradas de Batalla.",
+   "qPV5sasqyDgWwNiW": "<strong>NAVEGACIÓN FUERA DE LÍNEA.</strong><br> No puedes hacer Tiradas de Propulsores. 10% de probabilidad de que se borren todos los datos de navegación.",
+   "kGOebdOLWOZBekvw": "<strong>FUEGO EN CUBIERTA.</strong><br> El fuego se propaga por toda la nave, creando una atmósfera tóxica <em>(por inhalación de humo)</em> y una atmósfera altamente corrosiva <em>(10 DMG/ronda)</em> en las zonas en llamas.",
+   "etnepA2VTtuv2iyc": "<strong>BRECHA EN EL CASCO.</strong><br> Todos a bordo hacen una Salvación de Cuerpo o sufren 1 Herida <em>(Explosión)</em>. Con un Fallo Crítico, salen expulsados violentamente al espacio.",
+   "ay9hN3EYsAJOKUeZ": "<strong>SISTEMAS DE SOPORTE VITAL FUERA DE LÍNEA.</strong><br> Oxígeno limitado a 1d10 multiplicado por la capacidad máxima de tripulación.",
+   "gNqK1zdrt9AUacUg": "<strong>FUGA DE RADIACIÓN.</strong><br> El nivel de radiación aumenta cada 2d10 minutos.",
+   "kmZfxrotglCOUw8M": "<strong>A LA DERIVA.</strong><br> Todos los sistemas fuera de línea, solo energía de emergencia.",
+   "A3XHL5OaSekv3OF3": "<strong>¡ABANDONAD LA NAVE!</strong><br> La nave queda destruida en 1d10 minutos."
+  }
+ }
+}
