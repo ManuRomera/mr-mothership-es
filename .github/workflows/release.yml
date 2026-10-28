@@ -16,13 +16,15 @@ jobs:
         run: |
           V=$(jq -r .version module.json)
           [ "v$V" = "${GITHUB_REF_NAME}" ] || [ "${GITHUB_EVENT_NAME}" = workflow_dispatch ] || { echo "la etiqueta no coincide con module.json ($V)"; exit 1; }
-          for f in module.json lang/*.json compendium/*.json; do jq empty "$f"; done
+          for f in module.json lang/*.json compendium/*.json parches/parches.json; do jq empty "$f"; done
       - name: Empaquetar
         run: |
           mkdir -p dist
-          zip -r dist/mr-mothership-es.zip module.json scripts lang compendium LICENSE NOTICE.md README.md
+          zip -r dist/mr-mothership-es.zip module.json scripts lang compendium parches styles.css LICENSE NOTICE.md README.md
           unzip -l dist/mr-mothership-es.zip | grep -q compendium/mosh.rolltables_1e.json
           unzip -l dist/mr-mothership-es.zip | grep -q lang/literales.json
+          unzip -l dist/mr-mothership-es.zip | grep -q parches/99.webp
+          unzip -l dist/mr-mothership-es.zip | grep -q scripts/parches.js
       - name: Notas
         run: |
           V=$(jq -r .version module.json)

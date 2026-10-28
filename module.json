@@ -1,8 +1,8 @@
 {
   "id": "mr-mothership-es",
   "title": "MR- Mothership en español",
-  "description": "Traducción completa al español de España del sistema MoSh (Unofficial Mothership): interfaz, hojas, diálogos, mensajes de chat y todos los compendios (condiciones, averías, macros y tablas de 0e y 1e).",
-  "version": "1.1.0",
+  "description": "Traducción completa al español de España del sistema MoSh (Unofficial Mothership): interfaz, hojas, diálogos, mensajes de chat y todos los compendios (condiciones, averías, macros y tablas de 0e y 1e). Incluye los 100 parches de la tabla d100 con imagen: tirada al chat, coser el parche al personaje y tabla para el mundo.",
+  "version": "1.2.0",
   "authors": [
     {
       "name": "Manu Romera",
@@ -35,7 +35,8 @@
     ]
   },
   "esmodules": [
-    "scripts/mr-mothership-es.js"
+    "scripts/mr-mothership-es.js",
+    "scripts/parches.js"
   ],
   "languages": [
     {
@@ -51,5 +52,8 @@
   "bugs": "https://github.com/ManuRomera/mr-mothership-es/issues",
   "readme": "https://github.com/ManuRomera/mr-mothership-es#readme",
   "changelog": "https://github.com/ManuRomera/mr-mothership-es/blob/main/CHANGELOG.md",
-  "license": "MIT"
+  "license": "MIT",
+  "styles": [
+    "styles.css"
+  ]
 }

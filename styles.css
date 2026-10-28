@@ -1,0 +1,5 @@
+.mr-parche { display:grid; grid-template-columns:96px 1fr; gap:8px; align-items:center; }
+.mr-parche img { width:96px; height:96px; object-fit:contain; border:0; filter:drop-shadow(0 2px 3px rgba(0,0,0,.5)); }
+.mr-parche h3 { margin:0 0 2px; border:0; font-size:1.4em; }
+.mr-parche p { margin:0 0 6px; font-weight:600; }
+.mr-parche button { line-height:24px; font-size:12px; }
