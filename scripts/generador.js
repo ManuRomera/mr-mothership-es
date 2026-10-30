@@ -1,6 +1,20 @@
 // Generador de personajes: nombre, sexo y biografía a medida de la clase, el equipo, el parche, la baratija y las habilidades.
 // Las reservas de texto están en lang/personajes.json (tools/personajes.py); los sufijos {o|a|e} se eligen según el sexo.
 const ID = "mr-mothership-es";
+
+// Diálogo «maestra + experta + entrenada»: cada desplegable solo ofrece los requisitos previos de la habilidad elegida arriba
+
+const prerrequisitos = id => { try { return JSON.parse(document.querySelector(`#${id}`)?.selectedOptions?.[0]?.dataset.prerequisite_ids || "[]"); } catch { return []; } };
+const filtrar = (id, permitidos) => {
+  const sel = document.querySelector(`#${id}`); if (!sel) return;
+  for (const o of sel.options) { o.dataset.ocupada ??= o.disabled ? "1" : "0"; const ok = !o.value || !permitidos.length || permitidos.includes(o.value); o.hidden = !ok; o.disabled = !ok || o.dataset.ocupada === "1"; }
+  if (sel.selectedOptions[0]?.hidden) sel.value = "";
+};
+// Foundry elimina los onchange="" en línea del HTML de los diálogos, así que se escucha el cambio desde el documento
+document.addEventListener("change", ev => {
+  if (ev.target.id === "dropdownMaster") { filtrar("dropdownExpert", prerrequisitos("dropdownMaster")); filtrar("dropdownTrained", []); }
+  else if (ev.target.id === "dropdownExpert") filtrar("dropdownTrained", prerrequisitos("dropdownExpert"));
+});
 const SEXOS = [["", "Aleatorio"], ["0", "Hombre"], ["1", "Mujer"], ["2", "No binario"]];
 let datos = null;
 const cargar = async () => datos ??= await (await fetch(`modules/${ID}/lang/personajes.json`)).json();

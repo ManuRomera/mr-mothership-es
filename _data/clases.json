@@ -40,21 +40,21 @@
      [
       {
        "name": "1 habilidad experta",
+       "from_list": [],
        "trained": 0,
-       "expert": 0,
-       "expert_full_set": 1,
+       "expert": 1,
+       "expert_full_set": 0,
        "master": 0,
-       "master_full_set": 0,
-       "from_list": []
+       "master_full_set": 0
       },
       {
        "name": "2 habilidades entrenadas",
+       "from_list": [],
        "trained": 2,
        "expert": 0,
        "expert_full_set": 0,
        "master": 0,
-       "master_full_set": 0,
-       "from_list": []
+       "master_full_set": 0
       }
      ]
     ]
@@ -1011,21 +1011,21 @@
      [
       {
        "name": "1 habilidad experta",
+       "from_list": [],
        "trained": 0,
-       "expert": 0,
-       "expert_full_set": 1,
+       "expert": 1,
+       "expert_full_set": 0,
        "master": 0,
-       "master_full_set": 0,
-       "from_list": []
+       "master_full_set": 0
       },
       {
        "name": "2 habilidades entrenadas",
+       "from_list": [],
        "trained": 2,
        "expert": 0,
        "expert_full_set": 0,
        "master": 0,
-       "master_full_set": 0,
-       "from_list": []
+       "master_full_set": 0
       }
      ]
     ]
@@ -1083,7 +1083,7 @@
     ],
     "choose_skill_and": {
      "trained": 1,
-     "expert": 0,
+     "expert": 1,
      "expert_full_set": 0,
      "master": 0,
      "master_full_set": 1
@@ -1136,8 +1136,8 @@
     "choose_stat": [],
     "choose_skill_and": {
      "trained": 1,
-     "expert": 0,
-     "expert_full_set": 1,
+     "expert": 1,
+     "expert_full_set": 0,
      "master": 0,
      "master_full_set": 0
     },

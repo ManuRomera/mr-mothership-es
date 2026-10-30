@@ -344,7 +344,10 @@
    "description": "<p>Incluye el manejo, mantenimiento y empleo táctico de pistolas, fusiles, escopetas y armas improvisadas de proyectiles. La dominan mercenarios de convoy, agentes de seguridad y veteranos que conocen el retroceso de cada arma peor que sus propios huesos. También exige conservar la calma cuando el objetivo no debería moverse.</p><p><strong>Cuándo se usa.</strong> Cubrir una retirada por un pasillo sin gravedad; disparar a través de una compuerta sin dañar los depósitos; mantener a raya una presencia que solo retrocede cuando la luz y las balas coinciden.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.jJdeF2OHerjs9BH1",
+    "Compendium.mr-mothership-es.habilidades.Item.1mD2qDVWjnYJsRAp"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -365,7 +368,11 @@
    "description": "<p>Abarca golpes, agarres, derribos, llaves y el uso brutal de herramientas, culatas o cualquier objeto al alcance. La dominan estibadores, agentes de abordaje y supervivientes de motines. Requiere aprovechar paredes, barandillas y la falta de gravedad, además de saber cuándo una pelea ya no busca vencer, sino ganar unos segundos.</p><p><strong>Cuándo se usa.</strong> Reducir a un polizón en una bodega estrecha; apartar a un compañero de una esclusa abierta; forcejear con algo que imita una voz conocida mientras el resto de la tripulación escapa.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.jJdeF2OHerjs9BH1",
+    "Compendium.mr-mothership-es.habilidades.Item.1mD2qDVWjnYJsRAp",
+    "Compendium.mr-mothership-es.habilidades.Item.Cy0kXrqAxV8ujK96"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -386,7 +393,10 @@
    "description": "<p>Estudia las relaciones entre organismos, atmósfera, suelo, radiación y recursos disponibles. La dominan exploradores, ingenieros de terraformación y colonos que aprendieron a no beber de ningún río sin analizarlo. Permite leer un paisaje como un sistema completo y descubrir qué desequilibrio está a punto de cobrar una factura.</p><p><strong>Cuándo se usa.</strong> Elegir un campamento lejos de depredadores y esporas; localizar agua sin contaminar una reserva; comprender por qué toda la fauna de un valle huye hacia la nave al mismo tiempo.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.NcS9UmpV3NZQgIzx",
+    "Compendium.mr-mothership-es.habilidades.Item.KBDOdIL0RQJlhPxg"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -407,7 +417,11 @@
    "description": "<p>Comprende la preparación, colocación y manipulación segura de cargas explosivas, detonadores y materiales inestables. La dominan saboteadores, mineros y técnicos de demolición con demasiada experiencia en reparaciones urgentes. Su verdadero valor está en calcular qué se rompe, qué permanece en pie y qué puede despertar detrás de un mamparo.</p><p><strong>Cuándo se usa.</strong> Abrir una compuerta bloqueada sin perder la bodega; derribar una galería antes de que alcance el campamento; preparar una carga para sellar un túnel por el que algo enorme está aprendiendo a respirar.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.m1OEML5QpKC5e2R7",
+    "Compendium.mr-mothership-es.habilidades.Item.r05e9qYm5CXo1mkD",
+    "Compendium.mr-mothership-es.habilidades.Item.jJdeF2OHerjs9BH1"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -428,7 +442,9 @@
    "description": "<p>Abarca efectos, dosis, interacciones y conservación de medicamentos, sedantes, estimulantes y compuestos alienígenas. La dominan médicos de colonia, contrabandistas farmacéuticos y tripulantes que mantienen una enfermería con tres vendas y media. También permite detectar cuándo una cura experimental está alterando la mente antes que el cuerpo.</p><p><strong>Cuándo se usa.</strong> Tratar una intoxicación por aire reciclado; escoger un sedante para inmovilizar a un paciente violento; identificar qué sustancia reduce los espasmos causados por una señal que nadie más puede oír.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.r05e9qYm5CXo1mkD"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -449,7 +465,9 @@
    "description": "<p>Incluye movimiento, energía, presión, radiación y comportamiento de la materia en condiciones extremas. La dominan pilotos de pruebas, investigadores y técnicos que desconfían de cualquier aparato que no emita un ruido tranquilizador. Ayuda a convertir fenómenos extraños en problemas comprensibles, aunque la respuesta siga siendo salir corriendo.</p><p><strong>Cuándo se usa.</strong> Calcular una maniobra con los propulsores dañados; prever el rebote de una carga en gravedad reducida; determinar si una distorsión en el espacio es natural o está siguiendo a la nave.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.R7yDVrT4ag6kfXy4"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -470,7 +488,9 @@
    "description": "<p>Abarca sistemas informáticos, redes internas, controles remotos y medidas de seguridad digitales. La dominan técnicos de comunicaciones, ladrones corporativos y jóvenes que crecieron desmontando terminales prohibidos. Requiere pensar como una máquina paranoica: cada acceso deja rastro, cada puerta puede estar cerrada por alguien que ya no existe.</p><p><strong>Cuándo se usa.</strong> Recuperar el control de una nave desde un terminal auxiliar; borrar una orden de descarga peligrosa; entrar en una cámara sellada y descubrir que el sistema ha registrado movimientos de una persona muerta.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.MTX5YUkOjgi9WIN4"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -491,7 +511,10 @@
    "description": "<p>Comprende motores, circuitos, juntas, herramientas y reparaciones improvisadas en vehículos, naves y maquinaria industrial. La dominan mecánicos de muelle, chatarreros y pilotos que aprendieron a escuchar una vibración antes de que se convierta en explosión. La experiencia cuenta tanto como el manual, sobre todo cuando falta la pieza correcta.</p><p><strong>Cuándo se usa.</strong> Reparar el soporte vital con piezas de un montacargas; mantener operativo un motor durante un aterrizaje forzoso; descubrir que un ruido del casco procede de algo que se ha instalado dentro de la nave.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.PJbXzxapkffufND9",
+    "Compendium.mr-mothership-es.habilidades.Item.m1OEML5QpKC5e2R7"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -512,7 +535,10 @@
    "description": "<p>Incluye primeros auxilios, estabilización, suturas, amputaciones de emergencia y atención sin instrumental adecuado. La dominan médicos de frontera, tripulantes de rescate y cualquiera que haya aprendido a trabajar con una mano mientras la otra sujeta una compresa. No sustituye una clínica, pero mantiene vivos a los pacientes hasta encontrar una.</p><p><strong>Cuándo se usa.</strong> Detener una hemorragia tras una descompresión; inmovilizar una fractura durante una tormenta de polvo; mantener consciente a alguien cuyas heridas no coinciden con las marcas que presenta su traje.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.UO8iypj9rV6qAjEW",
+    "Compendium.mr-mothership-es.habilidades.Item.NcS9UmpV3NZQgIzx"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -534,7 +560,10 @@
    "description": "<p>Abarca prospección, extracción, lectura de vetas y trabajo con maquinaria en asteroides, lunas y planetas hostiles. La dominan mineros contratados, buscadores independientes y capataces que conocen el precio de cada tonelada. También enseña a detectar cavidades, gases y señales de que la roca no es tan inerte como parece.</p><p><strong>Cuándo se usa.</strong> Localizar un filón bajo una plataforma inestable; abrir una ruta segura en un asteroide hueco; identificar una vibración profunda que no procede de ninguna perforadora y ordenar el abandono antes de que responda.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.KBDOdIL0RQJlhPxg",
+    "Compendium.mr-mothership-es.habilidades.Item.PJbXzxapkffufND9"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -554,7 +583,11 @@
    "description": "<p>Comprende visiones, símbolos, presagios, estados alterados y prácticas espirituales nacidas lejos de las instituciones reconocidas. Lo dominan ocultistas, peregrinos, supervivientes de cultos y personas que han mirado demasiado tiempo el cielo. No garantiza respuestas, pero ayuda a reconocer patrones cuando la razón empieza a quedarse sin herramientas.</p><p><strong>Cuándo se usa.</strong> Interpretar dibujos repetidos en los mamparos; distinguir una alucinación de un mensaje compartido; encontrar una pauta en los sueños de la tripulación antes de que todos abran la misma puerta.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.8ImPiOaSwNhsvtSZ",
+    "Compendium.mr-mothership-es.habilidades.Item.FMGiQDMsWkFcDCit",
+    "Compendium.mr-mothership-es.habilidades.Item.ljRLqm74ePxJQ9jy"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -575,7 +608,10 @@
    "description": "<p>Estudia enfermedades, lesiones, deformaciones y causas de muerte mediante signos visibles y análisis básicos. La dominan forenses, médicos de cuarentena y técnicos que han examinado cadáveres donde no debería haberlos. Permite separar infección, accidente, violencia y algo nuevo que está aprendiendo a usar un cuerpo humano.</p><p><strong>Cuándo se usa.</strong> Determinar cuánto tiempo lleva muerto un tripulante; distinguir una plaga de una mutación ambiental; descubrir que varias víctimas comparten una lesión interna producida antes de que llegaran a la misma sala.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.UO8iypj9rV6qAjEW",
+    "Compendium.mr-mothership-es.habilidades.Item.NcS9UmpV3NZQgIzx"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -596,7 +632,9 @@
    "description": "<p>Quien domina esta disciplina entiende motores, inercias y rutas de aproximación como si fueran reflejos. Puede llevar una lanzadera con los mandos medio fundidos, calcular una entrada peligrosa o mantener el pulso mientras algo golpea el casco. Los pilotos expertos conocen los trucos de los astilleros baratos y las malas costumbres de cada nave.</p><p><strong>Cuándo se usa.</strong> Para atracar durante una tormenta de polvo; esquivar restos orbitales con los sensores apagados; aterrizar en terreno inestable. También sirve para escapar de una presencia que persigue la nave sin aparecer en los instrumentos.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.GQevna2pr8lonuGn"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -617,7 +655,11 @@
    "description": "<p>Esta habilidad permite leer conductas, detectar mentiras y reconocer cuándo el miedo se convierte en peligro. Incluye entrevistas, interrogatorios y una comprensión práctica de la culpa, la paranoia y la obediencia. La dominan médicos, negociadores y tripulantes que han sobrevivido a demasiados turnos junto a desconocidos encerrados en metal.</p><p><strong>Cuándo se usa.</strong> Para calmar a un técnico atrincherado en la sala de máquinas; descubrir quién oculta información tras un accidente; identificar al miembro de la tripulación que ya no reacciona como una persona. También ayuda a distinguir un brote de pánico de una influencia realmente inhumana.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.1RP18B7WiLmoxl6O",
+    "Compendium.mr-mothership-es.habilidades.Item.UO8iypj9rV6qAjEW",
+    "Compendium.mr-mothership-es.habilidades.Item.NcS9UmpV3NZQgIzx"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -638,7 +680,10 @@
    "description": "<p>La experiencia enseña a encontrar agua, refugio y alimento donde solo parece haber polvo, hielo o ruinas. Abarca rastreo, orientación, lectura del clima y administración de recursos. Quienes la dominan suelen desconfiar de los mapas corporativos y saben qué sonidos del exterior anuncian una tormenta, un depredador o algo peor.</p><p><strong>Cuándo se usa.</strong> Para cruzar un cañón sin perder el rumbo; improvisar un refugio antes de que caiga la noche; localizar suministros tras un aterrizaje forzoso. También permite sobrevivir cuando las huellas alrededor del campamento cambian de dirección sin que nadie las haya tocado.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.NcS9UmpV3NZQgIzx",
+    "Compendium.mr-mothership-es.habilidades.Item.jJdeF2OHerjs9BH1"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -659,7 +704,9 @@
    "description": "<p>Comprende implantes, prótesis, interfaces nerviosas y sistemas de soporte vital conectados al cuerpo. Un especialista puede reparar tecnología médica sin manual, detectar modificaciones clandestinas y separar un fallo de hardware de una alteración en la mente del paciente. Los mejores trabajan con piezas recicladas y nunca preguntan quién instaló el primer implante.</p><p><strong>Cuándo se usa.</strong> Para reactivar un brazo mecánico bloqueado; diagnosticar una interfaz que transmite recuerdos ajenos; mantener con vida a alguien unido a un soporte improvisado. También ayuda a descubrir si una señal extraña está entrando por los implantes de toda la tripulación.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.Lj96lyl6X1ZgBof2"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -680,7 +727,10 @@
    "description": "<p>La práctica quirúrgica permite abrir, reparar y cerrar un cuerpo en condiciones miserables. Incluye anatomía, control de hemorragias, extracción de cuerpos extraños y decisiones rápidas cuando faltan instrumental o anestesia. La dominan cirujanos, paramédicos de frontera y veteranos capaces de trabajar mientras la nave vibra por impactos.</p><p><strong>Cuándo se usa.</strong> Para extraer una esquirla durante un viaje sin gravedad; reparar una herida contaminada en un planeta hostil; estabilizar a un compañero antes de llegar a una enfermería. También sirve para retirar algo que se mueve bajo la piel y no aparece en ninguna prueba normal.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.PTtgprCpvIN2q1jv",
+    "Compendium.mr-mothership-es.habilidades.Item.dMW0kzACHbGHxc60"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -701,7 +751,9 @@
    "description": "<p>Esta disciplina estudia organismos que no comparten nuestra historia evolutiva. Abarca anatomía alienígena, toxinas, ciclos vitales y señales de comportamiento. Los exobiólogos expertos saben cuándo una criatura está herida, hambrienta o fingiendo docilidad. También reconocen los errores de etiquetado que convierten una muestra de laboratorio en una emergencia de cuarentena.</p><p><strong>Cuándo se usa.</strong> Para identificar si una secreción es veneno o alimento; determinar cómo atraer o evitar una criatura subterránea; analizar un organismo hallado en los conductos. También permite detectar que algo está imitando la biología humana sin comprender del todo cómo funciona un cuerpo.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.PTtgprCpvIN2q1jv"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -722,7 +774,11 @@
    "description": "<p>Quien conoce el hiperespacio entiende rutas imposibles, mareas gravitatorias y los efectos que deja un salto mal calculado. Puede interpretar cartas antiguas, reconocer zonas donde los relojes pierden sentido y trabajar con navegadores que emiten instrucciones contradictorias. Es una especialidad reservada a quienes aceptan que el universo no siempre conserva la misma forma.</p><p><strong>Cuándo se usa.</strong> Para corregir una ruta antes de emerger dentro de una estrella; explicar por qué la tripulación ha envejecido de forma distinta; encontrar el camino de regreso tras un salto incompleto. También ayuda a reconocer una coordenada que parece escrita para ser encontrada.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.wI1HtEPjSee60KK4",
+    "Compendium.mr-mothership-es.habilidades.Item.nilwkGQNRgRkrhqb",
+    "Compendium.mr-mothership-es.habilidades.Item.LVOBBi34LwgDNUSo"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -743,7 +799,9 @@
    "description": "<p>La ingeniería reúne conocimientos de motores, estructuras, energía y mantenimiento industrial. Sus expertos mantienen operativas naves que deberían estar en un desguace y convierten chatarra en soluciones provisionales. Saben qué piezas pueden intercambiarse, qué ruidos son normales y qué vibración significa que la cubierta va a abrirse.</p><p><strong>Cuándo se usa.</strong> Para reparar un reactor con herramientas incompletas; sellar una brecha durante una descompresión; desviar energía hacia un sistema crítico. También permite cortar una transmisión que está alterando los circuitos y haciendo que la nave responda a voces inexistentes.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.Lj96lyl6X1ZgBof2"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -765,7 +823,9 @@
    "description": "<p>Esta especialidad trata con sistemas que aprenden, deciden y ocultan sus procesos. Incluye arquitectura de redes, límites de conducta, copias de seguridad y negociación con inteligencias creadas para servir. Un maestro sabe cuándo una máquina está fallando, mintiendo o siguiendo una orden antigua que nadie recuerda haber dado.</p><p><strong>Cuándo se usa.</strong> Para recuperar el control de una nave que ha cerrado sus puertas; auditar una inteligencia que borra registros; negociar con un sistema de defensa olvidado. También ayuda a comprobar si la voz de la computadora procede de su código o de algo que ha aprendido a usarlo.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.rpFo74BhXGukukXl"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -785,7 +845,10 @@
    "description": "<p>Mando significa tomar decisiones cuando todos esperan que otro las tome. Abarca coordinación, autoridad, reparto de tareas y lectura del ánimo colectivo. Los buenos mandos inspiran confianza sin prometer milagros, escuchan informes incompletos y mantienen una misión en marcha incluso cuando la empresa ha decidido que la tripulación es prescindible.</p><p><strong>Cuándo se usa.</strong> Para organizar una evacuación con la nave dañada; imponer una cadena de órdenes durante un motín; convencer a un grupo de trabajadores de cruzar una zona peligrosa. También permite mantener la cohesión cuando alguien asegura que la oscuridad exterior está aprendiendo nuestros nombres.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.wI1HtEPjSee60KK4",
+    "Compendium.mr-mothership-es.habilidades.Item.gNilgkvUFKuoUbf5"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -806,7 +869,10 @@
    "description": "<p>La planetología interpreta mundos a partir de su terreno, atmósfera, clima y pasado geológico. Permite leer mapas incompletos, anticipar cambios ambientales y distinguir una formación natural de una estructura enterrada. Sus maestros conocen los peligros que esconden los planetas explotados y sospechan de cualquier paisaje demasiado perfecto.</p><p><strong>Cuándo se usa.</strong> Para elegir una zona segura de aterrizaje; prever una avalancha en una luna helada; localizar minerales sin entrar en una cuenca inestable. También ayuda a reconocer un patrón geológico que no puede haberse formado de manera natural.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.nYceZH2LLQp2EvsU",
+    "Compendium.mr-mothership-es.habilidades.Item.ViVocEznwAsSLYoR"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -827,7 +893,9 @@
    "description": "<p>La robótica cubre diseño, reparación y control de máquinas autónomas o remotas. Sus maestros entienden sensores, actuadores y rutinas de obediencia, pero también las costumbres adquiridas por unidades que llevan años sin mantenimiento. Pueden reconstruir un dron con piezas incompatibles y saben que toda máquina conserva algún rencor en sus registros.</p><p><strong>Cuándo se usa.</strong> Para reprogramar un cargador hostil; enviar un dron a explorar una instalación contaminada; reparar una unidad que protege una puerta sellada. También sirve para detectar cuándo varios robots están siguiendo instrucciones coordinadas desde una fuente que no figura en la red.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.Lj96lyl6X1ZgBof2"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -848,7 +916,9 @@
    "description": "<p>La sofontología estudia las inteligencias conscientes, sus culturas y sus formas de pensar. Incluye comunicación, razonamiento no humano y análisis de sociedades que no reconocen nuestra idea de individuo. Quienes la dominan pueden negociar con entidades extrañas, interpretar tabúes alienígenas y aceptar que una conversación quizá no tenga lugar entre dos mentes equivalentes.</p><p><strong>Cuándo se usa.</strong> Para traducir una señal de origen desconocido; negociar con una colonia que considera viva a la nave; comprender un ritual de una especie hostil. También ayuda a identificar una inteligencia que conversa con la tripulación usando recuerdos que nadie le ha contado.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.oDt8PUgeIRBU0PqC"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -869,7 +939,9 @@
    "description": "<p>Esta disciplina reúne símbolos, ritos y tradiciones vinculadas a fenómenos que la ciencia corriente prefiere ignorar. No ofrece respuestas cómodas. Sus maestros reconocen patrones en cultos, artefactos y coordenadas antiguas, y saben qué preguntas no deben formularse dos veces. A menudo aprendieron de archivos confiscados o de supervivientes poco fiables.</p><p><strong>Cuándo se usa.</strong> Para interpretar marcas grabadas en una compuerta alienígena; identificar el propósito de un objeto encontrado en una ruina; reconocer un ritual antes de que termine. También puede revelar qué presencia responde cuando la tripulación repite una frase que creyó leer en un sueño.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.LVOBBi34LwgDNUSo"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -890,7 +962,9 @@
    "description": "<p>Reconoces especies útiles, venenosas o alteradas por radiación, vacío y ecosistemas imposibles. Sabes cultivar en módulos de carga, mantener huertos hidropónicos y distinguir una mutación peligrosa de una simple rareza. La dominan granjeros orbitales, biólogos de expedición y tripulantes que han aprendido a no fiarse de una planta inmóvil.</p><p><strong>Cuándo se usa.</strong> Identificar un moho que corroe los filtros; encontrar alimento en un planeta sin mapas; preparar un cultivo de emergencia. También para descubrir que las flores de un invernadero reaccionan a los pensamientos y decidir cómo atravesarlo sin atraer aquello que las escucha.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.NcS9UmpV3NZQgIzx"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -911,7 +985,10 @@
    "description": "<p>Resuelves averías con piezas incompatibles, herramientas gastadas y tiempo de sobra solo en las películas. Comprendes cableados improvisados, juntas, cierres, sensores y sistemas que funcionan por costumbre más que por diseño. La manejan mecánicos de cubierta, chatarreros espaciales y cualquiera que haya heredado una nave con demasiados dueños anteriores.</p><p><strong>Cuándo se usa.</strong> Puentear una compuerta que no abre; mantener encendido el soporte vital con repuestos de cocina; silenciar un motor antes de que despierte a algo del casco. También para improvisar una alarma que avise si una presencia invisible cruza el pasillo.</p>",
    "rank": "Expert",
    "bonus": 15,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.m1OEML5QpKC5e2R7",
+    "Compendium.mr-mothership-es.habilidades.Item.PJbXzxapkffufND9"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -932,7 +1009,10 @@
    "description": "<p>Conoces grúas, prensadoras, excavadoras, soldadores, montacargas y demás bestias de fábrica. Sabes qué pueden hacer, cuándo van a fallar y cómo utilizarlas sin convertir al operario en parte del mecanismo. La dominan estibadores veteranos, supervisores de astillero y cuadrillas acostumbradas a trabajar donde la seguridad es un cartel descolorido.</p><p><strong>Cuándo se usa.</strong> Desatascar un contenedor bajo presión; mover una compuerta blindada en una mina; usar una perforadora para abrir una ruta de evacuación. También para reconocer que una máquina sigue funcionando sin operador y cortar su alimentación antes de que termine el trabajo con alguien dentro.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.Lj96lyl6X1ZgBof2",
+    "Compendium.mr-mothership-es.habilidades.Item.ViVocEznwAsSLYoR"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -953,7 +1033,10 @@
    "description": "<p>Entiendes la jerga, las jerarquías y las mentiras habituales de las grandes compañías. Lees contratos, identificas intereses ocultos y sabes qué departamento puede borrar un accidente antes de que llegue al informe. La dominan negociadores, auditores, enlaces de seguridad y empleados que han sobrevivido a varias reestructuraciones sin perder la memoria.</p><p><strong>Cuándo se usa.</strong> Averiguar quién pagó una expedición abandonada; detectar una cláusula que convierte a la tripulación en propiedad; presionar a un supervisor para conseguir suministros. También para reconocer un protocolo de contención diseñado para ocultar un brote y decidir cuándo dejar de obedecer.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.oDt8PUgeIRBU0PqC",
+    "Compendium.mr-mothership-es.habilidades.Item.rpFo74BhXGukukXl"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -974,7 +1057,10 @@
    "description": "<p>Exploras la percepción, la voluntad y los fenómenos que no caben en un informe médico. Reconoces presencias mentales, ecos de conciencia y señales que llegan sin transmisor. La dominan estudiosos de lo inexplicable, supervivientes de encuentros imposibles y personas que aprendieron a cerrar una puerta dentro de su propia cabeza.</p><p><strong>Cuándo se usa.</strong> Detectar una mente donde no debería haberla; distinguir una visión de un recuerdo implantado; mantener la concentración ante un susurro que conoce tu nombre. También para resistir una influencia ajena el tiempo suficiente para advertir a la tripulación o escapar de una zona maldita.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.LVOBBi34LwgDNUSo",
+    "Compendium.mr-mothership-es.habilidades.Item.oDt8PUgeIRBU0PqC"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -995,7 +1081,10 @@
    "description": "<p>Sabes vivir lejos de pasillos presurizados, tiendas de suministros y mapas que no mienten. Encuentras agua, refugio y rutas seguras; lees rastros, clima y terreno. La dominan exploradores, colonos, desertores y tripulantes que han pasado noches enteras escuchando cómo algo grande rodeaba su campamento sin dejar huellas.</p><p><strong>Cuándo se usa.</strong> Cruzar un páramo tóxico sin perder el rumbo; localizar refugio antes de una tormenta eléctrica; seguir señales de una colonia desaparecida. También para ocultar el campamento, reconocer rastros no humanos y preparar una retirada antes de que el paisaje empiece a moverse.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.iu1K8j6EP0TMJ6b2",
+    "Compendium.mr-mothership-es.habilidades.Item.nYceZH2LLQp2EvsU"
+   ],
    "class_tags": []
   },
   "effects": [],
@@ -1016,7 +1105,10 @@
    "description": "<p>Atiendes heridas con material limitado, diagnósticos incompletos y pacientes que preferirían no saber cuánto duele. Comprendes traumatismos, infecciones, intoxicaciones y los efectos de trabajar demasiado cerca de maquinaria o fenómenos desconocidos. La dominan médicos de emergencia, sanitarios de plataforma y veteranos que han convertido el miedo en procedimiento.</p><p><strong>Cuándo se usa.</strong> Estabilizar a alguien tras una descompresión; tratar una quemadura química con suministros de la nave; decidir si una fiebre procede de una infección o de algo que está creciendo dentro. También para mantener con vida a una persona afectada por el horror hasta encontrar una salida segura.</p>",
    "rank": "Master",
    "bonus": 20,
-   "prerequisite_ids": [],
+   "prerequisite_ids": [
+    "Compendium.mr-mothership-es.habilidades.Item.dMW0kzACHbGHxc60",
+    "Compendium.mr-mothership-es.habilidades.Item.PTtgprCpvIN2q1jv"
+   ],
    "class_tags": []
   },
   "effects": [],

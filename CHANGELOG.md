@@ -1,5 +1,11 @@
 # Cambios
 
+## 1.5.1 - 2026-10-30
+- **Árbol de habilidades de Mothership 1e en el generador.** Las habilidades expertas y maestras no tenían requisitos previos (ni en el compendio original ni en los mundos antiguos), así que el generador ofrecía cualquier experta/maestra, o ninguna en las elecciones sueltas. Ahora cada experta y maestra lleva sus requisitos según el esquema de la hoja de personaje oficial (p. ej. Cirugía ← Patología o Medicina de campo ← Zoología o Botánica; Hiperespacio ← Pilotar, Física o Misticismo). En el diálogo «maestra + experta + entrenada» cada desplegable solo ofrece el camino válido de lo elegido arriba; en las elecciones sueltas solo salen expertas cuyo requisito ya tienes.
+- Los desplegables de ese diálogo no filtraban nunca (Foundry elimina el `onchange` del HTML del diálogo): ahora se escucha el cambio desde el módulo.
+- **Clases oficiales alineadas con la hoja:** Marine y Androide (1 experta o 2 entrenadas, sin regalar el requisito), Científico (maestra con requisitos + 1 entrenada + 1 experta; le faltaba la experta) y Tripulante (1 entrenada + 1 experta).
+- Las habilidades propias de clase (Apaños técnicos, Saber corporativo, Psiónica, Supervivencia agreste…) llevan requisitos razonables añadidos por el autor del módulo.
+
 ## 1.5.0 - 2026-10-30
 - **Descripciones completas** para las 16 clases (ambientación, cómo interpretarlas con frases de ejemplo y ganchos de trasfondo), 39 armas y 42 armaduras y prendas (en tono de catálogo, conservando debajo la regla original), 49 habilidades (qué abarcan y cuándo se usan), 184 objetos y equipo, y las 100 averías de mantenimiento (qué se ve, qué lo causa y un gancho de escena para el Guardián).
 - **Generador de personajes con nombre y biografía:** nuevo selector de sexo (aleatorio, hombre, mujer, no binario) y botón «Nombre y biografía». Al elegir clase se propone un nombre (con mote a veces) y una biografía de varios párrafos a medida de la clase, el equipo, las habilidades, el parche y la baratija; se puede editar y se guarda en la ficha. Reservas amplias por clase y sin repetir frases entre personajes seguidos.

@@ -143,6 +143,50 @@ TILDES = {'Arqueologia': 'Arqueología', 'Botanica': 'Botánica', 'Geologia': 'G
           'Planetologia': 'Planetología', 'Robotica': 'Robótica', 'Sofontologia': 'Sofontología', 'Conocimientos del Borde exterior': 'Conocimientos del Borde Exterior', 'Lingüista': 'Lingüística'}
 for h in packs['habilidades']: h['name'] = TILDES.get(h['name'], h['name'])
 
+# árbol de habilidades de la hoja de personaje oficial (Mothership 1e): requisitos previos de cada experta y maestra.
+# El sistema filtra con system.prerequisite_ids (UUID completos) y exige tener al menos uno de ellos.
+PRE = {
+ 'Psicología': ['Lingüística', 'Zoología', 'Botánica'], 'Patología': ['Zoología', 'Botánica'], 'Medicina de campo': ['Zoología', 'Botánica'],
+ 'Ecología': ['Botánica', 'Geología'], 'Minería espacial': ['Geología', 'Equipo industrial'], 'Mecánica': ['Equipo industrial', 'Reparación'],
+ 'Explosivos': ['Reparación', 'Química', 'Entrenamiento militar'], 'Farmacología': ['Química'], 'Hackeo': ['Computadoras'],
+ 'Pilotar': ['Gravedad cero'], 'Física': ['Matemáticas'], 'Misticismo': ['Arte', 'Arqueología', 'Teología'],
+ 'Supervivencia': ['Botánica', 'Entrenamiento militar'], 'Armas de fuego': ['Entrenamiento militar', 'Conocimientos del Borde Exterior'],
+ 'Combate cuerpo a cuerpo': ['Entrenamiento militar', 'Conocimientos del Borde Exterior', 'Atletismo'],
+ # habilidades propias de clase (no salen en la hoja oficial; requisitos razonables)
+ 'Apaños técnicos': ['Reparación', 'Equipo industrial'],
+}
+PRE_MAESTRA = {
+ 'Sofontología': ['Psicología'], 'Exobiología': ['Patología'], 'Cirugía': ['Patología', 'Medicina de campo'], 'Planetología': ['Ecología', 'Minería espacial'],
+ 'Robótica': ['Mecánica'], 'Ingeniería': ['Mecánica'], 'Cibernética': ['Mecánica'], 'Inteligencia artificial': ['Hackeo'],
+ 'Hiperespacio': ['Pilotar', 'Física', 'Misticismo'], 'Xenoesoterismo': ['Misticismo'], 'Mando': ['Pilotar', 'Armas de fuego'],
+ # de clase
+ 'Equipo industrial': ['Mecánica', 'Minería espacial'], 'Saber corporativo': ['Psicología', 'Hackeo'], 'Psiónica': ['Misticismo', 'Psicología'],
+ 'Supervivencia agreste': ['Supervivencia', 'Ecología'], 'Medicina de campo': ['Medicina de campo', 'Patología'],
+}
+def _uuid(nombre, rango):
+    for h in packs['habilidades']:
+        if h['name'] == nombre and h['system']['rank'] == rango: return f'Compendium.{ID}.habilidades.Item.{h["_id"]}'
+    raise KeyError((nombre, rango))
+for h in packs['habilidades']:
+    rango = h['system']['rank']
+    if rango == 'Expert':
+        h['system']['prerequisite_ids'] = [_uuid(n, 'Trained') for n in PRE.get(h['name'], [])] if h['name'] != 'Botánica' else [_uuid('Botánica', 'Trained')]
+    elif rango == 'Master':
+        h['system']['prerequisite_ids'] = [_uuid(n, 'Expert') for n in PRE_MAESTRA[h['name']]]
+    else: h['system']['prerequisite_ids'] = []
+    if rango != 'Trained' and not h['system']['prerequisite_ids']: raise SystemExit(f'sin requisitos: {h["name"]}')
+
+# las cuatro clases de la hoja oficial: las habilidades de bonificación son exactamente las de la hoja
+# (Marine/Androide: 1 experta O 2 entrenadas; Científico: 1 maestra con requisitos + 1 entrenada + 1 experta; Tripulante: 1 entrenada + 1 experta).
+# «experta» suelta = una experta cuyo requisito ya se tiene; no se regala el requisito.
+def _vacio(**k): return {'trained': 0, 'expert': 0, 'expert_full_set': 0, 'master': 0, 'master_full_set': 0, **k}
+for c in packs['clases']:
+    sel = c['system']['selected_adjustment']
+    if c['name'] in ('Marine', 'Androide'):
+        sel['choose_skill_or'] = [[{'name': '1 habilidad experta', 'from_list': [], **_vacio(expert=1)}, {'name': '2 habilidades entrenadas', 'from_list': [], **_vacio(trained=2)}]]
+    elif c['name'] == 'Científico': sel['choose_skill_and'] = _vacio(trained=1, expert=1, master_full_set=1)
+    elif c['name'] == 'Tripulante': sel['choose_skill_and'] = _vacio(trained=1, expert=1)
+
 # erratas de nombres (tildes y mayúsculas iniciales) en armas, armaduras y objetos
 NOMBRES = {'Revolver': 'Revólver', 'traje de vacio': 'Traje de vacío', 'Traje de peligro biologico': 'Traje de peligro biológico',
            'Cinturon de herramientes variadas': 'Cinturón de herramientas variadas', 'Dispositivo de Filtración de Agua': 'Dispositivo de filtración de agua',
