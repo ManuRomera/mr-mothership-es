@@ -98,6 +98,9 @@ for f in sorted(SRC.glob('pack.*.json')):
         if not t: continue
         e = {k: t[k] for k in ('name', 'description') if k in t}
         if o['name'] == 'Bleeding' and pack.startswith('conditions'): e['name'] = 'Bleeding'  # el código lo busca por nombre
+        # el sistema compara el nombre de estas tablas en inglés (suma la herida, pánico 19, dado de pánico): se conserva y se traduce en pantalla
+        if pack.startswith('rolltables') and (o['name'].endswith('Wound') or o['name'].startswith('Panic Check')) and e.get('name'):
+            lit[o['name']] = e['name']; lit[o['name'].split(' (')[0]] = e['name'].split(' (')[0]; e['name'] = o['name']
         if 'results' in t: e['results'] = t['results']
         if pack.startswith('macros'):
             cmd = json.loads([l for l in (R/f'work/upstream/packs/{pack}.db').read_text().splitlines() if f'"{i}"' in l][0])['command']
@@ -111,6 +114,7 @@ for f in sorted(SRC.glob('pack.*.json')):
     json.dump({'label': f'{ETIQ[base]} ({ed})', 'mapping': {'description': 'system.description'} if base in ('conditions', 'items_maintenance') else {}, 'entries': ent},
               open(R/f'compendium/mosh.{pack}.json', 'w'), ensure_ascii=False, indent=1)
     print(pack, len(ent), '/', len(orig))
+json.dump({'literales': lit, 'patrones': patrones}, open(R/'lang/literales.json', 'w'), ensure_ascii=False, indent=1)
 print('lang faltan:', len(faltan), 'literales:', len(lit))
 
 # averías de mantenimiento: descripciones largas (tools/describir.py averias)

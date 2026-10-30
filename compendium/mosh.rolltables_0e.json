@@ -14,7 +14,7 @@
    }
   },
   "1vCm4ElRPotQXgNB": {
-   "name": "Tirada de Pánico (Estrés, Normal)",
+   "name": "Panic Check (Stress, Normal)",
    "description": "<p>Tarde o temprano, el Estrés, el Daño y el desgaste emocional te llevarán a tu límite. Cuando eso ocurra, existe la posibilidad de que pierdas el control y entres en Pánico. Para determinar si eres capaz de mantener la calma bajo una presión extrema, haz una <strong>Tirada de Pánico</strong>. Aunque los resultados son principalmente negativos, también cabe la posibilidad de conservar la serenidad bajo el fuego.</p>",
    "results": {
     "gjINwaOSGbiQf15s": "<strong>Concentración láser.</strong> Ventaja en todas las tiradas durante las próximas [[/r 1d10]] horas.",
@@ -39,7 +39,7 @@
    }
   },
   "egJ11m2mJM3HBd6d": {
-   "name": "Tirada de Pánico (Estrés, Androide)",
+   "name": "Panic Check (Stress, Android)",
    "description": "<p>Tarde o temprano, el Estrés, el daño y el desgaste emocional te llevarán al límite. Cuando eso ocurra, hay posibilidades de que pierdas el control y sufras un ataque de Pánico. Para determinar si eres capaz de mantener la calma bajo una presión extrema, haz una <strong>Tirada de Pánico</strong>. Aunque los resultados son principalmente negativos, siempre existe la posibilidad de conservar la sangre fría.</p>",
    "results": {
     "q5mugYTnrVaMKWds": "<strong>Enuncia las probabilidades:</strong> de cualquier suceso, Ventaja en las tiradas del grupo durante 1 hora.",
@@ -64,7 +64,7 @@
    }
   },
   "kqKpQAXyLTEEyz6Z": {
-   "name": "Tirada de Pánico (Calma, Normal)",
+   "name": "Panic Check (Calm, Normal)",
    "description": "<p>Tarde o temprano, el Estrés, el Daño y el desgaste emocional te llevarán a tu punto de ruptura. Cuando eso ocurra, existirá la posibilidad de que pierdas el control y entres en Pánico. Para determinar si eres capaz de mantener la calma bajo una presión extrema, haz una <strong>Tirada de Pánico</strong>. Aunque los resultados son principalmente negativos, también cabe la posibilidad de mostrar temple bajo el fuego.</p>",
    "results": {
     "j4DoLMc3VuClnoxz": "<strong>Colapso psicológico.</strong> Te vuelves loco de forma permanente e irreparable. Ahora el Guardián interpreta a tu personaje. Todos los personajes jugadores cercanos deben hacer tiradas de Pánico inmediatamente.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.TJP579V4h7t68jY1]{+1 Loco}<br><br>@UUID[Compendium.mosh.macros_hotbar_0e.Macro.eyGvbBi1BhWSgfUP]{Haz una tirada de Pánico}",
@@ -98,7 +98,7 @@
    }
   },
   "VW6HQ29T7zClNIZ6": {
-   "name": "Tirada de Pánico (Calma, Androide)",
+   "name": "Panic Check (Calm, Android)",
    "description": "<p>Tarde o temprano, el Estrés, el Daño y el desgaste emocional te llevarán a tu punto de ruptura. Cuando eso ocurra, existe la posibilidad de que pierdas el control y entres en Pánico. Para determinar si eres capaz de mantener la calma bajo una presión extrema, haz una <strong>Tirada de Pánico</strong>. Aunque los resultados son principalmente negativos, existe la posibilidad de conservar la compostura bajo el fuego.</p>",
    "results": {
     "f1WTzsECpUEAIaKZ": "<strong>Fundido:</strong> Explosión craneal a lo Giger-Scanners. Todos los presentes ganan una fobia y deben hacer una salvación de Miedo o perder 1d10 de Calma.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.Er4ULzvdn2urxuet]{Salvación de Miedo}<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.5jMEd9JjJPIJBKHr]{-1d10 Calma}",

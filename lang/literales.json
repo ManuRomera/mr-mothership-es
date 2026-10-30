@@ -312,7 +312,16 @@
   "body": "Cuerpo",
   "+1 Stress": "+1 Estrés",
   "-1d10 Calm": "-1d10 Calma",
-  "Calm": "Calma"
+  "Calm": "Calma",
+  "Panic Check (Stress, Normal)": "Tirada de Pánico (Estrés, Normal)",
+  "Panic Check (Stress, Android)": "Tirada de Pánico (Estrés, Androide)",
+  "Panic Check (Calm, Normal)": "Tirada de Pánico (Calma, Normal)",
+  "Panic Check (Calm, Android)": "Tirada de Pánico (Calma, Androide)",
+  "Blunt Force Wound": "Herida por traumatismo contundente",
+  "Bleeding Wound": "Herida sangrante",
+  "Gunshot Wound": "Herida por disparo",
+  "Fire & Explosives Wound": "Herida de Fuego y explosivos",
+  "Gore & Massive Wound": "Herida de Desgarro y masivo"
  },
  "patrones": [
   {
@@ -368,7 +377,7 @@
    }
   },
   {
-   "en": "^(.*?)((?:Minimum |Maximum )?)(Bankruptcy|Thrusters|Intellect|Bleeding|Instinct|Strength|Resolve|Loyalty|Systems|Battle|Combat|Sanity|Stress|Health|Net HP|Wounds|Armor|Speed|Body|Calm|Fear) (increased|decreased) from$",
+   "en": "^(.*?)((?:Minimum |Maximum )?)(Bankruptcy|Intellect|Thrusters|Strength|Bleeding|Instinct|Resolve|Loyalty|Systems|Stress|Combat|Health|Battle|Net HP|Sanity|Wounds|Speed|Armor|Calm|Body|Fear) (increased|decreased) from$",
    "es": "$1$3 $2$4 de",
    "map": {
     "Minimum": "mínimo",

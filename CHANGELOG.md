@@ -1,5 +1,15 @@
 # Cambios
 
+## 1.6.0 - 2026-10-30
+- **Aplicar daño desde el chat.** Las tarjetas de daño de un arma traen dos botones: «Aplicar a objetivos» (tokens marcados con T) y «A seleccionados». Se aplican las reglas de la Guía de supervivencia (cap. 28-29):
+  - primero la **reducción de daño** (de la armadura y de la cobertura pesada);
+  - la **cobertura** (solo contra ataques a distancia) y la **armadura** ignoran el daño menor que sus PA; si el daño los iguala o supera, se destruyen y pasa el resto. Las armas **antiarmadura** ignoran y destruyen la armadura;
+  - la armadura destruida se desequipa y pasa a llamarse «… (destruida)»; la cobertura vuelve a «ninguna»;
+  - al llegar la salud a 0 se sufre una **herida** y se tira en la tabla del tipo de herida del arma (con su [+]/[−]); un golpe enorme puede encadenar varias heridas;
+  - con las heridas al máximo, el Guardián tira **en secreto** la salvación de muerte (a ciegas); las criaturas quedan marcadas como muertas.
+  - Un resumen en el chat explica paso a paso qué absorbió el daño. Si un jugador aplica daño a un token que no es suyo, lo ejecuta el Guardián conectado.
+- **Corrección:** con los nombres de las tablas traducidos, el sistema dejaba de sumar la herida al tirar en una tabla de heridas y de aplicar el resultado 19 de la tabla de pánico (compara el nombre en inglés). Ahora esas tablas conservan el nombre original por dentro y se ven en español.
+
 ## 1.5.1 - 2026-10-30
 - **Árbol de habilidades de Mothership 1e en el generador.** Las habilidades expertas y maestras no tenían requisitos previos (ni en el compendio original ni en los mundos antiguos), así que el generador ofrecía cualquier experta/maestra, o ninguna en las elecciones sueltas. Ahora cada experta y maestra lleva sus requisitos según el esquema de la hoja de personaje oficial (p. ej. Cirugía ← Patología o Medicina de campo ← Zoología o Botánica; Hiperespacio ← Pilotar, Física o Misticismo). En el diálogo «maestra + experta + entrenada» cada desplegable solo ofrece el camino válido de lo elegido arriba; en las elecciones sueltas solo salen expertas cuyo requisito ya tienes.
 - Los desplegables de ese diálogo no filtraban nunca (Foundry elimina el `onchange` del HTML del diálogo): ahora se escucha el cambio desde el módulo.

@@ -23,7 +23,7 @@
    }
   },
   "ypcoikqHLhnc9tNs": {
-   "name": "Tirada de Pánico (Estrés, Normal)",
+   "name": "Panic Check (Stress, Normal)",
    "description": "<p>El Estrés, el daño y el desgaste emocional acaban llevando a los personajes a su punto de ruptura. Cuando eso ocurre, hay una posibilidad de que entren en Pánico. Lo determinas haciendo una <strong>Tirada de Pánico</strong>. Algunos resultados de la Tabla de Pánico son tan graves que te dejan una impresión duradera. Se llaman <strong>Condiciones</strong> y te afectan hasta que puedas tratarlas.</p>",
    "results": {
     "C3v1mSfDXIklIAUB": "<strong>SUBIDÓN DE ADRENALINA.</strong> [+] en todas las tiradas durante los próximos [[/r 2d10]] minutos. Reduce el Estrés en 1d5.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.AvKZE5IFubIaAIUy]{-1d5 Estrés}",
@@ -49,7 +49,7 @@
    }
   },
   "aBnY19jlhPXzibCt": {
-   "name": "Tirada de Pánico (Estrés, Androide)",
+   "name": "Panic Check (Stress, Android)",
    "description": "<p>El Estrés, el Daño y el desgaste emocional acaban llevando a los personajes a su punto de ruptura. Cuando eso ocurre, hay una posibilidad de que sufran Pánico. Lo determinas haciendo una <strong>Tirada de Pánico</strong>. Algunos resultados de la Tabla de Pánico son tan graves que te dejan una impresión duradera. Estos se denominan <strong>Condiciones</strong> y te afectan hasta que puedas tratarlos.</p>",
    "results": {
     "Uf9xMdlmk2RS9ev8": "<strong>Segfault:</strong> Ganas 1 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Estrés}",
@@ -75,7 +75,7 @@
    }
   },
   "MOYI6Ntj5OVFYk06": {
-   "name": "Tirada de Pánico (Calma, Normal)",
+   "name": "Panic Check (Calm, Normal)",
    "description": "<p>Tarde o temprano, el Estrés, el Daño y el desgaste emocional te llevarán a tu punto de ruptura. Cuando eso ocurra, hay posibilidades de que pierdas el control y entres en Pánico. Para determinar si eres capaz de mantener la calma bajo una presión extrema, haz una <strong>Tirada de Pánico</strong>. Aunque los resultados son principalmente negativos, existe la posibilidad de mostrar aplomo bajo el fuego.</p>",
    "results": {
     "DHvObevFoNX6o7Dc": "<strong>Colapso psicológico.</strong> Te vuelves loco de forma permanente e irreparable. Tu personaje pasa a ser interpretado por el Guardián. Todos los personajes jugadores cercanos deben hacer inmediatamente Tiradas de Pánico.<br><br>@UUID[Compendium.mosh.macros_triggered_0e.Macro.TJP579V4h7t68jY1]{+1 Locura}<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.IgWvaabVqzKDzLL4]{Haz una Tirada de Pánico}",
@@ -109,7 +109,7 @@
    }
   },
   "GCtYeCCQVQJ5M6SE": {
-   "name": "Tirada de Pánico (Calma, Androide)",
+   "name": "Panic Check (Calm, Android)",
    "description": "<p>Tarde o temprano, el Estrés, el daño y el desgaste emocional te llevarán a tu punto de ruptura. Cuando eso ocurra, hay una posibilidad de que pierdas el control y entres en Pánico. Para determinar si eres capaz de mantener la calma bajo una presión extrema, haz una <strong>Tirada de Pánico</strong>. Aunque los resultados son principalmente negativos, existe la posibilidad de mostrar temple bajo el fuego.</p>",
    "results": {
     "HWOLLg9BaqHHTic6": "<strong>Fundido:</strong> Explosión de cabeza estilo Giger con escáneres. Todos los presentes ganan una fobia y deben hacer una salvación de Miedo o perder 1d10 de Calma.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Salvación de Miedo}",
@@ -143,7 +143,7 @@
    }
   },
   "31YibfjueXuZdNLb": {
-   "name": "Herida por traumatismo contundente",
+   "name": "Blunt Force Wound",
    "description": "<p>Cuando sufras una herida por traumatismo contundente, tira en esta tabla para determinar el efecto. Las <strong>heridas superficiales</strong> son pequeños inconvenientes. Las <strong>lesiones leves/graves</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>lesiones letales</strong> pueden matarte si no se tratan de inmediato. Las <strong>lesiones fatales</strong> pueden matarte en el acto. Las heridas <strong>sangrantes</strong>, si no se tratan, pueden superarte rápidamente.</p>",
    "results": {
     "kGDBRdD9azQLJRDl": "<strong>Herida superficial:</strong> Derribado.",
@@ -159,7 +159,7 @@
    }
   },
   "ata3fRz3uoPfNCLh": {
-   "name": "Herida sangrante",
+   "name": "Bleeding Wound",
    "description": "<p>Cuando sufras una herida sangrante, tira en esta tabla para determinar el efecto. Las <strong>heridas superficiales</strong> son pequeños inconvenientes. Las <strong>lesiones leves/graves</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>lesiones letales</strong> pueden matarte si no se tratan de inmediato. Las <strong>lesiones fatales</strong> pueden matarte en el acto. Las heridas <strong>sangrantes</strong>, si no se tratan, pueden superarte rápidamente.</p>",
    "results": {
     "58jsAYGMOoYV0aXe": "<strong>Herida superficial:</strong> Sueltas el objeto que sostienes.",
@@ -175,7 +175,7 @@
    }
   },
   "XjDU2xFOWEasaZK0": {
-   "name": "Herida por disparo",
+   "name": "Gunshot Wound",
    "description": "<p>Cuando sufras una herida por disparo, tira en esta tabla para determinar el efecto. Las <strong>heridas superficiales</strong> son pequeños inconvenientes. Las <strong>lesiones leves/graves</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>lesiones letales</strong> pueden matarte si no se tratan de inmediato. Las <strong>lesiones fatales</strong> pueden matarte en el acto. Las heridas <strong>sangrantes</strong>, si no se tratan, pueden superarte rápidamente.</p>",
    "results": {
     "LubF6RyYnl11EmUj": "<strong>Herida superficial:</strong> Rozado. Derribado.",
@@ -191,7 +191,7 @@
    }
   },
   "lqiaWwh5cGcJhvnu": {
-   "name": "Herida de Fuego y explosivos",
+   "name": "Fire & Explosives Wound",
    "description": "<p>Cada vez que sufras una Herida de Fuego y explosivos, tira en esta tabla para determinar el efecto. Las <strong>Heridas leves</strong> son pequeñas molestias. Las <strong>Lesiones menores/mayores</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>Lesiones letales</strong> pueden matarte si no las tratas de inmediato. Las <strong>Lesiones fatales</strong> pueden matarte al instante. Las heridas de <strong>Sangrado</strong>, si no se tratan, pueden superarte rápidamente.</p>",
    "results": {
     "VYN9lwpyPTW4Hnmh": "<strong>Herida leve:</strong> Pelo quemado. Ganas 1d5 de Estrés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.luNKvwmm2tjUJhT6]{+1d5 Estrés}",
@@ -207,7 +207,7 @@
    }
   },
   "uVfC1CqYdojaJ7yR": {
-   "name": "Herida de Desgarro y masivo",
+   "name": "Gore & Massive Wound",
    "description": "<p>Cada vez que sufras una Herida de Desgarro y masivo, tira en esta tabla para determinar el efecto. Las <strong>Heridas leves</strong> son pequeñas molestias. Las <strong>Lesiones menores/mayores</strong> causan problemas duraderos que requieren tratamiento médico. Las <strong>Lesiones letales</strong> pueden matarte si no las tratas de inmediato. Las <strong>Lesiones fatales</strong> pueden matarte al instante. Las heridas de <strong>Sangrado</strong>, si no se tratan, pueden superarte rápidamente.</p>",
    "results": {
     "aJN3DtKVY9bG3ubv": "<strong>Herida leve:</strong> Vómito. [-] en la próxima acción.",
