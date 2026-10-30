@@ -303,6 +303,13 @@
   "roll": "tirada",
   "success": "éxito",
   "failure": "fallo",
+  "strength": "Fuerza",
+  "speed": "Velocidad",
+  "intellect": "Intelecto",
+  "combat": "Combate",
+  "sanity": "Cordura",
+  "fear": "Miedo",
+  "body": "Cuerpo",
   "+1 Stress": "+1 Estrés",
   "-1d10 Calm": "-1d10 Calma",
   "Calm": "Calma"
@@ -361,7 +368,7 @@
    }
   },
   {
-   "en": "^(.*?)((?:Minimum |Maximum )?)(Bankruptcy|Intellect|Thrusters|Instinct|Bleeding|Strength|Systems|Loyalty|Resolve|Battle|Combat|Stress|Health|Wounds|Sanity|Net HP|Armor|Speed|Body|Calm|Fear) (increased|decreased) from$",
+   "en": "^(.*?)((?:Minimum |Maximum )?)(Bankruptcy|Intellect|Thrusters|Strength|Bleeding|Instinct|Systems|Resolve|Loyalty|Net HP|Stress|Health|Combat|Wounds|Sanity|Battle|Speed|Armor|Calm|Fear|Body) (increased|decreased) from$",
    "es": "$1$3 $2$4 de",
    "map": {
     "Minimum": "mínimo",

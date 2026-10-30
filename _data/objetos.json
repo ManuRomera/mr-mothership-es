@@ -1,0 +1,4042 @@
+[
+ {
+  "folder": null,
+  "name": "Automed",
+  "type": "item",
+  "_id": "6MUUwv9OEVzGRmCW",
+  "img": "modules/mr-mothership-es/iconos/A1.webp",
+  "system": {
+   "description": "<p>P&iacute;ldoras nanotecnol&oacute;gicas que ayudan a tu cuerpo a reparar el da&ntilde;o al otorgar ventaja a las salvaciones corporales destinadas a repeler enfermedades y venenos, as&iacute; como intentos de curarse del descanso.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 1.5
+  },
+  "effects": [],
+  "sort": 1500000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Baliza de emergencia",
+  "type": "item",
+  "_id": "ozhvCAjS404dJjDF",
+  "img": "modules/mr-mothership-es/iconos/C6.webp",
+  "system": {
+   "description": "<p>Un peque&ntilde;o dispositivo que env&iacute;a una bengala y luego emite un fuerte pitido cada pocos segundos. Adem&aacute;s, env&iacute;a una llamada en todos los canales de radio a los barcos o veh&iacute;culos de la zona, pero puede ser bloqueada por un inhibidor de radio.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 2000
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Batería (alta potencia)",
+  "type": "item",
+  "_id": "B9QaF5IhtsN7WrfE",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "system": {
+   "description": "<p>Bater&iacute;a de alta resistencia utilizada para alimentar cortadoras l&aacute;ser, drones de salvamento y otros art&iacute;culos. Se puede recargar en 1 hora si est&aacute; conectado a la corriente el&eacute;ctrica o en 6 horas con energ&iacute;a solar. A&ntilde;adir impermeabilizaci&oacute;n (+500cr).</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 500
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Bioescáner",
+  "type": "item",
+  "_id": "aj1J0PDg6sSoQltL",
+  "img": "modules/mr-mothership-es/iconos/A10.webp",
+  "system": {
+   "description": "<p>Largo alcance. Permite al usuario buscar signos de vida. Puede decir la ubicaci&oacute;n de los signos de vida, pero no cu&aacute;l es esa vida. Bloqueado por algunos materiales a discreci&oacute;n del Guardi&aacute;n.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 3000
+  },
+  "effects": [],
+  "sort": 100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Botas magnéticas",
+  "type": "item",
+  "_id": "91aTtHFhWfL49bum",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "system": {
+   "description": "<p>Otorga un agarre magn&eacute;tico al usuario, lo que le permite caminar f&aacute;cilmente sobre el exterior de una nave (en el espacio, mientras est&aacute; atracado o flotando libremente), asteroides met&aacute;licos o cualquier otra superficie magn&eacute;tica.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 350
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Botiquín de primeros auxilios",
+  "type": "item",
+  "_id": "mI59cdtc9J2fatVY",
+  "img": "modules/mr-mothership-es/iconos/A0.webp",
+  "system": {
+   "description": "<p>Una variedad de ap&oacute;sitos y tratamientos para ayudar a detener el sangrado, vendar cortes y tratar otras lesiones menores.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 75
+  },
+  "effects": [],
+  "sort": 700000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Camilla plegable",
+  "type": "item",
+  "_id": "yA8FB5AH5YpvA1wr",
+  "img": "modules/mr-mothership-es/iconos/A0.webp",
+  "system": {
+   "description": "<p>Camilla port&aacute;til que cabe dentro de una mochila. Permite al usuario atar al paciente de forma segura y llevarlo a un lugar donde sus heridas puedan ser mejor tratadas. Se despliega hasta aproximadamente 2 m.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 150
+  },
+  "effects": [],
+  "sort": 600000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Cinturon de herramientes variadas",
+  "type": "item",
+  "_id": "rCN1mhc3FuEUeqEt",
+  "img": "modules/mr-mothership-es/iconos/C4.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Complemento Smart-link",
+  "type": "item",
+  "_id": "7qpCnTEd9Dy62pXc",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "system": {
+   "description": "<p>Otorga visualizaci&oacute;n, grabaci&oacute;n y operaci&oacute;n remota de un arma a distancia, as&iacute; como +5 DA&Ntilde;O al arma</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 10000
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Comunicaciones de corto alcance",
+  "type": "item",
+  "_id": "uS9yETBeFljliAxr",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "system": {
+   "description": "<p>Permite la comunicaci&oacute;n de barco a barco a una distancia razonable, as&iacute; como de superficie a superficie dentro de una docena de kil&oacute;metros. Bloqueado por un inhibidor de radio.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 100
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Comunicador de largo alcance",
+  "type": "item",
+  "_id": "4gFEQdQCcrjrhf8U",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "system": {
+   "description": "<p>Dispositivo de comunicaci&oacute;n del tama&ntilde;o de una mochila para su uso en la comunicaci&oacute;n superficie-barco.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 1000
+  },
+  "effects": [],
+  "sort": 2400000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Contador Geiger",
+  "type": "item",
+  "_id": "CZ2koms2ClH1kUmI",
+  "img": "modules/mr-mothership-es/iconos/C2.webp",
+  "system": {
+   "description": "<p>Detecta la radiaci&oacute;n y muestra los niveles de radiaci&oacute;n.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 20
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Correa",
+  "type": "item",
+  "_id": "tp3eN8ZYhtf9PqoF",
+  "img": "modules/mr-mothership-es/iconos/A6.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Cámara corporal",
+  "type": "item",
+  "_id": "JgnatQq6UAWuZBub",
+  "img": "modules/mr-mothership-es/iconos/D2.webp",
+  "system": {
+   "description": "<p>Una c&aacute;mara que llevas en la ropa y que puede transmitir v&iacute;deo a un centro de control para que los dem&aacute;s miembros de la tripulaci&oacute;n puedan ver lo que est&aacute;s viendo. A&ntilde;ade visi&oacute;n nocturna (+300cr) o visi&oacute;n t&eacute;rmica (+1kcr).</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 50
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Desfibrilador",
+  "type": "item",
+  "_id": "mKFtfxjVQ97DJlOo",
+  "img": "modules/mr-mothership-es/iconos/A1.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 2600000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Dispositivo de Filtración de Agua",
+  "type": "item",
+  "_id": "QKJJ5rwthBiKcywb",
+  "img": "modules/mr-mothership-es/iconos/D6.webp",
+  "system": {
+   "description": "<p>Puede bombear 4 litros de agua filtrada por hora incluso de los pantanos m&aacute;s salobres</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 50
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Dron de salvamento",
+  "type": "item",
+  "_id": "deQvQ3jV8UjVyiO5",
+  "img": "modules/mr-mothership-es/iconos/C1.webp",
+  "system": {
+   "description": "<p>Dron a control remoto a bater&iacute;a. Requiere dos manos para operar el receptor. Puede volar hasta 450 m de altura, a una distancia de 3 km del operador. Puede funcionar durante 2 horas. Puede grabar y transmitir im&aacute;genes al receptor. Si se compra por separado, se puede equipar con hasta dos de los siguientes: binoculares, inhibidor de radio, contador Geiger, cortadora l&aacute;ser, esc&aacute;ner m&eacute;dico, localizador personal, gafas infrarrojas, baliza de emergencia, esc&aacute;ner de diagn&oacute;stico cibern&eacute;tico, bioesc&aacute;ner. Puede transportar hasta 20-30 kg.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 10000
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Equipo de Camping",
+  "type": "item",
+  "_id": "hStrQSei66uH7w2l",
+  "img": "modules/mr-mothership-es/iconos/D5.webp",
+  "system": {
+   "description": "<p>Tienda de campa&ntilde;a, cantimplora, estufa, mochila, br&uacute;jula y saco de dormir.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 1000
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Estimulante",
+  "type": "item",
+  "_id": "L5PK0jLza2NTWTPa",
+  "img": "modules/mr-mothership-es/iconos/A1.webp",
+  "system": {
+   "description": "<p>Cura la criosicknesso, reduce el estr&eacute;s en 1, restaura 1d10 de salud y otorga [+] a todas las tiradas durante 1d10 min. Tira 1d10. Si tienes menos de la cantidad de dosis que has tomado en las &uacute;ltimas 24 horas, haz un Death Save.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 1000
+  },
+  "effects": [],
+  "sort": 300000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Exocargador",
+  "type": "item",
+  "_id": "bV3S3JwYFdHolxGi",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "system": {
+   "description": "<p>Exoesqueleto mec&aacute;nico al aire libre utilizado para levantar objetos pesados (hasta 5000 kg). Las garras del cargador infligen 1 herida. El usuario solo puede usar el atuendo est&aacute;ndar de la tripulaci&oacute;n o el traje de batalla est&aacute;ndar mientras est&aacute; en funcionamiento. Funciona con pilas (48 horas de uso).</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 100000
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Fiambrera",
+  "type": "item",
+  "_id": "AGHCaFVCDCQ5Blke",
+  "img": "modules/mr-mothership-es/iconos/F8.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Gafas infrarrojas",
+  "type": "item",
+  "_id": "AcQuwiIG6sTaaoxz",
+  "img": "modules/mr-mothership-es/iconos/A9.webp",
+  "system": {
+   "description": "<p>Permite al usuario ver las firmas de calor, a veces de hasta varias horas de antig&uuml;edad. A&ntilde;ade visi&oacute;n nocturna (+300cr).</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 1500
+  },
+  "effects": [],
+  "sort": 2300000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "HUD",
+  "type": "item",
+  "_id": "dAmnp8R26T4g1XnQ",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "system": {
+   "description": "<p>A menudo usado por los marines, el HUD permite al usuario ver a trav&eacute;s de las c&aacute;maras corporales de otros en su unidad y conectarse a cualquier weapo mejorado de enlace inteligente</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 100
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Herramientas variadas",
+  "type": "item",
+  "_id": "gAS4GXh7Wzo9PlJY",
+  "img": "modules/mr-mothership-es/iconos/C4.webp",
+  "system": {
+   "description": "<p>Llaves, llaves, destornilladores, etc. Se puede usar como arma en caso de apuro (1d5 DA&Ntilde;O).</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 20
+  },
+  "effects": [],
+  "sort": 900000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Inhibidor de radio",
+  "type": "item",
+  "_id": "NigeD3e74h9cfyZb",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "system": {
+   "description": "<p>Dispositivo del tama&ntilde;o de una mochila que, cuando se activa, hace que todas las se&ntilde;ales de radio en un radio de 100 km sean incomprensibles.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 4000
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Juego de ganzúas",
+  "type": "item",
+  "_id": "z8bkQWB0EI6yY3YI",
+  "img": "modules/mr-mothership-es/iconos/C4.webp",
+  "system": {
+   "description": "<p>Un conjunto muy avanzado de herramientas destinadas a hackear sistemas b&aacute;sicos de esclusas de aire y puertas electr&oacute;nicas.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 40
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Juego de herramientas electrónicas",
+  "type": "item",
+  "_id": "UD6YhjWV3Tp45fJ5",
+  "img": "modules/mr-mothership-es/iconos/C4.webp",
+  "system": {
+   "description": "<p>Un conjunto completo de herramientas para realizar reparaciones detalladas o trabajos de construcci&oacute;n en productos electr&oacute;nicos.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 100
+  },
+  "effects": [],
+  "sort": 400000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Kit de parches",
+  "type": "item",
+  "_id": "LvjKHpx3x3zCtV8F",
+  "img": "modules/mr-mothership-es/iconos/A0.webp",
+  "system": {
+   "description": "<p>Repara los trajes vac&iacute;os perforados y rotos, restaurando su disponibilidad espacial. Los vaccsuits parcheados tienen un AP de 1.</p>",
+   "quantity": 3,
+   "weight": 0,
+   "cost": 200
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Kit de recogida de muestras",
+  "type": "item",
+  "_id": "pS1xNbgMdOSYm8Y3",
+  "img": "modules/mr-mothership-es/iconos/A10.webp",
+  "system": {
+   "description": "<p>Se utiliza para investigar la xenoflora y la xenofauna en el campo. Puede tomar signos vitales, muestras de ADN y recopilar otros datos sobre material extra&ntilde;o. Es posible que los resultados no sean instant&aacute;neos y que se requiera un laboratorio para un an&aacute;lisis completo.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 50
+  },
+  "effects": [],
+  "sort": 200000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Linterna",
+  "type": "item",
+  "_id": "Sp2XtxzN70PC1KYT",
+  "img": "modules/mr-mothership-es/iconos/A3.webp",
+  "system": {
+   "description": "<p>De mano o de hombro. Ilumina 10 m por delante del usuario</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 30
+  },
+  "effects": [],
+  "sort": 500000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Localizador personal",
+  "type": "item",
+  "_id": "EaZT5rFGpcQSA6W4",
+  "img": "modules/mr-mothership-es/iconos/C6.webp",
+  "system": {
+   "description": "<p>Permite a los miembros de la tripulaci&oacute;n en un centro de control (o en el puente de un barco) rastrear la ubicaci&oacute;n del usuario.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 200
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Luz química",
+  "type": "item",
+  "_id": "BmSr0kmEd4uHtfsg",
+  "img": "modules/mr-mothership-es/iconos/C5.webp",
+  "system": {
+   "description": "<p>Peque&ntilde;as barras luminosas desechables capaces de atenuar la iluminaci&oacute;n en un radio de 1 m</p>",
+   "quantity": 5,
+   "weight": 0,
+   "cost": 5
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Mochila",
+  "type": "item",
+  "_id": "zK3E9jCN4XaAtTiv",
+  "img": "modules/mr-mothership-es/iconos/A7.webp",
+  "system": {
+   "description": "<p>Mochila grande, duradera e impermeable</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 50
+  },
+  "effects": [],
+  "sort": 2500000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Mochila propulsora",
+  "type": "item",
+  "_id": "Kpapk4xQxdd21OQ5",
+  "img": "modules/mr-mothership-es/iconos/A7.webp",
+  "system": {
+   "description": "<p>Allows wearer to fly up to 100m high and up to a speed of 100km/hr for 2 hours on a tank of fuel. Deals 1d100[+] DMG if destroyed. Fuel can be refilled for 200cr.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 75000
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Moneda de desafío",
+  "type": "item",
+  "_id": "G3rk65mLM9BmNUln",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Pala",
+  "type": "item",
+  "_id": "hlI06tmX67GFoNkN",
+  "img": "modules/mr-mothership-es/iconos/F4.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Paracordel",
+  "type": "item",
+  "_id": "KSx1l1qtdeFbnv2p",
+  "img": "modules/mr-mothership-es/iconos/A6.webp",
+  "system": {
+   "description": "<p>Cuerda de nailon ligera de uso general.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 10
+  },
+  "effects": [],
+  "sort": 2700000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Pelota de tenis",
+  "type": "item",
+  "_id": "q9ZM1zzA7adeaEtD",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Píldoras de radiación",
+  "type": "item",
+  "_id": "VD6iDpCR50fsqd2j",
+  "img": "modules/mr-mothership-es/iconos/A2.webp",
+  "system": {
+   "description": "<p>Toma 1d5 DA&Ntilde;O y reduce tu Nivel de Radiaci&oacute;n (ver p&aacute;g. 33.2) en 1 durante 2d10 minutos</p>",
+   "quantity": 5,
+   "weight": 0,
+   "cost": 200
+  },
+  "effects": [],
+  "sort": 800000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Raciones Batalla",
+  "type": "item",
+  "_id": "V9RMqkSLXVGv5eBB",
+  "img": "modules/mr-mothership-es/iconos/D7.webp",
+  "system": {
+   "description": "<p>\"Comida, lista para comer\". Raciones de campo individuales y aut&oacute;nomas en envases ligeros. Cada uno tiene suficiente sustento para una sola persona durante un d&iacute;a (no incluye agua).</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 70
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Respirador Reciclador",
+  "type": "item",
+  "_id": "DUKyVjkv0UjQfIP9",
+  "img": "modules/mr-mothership-es/iconos/C7.webp",
+  "system": {
+   "description": "<p>Cuando se usa, filtra el aire t&oacute;xico y/o permite respirar bajo el agua hasta por 20 minutos a la vez sin volver a salir a la superficie. Se puede conectar a un tanque de ox&iacute;geno.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 500
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Tanque de oxígeno con máscara de filtro",
+  "type": "item",
+  "_id": "1amr2HQxM2NMOx9G",
+  "img": "modules/mr-mothership-es/iconos/A4.webp",
+  "system": {
+   "description": "<p>Cuando se conecta a un traje de vac&iacute;o proporciona hasta 12 horas de ox&iacute;geno en circunstancias normales, 4 horas en circunstancias estresantes. Explosivo.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 50
+  },
+  "effects": [],
+  "sort": 1600000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "binoculares",
+  "type": "item",
+  "_id": "rltT7Qa3zuuRIoKp",
+  "img": "modules/mr-mothership-es/iconos/A9.webp",
+  "system": {
+   "description": "<p>Aumento de 20x. A&ntilde;ade visi&oacute;n nocturna (+300cr) o visi&oacute;n t&eacute;rmica (+1kcr).</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 150
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "cigarrillos",
+  "type": "item",
+  "_id": "gn2qJQIvmwp95SOH",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "cinta adhesiva",
+  "type": "item",
+  "_id": "lE3S82mKah8eMZ1n",
+  "img": "modules/mr-mothership-es/iconos/C3.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 1900000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "escáner de diagnóstico cibernético",
+  "type": "item",
+  "_id": "BejXDKi1QSSoMPkD",
+  "img": "modules/mr-mothership-es/iconos/A10.webp",
+  "system": {
+   "description": "<p>Permite al usuario escanear androides y otros organismos cibern&eacute;ticos para diagnosticar cualquier problema f&iacute;sico o mental que puedan tener. A menudo los androides desconf&iacute;an de &eacute;l.&nbsp;</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 2000
+  },
+  "effects": [],
+  "sort": 1200000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "escáner médico",
+  "type": "item",
+  "_id": "VOF7vzD66rgMvUoO",
+  "img": "modules/mr-mothership-es/iconos/A0.webp",
+  "system": {
+   "description": "<p>Permite al usuario escanear un cuerpo vivo o muerto para analizarlo en busca de enfermedades o anomal&iacute;as, sin tener que hacer una biopsia o autopsia. Es posible que los resultados no sean instant&aacute;neos y que se requiera un laboratorio para un an&aacute;lisis completo.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 8000
+  },
+  "effects": [],
+  "sort": 1000000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "escáner subterráneo",
+  "type": "item",
+  "_id": "bsSilvzSja9wxsht",
+  "img": "modules/mr-mothership-es/iconos/A10.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "explosivos y detonadores",
+  "type": "item",
+  "_id": "WRt2lFSq8BVgAuu6",
+  "img": "modules/mr-mothership-es/iconos/D0.webp",
+  "system": {
+   "description": "<p>Carga explosiva lo suficientemente potente como para abrir una esclusa de aire. Todos los organismos a corta distancia deben hacer una salva de cuerpo o recibir una herida (explosiva). El detonador funciona a larga distancia, pero puede ser bloqueado por un inhibidor de radio.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 500
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "frasco de ácido",
+  "type": "item",
+  "_id": "TRRNx48luBwIn5uB",
+  "img": "modules/mr-mothership-es/iconos/D1.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 1700000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "maletín",
+  "type": "item",
+  "_id": "1sY24F4lE4oP6FGV",
+  "img": "modules/mr-mothership-es/iconos/A12.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 2000000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "manta de Mylar",
+  "type": "item",
+  "_id": "rGycBribCNGwJmdl",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "system": {
+   "description": "<p>Manta ligera hecha de material termorreflectante. A menudo se utiliza para la regulaci&oacute;n t&eacute;rmica de pacientes que sufren de fr&iacute;o extremo u otros traumatismos.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 10
+  },
+  "effects": [],
+  "sort": 1800000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "pluma estilográfica",
+  "type": "item",
+  "_id": "PeEj1wH6h7I25X5j",
+  "img": "modules/mr-mothership-es/iconos/F11.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 2200000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "talonario de recetas",
+  "type": "item",
+  "_id": "3VMDmbDFd8Tsh8LI",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 2100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "tarjeta de acceso corporativa VIP",
+  "type": "item",
+  "_id": "maB62r6UNLLMdAiB",
+  "img": "modules/mr-mothership-es/iconos/C10.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 1400000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "terminal de computadora portátil",
+  "type": "item",
+  "_id": "BMk7N43CPA7Td4MF",
+  "img": "modules/mr-mothership-es/iconos/C0.webp",
+  "system": {
+   "description": "<p>Monitor de ordenador plano, teclado e interfaz que permite al usuario hackear ordenadores y redes preexistentes, as&iacute; como realizar tareas inform&aacute;ticas est&aacute;ndar.</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 1500
+  },
+  "effects": [],
+  "sort": 1300000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "vacuna",
+  "type": "item",
+  "_id": "pmWjPewIDs3gMaNu",
+  "img": "modules/mr-mothership-es/iconos/A1.webp",
+  "system": {
+   "description": "",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 1100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "e5ZL65UaYSLSgjGk",
+  "name": "rebreather",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>rebreather</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "T79oeEFTPjgWh4TJ",
+  "name": "detonador",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>detonador</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "nyODKbySg6FamuHS",
+  "name": "pastillas antirradiación",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A2.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pastillas antirradiación x3</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "DhwYimnklcFdMyT4",
+  "name": "perro",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C15.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>perro</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ZO5s9uxcymGucQpt",
+  "name": "cubo",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cubo</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "vtocEwQ1MzWua4A4",
+  "name": "juego de cepillos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>juego de cepillos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "jhNvvRoIYxIrFhXa",
+  "name": "máscara filtrante",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>máscara filtrante</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "EEhzbkyQMDCkEle1",
+  "name": "caja de puros",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>caja de puros x4</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "tqAGb1pi1ZT2khwv",
+  "name": "petaca de ginebra",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>petaca de ginebra</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ZpcnAgOPVDUFA1pO",
+  "name": "micrófono de garganta",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>micrófono de garganta</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "nbXSPR7fINO6nttk",
+  "name": "auricular",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>auricular</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "pJgg7sNQhYU30VTo",
+  "name": "botella de champán",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>botella de champán</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "DO4eyRcl88W0jMvm",
+  "name": "katana",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>katana</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "fAYadf2CfKZxkqzn",
+  "name": "reloj inteligente",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D3.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>reloj inteligente</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "HaBv7z0H02sX47Jx",
+  "name": "mascota sintética",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>mascota sintética</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "X7YAuE8E4TKXZ7Lb",
+  "name": "maletín con ruedas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>maletín con ruedas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "0C28WC4JklRC5EXj",
+  "name": "documentos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>documentos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "caXvC4ja0Xu5t4I0",
+  "name": "analgésicos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A2.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>analgésicos x4</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Faq7zvGyrla9Ewtx",
+  "name": "pluma",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F11.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pluma</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "kVJN7WrBo5UWiYhl",
+  "name": "bloc",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>bloc</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "l1482CO9Xi1nxzR7",
+  "name": "terminal portátil",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>terminal portátil</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "5UEzcgceIuLJCgir",
+  "name": "diario de audio",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>diario de audio</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ur4xjjNNihqYDTp2",
+  "name": "perfume",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>perfume</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "e5KPWA0vvd942Hn2",
+  "name": "medallón sagrado",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>medallón sagrado</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "YAdoG179DpnuERIV",
+  "name": "tarro de tierra consagrada",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>tarro de tierra consagrada</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ojZe3vnWATFnnkPf",
+  "name": "cuentas de oración",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cuentas de oración</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "CJH4NFBDAiZoDUGA",
+  "name": "certificado de ordenación",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>certificado de ordenación</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "q8yvQFLIBrwgpw4P",
+  "name": "incienso y turíbulo",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>incienso y turíbulo</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Qu05UGcAE4IpNPxP",
+  "name": "alfombra de oración",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>alfombra de oración</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "fibEUuUOpzuY0yq4",
+  "name": "aceites rituales",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>aceites rituales</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Og4JOkuDo4yW5Bn0",
+  "name": "gato",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>gato</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "O44d4LDHvsolPgvP",
+  "name": "placas de identificación con plegarias",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>placas de identificación con plegarias</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "6xjWMulv8WH9h1uj",
+  "name": "panfletos religiosos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>panfletos religiosos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "tnFi22806Dq4sYqk",
+  "name": "libro sagrado",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>libro sagrado</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "8idWIW8QXZ1uoUPJ",
+  "name": "cantimplora con agua bendita",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cantimplora con agua bendita</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "TWr8mJmLA6fmSkUr",
+  "name": "petaca de alcohol de grano",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>petaca de alcohol de grano</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "KN2J5BzNiLZgdibh",
+  "name": "cúter",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cúter</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Pk1wXTE5z9W2BLjp",
+  "name": "opio",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>opio</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "23zcxE4NSNHUlG58",
+  "name": "pipa",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pipa</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "HzvhHJsgoQOdrk8r",
+  "name": "paracord 20 m",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>paracord 20 m</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "GvXo486VNhSsqACv",
+  "name": "ratón",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>ratón</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "jbhMiLwOHdge2FmM",
+  "name": "cartera",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cartera</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "4howtA9AX5m7067k",
+  "name": "pastillas de cafeína",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A2.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pastillas de cafeína</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "h53pFR0jYfWbwg5n",
+  "name": "placa falsa",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>placa falsa</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ZYfELIlemLCeVGsI",
+  "name": "drogas recreativas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>drogas recreativas x2</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "pUiEhr4Zq68kn0ey",
+  "name": "mascota",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>mascota</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "D1BAr1rgrkjSDsui",
+  "name": "contacto criminal",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>contacto criminal</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "DONpSgWql5Fs2Kew",
+  "name": "localizador dañado",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>localizador dañado</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "JBBhqjyLBQIgWukg",
+  "name": "localizador",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>localizador</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "dSjVDKSHNKqyAw0b",
+  "name": "raciones",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>raciones x7</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "zcOM89kTqaPFmDEt",
+  "name": "unidad MoHab",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>unidad MoHab</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "rkH3Pce6Z1CQvRxf",
+  "name": "dron de reconocimiento",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>dron de reconocimiento</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "wWAkHjYbTkl2cmWX",
+  "name": "paracord",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>paracord</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "g80SFacfLKGvx9N6",
+  "name": "cóctel frutal",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cóctel frutal</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "QIIPfZzpZ8W2QYkY",
+  "name": "baraja",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A15.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>baraja</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "XApIHwucplWw057H",
+  "name": "cupones",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cupones</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "7xcIPNLN2JlEBIVa",
+  "name": "pack de cerveza",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pack de cerveza x6</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "LhcIQla3uc2WGv8p",
+  "name": "cámara",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D2.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cámara</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "3TqnkGnGNQAdTCxL",
+  "name": "mapa en papel del sistema",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>mapa en papel del sistema</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "weC38BnJP6jFMYmq",
+  "name": "mascota gato o perro pequeño",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>mascota gato o perro pequeño</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "kkll9pvy5sVMSzfe",
+  "name": "maleta con ruedas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>maleta con ruedas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "mgsSTHsptdikrxwH",
+  "name": "tanque de oxígeno",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>tanque de oxígeno</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "m2iPdUICZWcjyTw7",
+  "name": "whisky",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>whisky</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "uxKaMal8CcLjniNc",
+  "name": "sentido de privilegio",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>sentido de privilegio</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "e9jJHfu18dwim1Ij",
+  "name": "tarjeta VIP corporativa retirada",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>tarjeta VIP corporativa retirada</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VrOd9AROCLY1GVeq",
+  "name": "una cantidad obscena de créditos y negativa a gastarlos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>una cantidad obscena de créditos y negativa a gastarlos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "kFb2jyTV12PijYJp",
+  "name": "collar de descarga pirateado",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>collar de descarga pirateado</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Vxi5AUhJD3o3PFIE",
+  "name": "póster pornográfico",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>póster pornográfico</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "eEzb4VkQboznh2mB",
+  "name": "gorro de chef",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>gorro de chef</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "XfWxnkLTPubUM8Kc",
+  "name": "bridas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>bridas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "4oczOBKXPTnNXahd",
+  "name": "mechero soplete",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>mechero soplete</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "toDSrJCHvjWHKu4n",
+  "name": "bandana",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>bandana</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "jNOBWceQjKvpPTW5",
+  "name": "gafas de sol",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>gafas de sol</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "79c5seU1QZ47EOWj",
+  "name": "llaves de camión todoterreno",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>llaves de camión todoterreno</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "JManGyQYjSbHuYhW",
+  "name": "aviador espejo",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>aviador espejo</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "bvKsiXFuCvBmffAP",
+  "name": "maletín de cocaína",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>maletín de cocaína</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ev3W7fbXTef6vt3d",
+  "name": "entradas de club",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>entradas de club</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "cDofzrFqw1wb4N6C",
+  "name": "brazo cibernético",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>brazo cibernético</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "kl2PDVUwcXdHPBAt",
+  "name": "aeroshell de reentrada",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>aeroshell de reentrada</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "505D4kiBQ9oV9DE3",
+  "name": "MMU",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>MMU</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Gi59EwWRMCk3qT8o",
+  "name": "radio cifrada militar",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>radio cifrada militar</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "KWdrwbJxf31GJfcp",
+  "name": "Ropa interior",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa interior</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "fNbFWHdcSXGkrbTW",
+  "name": "resaca incapacitante",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>resaca incapacitante</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "UC0isrqkc8cdwiO1",
+  "name": "corbata horrible",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>corbata horrible</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "1cS8FAOw7hy0Eide",
+  "name": "Ropa de oficina",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa de oficina</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "gr2BwGUK5oBgobWv",
+  "name": "archivador de cuentas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>archivador de cuentas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "HuwlXcs9GXwLPn2t",
+  "name": "café sintético",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>café sintético</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "eCUkUDXL9OGblgRd",
+  "name": "pelota antiestrés",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pelota antiestrés</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "cInmJMEcZC0CqIMs",
+  "name": "micrograbadora con mantras pro-corporativos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>micrograbadora con mantras pro-corporativos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ZKIQbbdTsA7QF27H",
+  "name": "bolígrafo",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F11.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>bolígrafo</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "EUroKjiq5r2H3C72",
+  "name": "tarjeta de gerente robada",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>tarjeta de gerente robada</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "0y8z5OQsYQmovNWk",
+  "name": "fideos autocalentables",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>fideos autocalentables</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "UEvGXq9ie34XniAZ",
+  "name": "alargador 50 m",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>alargador 50 m</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "MxJoBnaMQqUmCCEy",
+  "name": "Camisa hawaiana",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Camisa hawaiana</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ilbsSb5aoU9Jg6Nw",
+  "name": "petaca vacía",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>petaca vacía</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "BoVGWzj6rRRF2J4U",
+  "name": "chaleco reflectante",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>chaleco reflectante</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "s4HxZ6a7xkvilcl0",
+  "name": "portapapeles con nombres de colegas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>portapapeles con nombres de colegas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "pIDoyuHNYWlQIy4S",
+  "name": "extintor",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>extintor</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "82Ynh5NSfbklcj0k",
+  "name": "Camiseta de grupo",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Camiseta de grupo</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "6rPDybU8Wi8wzPQK",
+  "name": "rompedor de contraseñas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>rompedor de contraseñas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "pg8A6NN9nXsmT0Pi",
+  "name": "ID corporativo falso",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>ID corporativo falso</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "OzAZlCDcxnqBgMjv",
+  "name": "chicle",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>chicle</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "hryJTxQ9E5Z4wkot",
+  "name": "ídolo de Venus",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>ídolo de Venus</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "IpTjbmCFW5aUWYwK",
+  "name": "antirradiación",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A2.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>antirradiación x10</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "QUmcLdQWpvdvYjnR",
+  "name": "perro de caza",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C15.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>perro de caza</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "zxO2IOfl4ZolXrQD",
+  "name": "trampa para osos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>trampa para osos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "h9pg7UfpLobWUCJ6",
+  "name": "cuerno para beber",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cuerno para beber</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "9yfzCoZBQFP716by",
+  "name": "pintura facial",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pintura facial</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Id1590BR2wwZ5dZs",
+  "name": "hierbas psicoactivas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A2.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>hierbas psicoactivas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "G2123h16hpfxzXHl",
+  "name": "Wikipedia antigua",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Wikipedia antigua</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VqHh0IoimrQYm6do",
+  "name": "diccionario",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>diccionario</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "RTkLnZiWCYRyyyR4",
+  "name": "cámara con flash",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D2.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cámara con flash</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "OK77I2J6A3QxlpCj",
+  "name": "flechas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>flechas x10</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "eiTtM0wup7VPoevt",
+  "name": "lémur inteligente",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>lémur inteligente</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "fB4QgUyevFzGPgK6",
+  "name": "planeador plegable",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/A7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>planeador plegable</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VXAhjbHBeqfytN5j",
+  "name": "cuerno de pólvora y bala",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cuerno de pólvora y bala x12</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "HbScBODZUGj4p0pU",
+  "name": "billete jump liner",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>billete jump liner</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "3ryxMGNdVVtgLudO",
+  "name": "Ropa campesina",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa campesina</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "c41AE2Vns5DNL8km",
+  "name": "carro de mano",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>carro de mano</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Av6zEPyZbwW2mFfD",
+  "name": "dron de arado",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>dron de arado</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "t3UNbUCDs25bp8sz",
+  "name": "familiares",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>1d5 familiares</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Rfvb0qNJNWCSm3n0",
+  "name": "cabra flaca",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>cabra flaca</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VTfV8A6CZGAVvACg",
+  "name": "4 psiónicas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>4 psiónicas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "nxokOvDqsQRl6ypx",
+  "name": "1 habilidad",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>1 habilidad</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "qZ7mQ6KASQkSoIhl",
+  "name": "0 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>0 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "v9BONLYcWec2v1NI",
+  "name": "3 psiónicas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>3 psiónicas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "e8TyvbcnpKyccuH6",
+  "name": "2 habilidades",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>2 habilidades</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "ASTRYZp3FVuD3P3B",
+  "name": "50 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>50 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "tpLnoih5Jrlzs5FV",
+  "name": "alcohol",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/F10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>alcohol</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "yzkXoNhIZXTRnEMG",
+  "name": "100 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>100 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "CYAq8rn3V4tvimvV",
+  "name": "botella de agua",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>botella de agua</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "40YY3RxBaXugPt7U",
+  "name": "3 habilidades",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>3 habilidades</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "RqDksthVs89DlUiO",
+  "name": "150 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>150 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "54vlFFip4Vo9znTE",
+  "name": "panfleto sindical",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>panfleto sindical</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "z3yzt2ouF9oUJ5Xk",
+  "name": "250 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>250 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "xi4I2ykdPVWNjNvi",
+  "name": "Reloj de oro falso",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/D3.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Reloj de oro falso</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "8OeEZkxSreLK4l2a",
+  "name": "500 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>500 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "CFOdnDtigHQxgaai",
+  "name": "800 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>800 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "jn9LJrXuBtasa6VR",
+  "name": "carta",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>carta</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "06cUZTbZnK0LJArG",
+  "name": "2 psiónicas",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>2 psiónicas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "w6q9FTD6XKTAVhXJ",
+  "name": "4 habilidades",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>4 habilidades</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VJUsXqI6BlTLYXzk",
+  "name": "750 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>750 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "h2HPenuCtaV68Hgw",
+  "name": "1000 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>1000 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "oTJEoXVF3aCxYSxt",
+  "name": "1 psiónica",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>1 psiónica</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "G9yDaZNPaNXJmfEy",
+  "name": "2500 créditos",
+  "type": "item",
+  "img": "modules/mr-mothership-es/iconos/C8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>2500 créditos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ }
+]

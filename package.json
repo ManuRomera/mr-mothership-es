@@ -1,0 +1,8 @@
+{
+  "name": "mr-mothership-es",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "datos": "python3 tools/recuperar.py", "build": "node tools/build.mjs" },
+  "devDependencies": { "classic-level": "2.0.0" }
+}

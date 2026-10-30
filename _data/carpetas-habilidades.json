@@ -1,0 +1,32 @@
+[
+ {
+  "_id": "jO3zpvCAQdr28e6y",
+  "name": "Entrenadas",
+  "type": "Item",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {}
+ },
+ {
+  "_id": "7qVNKaLvl0cKsp7X",
+  "name": "Expertas",
+  "type": "Item",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {}
+ },
+ {
+  "_id": "rb1L3T51BN6q3BlV",
+  "name": "Maestras",
+  "type": "Item",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {}
+ }
+]

@@ -1,0 +1,5370 @@
+[
+ {
+  "folder": null,
+  "name": "BARATIJAS",
+  "_id": "54OxdNKd5pdGHwPV",
+  "img": "icons/svg/coins.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "n8FhAbJBTjDFw6Kh",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Manual: PÁNICO: Presagio de catástrofe",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "AirQcX1m84iXWabH",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Guion de la Compañía de Antigüedades (Mina de Asteroides)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "94yN7nYXRMtP9HZZ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Manual: SUPERVIVENCIA: Comer sopa con un cuchillo",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "wrynYhCMbf7fqXBh",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "MuñecFlor alienígena prensada (común)a de cáscara disecada",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "6RoBfB04ooNaAXp4",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Collar de casquillos de proyectiles",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "xekyLZSPFX8um5wO",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Núcleo Logico de Androide corroído",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "xjVXMu59wWp9X4s0",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Folleto: Signos de infección parasitaria",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "gCkUZsyYK6C5AFnF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Manual: Trata a tu rifle como una dama",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "fa9nqlSGJeEYVC2p",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cuchillo de hueso",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "IiU8924fbNjYskkN",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Calendario: Arte Pin-Up Alienígena",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     11,
+     11
+    ],
+    "drawn": false,
+    "_id": "4r0yK70Ft9hyay9U",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Solicitud rechazada (nave colonial)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     12,
+     12
+    ],
+    "drawn": false,
+    "_id": "SYySV0hZ3Widb8Yi",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bailarina serpentina holográfica",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     13,
+     13
+    ],
+    "drawn": false,
+    "_id": "EzddFQ5LquZPPjy1",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Whisky de serpiente",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     14,
+     14
+    ],
+    "drawn": false,
+    "_id": "Q3yDaBvdkaZeAyhL",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Envase Médico, Polvo Púrpura",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     15,
+     15
+    ],
+    "drawn": false,
+    "_id": "5UDyt3MjZ7FJ5PPu",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Píldoras: Mejora masculina, de mala calidad",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     16,
+     16
+    ],
+    "drawn": false,
+    "_id": "cHO41xZXMhdbHZIm",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Naipes de casino",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     17,
+     17
+    ],
+    "drawn": false,
+    "_id": "6b3F6DYGYUZopykI",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pie lagomorfo",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     18,
+     18
+    ],
+    "drawn": false,
+    "_id": "RhaTxBfrrhFfWEJy",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Anillo de piedra lunar",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     19,
+     19
+    ],
+    "drawn": false,
+    "_id": "5XEiEiPQst30HX5E",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Manual: La seguridad minera y usted",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     20,
+     20
+    ],
+    "drawn": false,
+    "_id": "8RXkahkTaXtjVVuH",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Panfleto: Contra el simulacro humano",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     21,
+     21
+    ],
+    "drawn": false,
+    "_id": "iOlAVXSvY5NMBggG",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cráneo de animal, 3 ojos, cuernos enroscados",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     22,
+     22
+    ],
+    "drawn": false,
+    "_id": "3sBWQ1FAFltNY1xq",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Certificación de Barman (Caducada)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     23,
+     23
+    ],
+    "drawn": false,
+    "_id": "SpqbPPHhwdrx98Rq",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Títere Bunraku",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     24,
+     24
+    ],
+    "drawn": false,
+    "_id": "rA33vkvSuwLVaedi",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Taza de prospección, abollada",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     25,
+     25
+    ],
+    "drawn": false,
+    "_id": "MVJ3mh1IMrjecMyn",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Máscara espeluznante",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     26,
+     26
+    ],
+    "drawn": false,
+    "_id": "00XLBl3Fm8T3JGAc",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Mármol ultranegro",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     27,
+     27
+    ],
+    "drawn": false,
+    "_id": "jJOep5JpkvO163yw",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Dados de marfil",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     28,
+     28
+    ],
+    "drawn": false,
+    "_id": "OX0ySX3MCtJ3Lei1",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cartas del Tarot, Desgastadas, Bordes Dorados de Pirita",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     29,
+     29
+    ],
+    "drawn": false,
+    "_id": "kiMliedmaSFDJGQS",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bolsa de dientes surtidos",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     30,
+     30
+    ],
+    "drawn": false,
+    "_id": "vVY9oyxnLOmBAvlt",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cenizas (Un pariente)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     31,
+     31
+    ],
+    "drawn": false,
+    "_id": "sRLevZ9f4ZSkCtF1",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Collar de baliza DNR",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     32,
+     32
+    ],
+    "drawn": false,
+    "_id": "apK0Mg0CXQF1kRAe",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cigarrillos (Calavera sonriente)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     33,
+     33
+    ],
+    "drawn": false,
+    "_id": "B8a1ryq8F1Bru0V7",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pastillas: Nuez de areca",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     34,
+     34
+    ],
+    "drawn": false,
+    "_id": "4L5dPmkhmy80FPup",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Colgante: fragmentos de concha suspendidos en plástico",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     35,
+     35
+    ],
+    "drawn": false,
+    "_id": "usaJjBvPRUNWqr3Y",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Folleto: El Zen y el Arte de la Disposición de la Carga",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     36,
+     36
+    ],
+    "drawn": false,
+    "_id": "0MefqfaBShvv8c9D",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Par de vasos de chupito (cartuchos de escopeta gastados)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     37,
+     37
+    ],
+    "drawn": false,
+    "_id": "7P98KeLxlkzouYZF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Llave (Hogar de la Infancia)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     38,
+     38
+    ],
+    "drawn": false,
+    "_id": "BcNZu8j80WlkZMW2",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Placas de identificación (reliquia)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     39,
+     39
+    ],
+    "drawn": false,
+    "_id": "FIuFaMpLsjTo4vgI",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Ficha: \"¿Está mejorando tu moral?\"",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     40,
+     40
+    ],
+    "drawn": false,
+    "_id": "DWzAjaENckcN5JaA",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Panfleto: La reliquia de la carne",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     41,
+     41
+    ],
+    "drawn": false,
+    "_id": "teJOzTxqCUCZ4OqK",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Panfleto: Las estrellas indiferentes",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     42,
+     42
+    ],
+    "drawn": false,
+    "_id": "sUVtIB1GVUgGvwAD",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Calendario: Batallas Militares",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     43,
+     43
+    ],
+    "drawn": false,
+    "_id": "xzXTHBL4PHxDVyJT",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Manual: Capitán rico, capitán pobre",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     44,
+     44
+    ],
+    "drawn": false,
+    "_id": "gabbufuewPhhZrls",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cartel de la campaña (Home Planet)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     45,
+     45
+    ],
+    "drawn": false,
+    "_id": "hq60B8DhMBWOpyJD",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Aberración de insectil preservada",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     46,
+     46
+    ],
+    "drawn": false,
+    "_id": "nhWFQyFjHzUksPjG",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Palillo de titanio",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     47,
+     47
+    ],
+    "drawn": false,
+    "_id": "9MDQdMODy4Z3VWC5",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Guantes, Cuero (Piel de Xenomorfo)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     48,
+     48
+    ],
+    "drawn": false,
+    "_id": "dGfak4Aw8Ml8NpTx",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Obscenidad (sedicioso): El capitán, ordenado",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     49,
+     49
+    ],
+    "drawn": false,
+    "_id": "l4qM3XKvLKhopJ63",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Toalla, ligeramente deshilachada",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     50,
+     50
+    ],
+    "drawn": false,
+    "_id": "blvetxkUthW1PBs6",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Nudillos de latón",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     51,
+     51
+    ],
+    "drawn": false,
+    "_id": "D2Lh3haTlOuLFUfv",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Esposas peludas",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     52,
+     52
+    ],
+    "drawn": false,
+    "_id": "YKrzdLUKD2v8mcfn",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Diario de rencores",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     53,
+     53
+    ],
+    "drawn": false,
+    "_id": "NxamhcbcyRPP6cR5",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pitillera estilizada",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     54,
+     54
+    ],
+    "drawn": false,
+    "_id": "BcLU4d8g7Zb2oyGF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bola de alambre de calibre surtido",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     55,
+     55
+    ],
+    "drawn": false,
+    "_id": "9kl7JILQlWaQhbzV",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Llave inglesa",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     56,
+     56
+    ],
+    "drawn": false,
+    "_id": "cDMhRSRh3hUZY840",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Navaja Suiza",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     57,
+     57
+    ],
+    "drawn": false,
+    "_id": "mqWMS5nNGKOhHB2y",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cuerno de xenomorfo en polvo",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     58,
+     58
+    ],
+    "drawn": false,
+    "_id": "C6pI0E4YyD7Dqf0Y",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bonsái, en maceta",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     59,
+     59
+    ],
+    "drawn": false,
+    "_id": "bPzX4IPWDyEYHdbU",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Palo de Golf (Putter)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     60,
+     60
+    ],
+    "drawn": false,
+    "_id": "wlSZdVZ6vM9XSuzI",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Fósil de trilobite",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     61,
+     61
+    ],
+    "drawn": false,
+    "_id": "0kcXiztRDuD0M7Tx",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Folleto: Un amante en cada puerto",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     62,
+     62
+    ],
+    "drawn": false,
+    "_id": "Unh5olAYBaB4gbaq",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Monos de trabajo con parches, personalizados",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     63,
+     63
+    ],
+    "drawn": false,
+    "_id": "kZo93RkPUZTvQfht",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cosa carnosa sellada en un frasco turbio",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     64,
+     64
+    ],
+    "drawn": false,
+    "_id": "VQojkNpKzy9m8cgk",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pulsera con púas",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     65,
+     65
+    ],
+    "drawn": false,
+    "_id": "dGxbsYu5VWzw0fpt",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Harmonica",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     66,
+     66
+    ],
+    "drawn": false,
+    "_id": "wvPRRkIzQukiLMFn",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pornografía pictórica, Orejas de perro, Pulgar bien",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     67,
+     67
+    ],
+    "drawn": false,
+    "_id": "jaT8cTCFM4YzXxjk",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pornografía pictórica, Orejas de perro, Pulgar bien",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     68,
+     68
+    ],
+    "drawn": false,
+    "_id": "BmqfR8pcrXccWNn2",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Manual: Luna brillando con aceite y combustible para armas",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     69,
+     69
+    ],
+    "drawn": false,
+    "_id": "mPVhBIGbdQ8CGOxL",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Juego de ajedrez en miniatura, hueso, faltan piezas",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     70,
+     70
+    ],
+    "drawn": false,
+    "_id": "61hMJDi5YKKiAYao",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Giroscopio, Doblado, Estaño",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     71,
+     71
+    ],
+    "drawn": false,
+    "_id": "1Hhfqx4PKk0BpSHK",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Ficha de póquer verde descolorida",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     72,
+     72
+    ],
+    "drawn": false,
+    "_id": "zdrHEdSwymRMDGqQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Ukulele",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     73,
+     73
+    ],
+    "drawn": false,
+    "_id": "1rcYsv7ZGo9msrmQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pintura en aerosol",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     74,
+     74
+    ],
+    "drawn": false,
+    "_id": "Hnc1VOdiDKiYpAsB",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cartel de Se Busca, Desgastado",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     75,
+     75
+    ],
+    "drawn": false,
+    "_id": "xZIIQoN3kf2wNZh2",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Medallón, Trenza de pelo",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     76,
+     76
+    ],
+    "drawn": false,
+    "_id": "fjiqQaDop4WKEttB",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Escultura de una rata (oro)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     77,
+     77
+    ],
+    "drawn": false,
+    "_id": "Sz0lBNdEuhydnJ5u",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Manta, ignífuga",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     78,
+     78
+    ],
+    "drawn": false,
+    "_id": "6daH10zX3mbVytcO",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Parka con capucha, forrada de vellón",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     79,
+     79
+    ],
+    "drawn": false,
+    "_id": "kmpXPY6W4YyP62G8",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pistola de aire comprimido",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     80,
+     80
+    ],
+    "drawn": false,
+    "_id": "fNExgYdEgdr8oGen",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Hacha de pedernal",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     81,
+     81
+    ],
+    "drawn": false,
+    "_id": "RfmDKQQpVlXw2d7U",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Colgante: Dos astronautas forman una calavera",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     82,
+     82
+    ],
+    "drawn": false,
+    "_id": "mrt9ng8oIGhBbgZH",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cubo de Rubik",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     83,
+     83
+    ],
+    "drawn": false,
+    "_id": "MxDSvqg11PVttxxo",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bola AntiStress dice: Cero estrés en gravedad cero",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     84,
+     84
+    ],
+    "drawn": false,
+    "_id": "o6YkG6EKzcrAH3eR",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pin de Sputnik",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     85,
+     85
+    ],
+    "drawn": false,
+    "_id": "zYV9CUkt9AOeNwLG",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Ushanka",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     86,
+     86
+    ],
+    "drawn": false,
+    "_id": "iuffBZMW4XApYdxB",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Gorra de camionero, malla, logotipo alienígena gris",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     87,
+     87
+    ],
+    "drawn": false,
+    "_id": "C3SKZtps0dYBnlFS",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bálsamo de mentol",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     88,
+     88
+    ],
+    "drawn": false,
+    "_id": "sF9LEnGjTJDeihDD",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Salacot",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     89,
+     89
+    ],
+    "drawn": false,
+    "_id": "TTMkdEuXN0ZYTrmu",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Lona de 10m x 10m",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     90,
+     90
+    ],
+    "drawn": false,
+    "_id": "PBv2eSVBii8nVduD",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "I Ching, Palos Perdidos",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     91,
+     91
+    ],
+    "drawn": false,
+    "_id": "vOoul8g675Ni7krX",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Kukri",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     92,
+     92
+    ],
+    "drawn": false,
+    "_id": "k3fft4EtU2dWshcw",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Pala de trinchera",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     93,
+     93
+    ],
+    "drawn": false,
+    "_id": "OUVuwhquIDXAU60Z",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Shiv, cuchillo de mantequilla afilado",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     94,
+     94
+    ],
+    "drawn": false,
+    "_id": "wH4yB24sdo6tQiVa",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Gato taxidermizado",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     95,
+     95
+    ],
+    "drawn": false,
+    "_id": "X9NFKld9zzgU5kUz",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Panfleto: Interpretando los sueños de las ovejas",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     96,
+     96
+    ],
+    "drawn": false,
+    "_id": "PRN7wfNs46iTu4C5",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Fotografía descolorida, un brezo azotado por el viento",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     97,
+     97
+    ],
+    "drawn": false,
+    "_id": "x9V4hCllIEmphRUN",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Gafas de ópera",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     98,
+     98
+    ],
+    "drawn": false,
+    "_id": "VlZM5k1HeUkyCi1s",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Folleto: Señores Androides",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     99,
+     99
+    ],
+    "drawn": false,
+    "_id": "MAwg1Hlr9zad0St2",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Brújula interestelar, siempre apunta al mundo natal",
+    "name": ""
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d100",
+  "effects": []
+ },
+ {
+  "name": "EQUIPAMIENTOS DE ANDROIDE",
+  "_id": "jTkt5F0UmPDeJcBQ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "aBWoiQYR30dNcFbq",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{traje de vacio},  @UUID[Compendium.mr-mothership-es.armas.Item.cX5LE4H48FIpUh2I]{Rifle inteligente} (2 cargadores), @UUID[Compendium.mr-mothership-es.objetos.Item.AcQuwiIG6sTaaoxz]{Gafas infrarrojas}, @UUID[Compendium.mr-mothership-es.objetos.Item.rGycBribCNGwJmdl]{manta de Mylar}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "bDFbuymR29iBLm5t",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{traje de vacio}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{Revolver} (12 cartuchos), @UUID[Compendium.mr-mothership-es.objetos.Item.4gFEQdQCcrjrhf8U]{Comunicador de largo alcance}, @UUID[Compendium.mr-mothership-es.objetos.Item.zK3E9jCN4XaAtTiv]{Mochila}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "SqE32e34ag1lzVBo",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de peligro biologico}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{Revolver} (6 cartuchos), @UUID[Compendium.mr-mothership-es.objetos.Item.mKFtfxjVQ97DJlOo]{Desfibrilador},  @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{Botiquín de primeros auxilios}, @UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{Linterna}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "Za3Ilsr1pNnsMOmK",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de peligro biologico},  @UUID[Compendium.mr-mothership-es.armas.Item.x7x8lv0m66npG5Dc]{Pistola de Bolas de goma} (2 cargas), @UUID[Compendium.mr-mothership-es.objetos.Item.pS1xNbgMdOSYm8Y3]{Kit de recogida de muestras}, Destornillador (como @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{Herramientas variadas})",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "w5Razln7gqs5Uwcy",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Traje de batalla estándar} (AP 7), @UUID[Compendium.mr-mothership-es.armas.Item.y0vjQQKib9ZW1sfQ]{Pistola Tranquilizante} (3 disparos), @UUID[Compendium.mr-mothership-es.objetos.Item.KSx1l1qtdeFbnv2p]{Paracordel}(100 m)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "WFwiBfdkFiE0pKa5",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.armas.Item.z244ojrkJJLZG6FY]{Bastón de aturdimiento}, mascota pequeña (orgánico).",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "J1f3NvJzFmSLCugz",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación},@UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{Escalpelo} , @UUID[Compendium.mr-mothership-es.objetos.Item.aj1J0PDg6sSoQltL]{Bioescáner}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "uZ8bIGnNcNycpfjU",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.armas.Item.MxzlBjR96HxpuaFF]{Granada de fragmentación}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{Escalpelo}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "xbN3jLRyNnHypRfF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Atuendo suministrado por el fabricante @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, ticket Salto-9 (destino en blanco)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "NNOoz4gYbcpC5RyC",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Vestimenta corporativa @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, tarjeta de acceso corporativa VIP",
+    "name": ""
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPAMIENTOS DE CIENTÍFICOS",
+  "_id": "fPfJVmR6WFlsPtBC",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "lpgA0XSbygcYdB0Y",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de peligro biologico}, @UUID[Compendium.mr-mothership-es.armas.Item.y0vjQQKib9ZW1sfQ]{Pistola Tranquilizante} (3 disparos), @UUID[Compendium.mr-mothership-es.objetos.Item.aj1J0PDg6sSoQltL]{Bioescáner}, @UUID[Compendium.mr-mothership-es.objetos.Item.pS1xNbgMdOSYm8Y3]{Kit de recogida de muestras}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "1xvbvbM7PBRLVUYQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de peligro biologico}, @UUID[Compendium.mr-mothership-es.armas.Item.vXrjNQct1cApGrEq]{Lanzallamas} (1 carga), @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{Estimulante}, @UUID[Compendium.mr-mothership-es.objetos.Item.UD6YhjWV3Tp45fJ5]{Juego de herramientas electrónicas}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "a1EyntT9Rbizg6eE",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{traje de vacio}, @UUID[Compendium.mr-mothership-es.armas.Item.t8dw24g8S1xxDA1l]{Pistola de gancho}, @UUID[Compendium.mr-mothership-es.objetos.Item.pS1xNbgMdOSYm8Y3]{Kit de recogida de muestras},@UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{Linterna} , Rata de laboratorio (mascota)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "5MQO8G8icrnnHZ2Q",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{traje de vacio},  @UUID[Compendium.mr-mothership-es.armas.Item.x7x8lv0m66npG5Dc]{Pistola de Bolas de goma}(2 cargas), @UUID[Compendium.mr-mothership-es.objetos.Item.yA8FB5AH5YpvA1wr]{Camilla plegable},@UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{Botiquín de primeros auxilios} ,  @UUID[Compendium.mr-mothership-es.objetos.Item.VD6iDpCR50fsqd2j]{Píldoras de radiación} (x5)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "8DdM9AX6gWYcrEYj",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bata de laboratorio @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, destornillador (como @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{Herramientas variadas}),  @UUID[Compendium.mr-mothership-es.objetos.Item.VOF7vzD66rgMvUoO]{escáner médico} , @UUID[Compendium.mr-mothership-es.objetos.Item.pmWjPewIDs3gMaNu]{vacuna}(1 dosis)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "GwW7krpNyTSYVfXU",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Bata de laboratorio @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.objetos.Item.BejXDKi1QSSoMPkD]{escáner de diagnóstico cibernético}, @UUID[Compendium.mr-mothership-es.objetos.Item.BMk7N43CPA7Td4MF]{terminal de computadora portátil}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "noUbcIMJcvJcOVjC",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{Escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.6MUUwv9OEVzGRmCW]{Automed} (x5), @UUID[Compendium.mr-mothership-es.objetos.Item.1amr2HQxM2NMOx9G]{Tanque de oxígeno con máscara de filtro}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "d0vsaMqYDBW0nqyK",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Uniformes médicos @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.objetos.Item.TRRNx48luBwIn5uB]{frasco de ácido},  @UUID[Compendium.mr-mothership-es.objetos.Item.rGycBribCNGwJmdl]{manta de Mylar}, @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{Botiquín de primeros auxilios}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "HtXoM2SFPmW3odvZ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, navaja multiusos (como @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{Escalpelo}), @UUID[Compendium.mr-mothership-es.objetos.Item.BejXDKi1QSSoMPkD]{escáner de diagnóstico cibernético}, @UUID[Compendium.mr-mothership-es.objetos.Item.lE3S82mKah8eMZ1n]{cinta adhesiva}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "j2Jq3rdCbpOpiskW",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Ropa de civil @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación} @UUID[Compendium.mr-mothership-es.objetos.Item.1sY24F4lE4oP6FGV]{maletín}, @UUID[Compendium.mr-mothership-es.objetos.Item.3VMDmbDFd8Tsh8LI]{talonario de recetas}, @UUID[Compendium.mr-mothership-es.objetos.Item.PeEj1wH6h7I25X5j]{pluma estilográfica} (inyector de veneno)",
+    "name": ""
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 200000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPAMIENTOS DE TRIPULANTES",
+  "_id": "mg4dPtFAcCDV4Qbw",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "ZWxiLU701G7WIF7N",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{traje de vacio},  @UUID[Compendium.mr-mothership-es.armas.Item.LkK4uDgl5wRAsk2Q]{Cortadora láser} (1 batería adicional), @UUID[Compendium.mr-mothership-es.objetos.Item.LvjKHpx3x3zCtV8F]{Kit de parches}(x3),  @UUID[Compendium.mr-mothership-es.objetos.Item.rCN1mhc3FuEUeqEt]{Cinturon de herramientes variadas}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "3tgP9hO5Hgkbkp6l",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{traje de vacio},  @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{Revolver} (6 cartuchos), @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{Palanca}, @UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{Linterna}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "BGQyGcgfZFw1OCAL",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{traje de vacio},  @UUID[Compendium.mr-mothership-es.armas.Item.t8dw24g8S1xxDA1l]{Pistola de gancho}(1 disparo), @UUID[Compendium.mr-mothership-es.objetos.Item.hlI06tmX67GFoNkN]{Pala}, @UUID[Compendium.mr-mothership-es.objetos.Item.deQvQ3jV8UjVyiO5]{Dron de salvamento}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "TunnGw6CAP7uk9Xk",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de peligro biologico}, @UUID[Compendium.mr-mothership-es.armas.Item.7eYcaj0TNJ0F0aaV]{Vibechete}, @UUID[Compendium.mr-mothership-es.armas.Item.AJQZLhL0HYJVMOom]{Llave Inglesa}, @UUID[Compendium.mr-mothership-es.objetos.Item.hStrQSei66uH7w2l]{Equipo de Camping},  @UUID[Compendium.mr-mothership-es.objetos.Item.QKJJ5rwthBiKcywb]{Dispositivo de Filtración de Agua}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "8GkVeh78oaH54TNk",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada}, @UUID[Compendium.mr-mothership-es.objetos.Item.WRt2lFSq8BVgAuu6]{explosivos y detonadores}, @UUID[Compendium.mr-mothership-es.objetos.Item.gn2qJQIvmwp95SOH]{cigarrillos}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "2VKX0NxSp4d18v4O",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada}, taladro (como @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{Herramientas variadas}), @UUID[Compendium.mr-mothership-es.objetos.Item.KSx1l1qtdeFbnv2p]{Paracordel} (100 m), @UUID[Compendium.mr-mothership-es.objetos.Item.deQvQ3jV8UjVyiO5]{Dron de salvamento}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "34QS8BcK3d0dTLbz",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación},  @UUID[Compendium.mr-mothership-es.armas.Item.H9eZFrPyGZc8pq5k]{Escopeta de combate} (4 rondas),   @UUID[Compendium.mr-mothership-es.objetos.Item.KSx1l1qtdeFbnv2p]{Paracordel} (20 m), gato (mascota)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "S5AotFmg2htsDgFs",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.armas.Item.xsEm25XgfjcA3J89]{Pistola de clavos} (32 cartuchos), @UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{Linterna} frontal, @UUID[Compendium.mr-mothership-es.objetos.Item.rCN1mhc3FuEUeqEt]{Cinturon de herramientes variadas}, @UUID[Compendium.mr-mothership-es.objetos.Item.AGHCaFVCDCQ5Blke]{Fiambrera}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "iaTh6HR6Lq5S4t0R",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación},  @UUID[Compendium.mr-mothership-es.armas.Item.vVApnvQqFyJ6RYYB]{Pistola de bengalas} (2 rondas),@UUID[Compendium.mr-mothership-es.objetos.Item.QKJJ5rwthBiKcywb]{Dispositivo de Filtración de Agua} ,@UUID[Compendium.mr-mothership-es.objetos.Item.EaZT5rFGpcQSA6W4]{Localizador personal}, @UUID[Compendium.mr-mothership-es.objetos.Item.bsSilvzSja9wxsht]{escáner subterráneo}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "yPS6fVc9pmP0MP0o",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Ropa de salón @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{Palanca} , @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{Estimulante}, pack de seis cervezas",
+    "name": ""
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 150000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1D10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPAMIENTOS MARINES",
+  "_id": "fO10wqLZzdRtKIwD",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "rDFF8DvSGA559ET0",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Camiseta sin mangas y pantalones de camuflaje (@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}), Cuchillo de combate (como Daño de @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{Escalpelo} [+]), @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{Estimulante} (x5)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "LdSFJUZKhdwbgpoa",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.tnhXBOT7xWQSHAep]{Traje de batalla avanzado}, @UUID[Compendium.mr-mothership-es.armas.Item.vXrjNQct1cApGrEq]{Lanzallamas} (4 disparos), @UUID[Compendium.mr-mothership-es.armas.Item.DEdtuFuSlZCOIP7b]{Hacha de abordaje}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "0W7s8e1QKjzg97v8",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Traje de batalla estándar}, @UUID[Compendium.mr-mothership-es.armas.Item.H9eZFrPyGZc8pq5k]{Escopeta de combate} (4 cartuchos), @UUID[Compendium.mr-mothership-es.objetos.Item.zK3E9jCN4XaAtTiv]{Mochila}, @UUID[Compendium.mr-mothership-es.objetos.Item.hStrQSei66uH7w2l]{Equipo de Camping}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "CaWkni26MF62RirR",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Traje de batalla estándar}, @UUID[Compendium.mr-mothership-es.armas.Item.THtcCwIFXgEGuph7]{Rifle de pulsos} (3 cargadores), @UUID[Compendium.mr-mothership-es.objetos.Item.AcQuwiIG6sTaaoxz]{Gafas infrarrojas}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "tyP5VqboGLkD2oBQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Traje de batalla estándar}, @UUID[Compendium.mr-mothership-es.armas.Item.cX5LE4H48FIpUh2I]{Rifle inteligente} (3 cargadores), @UUID[Compendium.mr-mothership-es.objetos.Item.rltT7Qa3zuuRIoKp]{binoculares}, @UUID[Compendium.mr-mothership-es.objetos.Item.EaZT5rFGpcQSA6W4]{Localizador personal}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "LFTfuxOAL03k6C6v",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Traje de batalla estándar}, @UUID[Compendium.mr-mothership-es.armas.Item.F2LBga58gtiybVHH]{Subfusil} (3 cargadores), @UUID[Compendium.mr-mothership-es.objetos.Item.V9RMqkSLXVGv5eBB]{Raciones Batalla} (x7)",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "5lPtNVVAQW5g2ZzE",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme},  @UUID[Compendium.mr-mothership-es.armas.Item.H9eZFrPyGZc8pq5k]{Escopeta de combate} (2 rondas), Perro (mascota),@UUID[Compendium.mr-mothership-es.objetos.Item.tp3eN8ZYhtf9PqoF]{Correa} , @UUID[Compendium.mr-mothership-es.objetos.Item.q9ZM1zzA7adeaEtD]{Pelota de tenis}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "fDIiOIyJKD1nqAUE",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{Revolver}(12 cartuchos), @UUID[Compendium.mr-mothership-es.armas.Item.MxzlBjR96HxpuaFF]{Granada de fragmentación}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "Vilm5PtYwPx3bQh3",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Uniforme de gala @UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Atuendo estándar de la tripulación}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{Revolver} (1 ronda), @UUID[Compendium.mr-mothership-es.objetos.Item.G3rk65mLM9BmNUln]{Moneda de desafío}",
+    "name": ""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "GIZuOggbVQpDb2Rg",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.tnhXBOT7xWQSHAep]{Traje de batalla avanzado},  @UUID[Compendium.mr-mothership-es.armas.Item.38t4HCDomNdlytGj]{Ametralladora de uso general}(1 lata de munición), @UUID[Compendium.mr-mothership-es.objetos.Item.dAmnp8R26T4g1XnQ]{HUD}",
+    "name": ""
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 125000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "folder": null,
+  "name": "PARCHES",
+  "_id": "I2uOjof2dDGM0kMQ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     0,
+     0
+    ],
+    "drawn": false,
+    "_id": "FLstgWHKDFL4PQMP",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"No soy un científico espacial / Pero tú eres un idiota\" @UUID[Compendium.mr-mothership-es.parches.Item.g9FImAY5Qco9ejs5]{\"No soy un científico espacial / Pero tú eres un idiota\"}",
+    "name": "\"No soy un científico espacial / Pero tú eres un idiota\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "2mrUJ37Hb9Buu61f",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Parche Médico (Calavera y tibias cruzadas sobre Cruz) @UUID[Compendium.mr-mothership-es.parches.Item.tw9f5LzGSnjl4u0O]{Parche Médico (Calavera y tibias cruzadas sobre Cruz)}",
+    "name": "Parche Médico (Calavera y tibias cruzadas sobre Cruz)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "tgpUCyLibDuiagJW",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Parche trasero \"Don't Run, You'll Only Die Tired\" @UUID[Compendium.mr-mothership-es.parches.Item.EbU5v987lVHyt4Mt]{Parche trasero \"Don't Run, You'll Only Die Tired\"}",
+    "name": "Parche trasero \"Don't Run, You'll Only Die Tired\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "VObCMgy5jdo1tnsF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Logotipo de la camisa roja @UUID[Compendium.mr-mothership-es.parches.Item.D8r9IGuiSs44tYBY]{Logotipo de la camisa roja}",
+    "name": "Logotipo de la camisa roja"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "hEe9dCyO4Zhed6If",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Tipo de sangre (parche de referencia) @UUID[Compendium.mr-mothership-es.parches.Item.OhMptfTz09DvTY9x]{Tipo de sangre (parche de referencia)}",
+    "name": "Tipo de sangre (parche de referencia)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "KsOe9XZWOtscPhtb",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"¿PAREZCO un experto?\" @UUID[Compendium.mr-mothership-es.parches.Item.Vpnznxo45mMO2tZ7]{\"¿PAREZCO un experto?\"}",
+    "name": "\"¿PAREZCO un experto?\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "fxcFMkviJ7kYM30g",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Símbolo de riesgo biológico @UUID[Compendium.mr-mothership-es.parches.Item.C9Wx522gRrA6h5au]{Símbolo de riesgo biológico}",
+    "name": "Símbolo de riesgo biológico"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "HCf1cI4A8rXxNSIJ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Sr. Asco @UUID[Compendium.mr-mothership-es.parches.Item.xwpS7yk8xOQksUZu]{Sr. Asco}",
+    "name": "Sr. Asco"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "1wuKWF20S0OXrKMJ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Símbolo nuclear @UUID[Compendium.mr-mothership-es.parches.Item.BZBEO6Z7mXhAJNUC]{Símbolo nuclear}",
+    "name": "Símbolo nuclear"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "8pGRj7vE2tornwZO",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Cómete a los ricos\" @UUID[Compendium.mr-mothership-es.parches.Item.Rbl3zvNpQfveU89I]{\"Cómete a los ricos\"}",
+    "name": "\"Cómete a los ricos\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "IZPMofF2VYCBymJ0",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Esté seguro: toque dos veces\" @UUID[Compendium.mr-mothership-es.parches.Item.LFDZFTzLzyWommBu]{\"Esté seguro: toque dos veces\"}",
+    "name": "\"Esté seguro: toque dos veces\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     11,
+     11
+    ],
+    "drawn": false,
+    "_id": "Wp9FdGwjWBiMZQsP",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Emoji de llama @UUID[Compendium.mr-mothership-es.parches.Item.3sy4wOHP8Bie0e0M]{Emoji de llama}",
+    "name": "Emoji de llama"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     12,
+     12
+    ],
+    "drawn": false,
+    "_id": "oePU6jXvBJiiHqs2",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cara sonriente (Brilla en la oscuridad) @UUID[Compendium.mr-mothership-es.parches.Item.hpJG6ER32h4JmflG]{Cara sonriente (Brilla en la oscuridad)}",
+    "name": "Cara sonriente (Brilla en la oscuridad)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     13,
+     13
+    ],
+    "drawn": false,
+    "_id": "umcydkUwazX2Jvfk",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Sonríe: el Gran Hermano está mirando\" @UUID[Compendium.mr-mothership-es.parches.Item.03MERXwLm5cpA5YQ]{\"Sonríe: el Gran Hermano está mirando\"}",
+    "name": "\"Sonríe: el Gran Hermano está mirando\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     14,
+     14
+    ],
+    "drawn": false,
+    "_id": "ZxGKfmqcCD5JkiaB",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Jolly Roger @UUID[Compendium.mr-mothership-es.parches.Item.HnlK4DCKHk4WpaIH]{Jolly Roger}",
+    "name": "Jolly Roger"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     15,
+     15
+    ],
+    "drawn": false,
+    "_id": "wab7eVF6r1Yd8yYT",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Calavera vikinga @UUID[Compendium.mr-mothership-es.parches.Item.g2KRgFXGsDXp9Rou]{Calavera vikinga}",
+    "name": "Calavera vikinga"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     16,
+     16
+    ],
+    "drawn": false,
+    "_id": "7cDA6k0X0YKVi6mS",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"APEX PREDATOR\" (Calavera de dientes de sable) @UUID[Compendium.mr-mothership-es.parches.Item.NpSs686Np2drOxSK]{\"APEX PREDATOR\" (Calavera de dientes de sable)}",
+    "name": "\"APEX PREDATOR\" (Calavera de dientes de sable)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     17,
+     17
+    ],
+    "drawn": false,
+    "_id": "cpgknE5ssIwd4cMj",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Modelo Pin-Up (As de Picas) @UUID[Compendium.mr-mothership-es.parches.Item.SrwNtLa6ohvc9Jk6]{Modelo Pin-Up (As de Picas)}",
+    "name": "Modelo Pin-Up (As de Picas)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     18,
+     18
+    ],
+    "drawn": false,
+    "_id": "xdHvJDfRCEgl0POW",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Reina de Corazones @UUID[Compendium.mr-mothership-es.parches.Item.6iYqZIlAGpqLeRfl]{Reina de Corazones}",
+    "name": "Reina de Corazones"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     19,
+     19
+    ],
+    "drawn": false,
+    "_id": "pdNLGL9mIyXuNvlz",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Vigilante de seguridad @UUID[Compendium.mr-mothership-es.parches.Item.MF75edsP50ef705w]{Vigilante de seguridad}",
+    "name": "Vigilante de seguridad"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     20,
+     20
+    ],
+    "drawn": false,
+    "_id": "tl4ywv7f8eWrMrzS",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"SOLITARIO\" @UUID[Compendium.mr-mothership-es.parches.Item.vj76dq7g63vKRfxt]{\"SOLITARIO\"}",
+    "name": "\"SOLITARIO\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     21,
+     21
+    ],
+    "drawn": false,
+    "_id": "7L3lCQ33tn8ouZce",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Frente hacia el enemigo\" (Claymore Mine) @UUID[Compendium.mr-mothership-es.parches.Item.yX67I8aoArb8RTx2]{\"Frente hacia el enemigo\" (Claymore Mine)}",
+    "name": "\"Frente hacia el enemigo\" (Claymore Mine)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     22,
+     22
+    ],
+    "drawn": false,
+    "_id": "EfhhgJ1VQLkc6zdB",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Modelo Pin-Up (Montado un Misil ) @UUID[Compendium.mr-mothership-es.parches.Item.UAf6zs5tdkf6BKKk]{Modelo Pin-Up (Montado un Misil )}",
+    "name": "Modelo Pin-Up (Montado un Misil )"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     23,
+     23
+    ],
+    "drawn": false,
+    "_id": "vy5O8YzqOELjLD0o",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "FUBAR @UUID[Compendium.mr-mothership-es.parches.Item.zLb3cQH4jPwnHoIZ]{FUBAR}",
+    "name": "FUBAR"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     24,
+     24
+    ],
+    "drawn": false,
+    "_id": "0w9oNTSMSRWA73HO",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Soy una máquina (de amor)\" @UUID[Compendium.mr-mothership-es.parches.Item.DRqmJ2XT0gD4lzmK]{\"Soy una máquina (de amor)\"}",
+    "name": "\"Soy una máquina (de amor)\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     25,
+     25
+    ],
+    "drawn": false,
+    "_id": "9hSvea5IapDf6e9J",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Modelo Pin-Up (Mecánico) @UUID[Compendium.mr-mothership-es.parches.Item.QpHxw4uVktJfBPGU]{Modelo Pin-Up (Mecánico)}",
+    "name": "Modelo Pin-Up (Mecánico)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     26,
+     26
+    ],
+    "drawn": false,
+    "_id": "GkMjd36pV4uBlDzn",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"HOLA, MI NOMBRE ES:\" @UUID[Compendium.mr-mothership-es.parches.Item.sTiocRDp4W7DRZ7m]{\"HOLA, MI NOMBRE ES:\"}",
+    "name": "\"HOLA, MI NOMBRE ES:\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     27,
+     27
+    ],
+    "drawn": false,
+    "_id": "iSmbdIK8R3IbyZhT",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Impulsado por el café\" @UUID[Compendium.mr-mothership-es.parches.Item.AmcbxL1n1zpbxV2X]{\"Impulsado por el café\"}",
+    "name": "\"Impulsado por el café\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     28,
+     28
+    ],
+    "drawn": false,
+    "_id": "GBXo2ySqAeG4GPKk",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Llévame ante tu líder\" (OVNI) @UUID[Compendium.mr-mothership-es.parches.Item.bGDsraQFICJgPKmI]{\"Llévame ante tu líder\" (OVNI)}",
+    "name": "\"Llévame ante tu líder\" (OVNI)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     29,
+     29
+    ],
+    "drawn": false,
+    "_id": "EYqaJQPGRrz0SelZ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"HAZ TU TRABAJO\" @UUID[Compendium.mr-mothership-es.parches.Item.ICMCKne2nKQHTQcG]{\"HAZ TU TRABAJO\"}",
+    "name": "\"HAZ TU TRABAJO\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     30,
+     30
+    ],
+    "drawn": false,
+    "_id": "y7wMeXwjScpWAtno",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Toma mi vida (por favor)\" @UUID[Compendium.mr-mothership-es.parches.Item.gKTej4repD7o9d6j]{\"Toma mi vida (por favor)\"}",
+    "name": "\"Toma mi vida (por favor)\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     31,
+     31
+    ],
+    "drawn": false,
+    "_id": "0Bp4dxhGgEQsQ4Zp",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Ciudadano honrado\" @UUID[Compendium.mr-mothership-es.parches.Item.6plmhdpf3crzKRFG]{\"Ciudadano honrado\"}",
+    "name": "\"Ciudadano honrado\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     32,
+     32
+    ],
+    "drawn": false,
+    "_id": "hnxiwDcVYyDFFFhZ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Alérgico a la mierda\" (parche de estilo médico) @UUID[Compendium.mr-mothership-es.parches.Item.2YIvBjpLf7kBIRmD]{\"Alérgico a la mierda\" (parche de estilo médico)}",
+    "name": "\"Alérgico a la mierda\" (parche de estilo médico)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     33,
+     33
+    ],
+    "drawn": false,
+    "_id": "XNYlQrJpFcU3lQef",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "“Arreglame Primero (Caduceo) @UUID[Compendium.mr-mothership-es.parches.Item.moahTXbEPG5VPJK2]{“Arreglame Primero (Caduceo)}",
+    "name": "“Arreglame Primero (Caduceo)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     34,
+     34
+    ],
+    "drawn": false,
+    "_id": "TacIcNvMy1W29GtB",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Me gustan mis herramientas limpias / y mis amantes sucias\" @UUID[Compendium.mr-mothership-es.parches.Item.9mIPmz0Lvgzd0Y5G]{\"Me gustan mis herramientas limpias / y mis amantes sucias\"}",
+    "name": "\"Me gustan mis herramientas limpias / y mis amantes sucias\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     35,
+     35
+    ],
+    "drawn": false,
+    "_id": "weFH2NeMx7Y430Mq",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Cuanto más fuerte gritas, más rápido vengo\" (EnfermeraPin-Up) @UUID[Compendium.mr-mothership-es.parches.Item.9jXcHbI2wv9oLpY7]{\"Cuanto más fuerte gritas, más rápido vengo\" (EnfermeraPin-Up)}",
+    "name": "\"Cuanto más fuerte gritas, más rápido vengo\" (EnfermeraPin-Up)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     36,
+     36
+    ],
+    "drawn": false,
+    "_id": "F8GtV2pKWkaUyWhh",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "JPMC (Jefe de Puta Madre a Cargo) @UUID[Compendium.mr-mothership-es.parches.Item.rD41Dmm8yy1z0qMu]{JPMC (Jefe de Puta Madre a Cargo)}",
+    "name": "JPMC (Jefe de Puta Madre a Cargo)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     37,
+     37
+    ],
+    "drawn": false,
+    "_id": "aXEGizg9tS1jdXDQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Paloma en el punto de mira @UUID[Compendium.mr-mothership-es.parches.Item.kUDdg77GM5zZILUI]{Paloma en el punto de mira}",
+    "name": "Paloma en el punto de mira"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     38,
+     38
+    ],
+    "drawn": false,
+    "_id": "wPXrLl728QXXSuln",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cthulhu Chibi @UUID[Compendium.mr-mothership-es.parches.Item.y9WrvIAo7YJGtXHj]{Cthulhu Chibi}",
+    "name": "Cthulhu Chibi"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     39,
+     39
+    ],
+    "drawn": false,
+    "_id": "PnuzJ4VDFQlTNnMV",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Bienvenidos a la ZONA DE PELIGRO\" @UUID[Compendium.mr-mothership-es.parches.Item.TzbYFxCiis1V82Xz]{\"Bienvenidos a la ZONA DE PELIGRO\"}",
+    "name": "\"Bienvenidos a la ZONA DE PELIGRO\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     40,
+     40
+    ],
+    "drawn": false,
+    "_id": "c4hY79U8ZJqaqMtk",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cráneo y llaves cruzadas @UUID[Compendium.mr-mothership-es.parches.Item.ZeVyBQBamNuVnwkc]{Cráneo y llaves cruzadas}",
+    "name": "Cráneo y llaves cruzadas"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     41,
+     41
+    ],
+    "drawn": false,
+    "_id": "mBEhoZCWWcnbVSla",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Modelo Pin-Up (Súcubo) @UUID[Compendium.mr-mothership-es.parches.Item.fpBA7HAQwCzwoJVC]{Modelo Pin-Up (Súcubo)}",
+    "name": "Modelo Pin-Up (Súcubo)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     42,
+     42
+    ],
+    "drawn": false,
+    "_id": "r8xPMUHeYP3r7SRR",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "“DILLIGAF?” @UUID[Compendium.mr-mothership-es.parches.Item.TOh0xR49Dm8G3IXb]{“DILLIGAF?”}",
+    "name": "“DILLIGAF?”"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     43,
+     43
+    ],
+    "drawn": false,
+    "_id": "t4HqDNox1ux789WK",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"BEBER / PELEAR / FOLLAR\" @UUID[Compendium.mr-mothership-es.parches.Item.pzMIccGTFLvsLEzo]{\"BEBER / PELEAR / FOLLAR\"}",
+    "name": "\"BEBER / PELEAR / FOLLAR\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     44,
+     44
+    ],
+    "drawn": false,
+    "_id": "XUo4SuR9P23hlUYo",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Trabaja duro / Festeja más duro\" @UUID[Compendium.mr-mothership-es.parches.Item.exXykC96SEXiQ2R6]{\"Trabaja duro / Festeja más duro\"}",
+    "name": "\"Trabaja duro / Festeja más duro\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     45,
+     45
+    ],
+    "drawn": false,
+    "_id": "9B4cxl7xv7JyhHwy",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Chica guardabarros @UUID[Compendium.mr-mothership-es.parches.Item.UlRX1YpZw7kcGPGk]{Chica guardabarros}",
+    "name": "Chica guardabarros"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     46,
+     46
+    ],
+    "drawn": false,
+    "_id": "xzpvRNPB4sIL3oAW",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Medidor de diversión (dice: Mala Hora) @UUID[Compendium.mr-mothership-es.parches.Item.UuayNZiBQi4ry2BH]{Medidor de diversión (dice: Mala Hora)}",
+    "name": "Medidor de diversión (dice: Mala Hora)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     47,
+     47
+    ],
+    "drawn": false,
+    "_id": "rzqyN68I1yr19FGF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"GAME OVER\" (Novia y Novio) @UUID[Compendium.mr-mothership-es.parches.Item.DSLJpbPQOPbrFWnR]{\"GAME OVER\" (Novia y Novio)}",
+    "name": "\"GAME OVER\" (Novia y Novio)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     48,
+     48
+    ],
+    "drawn": false,
+    "_id": "pnHoVd7KXkohOzW2",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Corazón @UUID[Compendium.mr-mothership-es.parches.Item.Twjd5DVga8HJPPwV]{Corazón}",
+    "name": "Corazón"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     49,
+     49
+    ],
+    "drawn": false,
+    "_id": "pnYylw3zjaeUYXpW",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"MEJORAR / ADAPTARSE / SUPERAR\" @UUID[Compendium.mr-mothership-es.parches.Item.NjUHAgCDOYm5EFoE]{\"MEJORAR / ADAPTARSE / SUPERAR\"}",
+    "name": "\"MEJORAR / ADAPTARSE / SUPERAR\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     50,
+     50
+    ],
+    "drawn": false,
+    "_id": "dQEyfQ7vEiDVJwmX",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "“CHÚPATE ESA” @UUID[Compendium.mr-mothership-es.parches.Item.5Y0LBc3nu9dFr1vr]{“CHÚPATE ESA”}",
+    "name": "“CHÚPATE ESA”"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     51,
+     51
+    ],
+    "drawn": false,
+    "_id": "mWz4WjslSnXYUVpY",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Cowboy Up\" (Revólveres cruzados) @UUID[Compendium.mr-mothership-es.parches.Item.rOPVUgfOL3wj0PUy]{\"Cowboy Up\" (Revólveres cruzados)}",
+    "name": "\"Cowboy Up\" (Revólveres cruzados)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     52,
+     52
+    ],
+    "drawn": false,
+    "_id": "2rM9SeBebfNXFvTf",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Solucionador de problemas\" @UUID[Compendium.mr-mothership-es.parches.Item.gLoVC98IhLR5TyN5]{\"Solucionador de problemas\"}",
+    "name": "\"Solucionador de problemas\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     53,
+     53
+    ],
+    "drawn": false,
+    "_id": "fUy5quVpBnFTPGvF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Logotipo de la NASA @UUID[Compendium.mr-mothership-es.parches.Item.vF88T21RPtnACDzY]{Logotipo de la NASA}",
+    "name": "Logotipo de la NASA"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     54,
+     54
+    ],
+    "drawn": false,
+    "_id": "nkCa0CQrNKrjTTwG",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Martillos cruzados con alas @UUID[Compendium.mr-mothership-es.parches.Item.XLnC5Evyszj9EA4V]{Martillos cruzados con alas}",
+    "name": "Martillos cruzados con alas"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     55,
+     55
+    ],
+    "drawn": false,
+    "_id": "HgkTdnVqXe8UMD5B",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Manténgase bien lubricado\" @UUID[Compendium.mr-mothership-es.parches.Item.dtaPMLbecdhjKmjU]{\"Manténgase bien lubricado\"}",
+    "name": "\"Manténgase bien lubricado\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     56,
+     56
+    ],
+    "drawn": false,
+    "_id": "Kf0ojDVmnFXSfcB6",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "La hoz y el martillo soviéticos @UUID[Compendium.mr-mothership-es.parches.Item.zDAbuKUJqTmJeSO6]{La hoz y el martillo soviéticos}",
+    "name": "La hoz y el martillo soviéticos"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     57,
+     57
+    ],
+    "drawn": false,
+    "_id": "A1kWHwRpWeQQ2AhZ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Trata bien a los demás\" @UUID[Compendium.mr-mothership-es.parches.Item.zDqDXCetJyYFj54D]{\"Trata bien a los demás\"}",
+    "name": "\"Trata bien a los demás\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     58,
+     58
+    ],
+    "drawn": false,
+    "_id": "xIOGRxxttKdJhzTK",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Vive libre y muere\" @UUID[Compendium.mr-mothership-es.parches.Item.qDTdEeK4JuDE78ic]{\"Vive libre y muere\"}",
+    "name": "\"Vive libre y muere\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     59,
+     59
+    ],
+    "drawn": false,
+    "_id": "ulysGnzUKrmWiziI",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"SI ESTOY CORRIENDO, MANTENTE AL DÍA\" Parche trasero @UUID[Compendium.mr-mothership-es.parches.Item.DlnYxDHKE9KwHxP9]{\"SI ESTOY CORRIENDO, MANTENTE AL DÍA\" Parche trasero}",
+    "name": "\"SI ESTOY CORRIENDO, MANTENTE AL DÍA\" Parche trasero"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     60,
+     60
+    ],
+    "drawn": false,
+    "_id": "vEIkPsIP8Nt2G8iz",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Bolsa de carne\" @UUID[Compendium.mr-mothership-es.parches.Item.bPsctjir7MkEFhcQ]{\"Bolsa de carne\"}",
+    "name": "\"Bolsa de carne\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     61,
+     61
+    ],
+    "drawn": false,
+    "_id": "Z02g4mpIpBVq1cLD",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"No soy un robot\" @UUID[Compendium.mr-mothership-es.parches.Item.rxcw36PXjCQB40uj]{\"No soy un robot\"}",
+    "name": "\"No soy un robot\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     62,
+     62
+    ],
+    "drawn": false,
+    "_id": "QylVE2BMITk5lVDi",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Engranaje rojo @UUID[Compendium.mr-mothership-es.parches.Item.xNbftByeY4Cs0Tm0]{Engranaje rojo}",
+    "name": "Engranaje rojo"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     63,
+     63
+    ],
+    "drawn": false,
+    "_id": "Y6LIykEVnFFICFp4",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"No puedo arreglar estúpido\" @UUID[Compendium.mr-mothership-es.parches.Item.8uoQe8ps7ErWBR5r]{\"No puedo arreglar estúpido\"}",
+    "name": "\"No puedo arreglar estúpido\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     64,
+     64
+    ],
+    "drawn": false,
+    "_id": "29q0RCLPzxcr3fJf",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"El espacio es mi hogar\" (Triste astronauta) @UUID[Compendium.mr-mothership-es.parches.Item.p8IB59UJHcuhw61g]{\"El espacio es mi hogar\" (Triste astronauta)}",
+    "name": "\"El espacio es mi hogar\" (Triste astronauta)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     65,
+     65
+    ],
+    "drawn": false,
+    "_id": "4kzjnTnzU2f5jA8v",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Ojo que todo lo ve @UUID[Compendium.mr-mothership-es.parches.Item.E2ZRsxK4A4SMpG2L]{Ojo que todo lo ve}",
+    "name": "Ojo que todo lo ve"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     66,
+     66
+    ],
+    "drawn": false,
+    "_id": "NC2nvz4uNrkd58dG",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Solve et coagula\" (Baphomet) @UUID[Compendium.mr-mothership-es.parches.Item.swvPga4xMXYPpqrY]{\"Solve et coagula\" (Baphomet)}",
+    "name": "\"Solve et coagula\" (Baphomet)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     67,
+     67
+    ],
+    "drawn": false,
+    "_id": "QpQ94MZ80kCQibeI",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Sin nada de mierda para dar\" (Astronauta con los bolsillos vueltos) @UUID[Compendium.mr-mothership-es.parches.Item.FaXBlhHnYSqawxOp]{\"Sin nada de mierda para dar\" (Astronauta con los bolsillos vueltos)}",
+    "name": "\"Sin nada de mierda para dar\" (Astronauta con los bolsillos vueltos)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     68,
+     68
+    ],
+    "drawn": false,
+    "_id": "a7conZECEcz3wyA0",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Viaja a lugares lejanos / Conoce cosas inusuales / Déjate comer\" @UUID[Compendium.mr-mothership-es.parches.Item.EHlHdHEjHafCPaFG]{\"Viaja a lugares lejanos / Conoce cosas inusuales / Déjate comer\"}",
+    "name": "\"Viaja a lugares lejanos / Conoce cosas inusuales / Déjate comer\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     69,
+     69
+    ],
+    "drawn": false,
+    "_id": "sqiVnODaHlzUJHRT",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "IAVOV (Inclínate Aquí Viene Otra Vez) @UUID[Compendium.mr-mothership-es.parches.Item.q38XDwqEAzlxSqBK]{IAVOV (Inclínate Aquí Viene Otra Vez)}",
+    "name": "IAVOV (Inclínate Aquí Viene Otra Vez)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     70,
+     70
+    ],
+    "drawn": false,
+    "_id": "o6LJUh0Ve5SU9pQ1",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Yo soy el guardián de mi hermano\" @UUID[Compendium.mr-mothership-es.parches.Item.cpWazdrZOZqe5cWz]{\"Yo soy el guardián de mi hermano\"}",
+    "name": "\"Yo soy el guardián de mi hermano\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     71,
+     71
+    ],
+    "drawn": false,
+    "_id": "tbFIwfR4iowEMruD",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Mamá lo intentó\" @UUID[Compendium.mr-mothership-es.parches.Item.pmyCPXrJj5MbaV8z]{\"Mamá lo intentó\"}",
+    "name": "\"Mamá lo intentó\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     72,
+     72
+    ],
+    "drawn": false,
+    "_id": "cduOvDZp3dU25oF9",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Araña viuda negra @UUID[Compendium.mr-mothership-es.parches.Item.btMRpyOMuGCnfObz]{Araña viuda negra}",
+    "name": "Araña viuda negra"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     73,
+     73
+    ],
+    "drawn": false,
+    "_id": "pZaXzozBI0rVCZm9",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Mi otro viaje se casó contigo\" @UUID[Compendium.mr-mothership-es.parches.Item.wOJJOP3ORRB32gUC]{\"Mi otro viaje se casó contigo\"}",
+    "name": "\"Mi otro viaje se casó contigo\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     74,
+     74
+    ],
+    "drawn": false,
+    "_id": "k2udpw1mxUfZ4n5J",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Talla única\" (Granada) @UUID[Compendium.mr-mothership-es.parches.Item.PokXg5wVNVcLM1n1]{\"Talla única\" (Granada)}",
+    "name": "\"Talla única\" (Granada)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     75,
+     75
+    ],
+    "drawn": false,
+    "_id": "gAPwQgi6HvTszatA",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Parche trasero de la Parca @UUID[Compendium.mr-mothership-es.parches.Item.Dj7DWB289QrACF6L]{Parche trasero de la Parca}",
+    "name": "Parche trasero de la Parca"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     76,
+     76
+    ],
+    "drawn": false,
+    "_id": "dBs0G2rdErgRaro8",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "отъебись (\"Vete a la mierda\", en ruso) @UUID[Compendium.mr-mothership-es.parches.Item.tSbIuZsAc2YKvXsH]{отъебись (\"Vete a la mierda\", en ruso)}",
+    "name": "отъебись (\"Vete a la mierda\", en ruso)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     77,
+     77
+    ],
+    "drawn": false,
+    "_id": "Px9IHVRg1KA3FV9e",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Operador suave\" @UUID[Compendium.mr-mothership-es.parches.Item.Hbo5PbA1SqXn9ScF]{\"Operador suave\"}",
+    "name": "\"Operador suave\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     78,
+     78
+    ],
+    "drawn": false,
+    "_id": "9GrecKBykHWZc2Df",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Símbolo del átomo @UUID[Compendium.mr-mothership-es.parches.Item.LuyQEZsI3pzyuNAa]{Símbolo del átomo}",
+    "name": "Símbolo del átomo"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     79,
+     79
+    ],
+    "drawn": false,
+    "_id": "olWJhVfErSpIQw4J",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"¡Por la ciencia!\" @UUID[Compendium.mr-mothership-es.parches.Item.SDDYLSCaq93LSP5w]{\"¡Por la ciencia!\"}",
+    "name": "\"¡Por la ciencia!\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     80,
+     80
+    ],
+    "drawn": false,
+    "_id": "1g9V9RwnbCTNq9HP",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"En realidad, SOY un científico espacial\" @UUID[Compendium.mr-mothership-es.parches.Item.G2MoO6Og1x91LAJD]{\"En realidad, SOY un científico espacial\"}",
+    "name": "\"En realidad, SOY un científico espacial\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     81,
+     81
+    ],
+    "drawn": false,
+    "_id": "bqWt2kAxpO1u6DVh",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Se busca ayuda\" @UUID[Compendium.mr-mothership-es.parches.Item.FcwIZCYXJoVBBy7J]{\"Se busca ayuda\"}",
+    "name": "\"Se busca ayuda\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     82,
+     82
+    ],
+    "drawn": false,
+    "_id": "JpO4x15VR24zW5vQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Princesa @UUID[Compendium.mr-mothership-es.parches.Item.fDNJF1oSBW4LDaIi]{Princesa}",
+    "name": "Princesa"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     83,
+     83
+    ],
+    "drawn": false,
+    "_id": "zFXmmRGXzNDLj5Dw",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"NÓMADA\" @UUID[Compendium.mr-mothership-es.parches.Item.c9Zl8ztJ4aurLxeu]{\"NÓMADA\"}",
+    "name": "\"NÓMADA\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     84,
+     84
+    ],
+    "drawn": false,
+    "_id": "CSbr9WDqcBaMbzX5",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"BUEN CHICO\" @UUID[Compendium.mr-mothership-es.parches.Item.P6BM8KJbYmxOeAtr]{\"BUEN CHICO\"}",
+    "name": "\"BUEN CHICO\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     85,
+     85
+    ],
+    "drawn": false,
+    "_id": "V8yCYdLN5A8vFgSF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Dados (ojos de serpiente) @UUID[Compendium.mr-mothership-es.parches.Item.MgsvspCflkSoNRt6]{Dados (ojos de serpiente)}",
+    "name": "Dados (ojos de serpiente)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     86,
+     86
+    ],
+    "drawn": false,
+    "_id": "U3rb10H2KzeKZOB5",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Trabajador #1\" @UUID[Compendium.mr-mothership-es.parches.Item.DdyWTQA1DflJeHKj]{\"Trabajador #1\"}",
+    "name": "\"Trabajador #1\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     87,
+     87
+    ],
+    "drawn": false,
+    "_id": "vrom48ElBsLtswtA",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Bueno\" (Cerebro) @UUID[Compendium.mr-mothership-es.parches.Item.ABxx7bBBm3xEdZwK]{\"Bueno\" (Cerebro)}",
+    "name": "\"Bueno\" (Cerebro)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     88,
+     88
+    ],
+    "drawn": false,
+    "_id": "EjdQp6rFfNDhqETW",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Perra mala\" @UUID[Compendium.mr-mothership-es.parches.Item.zFgO0cVzeHzZ04IY]{\"Perra mala\"}",
+    "name": "\"Perra mala\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     89,
+     89
+    ],
+    "drawn": false,
+    "_id": "rLVjRiRdKGZbtp7t",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Demasiado bonita para morir\" @UUID[Compendium.mr-mothership-es.parches.Item.fjVK0tHz95L1D1jH]{\"Demasiado bonita para morir\"}",
+    "name": "\"Demasiado bonita para morir\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     90,
+     90
+    ],
+    "drawn": false,
+    "_id": "Oz3fdS33ahQ2ekNH",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Jodido para siempre\" (Rosas) @UUID[Compendium.mr-mothership-es.parches.Item.KNybAggt4pp6EiU7]{\"Jodido para siempre\" (Rosas)}",
+    "name": "\"Jodido para siempre\" (Rosas)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     91,
+     91
+    ],
+    "drawn": false,
+    "_id": "AahmwRbrP5YBPCCN",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Icaro @UUID[Compendium.mr-mothership-es.parches.Item.bKwm7JYehxTzV2Ne]{Icaro}",
+    "name": "Icaro"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     92,
+     92
+    ],
+    "drawn": false,
+    "_id": "l9pYDYfGXZ3OzdST",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"La mejor amiga de la chica\" (Diamante) @UUID[Compendium.mr-mothership-es.parches.Item.j3oPBq9BinfYxTxe]{\"La mejor amiga de la chica\" (Diamante)}",
+    "name": "\"La mejor amiga de la chica\" (Diamante)"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     93,
+     93
+    ],
+    "drawn": false,
+    "_id": "bvpaEcMCjzDfSBDy",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Símbolo de riesgo de electrocución @UUID[Compendium.mr-mothership-es.parches.Item.UZksC5IL6e0mhWtb]{Símbolo de riesgo de electrocución}",
+    "name": "Símbolo de riesgo de electrocución"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     94,
+     94
+    ],
+    "drawn": false,
+    "_id": "lIU28oY2mZXX1jF2",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cruz invertida @UUID[Compendium.mr-mothership-es.parches.Item.D2kqAB7iKAx1ZKox]{Cruz invertida}",
+    "name": "Cruz invertida"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     95,
+     95
+    ],
+    "drawn": false,
+    "_id": "9uiwPYGDYUQzcmmX",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"¿Firmas mis cheques de pago?\" Parche trasero @UUID[Compendium.mr-mothership-es.parches.Item.6pyPSXlTMGdpclOe]{\"¿Firmas mis cheques de pago?\" Parche trasero}",
+    "name": "\"¿Firmas mis cheques de pago?\" Parche trasero"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     96,
+     96
+    ],
+    "drawn": false,
+    "_id": "chlZ5lzsVMqA9Ay6",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Yo ♥ mismo\" @UUID[Compendium.mr-mothership-es.parches.Item.igBzRiGZ8ZDjt3mu]{\"Yo ♥ mismo\"}",
+    "name": "\"Yo ♥ mismo\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     97,
+     97
+    ],
+    "drawn": false,
+    "_id": "b5P0MuknnMVp2mfs",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Cereza doble @UUID[Compendium.mr-mothership-es.parches.Item.FBZkuFgy787mcmND]{Cereza doble}",
+    "name": "Cereza doble"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     98,
+     98
+    ],
+    "drawn": false,
+    "_id": "QNMYPsJu2NJArGpe",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "\"Voluntario\" @UUID[Compendium.mr-mothership-es.parches.Item.sKDrVAfj40tGvKq5]{\"Voluntario\"}",
+    "name": "\"Voluntario\""
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     99,
+     99
+    ],
+    "drawn": false,
+    "_id": "7kWvVlGTvAbYASeM",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "Mano de póker: Mano del hombre muerto* *Ases llenos de ochos @UUID[Compendium.mr-mothership-es.parches.Item.Yk36or7B2Y4wru09]{Mano de póker: Mano del hombre muerto* *Ases llenos de ochos}",
+    "name": "Mano de póker: Mano del hombre muerto* *Ases llenos de ochos"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d100 - 1",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - COLONO",
+  "_id": "XkxsFjCZcYhVmkGp",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "drcZ0JFR1VLQxGUb",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.armas.Item.vXrjNQct1cApGrEq]{lanzallamas}, @UUID[Compendium.mr-mothership-es.objetos.Item.JgnatQq6UAWuZBub]{cámara corporal}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "jum0CC0j2QfnFGOc",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.armas.Item.t8dw24g8S1xxDA1l]{pistola de aparejos}, @UUID[Compendium.mr-mothership-es.objetos.Item.pS1xNbgMdOSYm8Y3]{kit de muestras}, @UUID[Compendium.mr-mothership-es.objetos.Item.QKJJ5rwthBiKcywb]{filtro de agua}, @UUID[Compendium.mr-mothership-es.objetos.Item.EaZT5rFGpcQSA6W4]{localizador personal}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "lSzcaNIdz0KQdw44",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.armas.Item.vVApnvQqFyJ6RYYB]{pistola de bengalas (2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.yA8FB5AH5YpvA1wr]{camilla plegable}, @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{botiquín}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "ClQU5Yz5BmUHWWBN",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.NFWU24kVTX9BtGjq]{Ropa de frío (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.Xiy8WoOCyYkdODfJ]{hacha de madera}, @UUID[Compendium.mr-mothership-es.objetos.Item.BmSr0kmEd4uHtfsg]{luces químicas x2}, @UUID[Compendium.mr-mothership-es.objetos.Item.hStrQSei66uH7w2l]{equipo de acampada}, @UUID[Compendium.mr-mothership-es.objetos.Item.ozhvCAjS404dJjDF]{baliza de emergencia}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "OHs6Ba7qEhPL5RG3",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.JZoBqpLh7S04pku8]{Ropa de lluvia (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.7eYcaj0TNJ0F0aaV]{vibromachete}, @UUID[Compendium.mr-mothership-es.objetos.Item.e5ZL65UaYSLSgjGk]{rebreather}, @UUID[Compendium.mr-mothership-es.objetos.Item.6MUUwv9OEVzGRmCW]{automeds x2}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "pGV0nV4854tAF6cO",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{linterna frontal}, @UUID[Compendium.mr-mothership-es.objetos.Item.WRt2lFSq8BVgAuu6]{carga explosiva}, @UUID[Compendium.mr-mothership-es.objetos.Item.T79oeEFTPjgWh4TJ]{detonador}, @UUID[Compendium.mr-mothership-es.objetos.Item.uS9yETBeFljliAxr]{comunicador corto alcance}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "saUbAsTbkKBMhH4Z",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.xsEm25XgfjcA3J89]{pistola de clavos (32)}, @UUID[Compendium.mr-mothership-es.objetos.Item.nyODKbySg6FamuHS]{pastillas antirradiación x3}, @UUID[Compendium.mr-mothership-es.objetos.Item.DhwYimnklcFdMyT4]{perro}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "RUeoYPQcCkcY4Inp",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.hlI06tmX67GFoNkN]{pala}, @UUID[Compendium.mr-mothership-es.objetos.Item.rltT7Qa3zuuRIoKp]{prismáticos}, @UUID[Compendium.mr-mothership-es.objetos.Item.ZO5s9uxcymGucQpt]{cubo}, @UUID[Compendium.mr-mothership-es.objetos.Item.vtocEwQ1MzWua4A4]{juego de cepillos}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "iewK4ypPPbYLPFTb",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Mono de colono (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{destornillador}, @UUID[Compendium.mr-mothership-es.objetos.Item.lE3S82mKah8eMZ1n]{cinta americana}, @UUID[Compendium.mr-mothership-es.objetos.Item.NigeD3e74h9cfyZb]{inhibidor de radio}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "Efy3lzGhcOkdFMem",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RjmM9QMVBqOtbudA]{Mono de colono (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.x7x8lv0m66npG5Dc]{pistola de espuma (2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.jhNvvRoIYxIrFhXa]{máscara filtrante}, @UUID[Compendium.mr-mothership-es.objetos.Item.rGycBribCNGwJmdl]{manta térmica}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - EJECUTIVO",
+  "_id": "Kgi2kxdUFktm79Rs",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "iacsrbUmZUcM69sj",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.objetos.Item.AcQuwiIG6sTaaoxz]{gafas infrarrojas}, @UUID[Compendium.mr-mothership-es.objetos.Item.nyODKbySg6FamuHS]{pastillas antirradiación x3}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "Nwux2kWufMEAmF43",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial elegante (PA 3)}, @UUID[Compendium.mr-mothership-es.objetos.Item.LvjKHpx3x3zCtV8F]{kit de parches x2}, @UUID[Compendium.mr-mothership-es.objetos.Item.EEhzbkyQMDCkEle1]{caja de puros x4}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "94xeAziZsVjeRXph",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RPxIy0bIC43Wk07u]{Bata de laboratorio (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.y0vjQQKib9ZW1sfQ]{pistola tranquilizante (3)}, @UUID[Compendium.mr-mothership-es.objetos.Item.pS1xNbgMdOSYm8Y3]{kit de muestras}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "YEOs2Q3GkplQJOH9",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.xss73WiZRsbZmfHD]{Ropa corporativa (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (7)}, @UUID[Compendium.mr-mothership-es.objetos.Item.1sY24F4lE4oP6FGV]{maletín}, @UUID[Compendium.mr-mothership-es.objetos.Item.tqAGb1pi1ZT2khwv]{petaca de ginebra}, @UUID[Compendium.mr-mothership-es.objetos.Item.EaZT5rFGpcQSA6W4]{localizador personal}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "hmA1WLTkCxUDKtgc",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.xss73WiZRsbZmfHD]{Ropa corporativa (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.ZpcnAgOPVDUFA1pO]{micrófono de garganta}, @UUID[Compendium.mr-mothership-es.objetos.Item.nbXSPR7fINO6nttk]{auricular}, @UUID[Compendium.mr-mothership-es.objetos.Item.EaZT5rFGpcQSA6W4]{localizador personal}, @UUID[Compendium.mr-mothership-es.objetos.Item.pJgg7sNQhYU30VTo]{botella de champán}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "FZ66FbYjb7qYiCZh",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.xss73WiZRsbZmfHD]{Ropa corporativa (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.DO4eyRcl88W0jMvm]{katana}, @UUID[Compendium.mr-mothership-es.objetos.Item.fAYadf2CfKZxkqzn]{reloj inteligente}, @UUID[Compendium.mr-mothership-es.objetos.Item.HaBv7z0H02sX47Jx]{mascota sintética}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "usvJD2F36PWLKno9",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.xss73WiZRsbZmfHD]{Ropa corporativa (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{abrecartas}, @UUID[Compendium.mr-mothership-es.objetos.Item.X7YAuE8E4TKXZ7Lb]{maletín con ruedas}, @UUID[Compendium.mr-mothership-es.objetos.Item.0C28WC4JklRC5EXj]{documentos}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos x4}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "aeTk5kkj12pqCKD3",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.Faq7zvGyrla9Ewtx]{pluma}, @UUID[Compendium.mr-mothership-es.objetos.Item.kVJN7WrBo5UWiYhl]{bloc}, @UUID[Compendium.mr-mothership-es.objetos.Item.BejXDKi1QSSoMPkD]{escáner diagnóstico cibernético}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "ZJ1F9v5vgML1tpBj",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{destornillador}, @UUID[Compendium.mr-mothership-es.objetos.Item.l1482CO9Xi1nxzR7]{terminal portátil}, @UUID[Compendium.mr-mothership-es.objetos.Item.5UEzcgceIuLJCgir]{diario de audio}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "6UCmbXHtZqiVFsRA",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.OQFfqIQ4ngP1mBLZ]{Ropa de descanso (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.kMMEK6MKMZL2aXj6]{pistola pequeña (4)}, @UUID[Compendium.mr-mothership-es.objetos.Item.ur4xjjNNihqYDTp2]{perfume}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - PASTOR",
+  "_id": "AbWScq3rpUD087xQ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "Y34L1WuGpL8uVSD6",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Vestimenta de batalla estándar (PA 7)}, @UUID[Compendium.mr-mothership-es.armas.Item.F2LBga58gtiybVHH]{subfusil (1 cargador)}, @UUID[Compendium.mr-mothership-es.objetos.Item.nyODKbySg6FamuHS]{pastillas antirradiación x3}, @UUID[Compendium.mr-mothership-es.objetos.Item.e5KPWA0vvd942Hn2]{medallón sagrado}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "fAJU7OxPcQFL8HjJ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.armas.Item.vVApnvQqFyJ6RYYB]{pistola de bengalas (2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.yA8FB5AH5YpvA1wr]{camilla plegable}, @UUID[Compendium.mr-mothership-es.objetos.Item.YAdoG179DpnuERIV]{tarro de tierra consagrada}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "AsAX0bgNR0yzIEHq",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos x4}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{estimulantes x2}, @UUID[Compendium.mr-mothership-es.objetos.Item.ojZe3vnWATFnnkPf]{cuentas de oración}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "beKlyLXvJe2xwNf6",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.3XiDeFG97bTl6AJD]{Vestiduras religiosas (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (3)}, @UUID[Compendium.mr-mothership-es.objetos.Item.BejXDKi1QSSoMPkD]{escáner diagnóstico cibernético}, @UUID[Compendium.mr-mothership-es.objetos.Item.CJH4NFBDAiZoDUGA]{certificado de ordenación}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "JgFBUt5vcOgkRNn6",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.3XiDeFG97bTl6AJD]{Vestiduras religiosas (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.q8yvQFLIBrwgpw4P]{incienso y turíbulo}, @UUID[Compendium.mr-mothership-es.objetos.Item.Qu05UGcAE4IpNPxP]{alfombra de oración}, @UUID[Compendium.mr-mothership-es.objetos.Item.l1482CO9Xi1nxzR7]{terminal portátil}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "9isKeL0U2tfRAAnA",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.3XiDeFG97bTl6AJD]{Vestiduras religiosas (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.fibEUuUOpzuY0yq4]{aceites rituales}, @UUID[Compendium.mr-mothership-es.objetos.Item.6MUUwv9OEVzGRmCW]{automeds x3}, @UUID[Compendium.mr-mothership-es.objetos.Item.Og4JOkuDo4yW5Bn0]{gato}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "utvhDt1YKfp1ynRV",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme militar (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.rltT7Qa3zuuRIoKp]{prismáticos}, @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{botiquín}, @UUID[Compendium.mr-mothership-es.objetos.Item.ozhvCAjS404dJjDF]{baliza de emergencia}, @UUID[Compendium.mr-mothership-es.objetos.Item.O44d4LDHvsolPgvP]{placas de identificación con plegarias}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "1qmMbLWMRj8JV1mz",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{palanca}, @UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{linterna}, @UUID[Compendium.mr-mothership-es.objetos.Item.6xjWMulv8WH9h1uj]{panfletos religiosos}, @UUID[Compendium.mr-mothership-es.objetos.Item.EaZT5rFGpcQSA6W4]{localizador personal}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "HVQMpzTTLv3mVTW4",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.DEdtuFuSlZCOIP7b]{hacha de abordaje}, @UUID[Compendium.mr-mothership-es.objetos.Item.AcQuwiIG6sTaaoxz]{gafas infrarrojas}, @UUID[Compendium.mr-mothership-es.objetos.Item.rGycBribCNGwJmdl]{manta térmica}, @UUID[Compendium.mr-mothership-es.objetos.Item.tnFi22806Dq4sYqk]{libro sagrado}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "pXsAl1fMOOSGZ61c",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.y0vjQQKib9ZW1sfQ]{pistola tranquilizante}, @UUID[Compendium.mr-mothership-es.objetos.Item.8idWIW8QXZ1uoUPJ]{cantimplora con agua bendita}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - BUSCAVIDAS",
+  "_id": "1ICB3td6Ur3IsREd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "IXXqZ5DYhuLEw0oW",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.LkK4uDgl5wRAsk2Q]{cortador láser sin carga}, @UUID[Compendium.mr-mothership-es.objetos.Item.91aTtHFhWfL49bum]{botas magnéticas}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "WGfNZWKTelaPPcZe",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.TWr8mJmLA6fmSkUr]{petaca de alcohol de grano}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "BQA8QVHGJlerbtXL",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial barato (PA 3)}, @UUID[Compendium.mr-mothership-es.objetos.Item.AcQuwiIG6sTaaoxz]{gafas infrarrojas}, @UUID[Compendium.mr-mothership-es.objetos.Item.LvjKHpx3x3zCtV8F]{kit de parches}, @UUID[Compendium.mr-mothership-es.objetos.Item.gn2qJQIvmwp95SOH]{cigarrillos}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "lUHeCGWi24Q65wTa",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial antiguo (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.DEdtuFuSlZCOIP7b]{hacha de abordaje}, @UUID[Compendium.mr-mothership-es.objetos.Item.NigeD3e74h9cfyZb]{inhibidor de radio}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "PUtQSVhegD91mfnB",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial remendado (PA 3)}, @UUID[Compendium.mr-mothership-es.objetos.Item.KN2J5BzNiLZgdibh]{cúter}, @UUID[Compendium.mr-mothership-es.objetos.Item.UD6YhjWV3Tp45fJ5]{juego de herramientas electrónicas}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "nM63E86jT2fk9W8n",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.sF2kqzS5qDEqGRTm]{puños americanos}, @UUID[Compendium.mr-mothership-es.armas.Item.t8dw24g8S1xxDA1l]{pistola de aparejos}, @UUID[Compendium.mr-mothership-es.objetos.Item.z8bkQWB0EI6yY3YI]{ganzúas}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "fnIExGsqQB5xPnJ0",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.HOO7jkgqlQGXl7wY]{Ropa elegante rescatada (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.LHdr9wo7l90cWc3E]{garrote}, @UUID[Compendium.mr-mothership-es.objetos.Item.Pk1wXTE5z9W2BLjp]{opio}, @UUID[Compendium.mr-mothership-es.objetos.Item.23zcxE4NSNHUlG58]{pipa}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "RNCivbQ3KkTYD1tj",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SAuDHciOM1U7stNW]{Ropa remendada (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{destornillador}, @UUID[Compendium.mr-mothership-es.objetos.Item.HzvhHJsgoQOdrk8r]{paracord 20 m}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "QyA3inr4DFFZuKlY",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SAuDHciOM1U7stNW]{Ropa remendada (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{navaja automática}, @UUID[Compendium.mr-mothership-es.objetos.Item.rGycBribCNGwJmdl]{manta térmica}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "iEmTt6bACk0F36mP",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.jazDuC4gClypmB2X]{Harapos sucios (PA 0)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{navaja mariposa}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos x3}, @UUID[Compendium.mr-mothership-es.objetos.Item.GvXo486VNhSsqACv]{ratón}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - CRIMINAL",
+  "_id": "hp2bFx644ZZrQRjd",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "plElfIDWh3xBa9ib",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.TBfT1LQqhsW8Kd7d]{Ropa civil (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.l1482CO9Xi1nxzR7]{terminal portátil}, @UUID[Compendium.mr-mothership-es.objetos.Item.dAmnp8R26T4g1XnQ]{HUD}, @UUID[Compendium.mr-mothership-es.objetos.Item.jbhMiLwOHdge2FmM]{cartera}, @UUID[Compendium.mr-mothership-es.objetos.Item.4howtA9AX5m7067k]{pastillas de cafeína}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "Zcm96DSbdtRWtaNH",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.TBfT1LQqhsW8Kd7d]{Ropa civil (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.aj1J0PDg6sSoQltL]{bioescáner}, @UUID[Compendium.mr-mothership-es.objetos.Item.UD6YhjWV3Tp45fJ5]{herramientas electrónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.z8bkQWB0EI6yY3YI]{ganzúas}, @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{destornillador}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "8pJgaGHrdcDik3eQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (12)}, @UUID[Compendium.mr-mothership-es.objetos.Item.rltT7Qa3zuuRIoKp]{prismáticos}, @UUID[Compendium.mr-mothership-es.armas.Item.z244ojrkJJLZG6FY]{porra eléctrica}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "0EOyyicmCpIT7zeJ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.y0vjQQKib9ZW1sfQ]{pistola tranquilizante (6)}, @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{taladro}, @UUID[Compendium.mr-mothership-es.objetos.Item.z8bkQWB0EI6yY3YI]{ganzúas}, @UUID[Compendium.mr-mothership-es.objetos.Item.h53pFR0jYfWbwg5n]{placa falsa}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "NGrrweM618sZYoup",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.LkK4uDgl5wRAsk2Q]{cortador láser cargado}, @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{palanca}, @UUID[Compendium.mr-mothership-es.objetos.Item.BmSr0kmEd4uHtfsg]{luces químicas x5}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "uGG4cVWodYX70xP8",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.F2LBga58gtiybVHH]{subfusil (2 cargadores)}, @UUID[Compendium.mr-mothership-es.objetos.Item.91aTtHFhWfL49bum]{botas magnéticas}, @UUID[Compendium.mr-mothership-es.objetos.Item.jbhMiLwOHdge2FmM]{cartera}, @UUID[Compendium.mr-mothership-es.objetos.Item.ZYfELIlemLCeVGsI]{drogas recreativas x12}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "Al1gl8fjgmAQQvhx",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.r9Vt1ksEdL50Eh1Y]{Armadura recuperada (PA 4)}, @UUID[Compendium.mr-mothership-es.armas.Item.t8dw24g8S1xxDA1l]{pistola de aparejos}, @UUID[Compendium.mr-mothership-es.objetos.Item.AcQuwiIG6sTaaoxz]{gafas infrarrojas}, @UUID[Compendium.mr-mothership-es.objetos.Item.UD6YhjWV3Tp45fJ5]{herramientas electrónicas}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "1bVhFzK0VAkPEMpv",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.r9Vt1ksEdL50Eh1Y]{Armadura recuperada (PA 4)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (12)}, @UUID[Compendium.mr-mothership-es.objetos.Item.zK3E9jCN4XaAtTiv]{mochila}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "3XAcExYWm6mlqU6b",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.xss73WiZRsbZmfHD]{Ropa corporativa (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.VCdEMxLtktL1SHBC]{pistola compacta oculta (6)}, @UUID[Compendium.mr-mothership-es.objetos.Item.ZYfELIlemLCeVGsI]{drogas recreativas x2}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "T9gcB6CsfHSmx7a9",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Vestimenta de batalla estándar (PA 7)}, @UUID[Compendium.mr-mothership-es.armas.Item.H9eZFrPyGZc8pq5k]{escopeta de combate (12)}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{estimulantes x5}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - PSÍQUICO",
+  "_id": "mijkNeCPlrTDDrBQ",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "oIhgE3VFgH7vO0Kd",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.TBfT1LQqhsW8Kd7d]{Ropa civil (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.zK3E9jCN4XaAtTiv]{mochila}, @UUID[Compendium.mr-mothership-es.objetos.Item.pUiEhr4Zq68kn0ey]{mascota}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "QOy4KXiVVrgyrOT6",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.TBfT1LQqhsW8Kd7d]{Ropa civil (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{cuchillo de combate}, @UUID[Compendium.mr-mothership-es.objetos.Item.z8bkQWB0EI6yY3YI]{ganzúas}, @UUID[Compendium.mr-mothership-es.objetos.Item.ZYfELIlemLCeVGsI]{drogas recreativas x2}, @UUID[Compendium.mr-mothership-es.objetos.Item.D1BAr1rgrkjSDsui]{contacto criminal}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "1AwWwlJ9HXlZVyas",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (6)}, @UUID[Compendium.mr-mothership-es.objetos.Item.uS9yETBeFljliAxr]{comunicador corto alcance}, @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{botiquín}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "f8fy8KeKGYRjhnvM",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.hilDXTr4OfXcvGRZ]{Mono de sujeto de investigación (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.pS1xNbgMdOSYm8Y3]{kit de muestras}, @UUID[Compendium.mr-mothership-es.objetos.Item.VOF7vzD66rgMvUoO]{medescáner}, @UUID[Compendium.mr-mothership-es.objetos.Item.EaZT5rFGpcQSA6W4]{localizador personal}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "RHPl9t3Qvct2Wlvp",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.4D3ZcwFhYuh4DsxE]{Mono ensangrentado de sujeto de investigación (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos}, @UUID[Compendium.mr-mothership-es.objetos.Item.DONpSgWql5Fs2Kew]{localizador dañado}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "1VJxmGOkMwABvwP8",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.objetos.Item.91aTtHFhWfL49bum]{botas magnéticas}, @UUID[Compendium.mr-mothership-es.objetos.Item.LvjKHpx3x3zCtV8F]{kit de parches}, @UUID[Compendium.mr-mothership-es.objetos.Item.BmSr0kmEd4uHtfsg]{luces químicas x5}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "TzBdCyLerrV2Ej9t",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.xsEm25XgfjcA3J89]{pistola de clavos (32)}, @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{palanca}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "P2y87ggERtD1ye1h",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.V98G7pnOh3BSgH2F]{Traje psi experimental (PA 4; alcance psi lejano hasta perder PA)}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{estimulante x1}, @UUID[Compendium.mr-mothership-es.objetos.Item.JgnatQq6UAWuZBub]{cámara corporal}, @UUID[Compendium.mr-mothership-es.objetos.Item.JBBhqjyLBQIgWukg]{localizador}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "wM6Bg1BLB4tQLRzt",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.r9Vt1ksEdL50Eh1Y]{Armadura recuperada (PA 4)}, @UUID[Compendium.mr-mothership-es.armas.Item.7eYcaj0TNJ0F0aaV]{vibromachete}, @UUID[Compendium.mr-mothership-es.objetos.Item.QKJJ5rwthBiKcywb]{filtro de agua}, @UUID[Compendium.mr-mothership-es.objetos.Item.dSjVDKSHNKqyAw0b]{raciones x7}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "MbBk0zNEmDjBDm8m",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Vestimenta de batalla estándar (PA 7)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (12)}, @UUID[Compendium.mr-mothership-es.objetos.Item.JgnatQq6UAWuZBub]{cámara corporal}, @UUID[Compendium.mr-mothership-es.objetos.Item.JBBhqjyLBQIgWukg]{localizador}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - EXPLORADOR",
+  "_id": "B13cHY0Md0xh79AW",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "A7kwbnwRnU5wLYr7",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{cuchillo de combate}, @UUID[Compendium.mr-mothership-es.objetos.Item.rltT7Qa3zuuRIoKp]{prismáticos}, @UUID[Compendium.mr-mothership-es.objetos.Item.4gFEQdQCcrjrhf8U]{comunicador largo alcance}, @UUID[Compendium.mr-mothership-es.objetos.Item.ozhvCAjS404dJjDF]{baliza de emergencia}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "TukmELX0M61IlIRQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Ropa de trabajo pesada (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.onNo7M3GReEqqjFi]{soldador manual}, @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{palanca}, @UUID[Compendium.mr-mothership-es.objetos.Item.aj1J0PDg6sSoQltL]{bioescáner}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "AyJbOwIWExMNVbwE",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Fatigas (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.7eYcaj0TNJ0F0aaV]{vibromachete}, @UUID[Compendium.mr-mothership-es.objetos.Item.zcOM89kTqaPFmDEt]{unidad MoHab}, @UUID[Compendium.mr-mothership-es.objetos.Item.QKJJ5rwthBiKcywb]{filtro de agua}, @UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{linterna}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "5qFNP7zLWGnbASLy",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.F2LBga58gtiybVHH]{subfusil (3 cargadores)}, @UUID[Compendium.mr-mothership-es.objetos.Item.dAmnp8R26T4g1XnQ]{HUD}, @UUID[Compendium.mr-mothership-es.objetos.Item.rkH3Pce6Z1CQvRxf]{dron de reconocimiento}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "JDV3F13xcRXIlwom",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.y0vjQQKib9ZW1sfQ]{rifle tranquilizante (6)}, @UUID[Compendium.mr-mothership-es.objetos.Item.aj1J0PDg6sSoQltL]{bioescáner}, @UUID[Compendium.mr-mothership-es.objetos.Item.VOF7vzD66rgMvUoO]{medescáner}, @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{botiquín}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "DliCpP7VehJvi28P",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.t8dw24g8S1xxDA1l]{pistola de aparejos}, @UUID[Compendium.mr-mothership-es.armas.Item.onNo7M3GReEqqjFi]{soldador manual}, @UUID[Compendium.mr-mothership-es.objetos.Item.wWAkHjYbTkl2cmWX]{paracord}, @UUID[Compendium.mr-mothership-es.objetos.Item.LvjKHpx3x3zCtV8F]{kit de parches x2}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "s1n4bvAgkl22AQBV",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (12)}, @UUID[Compendium.mr-mothership-es.objetos.Item.aj1J0PDg6sSoQltL]{bioescáner}, @UUID[Compendium.mr-mothership-es.objetos.Item.CZ2koms2ClH1kUmI]{contador Geiger}, @UUID[Compendium.mr-mothership-es.objetos.Item.nyODKbySg6FamuHS]{pastillas antirradiación x5}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "3nPZ9bwBK7m53ul5",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.armas.Item.H9eZFrPyGZc8pq5k]{escopeta de combate (8)}, @UUID[Compendium.mr-mothership-es.objetos.Item.zcOM89kTqaPFmDEt]{unidad MoHab}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{cuchillo de combate}, @UUID[Compendium.mr-mothership-es.objetos.Item.QKJJ5rwthBiKcywb]{filtro de agua}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "RSV9t8mYpiZkiyiC",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.SXP0wMnpIZqFv22n]{Traje de riesgo (PA 5)}, @UUID[Compendium.mr-mothership-es.armas.Item.x7x8lv0m66npG5Dc]{pistola de espuma}, @UUID[Compendium.mr-mothership-es.armas.Item.DEdtuFuSlZCOIP7b]{hacha de abordaje}, @UUID[Compendium.mr-mothership-es.objetos.Item.yA8FB5AH5YpvA1wr]{camilla plegable}, @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{botiquín}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "qmmNS4qIJSFJo6iA",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DfLdIeCNgpvQTScU]{Vestimenta de batalla estándar (PA 7)}, @UUID[Compendium.mr-mothership-es.armas.Item.THtcCwIFXgEGuph7]{rifle de pulsos (3 cargadores)}, @UUID[Compendium.mr-mothership-es.objetos.Item.JgnatQq6UAWuZBub]{cámara corporal}, @UUID[Compendium.mr-mothership-es.armas.Item.vVApnvQqFyJ6RYYB]{pistola de bengalas (2)}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - JUBILADO",
+  "_id": "KT5AAK4UUTXHSe3p",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "HpApNc9F6riyjYFL",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.PYhfTEqxC5zLz5FK]{Camisa hawaiana y pantalón corto (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.g80SFacfLKGvx9N6]{cóctel frutal}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "eJ9rTwq6kPwXnAEt",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.7BRV4LnixjQ3yIx7]{Chándal y visera de plástico (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (6)}, @UUID[Compendium.mr-mothership-es.objetos.Item.QIIPfZzpZ8W2QYkY]{baraja}, @UUID[Compendium.mr-mothership-es.objetos.Item.XApIHwucplWw057H]{cupones}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "eEHCrs8AxHYNChX0",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.2MMPOpxsdFn3CZYx]{Ropa de trabajo gastada (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.Xiy8WoOCyYkdODfJ]{hacha de madera}, @UUID[Compendium.mr-mothership-es.objetos.Item.gAS4GXh7Wzo9PlJY]{herramientas de carpintería}, @UUID[Compendium.mr-mothership-es.objetos.Item.rGycBribCNGwJmdl]{manta térmica}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "5M9rHgRFAbzE4geX",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.YDtM38cA1cZJ7IMF]{Mono gastado (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.AJQZLhL0HYJVMOom]{llave inglesa}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{navaja como escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.Sp2XtxzN70PC1KYT]{linterna}, @UUID[Compendium.mr-mothership-es.objetos.Item.7xcIPNLN2JlEBIVa]{pack de cerveza x6}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "5MPhlqcpDXsgePxN",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.5x1oaPkCHdq0hXfi]{Camisa y pantalón (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.UD6YhjWV3Tp45fJ5]{herramientas electrónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.CZ2koms2ClH1kUmI]{contador Geiger}, @UUID[Compendium.mr-mothership-es.objetos.Item.AcQuwiIG6sTaaoxz]{gafas infrarrojas}, @UUID[Compendium.mr-mothership-es.objetos.Item.uS9yETBeFljliAxr]{comunicador corto alcance}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "aLRnRHjOvM0tnuNX",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.TBfT1LQqhsW8Kd7d]{Ropa civil (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.LhcIQla3uc2WGv8p]{cámara}, @UUID[Compendium.mr-mothership-es.objetos.Item.3TqnkGnGNQAdTCxL]{mapa en papel del sistema}, @UUID[Compendium.mr-mothership-es.objetos.Item.jbhMiLwOHdge2FmM]{cartera}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "b4F7Mh54YjBzJcFP",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.Crfa3nxayDSCjtFg]{Conjunto elegante (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.weC38BnJP6jFMYmq]{mascota gato o perro pequeño}, @UUID[Compendium.mr-mothership-es.objetos.Item.kkll9pvy5sVMSzfe]{maleta con ruedas}, @UUID[Compendium.mr-mothership-es.objetos.Item.mgsSTHsptdikrxwH]{tanque de oxígeno}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "21epWL60hgSAujEw",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.3ySBrLBAKb14DkTv]{Jersey y pana (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.yvGaHCyUhIPeMJ61]{rifle de caza lejano 2d10 (6)}, @UUID[Compendium.mr-mothership-es.objetos.Item.rltT7Qa3zuuRIoKp]{prismáticos}, @UUID[Compendium.mr-mothership-es.objetos.Item.zK3E9jCN4XaAtTiv]{mochila}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "2lctShFpNb6uVQns",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.5YxyegOrghRdmKbk]{Jersey de golf (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{palos de golf como palanca}, @UUID[Compendium.mr-mothership-es.objetos.Item.VOF7vzD66rgMvUoO]{medescáner}, @UUID[Compendium.mr-mothership-es.objetos.Item.m2iPdUICZWcjyTw7]{whisky}, @UUID[Compendium.mr-mothership-es.objetos.Item.uxKaMal8CcLjniNc]{sentido de privilegio}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "s0Bh1CyQBSIxZnSN",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.xss73WiZRsbZmfHD]{Ropa corporativa (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.e9jJHfu18dwim1Ij]{tarjeta VIP corporativa retirada}, @UUID[Compendium.mr-mothership-es.objetos.Item.JBBhqjyLBQIgWukg]{localizador}, @UUID[Compendium.mr-mothership-es.objetos.Item.VrOd9AROCLY1GVeq]{una cantidad obscena de créditos y negativa a gastarlos}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - ESCORIA",
+  "_id": "EyLo2ZdnR6qpY4fr",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "uu7X4j4MOKWW2nLC",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme de preso}, @UUID[Compendium.mr-mothership-es.objetos.Item.kFb2jyTV12PijYJp]{collar de descarga pirateado}, @UUID[Compendium.mr-mothership-es.armas.Item.OCUHGsvNHW8tfUy7]{pincho}, @UUID[Compendium.mr-mothership-es.objetos.Item.Vxi5AUhJD3o3PFIE]{póster pornográfico}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "BMfiURzY7ZyDillF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme de preso}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos x10}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{cuchillo de carnicero}, @UUID[Compendium.mr-mothership-es.objetos.Item.eEzb4VkQboznh2mB]{gorro de chef}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "ptGiqcRKHM60Mgzs",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial personalizado (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{cuchillo cortacables}, @UUID[Compendium.mr-mothership-es.objetos.Item.JBBhqjyLBQIgWukg]{localizador}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (1 cargador)}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "LN7bHbinevAl103h",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.P1aW0FrIuVe48wAq]{Traje de negocios (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.xsEm25XgfjcA3J89]{pistola de clavos (1 cargador)}, @UUID[Compendium.mr-mothership-es.objetos.Item.XfWxnkLTPubUM8Kc]{bridas x10}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{estimulantes x2}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "SHigj8yjcRwY0UPG",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.zCCzleEcy0ybjJf0]{Chaqueta vaquera parcheada (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{navaja como escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.4oczOBKXPTnNXahd]{mechero soplete}, @UUID[Compendium.mr-mothership-es.objetos.Item.gn2qJQIvmwp95SOH]{cigarrillos arrugados}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "0NEW8wxpEGSQ6zFl",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.vq9UdR1jNCBVseFy]{Guardapolvo con placas (PA 3, [-] Velocidad)}, @UUID[Compendium.mr-mothership-es.armas.Item.LCEswCxhYlQ867Gr]{escopeta recortada}, @UUID[Compendium.mr-mothership-es.objetos.Item.toDSrJCHvjWHKu4n]{bandana}, @UUID[Compendium.mr-mothership-es.objetos.Item.jNOBWceQjKvpPTW5]{gafas de sol}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "vMErldDKkk6yAhGp",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Fatigas excedentes (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.F2LBga58gtiybVHH]{subfusil}, @UUID[Compendium.mr-mothership-es.objetos.Item.79c5seU1QZ47EOWj]{llaves de camión todoterreno}, @UUID[Compendium.mr-mothership-es.objetos.Item.JManGyQYjSbHuYhW]{aviador espejo}, @UUID[Compendium.mr-mothership-es.objetos.Item.bvKsiXFuCvBmffAP]{maletín de cocaína}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "U7C0LlF1xzHWu4ZV",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.keGkpa5Dea9uNHX5]{Ropa callejera chillona (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.ev3W7fbXTef6vt3d]{entradas de club}, @UUID[Compendium.mr-mothership-es.armas.Item.qxiezWA1La6w0dSg]{nunchakus como palanca}, @UUID[Compendium.mr-mothership-es.objetos.Item.cDofzrFqw1wb4N6C]{brazo cibernético}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "pnFtENIxTU5krHfw",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{cuchillo de gas comprimido 3d10}, @UUID[Compendium.mr-mothership-es.objetos.Item.WRt2lFSq8BVgAuu6]{cargas adhesivas x2}, @UUID[Compendium.mr-mothership-es.objetos.Item.kl2PDVUwcXdHPBAt]{aeroshell de reentrada}, @UUID[Compendium.mr-mothership-es.objetos.Item.505D4kiBQ9oV9DE3]{MMU}, @UUID[Compendium.mr-mothership-es.objetos.Item.Gi59EwWRMCk3qT8o]{radio cifrada militar}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "q5CN8Nz7MG5I6yAm",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.KWdrwbJxf31GJfcp]{Ropa interior}, @UUID[Compendium.mr-mothership-es.objetos.Item.fNbFWHdcSXGkrbTW]{resaca incapacitante}, @UUID[Compendium.mr-mothership-es.objetos.Item.UC0isrqkc8cdwiO1]{corbata horrible}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{anfetaminas en aerosol x5}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - ESCLAVO ASALARIADO",
+  "_id": "AaudpkAbOUZzsKVc",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "FMR8CqIzRp0zqfNR",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.1cS8FAOw7hy0Eide]{Ropa de oficina}, @UUID[Compendium.mr-mothership-es.objetos.Item.gr2BwGUK5oBgobWv]{archivador de cuentas}, @UUID[Compendium.mr-mothership-es.objetos.Item.HuwlXcs9GXwLPn2t]{café sintético}, @UUID[Compendium.mr-mothership-es.objetos.Item.gn2qJQIvmwp95SOH]{cigarrillos x10}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "YtW2awK4r1qOKLMO",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.1cS8FAOw7hy0Eide]{Ropa de oficina}, @UUID[Compendium.mr-mothership-es.objetos.Item.eCUkUDXL9OGblgRd]{pelota antiestrés}, @UUID[Compendium.mr-mothership-es.objetos.Item.cInmJMEcZC0CqIMs]{micrograbadora con mantras pro-corporativos}, @UUID[Compendium.mr-mothership-es.objetos.Item.ZKIQbbdTsA7QF27H]{bolígrafo}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "TLE6Q5GKqmFNqR83",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.P1aW0FrIuVe48wAq]{Traje de negocios (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{estimulante}, @UUID[Compendium.mr-mothership-es.armas.Item.F2LBga58gtiybVHH]{subfusil (2 cargadores)}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "ImqhNXciDpmJmj4D",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.1cS8FAOw7hy0Eide]{Ropa de oficina}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos x10}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{abrecartas como escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.EUroKjiq5r2H3C72]{tarjeta de gerente robada}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "lyqTR5dY1sg250K8",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.1cS8FAOw7hy0Eide]{Ropa de oficina}, @UUID[Compendium.mr-mothership-es.objetos.Item.0y8z5OQsYQmovNWk]{fideos autocalentables}, @UUID[Compendium.mr-mothership-es.objetos.Item.l1482CO9Xi1nxzR7]{ordenador de mano}, @UUID[Compendium.mr-mothership-es.objetos.Item.UEvGXq9ie34XniAZ]{alargador 50 m}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "mnDVyTRcLcHZ1tdD",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme de seguridad (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.JgnatQq6UAWuZBub]{cámara corporal}, @UUID[Compendium.mr-mothership-es.armas.Item.z244ojrkJJLZG6FY]{porra aturdidora}, @UUID[Compendium.mr-mothership-es.objetos.Item.uS9yETBeFljliAxr]{comunicador corto alcance}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "N9htZg68TmJnefkv",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.MxJoBnaMQqUmCCEy]{Camisa hawaiana}, @UUID[Compendium.mr-mothership-es.objetos.Item.ilbsSb5aoU9Jg6Nw]{petaca vacía}, @UUID[Compendium.mr-mothership-es.objetos.Item.l1482CO9Xi1nxzR7]{ordenador de muñeca}, @UUID[Compendium.mr-mothership-es.objetos.Item.XfWxnkLTPubUM8Kc]{bridas}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "msXgkhEAXY5ahEbp",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.1cS8FAOw7hy0Eide]{Ropa de oficina}, @UUID[Compendium.mr-mothership-es.objetos.Item.BoVGWzj6rRRF2J4U]{chaleco reflectante}, @UUID[Compendium.mr-mothership-es.objetos.Item.s4HxZ6a7xkvilcl0]{portapapeles con nombres de colegas}, @UUID[Compendium.mr-mothership-es.objetos.Item.pIDoyuHNYWlQIy4S]{extintor}, @UUID[Compendium.mr-mothership-es.objetos.Item.mI59cdtc9J2fatVY]{botiquín}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "5a66ghmvxOfTOeUm",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme humillante de servicios (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.xcTbfkGIyFGZI94h]{arma improvisada 1d5}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{estimulantes x2}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "4B4d1TbdJrifPaPz",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.82Ynh5NSfbklcj0k]{Camiseta de grupo}, @UUID[Compendium.mr-mothership-es.objetos.Item.6rPDybU8Wi8wzPQK]{rompedor de contraseñas}, @UUID[Compendium.mr-mothership-es.objetos.Item.pg8A6NN9nXsmT0Pi]{ID corporativo falso}, @UUID[Compendium.mr-mothership-es.objetos.Item.OzAZlCDcxnqBgMjv]{chicle}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - ATAVISMO",
+  "_id": "4vT6x2xIyf4Iy7Yb",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "QfzyD0gtrJ7wDzkf",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.H9eZFrPyGZc8pq5k]{escopeta de combate}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{cuchillo de sílex como escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.hryJTxQ9E5Z4wkot]{ídolo de Venus}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "JCM43L4VA6gBFpzI",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.MWEsHfHbaXI37evM]{Traje espacial con símbolos protectores (PA 3)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (2 cargadores)}, @UUID[Compendium.mr-mothership-es.objetos.Item.dSjVDKSHNKqyAw0b]{raciones x7}, @UUID[Compendium.mr-mothership-es.objetos.Item.IpTjbmCFW5aUWYwK]{antirradiación x10}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "tkr1uwKo5xO8zAID",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.VptoWWmnPVNMAUQw]{Armadura de batalla antigua (PA 6)}, @UUID[Compendium.mr-mothership-es.objetos.Item.hStrQSei66uH7w2l]{equipo de acampada}, @UUID[Compendium.mr-mothership-es.objetos.Item.QUmcLdQWpvdvYjnR]{perro de caza}, @UUID[Compendium.mr-mothership-es.objetos.Item.zxO2IOfl4ZolXrQD]{trampa para osos}, @UUID[Compendium.mr-mothership-es.armas.Item.2vC23j5M8vByDRup]{rifle}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "0ye9ahJuNUTUN1ns",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.WKcPqmMSg0gRmRX4]{Túnica de lana (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.UvPugWSqnugNdrcr]{martillo a dos manos 2d10}, @UUID[Compendium.mr-mothership-es.objetos.Item.h9pg7UfpLobWUCJ6]{cuerno para beber}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "dvbzyUB6DfO0x36B",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Uniforme estándar (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{hoja corta}, @UUID[Compendium.mr-mothership-es.objetos.Item.UD6YhjWV3Tp45fJ5]{herramientas electrónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.9yfzCoZBQFP716by]{pintura facial}, @UUID[Compendium.mr-mothership-es.objetos.Item.Id1590BR2wwZ5dZs]{hierbas psicoactivas}, @UUID[Compendium.mr-mothership-es.objetos.Item.G2123h16hpfxzXHl]{Wikipedia antigua}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "vAYxZ4te6jRvSx0k",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.DVEELLUr67IDHF4M]{Ropa de viaje (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.VqHh0IoimrQYm6do]{diccionario}, @UUID[Compendium.mr-mothership-es.objetos.Item.RTkLnZiWCYRyyyR4]{cámara con flash}, @UUID[Compendium.mr-mothership-es.armas.Item.wSLe1y6VBjn4AyrN]{pistola de bolsillo (1d10, 3 cargadores x3)}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "HydP827E0cxmJM7G",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.WKcPqmMSg0gRmRX4]{Túnica de lana (PA 1)}, @UUID[Compendium.mr-mothership-es.armas.Item.UEs9a84X1RYRygWx]{arco 1d10}, @UUID[Compendium.mr-mothership-es.objetos.Item.OK77I2J6A3QxlpCj]{flechas x10}, @UUID[Compendium.mr-mothership-es.objetos.Item.eiTtM0wup7VPoevt]{lémur inteligente}, @UUID[Compendium.mr-mothership-es.objetos.Item.fB4QgUyevFzGPgK6]{planeador plegable}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "BaccIzz4bsWY0tPb",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dYzVTG9KlQerqx6C]{Brigantina (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.tvhuRaXhPTtNDh7J]{mosquete 2d10}, @UUID[Compendium.mr-mothership-es.objetos.Item.VXAhjbHBeqfytN5j]{cuerno de pólvora y bala x12}, @UUID[Compendium.mr-mothership-es.objetos.Item.HbScBODZUGj4p0pU]{billete jump liner}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "bhbuKDG9mBWaTeoG",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.3ryxMGNdVVtgLudO]{Ropa campesina}, @UUID[Compendium.mr-mothership-es.objetos.Item.c41AE2Vns5DNL8km]{carro de mano}, @UUID[Compendium.mr-mothership-es.objetos.Item.Av6zEPyZbwW2mFfD]{dron de arado}, @UUID[Compendium.mr-mothership-es.objetos.Item.t3UNbUCDs25bp8sz]{1d5 familiares}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "tvcxDSpbUEnvGjUJ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.3ryxMGNdVVtgLudO]{Ropa campesina}, @UUID[Compendium.mr-mothership-es.armas.Item.8hYOBDRFfpqylHIn]{rifle antiguo 1d10 [-] (2 cargadores)}, @UUID[Compendium.mr-mothership-es.objetos.Item.uS9yETBeFljliAxr]{comunicador corto alcance}, @UUID[Compendium.mr-mothership-es.objetos.Item.Rfvb0qNJNWCSm3n0]{cabra flaca}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ },
+ {
+  "name": "EQUIPO INICIAL - PSIÓNICO",
+  "_id": "juxyAE2Iq544hEAy",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     1,
+     1
+    ],
+    "drawn": false,
+    "_id": "lwrX0mtEAgHbPah9",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.Ncpnc3SZLX0v7oA5]{Bata de hospital (PA 0)}, @UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.L5PK0jLza2NTWTPa]{estimulante}, @UUID[Compendium.mr-mothership-es.objetos.Item.VTfV8A6CZGAVvACg]{4 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.nxokOvDqsQRl6ypx]{1 habilidad}, @UUID[Compendium.mr-mothership-es.objetos.Item.qZ7mQ6KASQkSoIhl]{0 créditos}",
+    "name": "Resultado 1"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     2,
+     2
+    ],
+    "drawn": false,
+    "_id": "HEAn85cyq7U4H1aA",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armas.Item.d7axv9AfR5oBrLKK]{Navaja automática como escalpelo}, @UUID[Compendium.mr-mothership-es.objetos.Item.v9BONLYcWec2v1NI]{3 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.e8TyvbcnpKyccuH6]{2 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.ASTRYZp3FVuD3P3B]{50 créditos}",
+    "name": "Resultado 2"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     3,
+     3
+    ],
+    "drawn": false,
+    "_id": "Mx8QYQaGtnXsnezQ",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.B3ilviBjeRnuY9RI]{Gabardina (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.tpLnoih5Jrlzs5FV]{alcohol}, @UUID[Compendium.mr-mothership-es.objetos.Item.v9BONLYcWec2v1NI]{3 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.e8TyvbcnpKyccuH6]{2 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.yzkXoNhIZXTRnEMG]{100 créditos}",
+    "name": "Resultado 3"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     4,
+     4
+    ],
+    "drawn": false,
+    "_id": "AJum8Fthx85jrkvF",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.xwyEbr3NoTCSPaXv]{Harapos (PA 0)}, @UUID[Compendium.mr-mothership-es.objetos.Item.CYAq8rn3V4tvimvV]{botella de agua}, @UUID[Compendium.mr-mothership-es.objetos.Item.v9BONLYcWec2v1NI]{3 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.40YY3RxBaXugPt7U]{3 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.RqDksthVs89DlUiO]{150 créditos}",
+    "name": "Resultado 4"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     5,
+     5
+    ],
+    "drawn": false,
+    "_id": "RB9M8LmBRLzIttiy",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.pT6LjHVEQoC4ef0U]{Mono (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.54vlFFip4Vo9znTE]{panfleto sindical}, @UUID[Compendium.mr-mothership-es.objetos.Item.v9BONLYcWec2v1NI]{3 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.e8TyvbcnpKyccuH6]{2 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.z3yzt2ouF9oUJ5Xk]{250 créditos}",
+    "name": "Resultado 5"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     6,
+     6
+    ],
+    "drawn": false,
+    "_id": "C0rVztwo6sG20oRX",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.objetos.Item.xi4I2ykdPVWNjNvi]{Reloj de oro falso}, @UUID[Compendium.mr-mothership-es.armaduras.Item.Wetm3YgIgHbmpX59]{ropa negra (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.v9BONLYcWec2v1NI]{3 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.40YY3RxBaXugPt7U]{3 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.8OeEZkxSreLK4l2a]{500 créditos}",
+    "name": "Resultado 6"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     7,
+     7
+    ],
+    "drawn": false,
+    "_id": "N4j4VBIjZG9jRTrY",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Fatigas (PA 2)}, @UUID[Compendium.mr-mothership-es.armas.Item.ufUWXvdof3xMv9sn]{revólver (12)}, @UUID[Compendium.mr-mothership-es.objetos.Item.rltT7Qa3zuuRIoKp]{prismáticos}, @UUID[Compendium.mr-mothership-es.objetos.Item.v9BONLYcWec2v1NI]{3 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.40YY3RxBaXugPt7U]{3 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.CFOdnDtigHQxgaai]{800 créditos}",
+    "name": "Resultado 7"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     8,
+     8
+    ],
+    "drawn": false,
+    "_id": "ge1uWaLgPg82Iujl",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.dlQS52CpiPcO6sqc]{Fatigas (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.caXvC4ja0Xu5t4I0]{analgésicos}, @UUID[Compendium.mr-mothership-es.objetos.Item.tpLnoih5Jrlzs5FV]{alcohol}, @UUID[Compendium.mr-mothership-es.objetos.Item.jn9LJrXuBtasa6VR]{carta}, @UUID[Compendium.mr-mothership-es.objetos.Item.06cUZTbZnK0LJArG]{2 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.w6q9FTD6XKTAVhXJ]{4 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.VJUsXqI6BlTLYXzk]{750 créditos}",
+    "name": "Resultado 8"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     9,
+     9
+    ],
+    "drawn": false,
+    "_id": "Picx4FtolubnvcRx",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.RPxIy0bIC43Wk07u]{Bata de laboratorio (PA 1)}, @UUID[Compendium.mr-mothership-es.objetos.Item.06cUZTbZnK0LJArG]{2 psiónicas}, @UUID[Compendium.mr-mothership-es.objetos.Item.w6q9FTD6XKTAVhXJ]{4 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.h2HPenuCtaV68Hgw]{1000 créditos}",
+    "name": "Resultado 9"
+   },
+   {
+    "type": "text",
+    "weight": 1,
+    "range": [
+     10,
+     10
+    ],
+    "drawn": false,
+    "_id": "Ra0rDt2NAaQbzhLu",
+    "flags": {},
+    "img": "icons/svg/d20-black.svg",
+    "description": "@UUID[Compendium.mr-mothership-es.armaduras.Item.6sUG4etHJsgPJMWR]{Traje hecho jirones (PA 2)}, @UUID[Compendium.mr-mothership-es.objetos.Item.oTJEoXVF3aCxYSxt]{1 psiónica}, @UUID[Compendium.mr-mothership-es.objetos.Item.w6q9FTD6XKTAVhXJ]{4 habilidades}, @UUID[Compendium.mr-mothership-es.objetos.Item.G9yDaZNPaNXJmfEy]{2500 créditos}",
+    "name": "Resultado 10"
+   }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "formula": "1d10",
+  "effects": []
+ }
+]

@@ -2,3 +2,4 @@ work/upstream/
 art_src/
 work/*.log
 .DS_Store
+node_modules/

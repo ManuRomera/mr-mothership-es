@@ -51,6 +51,7 @@ lit.update({
   'plus': 'más el bono de', 'skill bonus.': '.', 'points of damage.': 'puntos de daño.', 'damage': 'de daño', '1e Rules': 'Reglas de 1e',
   'You strike your target for': 'Golpeas a tu objetivo causando', 'roll': 'tirada', 'success': 'éxito', 'failure': 'fallo',
 })
+lit.update({'strength': 'Fuerza', 'speed': 'Velocidad', 'intellect': 'Intelecto', 'combat': 'Combate', 'sanity': 'Cordura', 'fear': 'Miedo', 'body': 'Cuerpo'})  # botones del diálogo de bono del generador
 lit['+1 Stress'] = '+1 Estrés'
 lit['-1d10 Calm'] = '-1d10 Calma'
 def _etiquetas(o):

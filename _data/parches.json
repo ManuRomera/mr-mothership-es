@@ -1,0 +1,2002 @@
+[
+ {
+  "name": "\"No soy un científico espacial / Pero tú eres un idiota\"",
+  "type": "item",
+  "_id": "g9FImAY5Qco9ejs5",
+  "img": "modules/mr-mothership-es/parches/00.webp",
+  "system": {
+   "description": "<p>\"No soy un científico espacial / Pero tú eres un idiota\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Parche Médico (Calavera y tibias cruzadas sobre Cruz)",
+  "type": "item",
+  "_id": "tw9f5LzGSnjl4u0O",
+  "img": "modules/mr-mothership-es/parches/01.webp",
+  "system": {
+   "description": "<p>Parche Médico (Calavera y tibias cruzadas sobre Cruz)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Parche trasero \"Don't Run, You'll Only Die Tired\"",
+  "type": "item",
+  "_id": "EbU5v987lVHyt4Mt",
+  "img": "modules/mr-mothership-es/parches/02.webp",
+  "system": {
+   "description": "<p>Parche trasero \"Don't Run, You'll Only Die Tired\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Logotipo de la camisa roja",
+  "type": "item",
+  "_id": "D8r9IGuiSs44tYBY",
+  "img": "modules/mr-mothership-es/parches/03.webp",
+  "system": {
+   "description": "<p>Logotipo de la camisa roja</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Tipo de sangre (parche de referencia)",
+  "type": "item",
+  "_id": "OhMptfTz09DvTY9x",
+  "img": "modules/mr-mothership-es/parches/04.webp",
+  "system": {
+   "description": "<p>Tipo de sangre (parche de referencia)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"¿PAREZCO un experto?\"",
+  "type": "item",
+  "_id": "Vpnznxo45mMO2tZ7",
+  "img": "modules/mr-mothership-es/parches/05.webp",
+  "system": {
+   "description": "<p>\"¿PAREZCO un experto?\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Símbolo de riesgo biológico",
+  "type": "item",
+  "_id": "C9Wx522gRrA6h5au",
+  "img": "modules/mr-mothership-es/parches/06.webp",
+  "system": {
+   "description": "<p>Símbolo de riesgo biológico</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Sr. Asco",
+  "type": "item",
+  "_id": "xwpS7yk8xOQksUZu",
+  "img": "modules/mr-mothership-es/parches/07.webp",
+  "system": {
+   "description": "<p>Sr. Asco</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Símbolo nuclear",
+  "type": "item",
+  "_id": "BZBEO6Z7mXhAJNUC",
+  "img": "modules/mr-mothership-es/parches/08.webp",
+  "system": {
+   "description": "<p>Símbolo nuclear</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Cómete a los ricos\"",
+  "type": "item",
+  "_id": "Rbl3zvNpQfveU89I",
+  "img": "modules/mr-mothership-es/parches/09.webp",
+  "system": {
+   "description": "<p>\"Cómete a los ricos\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Esté seguro: toque dos veces\"",
+  "type": "item",
+  "_id": "LFDZFTzLzyWommBu",
+  "img": "modules/mr-mothership-es/parches/10.webp",
+  "system": {
+   "description": "<p>\"Esté seguro: toque dos veces\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Emoji de llama",
+  "type": "item",
+  "_id": "3sy4wOHP8Bie0e0M",
+  "img": "modules/mr-mothership-es/parches/11.webp",
+  "system": {
+   "description": "<p>Emoji de llama</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Cara sonriente (Brilla en la oscuridad)",
+  "type": "item",
+  "_id": "hpJG6ER32h4JmflG",
+  "img": "modules/mr-mothership-es/parches/12.webp",
+  "system": {
+   "description": "<p>Cara sonriente (Brilla en la oscuridad)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Sonríe: el Gran Hermano está mirando\"",
+  "type": "item",
+  "_id": "03MERXwLm5cpA5YQ",
+  "img": "modules/mr-mothership-es/parches/13.webp",
+  "system": {
+   "description": "<p>\"Sonríe: el Gran Hermano está mirando\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Jolly Roger",
+  "type": "item",
+  "_id": "HnlK4DCKHk4WpaIH",
+  "img": "modules/mr-mothership-es/parches/14.webp",
+  "system": {
+   "description": "<p>Jolly Roger</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Calavera vikinga",
+  "type": "item",
+  "_id": "g2KRgFXGsDXp9Rou",
+  "img": "modules/mr-mothership-es/parches/15.webp",
+  "system": {
+   "description": "<p>Calavera vikinga</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"APEX PREDATOR\" (Calavera de dientes de sable)",
+  "type": "item",
+  "_id": "NpSs686Np2drOxSK",
+  "img": "modules/mr-mothership-es/parches/16.webp",
+  "system": {
+   "description": "<p>\"APEX PREDATOR\" (Calavera de dientes de sable)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Modelo Pin-Up (As de Picas)",
+  "type": "item",
+  "_id": "SrwNtLa6ohvc9Jk6",
+  "img": "modules/mr-mothership-es/parches/17.webp",
+  "system": {
+   "description": "<p>Modelo Pin-Up (As de Picas)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Reina de Corazones",
+  "type": "item",
+  "_id": "6iYqZIlAGpqLeRfl",
+  "img": "modules/mr-mothership-es/parches/18.webp",
+  "system": {
+   "description": "<p>Reina de Corazones</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Vigilante de seguridad",
+  "type": "item",
+  "_id": "MF75edsP50ef705w",
+  "img": "modules/mr-mothership-es/parches/19.webp",
+  "system": {
+   "description": "<p>Vigilante de seguridad</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"SOLITARIO\"",
+  "type": "item",
+  "_id": "vj76dq7g63vKRfxt",
+  "img": "modules/mr-mothership-es/parches/20.webp",
+  "system": {
+   "description": "<p>\"SOLITARIO\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Frente hacia el enemigo\" (Claymore Mine)",
+  "type": "item",
+  "_id": "yX67I8aoArb8RTx2",
+  "img": "modules/mr-mothership-es/parches/21.webp",
+  "system": {
+   "description": "<p>\"Frente hacia el enemigo\" (Claymore Mine)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Modelo Pin-Up (Montado un Misil )",
+  "type": "item",
+  "_id": "UAf6zs5tdkf6BKKk",
+  "img": "modules/mr-mothership-es/parches/22.webp",
+  "system": {
+   "description": "<p>Modelo Pin-Up (Montado un Misil )</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "FUBAR",
+  "type": "item",
+  "_id": "zLb3cQH4jPwnHoIZ",
+  "img": "modules/mr-mothership-es/parches/23.webp",
+  "system": {
+   "description": "<p>FUBAR</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Soy una máquina (de amor)\"",
+  "type": "item",
+  "_id": "DRqmJ2XT0gD4lzmK",
+  "img": "modules/mr-mothership-es/parches/24.webp",
+  "system": {
+   "description": "<p>\"Soy una máquina (de amor)\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Modelo Pin-Up (Mecánico)",
+  "type": "item",
+  "_id": "QpHxw4uVktJfBPGU",
+  "img": "modules/mr-mothership-es/parches/25.webp",
+  "system": {
+   "description": "<p>Modelo Pin-Up (Mecánico)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"HOLA, MI NOMBRE ES:\"",
+  "type": "item",
+  "_id": "sTiocRDp4W7DRZ7m",
+  "img": "modules/mr-mothership-es/parches/26.webp",
+  "system": {
+   "description": "<p>\"HOLA, MI NOMBRE ES:\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Impulsado por el café\"",
+  "type": "item",
+  "_id": "AmcbxL1n1zpbxV2X",
+  "img": "modules/mr-mothership-es/parches/27.webp",
+  "system": {
+   "description": "<p>\"Impulsado por el café\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Llévame ante tu líder\" (OVNI)",
+  "type": "item",
+  "_id": "bGDsraQFICJgPKmI",
+  "img": "modules/mr-mothership-es/parches/28.webp",
+  "system": {
+   "description": "<p>\"Llévame ante tu líder\" (OVNI)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"HAZ TU TRABAJO\"",
+  "type": "item",
+  "_id": "ICMCKne2nKQHTQcG",
+  "img": "modules/mr-mothership-es/parches/29.webp",
+  "system": {
+   "description": "<p>\"HAZ TU TRABAJO\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Toma mi vida (por favor)\"",
+  "type": "item",
+  "_id": "gKTej4repD7o9d6j",
+  "img": "modules/mr-mothership-es/parches/30.webp",
+  "system": {
+   "description": "<p>\"Toma mi vida (por favor)\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Ciudadano honrado\"",
+  "type": "item",
+  "_id": "6plmhdpf3crzKRFG",
+  "img": "modules/mr-mothership-es/parches/31.webp",
+  "system": {
+   "description": "<p>\"Ciudadano honrado\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Alérgico a la mierda\" (parche de estilo médico)",
+  "type": "item",
+  "_id": "2YIvBjpLf7kBIRmD",
+  "img": "modules/mr-mothership-es/parches/32.webp",
+  "system": {
+   "description": "<p>\"Alérgico a la mierda\" (parche de estilo médico)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "“Arreglame Primero (Caduceo)",
+  "type": "item",
+  "_id": "moahTXbEPG5VPJK2",
+  "img": "modules/mr-mothership-es/parches/33.webp",
+  "system": {
+   "description": "<p>“Arreglame Primero (Caduceo)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Me gustan mis herramientas limpias / y mis amantes sucias\"",
+  "type": "item",
+  "_id": "9mIPmz0Lvgzd0Y5G",
+  "img": "modules/mr-mothership-es/parches/34.webp",
+  "system": {
+   "description": "<p>\"Me gustan mis herramientas limpias / y mis amantes sucias\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Cuanto más fuerte gritas, más rápido vengo\" (EnfermeraPin-Up)",
+  "type": "item",
+  "_id": "9jXcHbI2wv9oLpY7",
+  "img": "modules/mr-mothership-es/parches/35.webp",
+  "system": {
+   "description": "<p>\"Cuanto más fuerte gritas, más rápido vengo\" (EnfermeraPin-Up)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "JPMC (Jefe de Puta Madre a Cargo)",
+  "type": "item",
+  "_id": "rD41Dmm8yy1z0qMu",
+  "img": "modules/mr-mothership-es/parches/36.webp",
+  "system": {
+   "description": "<p>JPMC (Jefe de Puta Madre a Cargo)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Paloma en el punto de mira",
+  "type": "item",
+  "_id": "kUDdg77GM5zZILUI",
+  "img": "modules/mr-mothership-es/parches/37.webp",
+  "system": {
+   "description": "<p>Paloma en el punto de mira</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Cthulhu Chibi",
+  "type": "item",
+  "_id": "y9WrvIAo7YJGtXHj",
+  "img": "modules/mr-mothership-es/parches/38.webp",
+  "system": {
+   "description": "<p>Cthulhu Chibi</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Bienvenidos a la ZONA DE PELIGRO\"",
+  "type": "item",
+  "_id": "TzbYFxCiis1V82Xz",
+  "img": "modules/mr-mothership-es/parches/39.webp",
+  "system": {
+   "description": "<p>\"Bienvenidos a la ZONA DE PELIGRO\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Cráneo y llaves cruzadas",
+  "type": "item",
+  "_id": "ZeVyBQBamNuVnwkc",
+  "img": "modules/mr-mothership-es/parches/40.webp",
+  "system": {
+   "description": "<p>Cráneo y llaves cruzadas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Modelo Pin-Up (Súcubo)",
+  "type": "item",
+  "_id": "fpBA7HAQwCzwoJVC",
+  "img": "modules/mr-mothership-es/parches/41.webp",
+  "system": {
+   "description": "<p>Modelo Pin-Up (Súcubo)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "“DILLIGAF?”",
+  "type": "item",
+  "_id": "TOh0xR49Dm8G3IXb",
+  "img": "modules/mr-mothership-es/parches/42.webp",
+  "system": {
+   "description": "<p>“DILLIGAF?”</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"BEBER / PELEAR / FOLLAR\"",
+  "type": "item",
+  "_id": "pzMIccGTFLvsLEzo",
+  "img": "modules/mr-mothership-es/parches/43.webp",
+  "system": {
+   "description": "<p>\"BEBER / PELEAR / FOLLAR\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Trabaja duro / Festeja más duro\"",
+  "type": "item",
+  "_id": "exXykC96SEXiQ2R6",
+  "img": "modules/mr-mothership-es/parches/44.webp",
+  "system": {
+   "description": "<p>\"Trabaja duro / Festeja más duro\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Chica guardabarros",
+  "type": "item",
+  "_id": "UlRX1YpZw7kcGPGk",
+  "img": "modules/mr-mothership-es/parches/45.webp",
+  "system": {
+   "description": "<p>Chica guardabarros</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Medidor de diversión (dice: Mala Hora)",
+  "type": "item",
+  "_id": "UuayNZiBQi4ry2BH",
+  "img": "modules/mr-mothership-es/parches/46.webp",
+  "system": {
+   "description": "<p>Medidor de diversión (dice: Mala Hora)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"GAME OVER\" (Novia y Novio)",
+  "type": "item",
+  "_id": "DSLJpbPQOPbrFWnR",
+  "img": "modules/mr-mothership-es/parches/47.webp",
+  "system": {
+   "description": "<p>\"GAME OVER\" (Novia y Novio)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Corazón",
+  "type": "item",
+  "_id": "Twjd5DVga8HJPPwV",
+  "img": "modules/mr-mothership-es/parches/48.webp",
+  "system": {
+   "description": "<p>Corazón</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"MEJORAR / ADAPTARSE / SUPERAR\"",
+  "type": "item",
+  "_id": "NjUHAgCDOYm5EFoE",
+  "img": "modules/mr-mothership-es/parches/49.webp",
+  "system": {
+   "description": "<p>\"MEJORAR / ADAPTARSE / SUPERAR\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "“CHÚPATE ESA”",
+  "type": "item",
+  "_id": "5Y0LBc3nu9dFr1vr",
+  "img": "modules/mr-mothership-es/parches/50.webp",
+  "system": {
+   "description": "<p>“CHÚPATE ESA”</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Cowboy Up\" (Revólveres cruzados)",
+  "type": "item",
+  "_id": "rOPVUgfOL3wj0PUy",
+  "img": "modules/mr-mothership-es/parches/51.webp",
+  "system": {
+   "description": "<p>\"Cowboy Up\" (Revólveres cruzados)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Solucionador de problemas\"",
+  "type": "item",
+  "_id": "gLoVC98IhLR5TyN5",
+  "img": "modules/mr-mothership-es/parches/52.webp",
+  "system": {
+   "description": "<p>\"Solucionador de problemas\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Logotipo de la NASA",
+  "type": "item",
+  "_id": "vF88T21RPtnACDzY",
+  "img": "modules/mr-mothership-es/parches/53.webp",
+  "system": {
+   "description": "<p>Logotipo de la NASA</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Martillos cruzados con alas",
+  "type": "item",
+  "_id": "XLnC5Evyszj9EA4V",
+  "img": "modules/mr-mothership-es/parches/54.webp",
+  "system": {
+   "description": "<p>Martillos cruzados con alas</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Manténgase bien lubricado\"",
+  "type": "item",
+  "_id": "dtaPMLbecdhjKmjU",
+  "img": "modules/mr-mothership-es/parches/55.webp",
+  "system": {
+   "description": "<p>\"Manténgase bien lubricado\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "La hoz y el martillo soviéticos",
+  "type": "item",
+  "_id": "zDAbuKUJqTmJeSO6",
+  "img": "modules/mr-mothership-es/parches/56.webp",
+  "system": {
+   "description": "<p>La hoz y el martillo soviéticos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Trata bien a los demás\"",
+  "type": "item",
+  "_id": "zDqDXCetJyYFj54D",
+  "img": "modules/mr-mothership-es/parches/57.webp",
+  "system": {
+   "description": "<p>\"Trata bien a los demás\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Vive libre y muere\"",
+  "type": "item",
+  "_id": "qDTdEeK4JuDE78ic",
+  "img": "modules/mr-mothership-es/parches/58.webp",
+  "system": {
+   "description": "<p>\"Vive libre y muere\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"SI ESTOY CORRIENDO, MANTENTE AL DÍA\" Parche trasero",
+  "type": "item",
+  "_id": "DlnYxDHKE9KwHxP9",
+  "img": "modules/mr-mothership-es/parches/59.webp",
+  "system": {
+   "description": "<p>\"SI ESTOY CORRIENDO, MANTENTE AL DÍA\" Parche trasero</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Bolsa de carne\"",
+  "type": "item",
+  "_id": "bPsctjir7MkEFhcQ",
+  "img": "modules/mr-mothership-es/parches/60.webp",
+  "system": {
+   "description": "<p>\"Bolsa de carne\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"No soy un robot\"",
+  "type": "item",
+  "_id": "rxcw36PXjCQB40uj",
+  "img": "modules/mr-mothership-es/parches/61.webp",
+  "system": {
+   "description": "<p>\"No soy un robot\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Engranaje rojo",
+  "type": "item",
+  "_id": "xNbftByeY4Cs0Tm0",
+  "img": "modules/mr-mothership-es/parches/62.webp",
+  "system": {
+   "description": "<p>Engranaje rojo</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"No puedo arreglar estúpido\"",
+  "type": "item",
+  "_id": "8uoQe8ps7ErWBR5r",
+  "img": "modules/mr-mothership-es/parches/63.webp",
+  "system": {
+   "description": "<p>\"No puedo arreglar estúpido\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"El espacio es mi hogar\" (Triste astronauta)",
+  "type": "item",
+  "_id": "p8IB59UJHcuhw61g",
+  "img": "modules/mr-mothership-es/parches/64.webp",
+  "system": {
+   "description": "<p>\"El espacio es mi hogar\" (Triste astronauta)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Ojo que todo lo ve",
+  "type": "item",
+  "_id": "E2ZRsxK4A4SMpG2L",
+  "img": "modules/mr-mothership-es/parches/65.webp",
+  "system": {
+   "description": "<p>Ojo que todo lo ve</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Solve et coagula\" (Baphomet)",
+  "type": "item",
+  "_id": "swvPga4xMXYPpqrY",
+  "img": "modules/mr-mothership-es/parches/66.webp",
+  "system": {
+   "description": "<p>\"Solve et coagula\" (Baphomet)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Sin nada de mierda para dar\" (Astronauta con los bolsillos vueltos)",
+  "type": "item",
+  "_id": "FaXBlhHnYSqawxOp",
+  "img": "modules/mr-mothership-es/parches/67.webp",
+  "system": {
+   "description": "<p>\"Sin nada de mierda para dar\" (Astronauta con los bolsillos vueltos)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Viaja a lugares lejanos / Conoce cosas inusuales / Déjate comer\"",
+  "type": "item",
+  "_id": "EHlHdHEjHafCPaFG",
+  "img": "modules/mr-mothership-es/parches/68.webp",
+  "system": {
+   "description": "<p>\"Viaja a lugares lejanos / Conoce cosas inusuales / Déjate comer\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "IAVOV (Inclínate Aquí Viene Otra Vez)",
+  "type": "item",
+  "_id": "q38XDwqEAzlxSqBK",
+  "img": "modules/mr-mothership-es/parches/69.webp",
+  "system": {
+   "description": "<p>IAVOV (Inclínate Aquí Viene Otra Vez)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Yo soy el guardián de mi hermano\"",
+  "type": "item",
+  "_id": "cpWazdrZOZqe5cWz",
+  "img": "modules/mr-mothership-es/parches/70.webp",
+  "system": {
+   "description": "<p>\"Yo soy el guardián de mi hermano\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Mamá lo intentó\"",
+  "type": "item",
+  "_id": "pmyCPXrJj5MbaV8z",
+  "img": "modules/mr-mothership-es/parches/71.webp",
+  "system": {
+   "description": "<p>\"Mamá lo intentó\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Araña viuda negra",
+  "type": "item",
+  "_id": "btMRpyOMuGCnfObz",
+  "img": "modules/mr-mothership-es/parches/72.webp",
+  "system": {
+   "description": "<p>Araña viuda negra</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Mi otro viaje se casó contigo\"",
+  "type": "item",
+  "_id": "wOJJOP3ORRB32gUC",
+  "img": "modules/mr-mothership-es/parches/73.webp",
+  "system": {
+   "description": "<p>\"Mi otro viaje se casó contigo\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Talla única\" (Granada)",
+  "type": "item",
+  "_id": "PokXg5wVNVcLM1n1",
+  "img": "modules/mr-mothership-es/parches/74.webp",
+  "system": {
+   "description": "<p>\"Talla única\" (Granada)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Parche trasero de la Parca",
+  "type": "item",
+  "_id": "Dj7DWB289QrACF6L",
+  "img": "modules/mr-mothership-es/parches/75.webp",
+  "system": {
+   "description": "<p>Parche trasero de la Parca</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "отъебись (\"Vete a la mierda\", en ruso)",
+  "type": "item",
+  "_id": "tSbIuZsAc2YKvXsH",
+  "img": "modules/mr-mothership-es/parches/76.webp",
+  "system": {
+   "description": "<p>отъебись (\"Vete a la mierda\", en ruso)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Operador suave\"",
+  "type": "item",
+  "_id": "Hbo5PbA1SqXn9ScF",
+  "img": "modules/mr-mothership-es/parches/77.webp",
+  "system": {
+   "description": "<p>\"Operador suave\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Símbolo del átomo",
+  "type": "item",
+  "_id": "LuyQEZsI3pzyuNAa",
+  "img": "modules/mr-mothership-es/parches/78.webp",
+  "system": {
+   "description": "<p>Símbolo del átomo</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"¡Por la ciencia!\"",
+  "type": "item",
+  "_id": "SDDYLSCaq93LSP5w",
+  "img": "modules/mr-mothership-es/parches/79.webp",
+  "system": {
+   "description": "<p>\"¡Por la ciencia!\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"En realidad, SOY un científico espacial\"",
+  "type": "item",
+  "_id": "G2MoO6Og1x91LAJD",
+  "img": "modules/mr-mothership-es/parches/80.webp",
+  "system": {
+   "description": "<p>\"En realidad, SOY un científico espacial\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Se busca ayuda\"",
+  "type": "item",
+  "_id": "FcwIZCYXJoVBBy7J",
+  "img": "modules/mr-mothership-es/parches/81.webp",
+  "system": {
+   "description": "<p>\"Se busca ayuda\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Princesa",
+  "type": "item",
+  "_id": "fDNJF1oSBW4LDaIi",
+  "img": "modules/mr-mothership-es/parches/82.webp",
+  "system": {
+   "description": "<p>Princesa</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"NÓMADA\"",
+  "type": "item",
+  "_id": "c9Zl8ztJ4aurLxeu",
+  "img": "modules/mr-mothership-es/parches/83.webp",
+  "system": {
+   "description": "<p>\"NÓMADA\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"BUEN CHICO\"",
+  "type": "item",
+  "_id": "P6BM8KJbYmxOeAtr",
+  "img": "modules/mr-mothership-es/parches/84.webp",
+  "system": {
+   "description": "<p>\"BUEN CHICO\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Dados (ojos de serpiente)",
+  "type": "item",
+  "_id": "MgsvspCflkSoNRt6",
+  "img": "modules/mr-mothership-es/parches/85.webp",
+  "system": {
+   "description": "<p>Dados (ojos de serpiente)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Trabajador #1\"",
+  "type": "item",
+  "_id": "DdyWTQA1DflJeHKj",
+  "img": "modules/mr-mothership-es/parches/86.webp",
+  "system": {
+   "description": "<p>\"Trabajador #1\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Bueno\" (Cerebro)",
+  "type": "item",
+  "_id": "ABxx7bBBm3xEdZwK",
+  "img": "modules/mr-mothership-es/parches/87.webp",
+  "system": {
+   "description": "<p>\"Bueno\" (Cerebro)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Perra mala\"",
+  "type": "item",
+  "_id": "zFgO0cVzeHzZ04IY",
+  "img": "modules/mr-mothership-es/parches/88.webp",
+  "system": {
+   "description": "<p>\"Perra mala\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Demasiado bonita para morir\"",
+  "type": "item",
+  "_id": "fjVK0tHz95L1D1jH",
+  "img": "modules/mr-mothership-es/parches/89.webp",
+  "system": {
+   "description": "<p>\"Demasiado bonita para morir\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Jodido para siempre\" (Rosas)",
+  "type": "item",
+  "_id": "KNybAggt4pp6EiU7",
+  "img": "modules/mr-mothership-es/parches/90.webp",
+  "system": {
+   "description": "<p>\"Jodido para siempre\" (Rosas)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Icaro",
+  "type": "item",
+  "_id": "bKwm7JYehxTzV2Ne",
+  "img": "modules/mr-mothership-es/parches/91.webp",
+  "system": {
+   "description": "<p>Icaro</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"La mejor amiga de la chica\" (Diamante)",
+  "type": "item",
+  "_id": "j3oPBq9BinfYxTxe",
+  "img": "modules/mr-mothership-es/parches/92.webp",
+  "system": {
+   "description": "<p>\"La mejor amiga de la chica\" (Diamante)</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Símbolo de riesgo de electrocución",
+  "type": "item",
+  "_id": "UZksC5IL6e0mhWtb",
+  "img": "modules/mr-mothership-es/parches/93.webp",
+  "system": {
+   "description": "<p>Símbolo de riesgo de electrocución</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Cruz invertida",
+  "type": "item",
+  "_id": "D2kqAB7iKAx1ZKox",
+  "img": "modules/mr-mothership-es/parches/94.webp",
+  "system": {
+   "description": "<p>Cruz invertida</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"¿Firmas mis cheques de pago?\" Parche trasero",
+  "type": "item",
+  "_id": "6pyPSXlTMGdpclOe",
+  "img": "modules/mr-mothership-es/parches/95.webp",
+  "system": {
+   "description": "<p>\"¿Firmas mis cheques de pago?\" Parche trasero</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Yo ♥ mismo\"",
+  "type": "item",
+  "_id": "igBzRiGZ8ZDjt3mu",
+  "img": "modules/mr-mothership-es/parches/96.webp",
+  "system": {
+   "description": "<p>\"Yo ♥ mismo\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Cereza doble",
+  "type": "item",
+  "_id": "FBZkuFgy787mcmND",
+  "img": "modules/mr-mothership-es/parches/97.webp",
+  "system": {
+   "description": "<p>Cereza doble</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "\"Voluntario\"",
+  "type": "item",
+  "_id": "sKDrVAfj40tGvKq5",
+  "img": "modules/mr-mothership-es/parches/98.webp",
+  "system": {
+   "description": "<p>\"Voluntario\"</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Mano de póker: Mano del hombre muerto* *Ases llenos de ochos",
+  "type": "item",
+  "_id": "Yk36or7B2Y4wru09",
+  "img": "modules/mr-mothership-es/parches/99.webp",
+  "system": {
+   "description": "<p>Mano de póker: Mano del hombre muerto* *Ases llenos de ochos</p>",
+   "quantity": 1,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ }
+]

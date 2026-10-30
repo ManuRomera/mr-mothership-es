@@ -87,6 +87,32 @@ Hooks.once("ready", async () => {
   if (game.system?.id !== "mosh") return;
   try {
     const { DLActorGenerator } = await import("/systems/mosh/module/windows/actor-generator.js");
+    // tirada de tablas del generador: el original solo entiende un @UUID por resultado; los equipos iniciales traen varios (con «x2»)
+    const editor = foundry.applications.ux.TextEditor.implementation;
+    const cantidad = etiqueta => { const m = String(etiqueta || "").match(/(?:^|[\s(])x\s*(\d+)(?:\)|$|\s)/i); return m ? Math.max(1, Number(m[1])) : 1; };
+    DLActorGenerator.prototype.rollTable = async function (html, id, tableId, type = "input") {
+      const imgTirar = html.find(`img[id="${id}.value"]`);
+      if (imgTirar.prop("hidden") !== false || html.find('img[id="system.class.value"]').prop("value") === "") return;
+      const tabla = await fromUuid(tableId);
+      if (!tabla) return ui.notifications.error(game.i18n.localize("Mosh.CharacterGenerator.Error.NoClass"));
+      const { results } = await tabla.draw({ displayChat: true });
+      const uuids = []; let texto = "";
+      for (const r of results) {
+        if (r.type === "pack" || r.type === "document") {
+          if (type === "ul") html.find(`ul[id="${id}.text"]`).append(`<li>${r.name}</li>`); else texto += `${r.name}; `;
+          uuids.push(r.documentUuid);
+        } else if (r.type === "text") {
+          const d = r.description || "";
+          for (const m of d.matchAll(/@UUID\[([^\]]+)\](?:\{([^}]+)\})?/g)) for (let i = 0; i < cantidad(m[2]); i++) uuids.push(m[1].replace(/.*\./, ""));
+          if (type === "ul") html.find(`ul[id="${id}.text"]`).append(`<li>${await editor.enrichHTML(d, { async: true })}</li>`);
+          else texto += d.replace(/@UUID\[([^\]]+)\](?:\{([^}]+)\})?/g, "$2").replace(/<br\s*\/?>/gi, " ").replace(/\s+/g, " ").trim();
+        }
+      }
+      imgTirar.prop("hidden", true);
+      html.find(`input[id="${id}.value"]`).prop("hidden", false).prop("value", results[0].range[0]);
+      html.find(`input[id="${id}.text"]`).prop("hidden", false).prop("value", texto);
+      html.find(`input[id="${id}.uuid"]`).prop("value", uuids.join(","));
+    };
     const original = DLActorGenerator.prototype.rollPatch;
     DLActorGenerator.prototype.rollPatch = async function (html) {
       const clase = html.find('img[id="system.class.value"]').prop("value"); // como el original: en una <img> es undefined, no cuenta como vacío

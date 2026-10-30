@@ -1,0 +1,1031 @@
+[
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Arqueología",
+  "type": "skill",
+  "_id": "FMGiQDMsWkFcDCit",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Archaeology.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Arte",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Art.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 200000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "8ImPiOaSwNhsvtSZ"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Atletismo",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Athletics.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 150000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "Cy0kXrqAxV8ujK96"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Botánica",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Botany.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 125000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "NcS9UmpV3NZQgIzx"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Computadoras",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Computers.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 112500,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "MTX5YUkOjgi9WIN4"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Conocimientos del Borde Exterior",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Rimwise.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "1mD2qDVWjnYJsRAp"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Entrenamiento militar",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Military%20Training.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "jJdeF2OHerjs9BH1"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Equipo industrial",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Industrial%20Equipment.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "PJbXzxapkffufND9"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Geología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Geology.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "KBDOdIL0RQJlhPxg"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Gravedad cero",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Zero-G.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "GQevna2pr8lonuGn"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Lingüista",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Linguistics.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "1RP18B7WiLmoxl6O"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Matemáticas",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Maths.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "R7yDVrT4ag6kfXy4"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Química",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Chemistry.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "r05e9qYm5CXo1mkD"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Reparación",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Jurry-Rigging.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "m1OEML5QpKC5e2R7"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Teología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Theology.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "ljRLqm74ePxJQ9jy"
+ },
+ {
+  "folder": "jO3zpvCAQdr28e6y",
+  "name": "Zoología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Zoology.png",
+  "system": {
+   "description": "",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 106250,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "UO8iypj9rV6qAjEW"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Armas de fuego",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Firearms.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "gNilgkvUFKuoUbf5"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Combate cuerpo a cuerpo",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/HandToHand.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "KC6L5i6ANVzxVCCS"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Ecología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Ecology.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "nYceZH2LLQp2EvsU"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Explosivos",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Explosives.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "SmDxswQKYKMlFTYl"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Farmacología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Pharmacology.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "VWqgJYcBlC95BNn7"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Física",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Physics.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "nilwkGQNRgRkrhqb"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Hackeo",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Hacking.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "rpFo74BhXGukukXl"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Mecánica",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Mechanical%20Repair.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "Lj96lyl6X1ZgBof2"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Medicina de campo",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Field%20Medicine.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "dMW0kzACHbGHxc60"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Minería espacial",
+  "type": "skill",
+  "_id": "ViVocEznwAsSLYoR",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Asteroid%20Mining.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Misticismo",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Mysticism.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "LVOBBi34LwgDNUSo"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Patología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Pathology.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "PTtgprCpvIN2q1jv"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Pilotar",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Piloting.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "wI1HtEPjSee60KK4"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Psicología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Psychology.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "oDt8PUgeIRBU0PqC"
+ },
+ {
+  "folder": "7qVNKaLvl0cKsp7X",
+  "name": "Supervivencia",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Wilderness%20Survival.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "iu1K8j6EP0TMJ6b2"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Cibernética",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Cybernetics.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "938uCPTSNEetvpph"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Cirugía",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Surgery.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "pvgMDtFeVisW78Sg"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Exobiología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Exobiology.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "Wb4Ycc8h1Nqs4OQv"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Hiperespacio",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Hyperspace.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "JN2RUwUwFzL5uvli"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Ingeniería",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Engineering.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "jAuy0arB9riMi3Ng"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Inteligencia artificial",
+  "type": "skill",
+  "_id": "C2QB8bD2d52WBzyM",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Artificial%20intelligence.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Mando",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Command.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "EKxcvxD809cw8G07"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Planetología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Planetology.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "fvh9YQxTbFY77oeu"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Robótica",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Robotics.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "kRfnjPRgEv2a8Jqt"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Sofontología",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Sophontology.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "kmTA9CIbvaZCaNw9"
+ },
+ {
+  "folder": "rb1L3T51BN6q3BlV",
+  "name": "Xenoesoterismo",
+  "type": "skill",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Xenoesotericism.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "pzKxfoPfLMuEUONo"
+ },
+ {
+  "name": "Botánica",
+  "type": "skill",
+  "_id": "LLq0MnuF2GXjewo9",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Botany.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": "7qVNKaLvl0cKsp7X"
+ },
+ {
+  "name": "Apaños técnicos",
+  "type": "skill",
+  "_id": "njdzmaKXtC6gfjon",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Jurry-Rigging.png",
+  "system": {
+   "description": "",
+   "rank": "Expert",
+   "bonus": 15,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": "7qVNKaLvl0cKsp7X"
+ },
+ {
+  "name": "Equipo industrial",
+  "type": "skill",
+  "_id": "zG0K8lN7I552FT1i",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Industrial Equipment.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": "rb1L3T51BN6q3BlV"
+ },
+ {
+  "name": "Saber corporativo",
+  "type": "skill",
+  "_id": "HFSyJ6KWoLtKtPD9",
+  "img": "modules/mr-mothership-es/iconos/E9.webp",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": "rb1L3T51BN6q3BlV"
+ },
+ {
+  "name": "Psiónica",
+  "type": "skill",
+  "_id": "lCfxOJrnz80I49hu",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": "rb1L3T51BN6q3BlV"
+ },
+ {
+  "name": "Supervivencia agreste",
+  "type": "skill",
+  "_id": "5UDC8gn7I3isGkfr",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Wilderness Survival.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": "rb1L3T51BN6q3BlV"
+ },
+ {
+  "name": "Medicina de campo",
+  "type": "skill",
+  "_id": "cSDJyEFceLS5i6bU",
+  "img": "systems/mosh/images/icons/dark-grey/skills/Field Medicine.png",
+  "system": {
+   "description": "",
+   "rank": "Master",
+   "bonus": 20,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": "rb1L3T51BN6q3BlV"
+ }
+]

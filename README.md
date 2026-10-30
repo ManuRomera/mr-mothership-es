@@ -34,6 +34,9 @@ Activa **MR- Mothership en español** en tu mundo y pon Foundry en **Español** 
 | 🧵 **Parches (d100)** | Los 100 parches de la tabla de creación de personaje, **cada uno con su imagen**. *Configuración → Parches → Tirar parche* saca una tarjeta al chat con el botón **Coser a mi personaje** (lo añade como objeto con su imagen); el Guardián puede crear la tabla nativa *Parches (d100)* en el mundo. **Integrado en el Generador de personajes del sistema:** al tirar el parche sale este d100 y al guardar queda cosido en la ficha (con lupa al pasar el cursor). Se desactiva en los ajustes del módulo. |
 | 📖 **Glosario** | Guardián, Cordura, Miedo, Cuerpo, Estrés, Determinación, Salvación de muerte… ver [`docs/GLOSARIO.md`](docs/GLOSARIO.md). |
 
+## 🧑‍🚀 Clases y equipo listos para jugar
+El módulo trae sus propios compendios (**Clases, Habilidades, Armas, Armaduras, Objetos, Parches, Tablas de creación de personaje y Reglas rápidas**) con 16 clases en español. Abre el «Generador de personajes» del sistema, elige clase y listo: aplica los bonos, te deja elegir habilidades, tira el equipo inicial, el parche (d100 con imagen) y la baratija, y lo cose todo a la ficha al guardar. Si tenías «Básicos de Mosh», desactívalo: este módulo lo sustituye.
+
 ## 🔧 Cómo está hecho
 
 - `lang/es.json`: idioma del sistema (se fusiona con el de `mosh` cuando el idioma es español).

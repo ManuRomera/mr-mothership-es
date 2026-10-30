@@ -1,0 +1,1024 @@
+[
+ {
+  "folder": null,
+  "name": "Atuendo estándar de la tripulación",
+  "type": "armor",
+  "_id": "RjmM9QMVBqOtbudA",
+  "img": "modules/mr-mothership-es/iconos/armadura-atuendo-estandar-de-la-tripulacion.png",
+  "system": {
+   "description": "",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "normal",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0,
+   "equipped": false,
+   "features": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Ropa de trabajo pesada",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/armadura-ropa-de-trabajo-pesada.png",
+  "system": {
+   "description": "",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "normal",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0,
+   "equipped": false,
+   "features": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "vq9UdR1jNCBVseFy"
+ },
+ {
+  "folder": null,
+  "name": "Traje de batalla avanzado",
+  "type": "armor",
+  "_id": "tnhXBOT7xWQSHAep",
+  "img": "modules/mr-mothership-es/iconos/armadura-advanced-battle-dress.png",
+  "system": {
+   "description": "",
+   "armorPoints": 10,
+   "damageReduction": 0,
+   "speed": "-",
+   "oxygenMax": 1,
+   "oxygenCurrent": 1,
+   "weight": 0,
+   "cost": 0,
+   "equipped": false,
+   "features": "Incluye comunicaciones de corto alcance, cámara corporal, faro, HUD, tejido exoesquelético (Strength Checks [+]) y protección contra la radiación. Reducción de daño: 3."
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Traje de batalla estándar",
+  "type": "armor",
+  "_id": "DfLdIeCNgpvQTScU",
+  "img": "modules/mr-mothership-es/iconos/armadura-traje-de-batalla-estandar.png",
+  "system": {
+   "description": "",
+   "armorPoints": 7,
+   "damageReduction": 0,
+   "speed": "normal",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0,
+   "equipped": false,
+   "features": "Incluye comunicaciones de corto alcance."
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Traje de peligro biologico",
+  "type": "armor",
+  "_id": "SXP0wMnpIZqFv22n",
+  "img": "modules/mr-mothership-es/iconos/armadura-armadura-exploracion.png",
+  "system": {
+   "description": "",
+   "armorPoints": 5,
+   "damageReduction": 0,
+   "speed": "normal",
+   "oxygenMax": 1,
+   "oxygenCurrent": 1,
+   "weight": 0,
+   "cost": 0,
+   "equipped": false,
+   "features": "Incluye filtro de aire, protección contra el calor/frío extremo, recuperación de hidratación (1 litro de agua dura 4 días), comunicaciones de corto alcance, faro y protección contra la radiación."
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Uniforme",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/armadura-uniforme.png",
+  "system": {
+   "description": "",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "normal",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0,
+   "equipped": false,
+   "features": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "dlQS52CpiPcO6sqc"
+ },
+ {
+  "folder": null,
+  "name": "traje de vacio",
+  "type": "armor",
+  "_id": "MWEsHfHbaXI37evM",
+  "img": "modules/mr-mothership-es/iconos/armadura-traje-de-vacio.png",
+  "system": {
+   "description": "",
+   "armorPoints": 3,
+   "damageReduction": 0,
+   "speed": "-",
+   "oxygenMax": 12,
+   "oxygenCurrent": 12,
+   "weight": 0,
+   "cost": 0,
+   "equipped": false,
+   "features": "Incluye comunicaciones de corto alcance, faros y protección contra la radiación. Descompresión en 1d5 rondas si se pincha."
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "NFWU24kVTX9BtGjq",
+  "name": "Ropa de frío",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa de frío (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "JZoBqpLh7S04pku8",
+  "name": "Ropa de lluvia",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B9.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa de lluvia (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "RPxIy0bIC43Wk07u",
+  "name": "Bata de laboratorio",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Bata de laboratorio (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "xss73WiZRsbZmfHD",
+  "name": "Ropa corporativa",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa corporativa (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "OQFfqIQ4ngP1mBLZ",
+  "name": "Ropa de descanso",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa de descanso (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "3XiDeFG97bTl6AJD",
+  "name": "Vestiduras religiosas",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Vestiduras religiosas (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "HOO7jkgqlQGXl7wY",
+  "name": "Ropa elegante rescatada",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa elegante rescatada (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "SAuDHciOM1U7stNW",
+  "name": "Ropa remendada",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa remendada (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "jazDuC4gClypmB2X",
+  "name": "Harapos sucios",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Harapos sucios (PA 0)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "TBfT1LQqhsW8Kd7d",
+  "name": "Ropa civil",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B15.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa civil (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "r9Vt1ksEdL50Eh1Y",
+  "name": "Armadura recuperada",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Armadura recuperada (PA 4)</p>",
+   "armorPoints": 4,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "hilDXTr4OfXcvGRZ",
+  "name": "Mono de sujeto de investigación",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Mono de sujeto de investigación (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "4D3ZcwFhYuh4DsxE",
+  "name": "Mono ensangrentado de sujeto de investigación",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Mono ensangrentado de sujeto de investigación (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "V98G7pnOh3BSgH2F",
+  "name": "Traje psi experimental",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Traje psi experimental (PA 4; alcance psi lejano hasta perder PA)</p>",
+   "armorPoints": 4,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "PYhfTEqxC5zLz5FK",
+  "name": "Camisa hawaiana y pantalón corto",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Camisa hawaiana y pantalón corto (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "7BRV4LnixjQ3yIx7",
+  "name": "Chándal y visera de plástico",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Chándal y visera de plástico (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "2MMPOpxsdFn3CZYx",
+  "name": "Ropa de trabajo gastada",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa de trabajo gastada (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "YDtM38cA1cZJ7IMF",
+  "name": "Mono gastado",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Mono gastado (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "5x1oaPkCHdq0hXfi",
+  "name": "Camisa y pantalón",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B15.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Camisa y pantalón (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Crfa3nxayDSCjtFg",
+  "name": "Conjunto elegante",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Conjunto elegante (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "3ySBrLBAKb14DkTv",
+  "name": "Jersey y pana",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Jersey y pana (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "5YxyegOrghRdmKbk",
+  "name": "Jersey de golf",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Jersey de golf (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "P1aW0FrIuVe48wAq",
+  "name": "Traje de negocios",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Traje de negocios (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "zCCzleEcy0ybjJf0",
+  "name": "Chaqueta vaquera parcheada",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Chaqueta vaquera parcheada (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "keGkpa5Dea9uNHX5",
+  "name": "Ropa callejera chillona",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa callejera chillona (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VptoWWmnPVNMAUQw",
+  "name": "Armadura de batalla antigua",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Armadura de batalla antigua (PA 6)</p>",
+   "armorPoints": 6,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "WKcPqmMSg0gRmRX4",
+  "name": "Túnica de lana",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B8.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Túnica de lana (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "DVEELLUr67IDHF4M",
+  "name": "Ropa de viaje",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B15.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Ropa de viaje (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "dYzVTG9KlQerqx6C",
+  "name": "Brigantina",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Brigantina (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Ncpnc3SZLX0v7oA5",
+  "name": "Bata de hospital",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Bata de hospital (PA 0)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "B3ilviBjeRnuY9RI",
+  "name": "Gabardina",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Gabardina (PA 1)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "xwyEbr3NoTCSPaXv",
+  "name": "Harapos",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Harapos (PA 0)</p>",
+   "armorPoints": 1,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "pT6LjHVEQoC4ef0U",
+  "name": "Mono",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Mono (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Wetm3YgIgHbmpX59",
+  "name": "ropa negra",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B15.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>ropa negra (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "6sUG4etHJsgPJMWR",
+  "name": "Traje hecho jirones",
+  "type": "armor",
+  "img": "modules/mr-mothership-es/iconos/B10.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Traje hecho jirones (PA 2)</p>",
+   "armorPoints": 2,
+   "damageReduction": 0,
+   "speed": "",
+   "oxygenMax": 0,
+   "oxygenCurrent": 0,
+   "weight": 0,
+   "cost": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ }
+]

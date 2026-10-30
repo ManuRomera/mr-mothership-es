@@ -1,0 +1,1160 @@
+[
+ {
+  "_id": "iTwNubOfASJhZnpv",
+  "name": "Marine",
+  "type": "class",
+  "img": "modules/mr-mothership-es/iconos/E0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Soldado espacial entrenado para sobrevivir al combate.</p>",
+   "source": "Mothership 1e",
+   "author": "Tuesday Knight Games",
+   "link": "",
+   "trauma_response": "Cuando entras en pánico, cada jugador aliado cercano debe hacer una salvación de Miedo.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 0,
+    "combat": 10,
+    "sanity": 0,
+    "fear": 20,
+    "body": 10,
+    "max_wounds": 1,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.jJdeF2OHerjs9BH1",
+     "Compendium.mr-mothership-es.habilidades.Item.Cy0kXrqAxV8ujK96"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "name": "1 habilidad experta",
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": []
+      },
+      {
+       "name": "2 habilidades entrenadas",
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": []
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.fO10wqLZzdRtKIwD",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "name": "Colono",
+  "type": "class",
+  "_id": "JvFhf4otrJDI5YYY",
+  "img": "modules/mr-mothership-es/iconos/E1.webp",
+  "system": {
+   "description": "<p>Las tiradas de pánico realizadas fuera de un planeta se hacen con desventaja.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Las tiradas de pánico realizadas fuera de un planeta se hacen con desventaja.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 10,
+    "speed": 10,
+    "intellect": 10,
+    "combat": 10,
+    "sanity": 0,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.LLq0MnuF2GXjewo9",
+     "Compendium.mr-mothership-es.habilidades.Item.KBDOdIL0RQJlhPxg",
+     "Compendium.mr-mothership-es.habilidades.Item.zG0K8lN7I552FT1i"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad experta"
+      },
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.XkxsFjCZcYhVmkGp",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Ejecutivo",
+  "type": "class",
+  "_id": "ZxwdGSEXkz5BHqIg",
+  "img": "modules/mr-mothership-es/iconos/B5.webp",
+  "system": {
+   "description": "<p>Una vez por sesión, puedes hacer que un tripulante cercano entre en pánico en tu lugar. Créditos iniciales x10.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Una vez por sesión, puedes hacer que un tripulante cercano entre en pánico en tu lugar. Créditos iniciales x10.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 10,
+    "combat": 0,
+    "sanity": 0,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.HFSyJ6KWoLtKtPD9",
+     "Compendium.mr-mothership-es.habilidades.Item.1RP18B7WiLmoxl6O",
+     "Compendium.mr-mothership-es.habilidades.Item.MTX5YUkOjgi9WIN4",
+     "Compendium.mr-mothership-es.habilidades.Item.8ImPiOaSwNhsvtSZ"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad experta"
+      },
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.Kgi2kxdUFktm79Rs",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Pastor",
+  "type": "class",
+  "_id": "UyopSVRPKZmgsjOx",
+  "img": "modules/mr-mothership-es/iconos/E2.webp",
+  "system": {
+   "description": "<p>Cuando superas una tirada de pánico, los personajes aliados cercanos pueden curar 1 de estrés.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Cuando superas una tirada de pánico, los personajes aliados cercanos pueden curar 1 de estrés.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 5,
+    "combat": 0,
+    "sanity": 0,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.ljRLqm74ePxJQ9jy",
+     "Compendium.mr-mothership-es.habilidades.Item.8ImPiOaSwNhsvtSZ",
+     "Compendium.mr-mothership-es.habilidades.Item.1RP18B7WiLmoxl6O"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [
+     {
+      "modification": "5",
+      "stats": [
+       "strength",
+       "speed",
+       "combat"
+      ]
+     }
+    ],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad experta"
+      },
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.AbWScq3rpUD087xQ",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Buscavidas",
+  "type": "class",
+  "_id": "aqY2dzdckplNdiee",
+  "img": "modules/mr-mothership-es/iconos/E4.webp",
+  "system": {
+   "description": "<p>Puedes cancelar un resultado de pánico una vez por sesión; el estrés ganado después se dobla.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Puedes cancelar un resultado de pánico una vez por sesión; el estrés ganado después se dobla.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": -5,
+    "speed": -5,
+    "intellect": -5,
+    "combat": -5,
+    "sanity": 0,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 1,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.njdzmaKXtC6gfjon",
+     "Compendium.mr-mothership-es.habilidades.Item.GQevna2pr8lonuGn",
+     "Compendium.mr-mothership-es.habilidades.Item.1mD2qDVWjnYJsRAp"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad experta"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.1ICB3td6Ur3IsREd",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Criminal",
+  "type": "class",
+  "_id": "RrEUGIhk0IR5ylsV",
+  "img": "modules/mr-mothership-es/iconos/E5.webp",
+  "system": {
+   "description": "<p>Cuando debas hacer una salvación de Miedo, puedes obligar a un aliado cercano a hacerla por ti.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Cuando debas hacer una salvación de Miedo, puedes obligar a un aliado cercano a hacerla por ti.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 0,
+    "combat": 5,
+    "sanity": 0,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.1mD2qDVWjnYJsRAp"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [
+     {
+      "modification": "5",
+      "stats": [
+       "strength",
+       "speed"
+      ]
+     }
+    ],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "name": "Informática",
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [
+        "Compendium.mr-mothership-es.habilidades.Item.MTX5YUkOjgi9WIN4"
+       ]
+      }
+     ],
+     [
+      {
+       "name": "Química",
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [
+        "Compendium.mr-mothership-es.habilidades.Item.r05e9qYm5CXo1mkD"
+       ]
+      }
+     ],
+     [
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad experta"
+      },
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.hp2bFx644ZZrQRjd",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psíquico",
+  "type": "class",
+  "_id": "oe30kD9sI6pp3qrz",
+  "img": "modules/mr-mothership-es/iconos/E6.webp",
+  "system": {
+   "description": "<p>Cuando entras en pánico, toda criatura cercana con mente debe salvar Cuerpo o sufrir 1d10 de daño mental que ignora armadura.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Cuando entras en pánico, toda criatura cercana con mente debe salvar Cuerpo o sufrir 1d10 de daño mental que ignora armadura.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 10,
+    "combat": 0,
+    "sanity": -10,
+    "fear": 10,
+    "body": 0,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.1RP18B7WiLmoxl6O",
+     "Compendium.mr-mothership-es.habilidades.Item.oDt8PUgeIRBU0PqC",
+     "Compendium.mr-mothership-es.habilidades.Item.lCfxOJrnz80I49hu"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 1,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad entrenada"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.mijkNeCPlrTDDrBQ",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Explorador",
+  "type": "class",
+  "_id": "oy99geqJ0VPpMsKT",
+  "img": "modules/mr-mothership-es/iconos/E7.webp",
+  "system": {
+   "description": "<p>Una vez por sesión, cuando entras en pánico, puedes elegir ganar 2 de estrés en su lugar.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Una vez por sesión, cuando entras en pánico, puedes elegir ganar 2 de estrés en su lugar.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 10,
+    "intellect": 5,
+    "combat": 0,
+    "sanity": 0,
+    "fear": -10,
+    "body": -10,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.LLq0MnuF2GXjewo9",
+     "Compendium.mr-mothership-es.habilidades.Item.5UDC8gn7I3isGkfr",
+     "Compendium.mr-mothership-es.habilidades.Item.cSDJyEFceLS5i6bU"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.B13cHY0Md0xh79AW",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Jubilado",
+  "type": "class",
+  "_id": "2jYf1FZk47i5U4h7",
+  "img": "modules/mr-mothership-es/iconos/B8.webp",
+  "system": {
+   "description": "<p>Cuando entras en pánico, salva Cuerpo o sufres un infarto: inconsciente; mueres en 1d10 asaltos si no recibes tratamiento.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Cuando entras en pánico, salva Cuerpo o sufres un infarto: inconsciente; mueres en 1d10 asaltos si no recibes tratamiento.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": -15,
+    "intellect": 0,
+    "combat": 0,
+    "sanity": 0,
+    "fear": 10,
+    "body": -10,
+    "max_wounds": 0,
+    "skills_granted": []
+   },
+   "selected_adjustment": {
+    "choose_stat": [
+     {
+      "modification": "10",
+      "stats": [
+       "strength",
+       "intellect",
+       "combat"
+      ]
+     }
+    ],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 1,
+       "from_list": [],
+       "name": "1 maestría con prerrequisitos"
+      },
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 2,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 expertas y 2 entrenadas"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.KT5AAK4UUTXHSe3p",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Escoria",
+  "type": "class",
+  "_id": "4wyvt1oPDPvx3DHc",
+  "img": "modules/mr-mothership-es/iconos/E8.webp",
+  "system": {
+   "description": "<p>Haces las tiradas de pánico con desventaja.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Haces las tiradas de pánico con desventaja.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 10,
+    "intellect": 0,
+    "combat": 5,
+    "sanity": 0,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 1,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.1mD2qDVWjnYJsRAp",
+     "Compendium.mr-mothership-es.habilidades.Item.GQevna2pr8lonuGn"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad experta"
+      },
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.EyLo2ZdnR6qpY4fr",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Esclavo asalariado",
+  "type": "class",
+  "_id": "NFt6Qmof4SUmZQGj",
+  "img": "modules/mr-mothership-es/iconos/E9.webp",
+  "system": {
+   "description": "<p>Una vez por sesión, cuando recuperes estrés, recuperas el doble.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Una vez por sesión, cuando recuperes estrés, recuperas el doble.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 5,
+    "intellect": 10,
+    "combat": -10,
+    "sanity": 0,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.MTX5YUkOjgi9WIN4",
+     "Compendium.mr-mothership-es.habilidades.Item.HFSyJ6KWoLtKtPD9"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas y 1 experta"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.AaudpkAbOUZzsKVc",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Atavismo",
+  "type": "class",
+  "_id": "E9fWUw45qYbaCEu1",
+  "img": "modules/mr-mothership-es/iconos/E10.webp",
+  "system": {
+   "description": "<p>Cuando alguien falla una prueba para operar tecnología espacial avanzada, ganas 1 de estrés.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Cuando alguien falla una prueba para operar tecnología espacial avanzada, ganas 1 de estrés.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 10,
+    "speed": 0,
+    "intellect": 0,
+    "combat": 5,
+    "sanity": -10,
+    "fear": 10,
+    "body": 10,
+    "max_wounds": 1,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.Cy0kXrqAxV8ujK96",
+     "Compendium.mr-mothership-es.habilidades.Item.8ImPiOaSwNhsvtSZ",
+     "Compendium.mr-mothership-es.habilidades.Item.LLq0MnuF2GXjewo9"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "2 habilidades entrenadas"
+      },
+      {
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": [],
+       "name": "1 habilidad experta"
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.4vT6x2xIyf4Iy7Yb",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónico",
+  "type": "class",
+  "_id": "VEk67Mmr8jgZtunL",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Cuando fallas una prueba psiónica, todos los aliados cercanos deben hacer una salvación de Miedo. Usa Psiónicas; coste de estrés 1/2/3 por grado.</p>",
+   "source": "Mothership clases castellano fichas",
+   "author": "Angry Golem Games",
+   "link": "",
+   "trauma_response": "Cuando fallas una prueba psiónica, todos los aliados cercanos deben hacer una salvación de Miedo. Usa Psiónicas; coste de estrés 1/2/3 por grado.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 10,
+    "combat": -10,
+    "sanity": 10,
+    "fear": 10,
+    "body": 10,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.lCfxOJrnz80I49hu"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": []
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.juxyAE2Iq544hEAy",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "_id": "ESceoiFm5UgQ0E7C",
+  "name": "Androide",
+  "type": "class",
+  "img": "modules/mr-mothership-es/iconos/E11.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Sintético de apariencia humana, inquietante y extremadamente capaz.</p>",
+   "source": "Mothership 1e",
+   "author": "Tuesday Knight Games",
+   "link": "",
+   "trauma_response": "Las salvaciones de Miedo hechas por jugadores aliados cercanos se hacen con desventaja.",
+   "robotic": true,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 20,
+    "combat": 0,
+    "sanity": 0,
+    "fear": 60,
+    "body": 0,
+    "max_wounds": 1,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.1RP18B7WiLmoxl6O",
+     "Compendium.mr-mothership-es.habilidades.Item.MTX5YUkOjgi9WIN4",
+     "Compendium.mr-mothership-es.habilidades.Item.R7yDVrT4ag6kfXy4"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [
+     {
+      "modification": "-10",
+      "stats": [
+       "strength",
+       "speed",
+       "intellect",
+       "combat"
+      ]
+     }
+    ],
+    "choose_skill_and": {
+     "trained": 0,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": [
+     [
+      {
+       "name": "1 habilidad experta",
+       "trained": 0,
+       "expert": 0,
+       "expert_full_set": 1,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": []
+      },
+      {
+       "name": "2 habilidades entrenadas",
+       "trained": 2,
+       "expert": 0,
+       "expert_full_set": 0,
+       "master": 0,
+       "master_full_set": 0,
+       "from_list": []
+      }
+     ]
+    ]
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.jTkt5F0UmPDeJcBQ",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VvrIJB5ZoYWFHPZL",
+  "name": "Científico",
+  "type": "class",
+  "img": "modules/mr-mothership-es/iconos/E14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Personal científico, médico o investigador preparado para diseccionar lo imposible.</p>",
+   "source": "Mothership 1e",
+   "author": "Tuesday Knight Games",
+   "link": "",
+   "trauma_response": "Cuando fallas una salvación de Cordura, todos los jugadores aliados cercanos ganan 1 de Estrés.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 0,
+    "speed": 0,
+    "intellect": 10,
+    "combat": 0,
+    "sanity": 30,
+    "fear": 0,
+    "body": 0,
+    "max_wounds": 0,
+    "skills_granted": []
+   },
+   "selected_adjustment": {
+    "choose_stat": [
+     {
+      "modification": "5",
+      "stats": [
+       "strength",
+       "speed",
+       "intellect",
+       "combat"
+      ]
+     }
+    ],
+    "choose_skill_and": {
+     "trained": 1,
+     "expert": 0,
+     "expert_full_set": 0,
+     "master": 0,
+     "master_full_set": 1
+    },
+    "choose_skill_or": []
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.fPfJVmR6WFlsPtBC",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "q0WiEZ6NqFxRog79",
+  "name": "Tripulante",
+  "type": "class",
+  "img": "modules/mr-mothership-es/iconos/E12.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>Trabajador espacial, técnico, carguero, minero, mecánico o piloto.</p>",
+   "source": "Mothership 1e",
+   "author": "Tuesday Knight Games",
+   "link": "",
+   "trauma_response": "Una vez por sesión, puedes tirar con ventaja una tirada de pánico.",
+   "robotic": false,
+   "common_skills": [],
+   "base_adjustment": {
+    "strength": 5,
+    "speed": 5,
+    "intellect": 5,
+    "combat": 5,
+    "sanity": 10,
+    "fear": 10,
+    "body": 10,
+    "max_wounds": 0,
+    "skills_granted": [
+     "Compendium.mr-mothership-es.habilidades.Item.PJbXzxapkffufND9",
+     "Compendium.mr-mothership-es.habilidades.Item.GQevna2pr8lonuGn"
+    ]
+   },
+   "selected_adjustment": {
+    "choose_stat": [],
+    "choose_skill_and": {
+     "trained": 1,
+     "expert": 0,
+     "expert_full_set": 1,
+     "master": 0,
+     "master_full_set": 0
+    },
+    "choose_skill_or": []
+   },
+   "roll_tables": {
+    "loadout": "Compendium.mr-mothership-es.tablas.RollTable.mg4dPtFAcCDV4Qbw",
+    "trinket": "Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV",
+    "patch": "Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ"
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ }
+]

@@ -1,0 +1,1562 @@
+[
+ {
+  "folder": null,
+  "name": "Ametralladora de uso general",
+  "type": "weapon",
+  "_id": "38t4HCDomNdlytGj",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/MachineGun_02.png",
+  "system": {
+   "description": "<p>A dos manos. Pesado. El ca&ntilde;&oacute;n se puede maniobrar para disparar en las esquinas</p>",
+   "antiArmor": false,
+   "damage": "4d10",
+   "ammo": 1,
+   "shots": 5,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Gunshot [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "largo"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Bastón de aturdimiento",
+  "type": "weapon",
+  "_id": "z244ojrkJJLZG6FY",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Wrench.png",
+  "system": {
+   "description": "<p>salvacion Cuerpo o aturdido 1 ronda.</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 0,
+   "shots": 0,
+   "curShots": 0,
+   "shotsPerFire": "0",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Blunt Force",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Cortadora láser",
+  "type": "weapon",
+  "_id": "LkK4uDgl5wRAsk2Q",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/LaserCutter.png",
+  "system": {
+   "description": "<p>A dos manos. Pesado. 1 ronda de recarga entre disparos.</p>",
+   "antiArmor": false,
+   "damage": "1d100",
+   "ammo": 1,
+   "shots": 6,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Bleeding [+] o Gore [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Largo"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Desarmado",
+  "type": "weapon",
+  "_id": "ENAezt3aT7Du0eie",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Unarmed.png",
+  "system": {
+   "description": "",
+   "antiArmor": false,
+   "damage": "",
+   "ammo": 0,
+   "shots": 0,
+   "curShots": 0,
+   "shotsPerFire": "0",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Blunt Force",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Escalpelo",
+  "type": "weapon",
+  "_id": "d7axv9AfR5oBrLKK",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Scalpel.png",
+  "system": {
+   "description": "",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 0,
+   "shots": 0,
+   "curShots": 0,
+   "shotsPerFire": "0",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Bleeding [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Escopeta de combate",
+  "type": "weapon",
+  "_id": "H9eZFrPyGZc8pq5k",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Shotgun_03.png",
+  "system": {
+   "description": "<p>1d10 DA&Ntilde;O a Larga Distancia o m&aacute;s.</p>",
+   "antiArmor": false,
+   "damage": "4d10",
+   "ammo": 1,
+   "shots": 4,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Gunshot",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Granada de fragmentación",
+  "type": "weapon",
+  "_id": "MxzlBjR96HxpuaFF",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Grenade_01.png",
+  "system": {
+   "description": "<p>Al impactar, da&ntilde;a a todos los adyacentes al enemigo.</p>",
+   "antiArmor": false,
+   "damage": "3d10",
+   "ammo": 1,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Fire & Explosives",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "name": "Hacha de abordaje",
+  "type": "weapon",
+  "_id": "DEdtuFuSlZCOIP7b",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/BoardingAxe.png",
+  "system": {
+   "description": "",
+   "antiArmor": false,
+   "damage": "2d10",
+   "ammo": 0,
+   "shots": 0,
+   "curShots": 0,
+   "shotsPerFire": "0",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Gore & Massive [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Lanzallamas",
+  "type": "weapon",
+  "_id": "vXrjNQct1cApGrEq",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/FlameThrower_01.png",
+  "system": {
+   "description": "<p>Salvacion Cuerpo [-] o ser incendiado (2d10 DMG / ronda)</p>",
+   "antiArmor": false,
+   "damage": "2d10",
+   "ammo": 1,
+   "shots": 4,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Fire & Explosives [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Llave Inglesa",
+  "type": "weapon",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Wrench.png",
+  "system": {
+   "description": "<p>salvacion Cuerpo o aturdido 1 ronda.</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Blunt Force",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "_id": "AJQZLhL0HYJVMOom"
+ },
+ {
+  "folder": null,
+  "name": "Palanca",
+  "type": "weapon",
+  "_id": "qxiezWA1La6w0dSg",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Crowbar.png",
+  "system": {
+   "description": "<p>Otorga [+] en las pruebas de fuerza para abrir esclusas atascadas, levantar objetos pesados, etc.</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 0,
+   "shots": 0,
+   "curShots": 0,
+   "shotsPerFire": "0",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Blunt Force [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Pistola Tranquilizante",
+  "type": "weapon",
+  "_id": "y0vjQQKib9ZW1sfQ",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/TranqPistol.png",
+  "system": {
+   "description": "<p>Si se inflige DA&Ntilde;O: el enemigo debe salvacion decuerpo o estar inconsciente 1d10 rondas.</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 1,
+   "shots": 6,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Blunt Force",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Pistola de Espuma",
+  "type": "weapon",
+  "_id": "x7x8lv0m66npG5Dc",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/FoamGun.png",
+  "system": {
+   "description": "<p>Salvacion Cuerpo o te quedar&aacute;s atascado. Comprobaci&oacute;n de fuerza [-] para escapar.</p>",
+   "antiArmor": false,
+   "damage": "1",
+   "ammo": 1,
+   "shots": 3,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Blunt Force",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Pistola de bengalas",
+  "type": "weapon",
+  "_id": "vVApnvQqFyJ6RYYB",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/FlareGun.png",
+  "system": {
+   "description": "<p>Llamarada de alta intensidad visible de d&iacute;a y de noche desde Largo Alcance</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 1,
+   "shots": 2,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Fire & Explosives [-]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "largo"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Pistola de clavos",
+  "type": "weapon",
+  "_id": "xsEm25XgfjcA3J89",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/NailGun_01.png",
+  "system": {
+   "description": "",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 1,
+   "shots": 32,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Bleeding",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Pistola de gancho",
+  "type": "weapon",
+  "_id": "t8dw24g8S1xxDA1l",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/RiggingGun_01.png",
+  "system": {
+   "description": "<ul>\n<li>1d10 DA&Ntilde;O + 2d10 DA&Ntilde;O cuando se retira</li>\n<li>Microfilamento de 100 m. salvacion de Cuerpo o enredarse</li>\n</ul>",
+   "antiArmor": false,
+   "damage": "1d10",
+   "ammo": 1,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Bleeding [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Revolver",
+  "type": "weapon",
+  "_id": "ufUWXvdof3xMv9sn",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Revolver_01.png",
+  "system": {
+   "description": "",
+   "antiArmor": false,
+   "damage": "1d10+1",
+   "ammo": 6,
+   "shots": 6,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Gunshot",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Corto"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Rifle de pulsos",
+  "type": "weapon",
+  "_id": "THtcCwIFXgEGuph7",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/PulseRifle_01.png",
+  "system": {
+   "description": "",
+   "antiArmor": false,
+   "damage": "3d10",
+   "ammo": 5,
+   "shots": 5,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Gunshot",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Largo"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Rifle inteligente",
+  "type": "weapon",
+  "_id": "cX5LE4H48FIpUh2I",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/SmartGun_01.png",
+  "system": {
+   "description": "<p>[-] en la prueba de combate cuando se dispara a corta distancia.</p>",
+   "antiArmor": false,
+   "damage": "4d10",
+   "ammo": 1,
+   "shots": 3,
+   "curShots": 0,
+   "shotsPerFire": "3",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Gunshot [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Extremo"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Soldador manual",
+  "type": "weapon",
+  "_id": "onNo7M3GReEqqjFi",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/HandWelder_01.png",
+  "system": {
+   "description": "<p>Puede cortar puertas de esclusas de aire.</p>",
+   "antiArmor": false,
+   "damage": "1d10",
+   "ammo": 0,
+   "shots": 0,
+   "curShots": 0,
+   "shotsPerFire": "0",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Bleeding",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "Adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Subfusil",
+  "type": "weapon",
+  "_id": "F2LBga58gtiybVHH",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/SMG_01.png",
+  "system": {
+   "description": "<p>Se puede disparar con una sola mano.</p>",
+   "antiArmor": false,
+   "damage": "2d10",
+   "ammo": 1,
+   "shots": 5,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Gunshot",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "largo"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "Vibechete",
+  "type": "weapon",
+  "_id": "7eYcaj0TNJ0F0aaV",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Vibechete.png",
+  "system": {
+   "description": "<p>Al infligir una Herida, tira sobre AMBAS columnas de Sangrado Y Sangre</p>",
+   "antiArmor": true,
+   "damage": "3d10",
+   "ammo": 0,
+   "shots": 0,
+   "curShots": 0,
+   "shotsPerFire": "0",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Bleeding + gore",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "adyacente"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "lanzacohetes LAT-90",
+  "type": "weapon",
+  "_id": "UYOGhqJEm8z5CJjT",
+  "img": "systems/mosh/images/icons/sci-fi_icons/transparent/guns/guns_08.PNG",
+  "system": {
+   "description": "<p>Two-handed. Heavy. Reloading takes a round.</p>",
+   "antiArmor": false,
+   "damage": "2d10*10",
+   "ammo": 1,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": "1",
+   "useAmmo": true,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Fire & Explosives [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "folder": null,
+  "name": "rifle antimateria",
+  "type": "weapon",
+  "_id": "m5dcrUZctquP4yuO",
+  "img": "modules/mr-mothership-es/iconos/F2.webp",
+  "system": {
+   "description": "<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,null,&quot;list_item&quot;,null]\">A dos manos. Pesado. Debe estar boca abajo/arriostrado.</p>\n<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,null,&quot;list_item&quot;,null]\">[-] en Prueba de combate a corta distancia.</p>",
+   "antiArmor": false,
+   "damage": "2d10*5",
+   "ammo": 5,
+   "shots": 5,
+   "curShots": 0,
+   "shotsPerFire": "5",
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "Fire & Explosives [+]",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": "extremo"
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "Xiy8WoOCyYkdODfJ",
+  "name": "hacha de madera",
+  "type": "weapon",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/BoardingAxe.png",
+  "folder": null,
+  "system": {
+   "description": "<p>hacha de madera</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "sF2kqzS5qDEqGRTm",
+  "name": "puños americanos",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>puños americanos</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "LHdr9wo7l90cWc3E",
+  "name": "garrote",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/D14.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>garrote</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "OCUHGsvNHW8tfUy7",
+  "name": "pincho",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F6.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pincho</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "LCEswCxhYlQ867Gr",
+  "name": "escopeta recortada",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F5.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>escopeta recortada</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "xcTbfkGIyFGZI94h",
+  "name": "arma improvisada",
+  "type": "weapon",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/Crowbar.png",
+  "folder": null,
+  "system": {
+   "description": "<p>arma improvisada 1d5</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "2vC23j5M8vByDRup",
+  "name": "rifle",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>rifle</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "UvPugWSqnugNdrcr",
+  "name": "martillo a dos manos",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F4.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>martillo a dos manos 2d10</p>",
+   "antiArmor": false,
+   "damage": "2d10",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "wSLe1y6VBjn4AyrN",
+  "name": "pistola de bolsillo",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pistola de bolsillo (1d10, 3 cargadores x3)</p>",
+   "antiArmor": false,
+   "damage": "1d10",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "UEs9a84X1RYRygWx",
+  "name": "arco",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/D13.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>arco 1d10</p>",
+   "antiArmor": false,
+   "damage": "1d10",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "tvhuRaXhPTtNDh7J",
+  "name": "mosquete",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>mosquete 2d10</p>",
+   "antiArmor": false,
+   "damage": "2d10",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "8hYOBDRFfpqylHIn",
+  "name": "rifle antiguo [-]",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F0.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>rifle antiguo 1d10 [-] (2 cargadores)</p>",
+   "antiArmor": false,
+   "damage": "1d10",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "kMMEK6MKMZL2aXj6",
+  "name": "pistola pequeña",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pistola pequeña (4)</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "VCdEMxLtktL1SHBC",
+  "name": "pistola compacta oculta",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F7.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>pistola compacta oculta (6)</p>",
+   "antiArmor": false,
+   "damage": "1d5",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ },
+ {
+  "_id": "yvGaHCyUhIPeMJ61",
+  "name": "rifle de caza lejano",
+  "type": "weapon",
+  "img": "modules/mr-mothership-es/iconos/F1.webp",
+  "folder": null,
+  "system": {
+   "description": "<p>rifle de caza lejano 2d10 (6)</p>",
+   "antiArmor": false,
+   "damage": "2d10",
+   "ammo": 10,
+   "shots": 1,
+   "curShots": 0,
+   "shotsPerFire": 1,
+   "useAmmo": false,
+   "ammoType": "",
+   "wound": "",
+   "critDmg": "",
+   "woundEffect": "",
+   "bonus": 0,
+   "weight": 0,
+   "cost": 0,
+   "ranges": {
+    "short": 0,
+    "medium": 0,
+    "long": 0,
+    "value": ""
+   },
+   "settings": {
+    "firstEdition": false
+   }
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  }
+ }
+]

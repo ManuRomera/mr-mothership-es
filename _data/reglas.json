@@ -1,0 +1,111 @@
+[
+ {
+  "name": "Reglas rapidas",
+  "_id": "ZXlodHEv7KrxyqvK",
+  "pages": [
+   {
+    "sort": 200000,
+    "name": "Reglas rapidas",
+    "type": "text",
+    "_id": "Ry3NywaWqrf5JMrO",
+    "title": {
+     "show": true,
+     "level": 1
+    },
+    "image": {},
+    "text": {
+     "format": 1,
+     "content": "<h2>Chequeos de atributo</h2><p><strong>Tira 1d100 menos que tu Fuerza, Velocidad, Intelecto o Combate </strong>para realizar la tarea, de lo contrario falla y gana 1 de Estrés. Una tirada de 90-99 siempre se considera un fracaso.</p><p></p><h2>Salvaciones</h2><p><strong>Tira 1d100 menos que tu Cordura, Miedo o Cuerpo para evitar el peligro</strong>, de lo contrario falla y gana 1 de Estrés. Una tirada de 90-99 siempre se considera un fracaso.</p><p></p><h2>Chequeo de Panico</h2><p>Cuando haya ocurrido lo peor, para evitar el Pánico, <strong>tira el Dado de Pánico (1d20) mayor que el Estrés actual del personaje</strong> o bien el Pánico.</p><p></p><h2>Habilidades</h2><p>Si un personaje tiene una habilidad relevante para la tarea en cuestión, puedes añadir su <strong>bonificación de habilidad</strong> a la estadística antes de tirar una prueba de estadísticas.</p><p></p><p>• Habilidades entrenadas: +10</p><p>• Habilidades expertas: +15</p><p>• Habilidades maestras: +20</p><p></p><h2>Ventaja Desventaja</h2><p>Si un personaje tiene una <strong>ventaja situacional [+],</strong> tira los dados dos veces y obtén el mejor resultado.</p><p></p><p>Si un personaje tiene una <strong>desventaja situacional [-],</strong> tira los dados dos veces y obtiene el peor resultado.</p><p></p><h2>Criticos</h2><p>Cada vez que tiras dobles en 1d100, el resultado es especial. Si el resultado es un éxito, es un <strong>éxito crítico</strong> y algo muy bueno sucede. Si el resultado falló, es una <strong>falla crítica,</strong> algo malo sucede y debe hacer una verificación de pánico.</p><p></p><h1>VIOLENCIA</h1><p></p><h2>Daño y heridas</h2><p>Cada vez que un personaje recibe daño, reduce la salud en esa cantidad. Si la salud se reduce a cero, obtienes una herida y tiras sobre en la <strong>tabla de heridas</strong></p><p></p><h2>Armadura y cobertura</h2><p>Puedes ignorar cualquier daño menor que el PA de la armadura + cobertura. Cualquier daño mayor que ese valor destruye la armadura o la cobertura y se transfiere. La <strong>Reducción de Daño</strong> reduce todo el DAÑO recibido.</p><p></p><p></p><h2>Muerte</h2><p>Siempre que tu personaje reciba Heridas iguales a sus Heridas Máximas, realiza una Salvación por Muerte.</p><p></p><h2>Rango</h2><p></p><ul><li><p><strong>Adyacente</strong> Puede tocarte. Menos de 1 m / 3 pies</p></li><li><p>Rango <strong>cercano</strong> Puede llegar a usted. Aproximadamente 5-10 m / 15-30 pies</p></li><li><p>Rango <strong>largo alcance</strong> Puede dispararte. Aproximadamente 20-100 m / 50-300 pies</p></li><li><p>Rango <strong>extremo</strong> Puedes escucharlos gritar. Más de 100 m / 300 pies.</p></li></ul>"
+    },
+    "video": {
+     "controls": true,
+     "volume": 0.5
+    },
+    "src": null,
+    "system": {},
+    "flags": {},
+    "category": null,
+    "ownership": {
+     "default": -1
+    }
+   }
+  ],
+  "folder": null,
+  "sort": 200000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "categories": [],
+  "effects": []
+ },
+ {
+  "name": "Creacion personaje",
+  "_id": "iEmdqcBmfBnrkW1T",
+  "pages": [
+   {
+    "sort": 100000,
+    "name": "Hoja personaje",
+    "type": "image",
+    "_id": "SWlv64Nx5OKzasf2",
+    "title": {
+     "show": true,
+     "level": 1
+    },
+    "image": {
+     "caption": ""
+    },
+    "text": {
+     "format": 1
+    },
+    "video": {
+     "controls": true,
+     "volume": 0.5
+    },
+    "src": "worlds/another-bug-hunt/ayudas/creacion%20personaje.png",
+    "system": {},
+    "flags": {},
+    "category": null,
+    "ownership": {
+     "default": -1
+    }
+   },
+   {
+    "sort": 200000,
+    "name": "Creacion de personajes",
+    "type": "text",
+    "_id": "luvnHCtxp4ZD5jFu",
+    "title": {
+     "show": true,
+     "level": 1
+    },
+    "image": {},
+    "text": {
+     "format": 1,
+     "content": "<h3>PASO 1. TIRAR ESTADISTICAS</h3><p></p><p>Los personajes tienen cuatro estadísticas: <strong>Fuerza, Velocidad, Intelecto y Combate</strong>, que representan lo bien que actúan bajo presión extrema. </p><p></p><p><strong>Tira 2 dados de diez caras (2d10), súmalos y luego suma 25.</strong> Registre los resultados de cada estadística. Una estadística de 36 es promedio, pero no te obsesiones demasiado con los números en este momento.</p><p></p><p></p><h3>PASO 2. TIRAR SALVACIONES</h3><p>Los personajes tienen tres salvaciones: <strong>Cordura, Miedo y Cuerpo</strong>, que representan lo resistentes y reactivos que son a diferentes tipos de trauma y peligro. </p><p></p><p><strong>Tira 2 dados de diez caras (2d10), súmalos y luego suma 10. Registre los resultados de cada salvacion.</strong></p><p></p><p></p><h3>PASO 3. ELIGE TU CLASE </h3><p>Hay cuatro clases básicas en Mothership: </p><p></p><ul><li><p>Los <strong>marines</strong> son útiles en una pelea, pero cada vez que entran en pánico puede causar problemas al resto de la tripulación. </p><ul><li><p><em>+10 COMBATE </em></p></li><li><p><em>+10 SALVACION DE CUERPO </em></p></li><li><p><em>+20 SALVACION DE MIEDO </em></p></li><li><p><em>+1 HERIDAS MÁXIMAS</em></p></li></ul></li><li><p>Los <strong>androides</strong> son una adición aterradora y emocionante para cualquier tripulación. Tienden a poner nerviosos a otros miembros de la tripulación con su fría inhumanidad. </p><ul><li><p><em>+20 INTELECTO </em></p></li><li><p><em>-10 A 1 ESTADÍSTICA </em></p></li><li><p><em>+60 SALVACION DE MIEDO </em></p></li><li><p><em>+1 HERIDAS MÁXIMAS</em></p></li></ul></li><li><p>Los <strong>científicos</strong> son médicos, investigadores o cualquier persona que quiera cortar criaturas (o miembros de la tripulación infectados) con un bisturí. </p><ul><li><p><em>+10 INTELECTO </em></p></li><li><p><em>+5 A 1 ESTADÍSTICA </em></p></li><li><p><em>+30 SALVACION  DE CORDURA</em></p></li></ul></li><li><p>Los <strong>tripulante</strong>  son trabajadores espaciales, mecánicos, ingenieros, mineros y pilotos rudos y rudos.</p><ul><li><p><em>+5 A TODAS LAS ESTADÍSTICAS </em></p></li><li><p><em>+10 A TODAS LAS SALVACIONES</em></p></li></ul></li></ul><p></p><p>Las clases definen ampliamente los antecedentes de los personajes (por ejemplo, los científicos conocen información básica sobre la mayoría de las disciplinas científicas). Entraremos en las especialidades en el Paso 7. </p><p></p><p><strong>Marca tu clase, luego modifica tus estadísticas y salvaciones según corresponda.</strong></p><p></p><p></p><h3>PASO 4. TIRA SALUD</h3><p>Los personajes pueden sufrir un cierto número de heridas antes de morir. Cada clase tiene diferentes heridas máximas iniciales. Los personajes obtienen una herida cuando su <strong>salud</strong> llega a cero. </p><p></p><p><strong>Tira 1 dado de diez caras (1d10) y luego añade 10. Registre el resultado para la salud máxima.</strong></p><p></p><p></p><h3>PASO 5. ESTRÉS INICIAL</h3><p>El <strong>Estrés</strong> actual y el <strong>Estrés Mínimo</strong> de los personajes comienzan en <strong>2</strong>.</p><p></p><p></p><h3>PASO 6. ANOTA LA RESPUESTA AL TRAUMA</h3><p>Cada clase lidia con el <strong>estrés</strong> y el <strong>pánico</strong> de manera diferente, lo que entra en juego más adelante en el juego. <strong>Marque su respuesta al trauma para futuras referencias.</strong></p><p></p><ul><li><p><strong>MARINE</strong> Cada vez que entres en <strong>PÁNICO</strong>, Todos los jugadores amistosos deben hacer una <strong>SALVACION DE MIEDO</strong>. </p><p></p></li><li><p><strong>ANDROIDE</strong> Las <strong>SALVACIONES DE MIEDO</strong> realizadas por jugadores cercanos y amistosos seran con <strong>DESVENTAJA</strong>.</p><p></p></li><li><p><strong>CIENTIFICO</strong> Cada vez que falles una <strong>SALVACIÓN DE CORDURA</strong>, todos los jugadores amistosos <strong>GANAN 1 DE ESTRÉS</strong>.</p><p></p></li><li><p><strong>TRIPULANTE</strong> una <strong>VEZ POR SESIÓN</strong>, puedes tener ventaja en una <strong>TIRADA DE PÁNICO</strong></p></li></ul><p></p><h3>PASO 7. ELEGIR HABILIDADES</h3><p>Cada clase viene precargada con habilidades relevantes, que ayudan a los personajes a desempeñarse mejor en diferentes desafíos. Además, cada clase tiene una serie de habilidades adicionales para seleccionar.</p><p></p><p><strong>Para elegir una habilidad, primero debes tener al menos una habilidad de requisito previo (una habilidad que tenga una flecha apuntando desde ella).</strong></p><p></p><ul><li><p><strong>MARINE</strong> @UUID[Compendium.mr-mothership-es.habilidades.Item.jJdeF2OHerjs9BH1]{Entrenamiento Militar}, @UUID[Compendium.mr-mothership-es.habilidades.Item.Cy0kXrqAxV8ujK96]{Atletismo} 1 Habilidad Experta o 2 Habilidades Entrenadas</p><p></p></li><li><p><strong>ANDROIDE</strong> @UUID[Compendium.mr-mothership-es.habilidades.Item.1RP18B7WiLmoxl6O]{Lingüista}, @UUID[Compendium.mr-mothership-es.habilidades.Item.MTX5YUkOjgi9WIN4]{Computadoras}, @UUID[Compendium.mr-mothership-es.habilidades.Item.R7yDVrT4ag6kfXy4]{Matemáticas} 1 Habilidad Experta o 2 Habilidades Entrenadas</p><p></p></li><li><p><strong>CIENTÍFICO</strong> 1 Habilidad Maestra y un prerrequisito de Habilidad Experta y Entrenada. Bonificación: 1 habilidad entrenada</p><p></p></li><li><p><strong>TRIPULANTE</strong> @UUID[Compendium.mr-mothership-es.habilidades.Item.PJbXzxapkffufND9]{Equipo industrial}, @UUID[Compendium.mr-mothership-es.habilidades.Item.GQevna2pr8lonuGn]{gravedad cero} 1 habilidad entrenada y 1 habilidad experta.</p></li></ul><p></p><h3>PASO 8. TIRA EQUIPAMIENTO, ABALORIO Y PARCHE </h3><p>Tira para obtener un <strong>armamento</strong> basado en la clase de tu personaje.</p><p></p><p>@UUID[Compendium.mr-mothership-es.tablas.RollTable.jTkt5F0UmPDeJcBQ]{EQUIPAMIENTOS DE ANDROIDE}</p><p>@UUID[Compendium.mr-mothership-es.tablas.RollTable.fPfJVmR6WFlsPtBC]{EQUIPAMIENTOS DE CIENTÍFICOS}</p><p>@UUID[Compendium.mr-mothership-es.tablas.RollTable.mg4dPtFAcCDV4Qbw]{EQUIPAMIENTOS DE TRIPULANTES}</p><p>@UUID[Compendium.mr-mothership-es.tablas.RollTable.fO10wqLZzdRtKIwD]{EQUIPAMIENTOS MARINES}</p><p></p><p>Tira por una <strong>baratija</strong> y un <strong>parche</strong></p><p>@UUID[Compendium.mr-mothership-es.tablas.RollTable.54OxdNKd5pdGHwPV]{BARATIJAS}</p><p>@UUID[Compendium.mr-mothership-es.tablas.RollTable.I2uOjof2dDGM0kMQ]{PARCHES}</p><p></p><p>Por último, <strong>tira 2d10 y multiplícalo por 10 para obtener créditos iniciales.</strong></p><p></p><p></p><h3>PASO 9. ULTIMOS RETOQUES</h3><p>Escribe el nombre y los pronombres del personaje. Marque un cero por encima de la puntuación más alta. ¡Ya estás listo para jugar tu primera sesión de Mothership!</p>"
+    },
+    "video": {
+     "controls": true,
+     "volume": 0.5
+    },
+    "src": null,
+    "system": {},
+    "flags": {},
+    "category": null,
+    "ownership": {
+     "default": -1
+    }
+   }
+  ],
+  "folder": null,
+  "sort": 100000,
+  "flags": {
+   "mr-mothership-es": {
+    "recuperado": true
+   }
+  },
+  "categories": [],
+  "effects": []
+ }
+]
