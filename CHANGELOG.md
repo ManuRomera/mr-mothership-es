@@ -1,5 +1,19 @@
 # Cambios
 
+## 1.7.0 - 2026-10-30
+- **Automatismos de combate, cada uno con su interruptor** en Configuración → Ajustes del módulo («Combate: …»):
+  - **Aplicar daño** (de la 1.6.0), ahora con botones «Objetivos» y «Selección» integrados dentro de la propia tarjeta del sistema.
+  - **Orden estricto por Velocidad:** la iniciativa de los personajes es una tirada de Velocidad con la tarjeta del sistema; quien la supera actúa antes que los enemigos y quien falla, después. Botón «Velocidad» en el registro de combate.
+  - **Sorpresa:** botón en el registro de combate; salvación de Miedo para los personajes y quien falla queda «Conmocionado» hasta la ronda siguiente.
+  - **Sangrado por ronda:** al empezar su turno, quien sangra pierde tanta salud como su Sangrado, sin armadura ni reducción de daño, con heridas si llega a 0.
+  - **Disparar desde cobertura:** quien dispara a distancia sale de la cobertura hasta su próximo turno.
+  - **Pánico automático:** tras un fallo crítico se tira el pánico sin pulsar el enlace.
+  - **Respuestas al trauma:** en la tarjeta de pánico (Marine, Pastor) o de Cordura fallida (Científico) aparece la respuesta al trauma y un botón para aplicarla a los aliados cercanos; aviso cuando hay un Androide cerca en las salvaciones de Miedo. Distancia de «cercano» configurable.
+  - **Estados en el token:** herido, sangrando, armadura destruida, muriendo y conmocionado, con los iconos del sistema.
+- Las tarjetas nuevas (daño, sangrado, cobertura, heridas máximas) usan el mismo diseño que las del sistema. La descripción del arma en la tarjeta de daño se pliega a tres líneas (pulsa para desplegarla).
+- **Habilidades con descripción de una sola frase**, y el diálogo «¿Añadir una habilidad?» recorta a tres líneas las descripciones largas de personajes ya creados.
+- **Corrección de un fallo del sistema:** al gastar munición, el arma quedaba dañada en memoria (sin datos) hasta recargar la página.
+
 ## 1.6.0 - 2026-10-30
 - **Aplicar daño desde el chat.** Las tarjetas de daño de un arma traen dos botones: «Aplicar a objetivos» (tokens marcados con T) y «A seleccionados». Se aplican las reglas de la Guía de supervivencia (cap. 28-29):
   - primero la **reducción de daño** (de la armadura y de la cobertura pesada);

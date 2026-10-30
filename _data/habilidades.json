@@ -6,7 +6,7 @@
   "_id": "FMGiQDMsWkFcDCit",
   "img": "systems/mosh/images/icons/dark-grey/skills/Archaeology.png",
   "system": {
-   "description": "<p>Estudia restos, asentamientos y artefactos de culturas desaparecidas. Incluye reconocer técnicas, fechar materiales y separar una reliquia de una trampa ceremonial. La dominan exploradores, saqueadores con escrúpulos y tripulantes que han aprendido a desconfiar de los museos corporativos.</p><p><strong>Cuándo se usa.</strong> Identificar el origen de una puerta sellada en una luna minera; interpretar las marcas de una tumba orbital; reconocer un símbolo que protege al grupo de una presencia que no debería haber despertado.</p>",
+   "description": "<p>Estudia ruinas, restos y culturas desaparecidas; identifica quién construyó un templo enterrado bajo el hielo de un planeta muerto.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -26,7 +26,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Art.png",
   "system": {
-   "description": "<p>Abarca crear, interpretar y valorar imágenes, sonidos, esculturas y representaciones. También permite copiar estilos, detectar falsificaciones y entender qué emoción busca provocar una obra. La dominan artistas de cubierta, restauradores de naves antiguas y personas capaces de encontrar belleza en un mamparo oxidado.</p><p><strong>Cuándo se usa.</strong> Pintar una señal visible desde la órbita; distinguir un mural auténtico de una imitación peligrosa; mantener la calma mediante una melodía mientras algo araña el casco desde fuera.</p>",
+   "description": "<p>Abarca dibujo, escultura y expresión visual; falsifica el emblema de una colonia para atravesar un control automatizado.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -47,7 +47,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Athletics.png",
   "system": {
-   "description": "<p>Reúne fuerza, coordinación, resistencia y control corporal. Sirve para trepar, saltar, correr y mover cargas sin convertir cada maniobra en una visita a enfermería. La dominan estibadores, exploradores de mundos ásperos y cualquiera que haya aprendido a trabajar con botas magnéticas defectuosas.</p><p><strong>Cuándo se usa.</strong> Cruzar un pasillo inundado antes de que cierre una compuerta; escalar una antena durante una tormenta; escapar por un túnel mientras una criatura imita las voces de la tripulación.</p>",
+   "description": "<p>Incluye fuerza, resistencia y coordinación; cruza un conducto inundado cargando una batería mientras algo golpea las compuertas.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -68,7 +68,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Botany.png",
   "system": {
-   "description": "<p>Comprende identificar plantas, hongos, algas y organismos vegetales, además de sus ciclos, defensas y posibles usos. Permite distinguir alimento de veneno y cultivo de invasión. La dominan biólogos de carga, agricultores orbitales y supervivientes que han visto crecer raíces donde no había suelo.</p><p><strong>Cuándo se usa.</strong> Reconocer un musgo comestible en un planeta hostil; descubrir qué polen está enfermando a la tripulación; identificar una enredadera que reacciona a los pensamientos y mantenerla lejos del campamento.</p>",
+   "description": "<p>Reconoce plantas, hongos y cultivos alienígenas; distingue una raíz comestible de otra que libera esporas al cortarla.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -89,7 +89,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Computers.png",
   "system": {
-   "description": "<p>Incluye manejar terminales, redes, sistemas de navegación, archivos y programas industriales. También cubre encontrar accesos ocultos y entender máquinas diseñadas por ingenieros que odiaban a los usuarios. La dominan técnicos de comunicaciones, analistas corporativos y tripulantes acostumbrados a reiniciar sistemas durante incendios.</p><p><strong>Cuándo se usa.</strong> Abrir una compuerta sin activar la alarma; recuperar el mapa de una estación abandonada; aislar una señal que susurra desde la red y amenaza con borrar los nombres de todos.</p>",
+   "description": "<p>Maneja terminales, redes y sistemas embarcados; recupera el registro de aterrizaje antes de que la nave sobrescriba los datos.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -110,7 +110,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Rimwise.png",
   "system": {
-   "description": "<p>Abarca rutas, costumbres, peligros, dialectos y negocios de los sistemas alejados de las grandes rutas. Incluye saber quién cobra peaje, qué puerto miente sobre sus suministros y qué colonia no conviene visitar de noche. La dominan camioneros veteranos, contrabandistas prudentes y agentes de seguros cansados.</p><p><strong>Cuándo se usa.</strong> Elegir una escala segura durante un salto; negociar con mineros que desconfían de las empresas; reconocer una baliza de socorro falsa antes de llevar al horror hasta la nave.</p>",
+   "description": "<p>Conoce rutas, colonias y peligros fronterizos; encuentra un puerto seguro tras una avería en una luna sin autoridades.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -131,7 +131,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Military%20Training.png",
   "system": {
-   "description": "<p>Reúne disciplina, doctrina, tácticas, armas y procedimientos de combate. También cubre moverse en equipo, asegurar posiciones y obedecer cuando el miedo aconseja correr en direcciones distintas. La dominan veteranos, guardias de convoy y trabajadores entrenados por compañías que llaman eficiencia a no volver.</p><p><strong>Cuándo se usa.</strong> Organizar la defensa de un carguero abordado; cruzar una colonia con cobertura; establecer turnos y perímetros cuando algo invisible empieza a imitar los pasos de los compañeros.</p>",
+   "description": "<p>Abarca disciplina, tácticas y protocolos de combate; organiza una retirada cuando una patrulla abandonada vuelve a moverse.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -152,7 +152,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Industrial%20Equipment.png",
   "system": {
-   "description": "<p>Permite manejar maquinaria pesada, herramientas de carga y sistemas industriales. Incluye grúas, remolques, prensas, soldadores y equipos diseñados para funcionar mucho después de su fecha de retirada. La dominan operarios, mecánicos de muelle y tripulantes que saben qué ruido anuncia una avería cara.</p><p><strong>Cuándo se usa.</strong> Desatascar un contenedor bajo presión; operar una excavadora en terreno inestable; improvisar una barrera con maquinaria mientras una criatura atraviesa el almacén y la empresa sigue pidiendo productividad.</p>",
+   "description": "<p>Usa maquinaria pesada, grúas y herramientas de carga; libera un contenedor atascado antes de que aplaste la cubierta.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -173,7 +173,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Geology.png",
   "system": {
-   "description": "<p>Estudia minerales, rocas, vetas, fallas y procesos que transforman un planeta. Sirve para leer un paisaje, encontrar recursos y anticipar derrumbes o erupciones. La dominan prospectores, perforistas y científicos que han aprendido que ciertas piedras parecen observar a quien las extrae.</p><p><strong>Cuándo se usa.</strong> Localizar agua bajo una planicie salina; escoger una ruta segura por una mina; reconocer que los túneles forman una espiral imposible antes de que el equipo quede encerrado bajo tierra.</p>",
+   "description": "<p>Interpreta minerales, fallas y formaciones; localiza agua subterránea siguiendo vetas brillantes bajo una llanura de basalto.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -194,7 +194,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Zero-G.png",
   "system": {
-   "description": "<p>Comprende desplazarse, trabajar y combatir cuando el cuerpo carece de peso. Incluye impulsarse, frenar, orientarse y asegurar herramientas para que no se conviertan en proyectiles. La dominan astronautas, reparadores de casco y tripulantes que ya han visto flotar sangre en una cabina.</p><p><strong>Cuándo se usa.</strong> Reparar un panel durante un paseo exterior; cruzar un módulo sin propulsión; recuperar a un compañero que sigue una voz hacia la oscuridad del espacio, pese a que el comunicador está apagado.</p>",
+   "description": "<p>Controla movimientos, anclajes y orientación sin peso; repara una antena exterior mientras la nave gira lentamente.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -215,7 +215,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Linguistics.png",
   "system": {
-   "description": "<p>Permite aprender, comparar y descifrar lenguas humanas, códigos culturales y sistemas de comunicación no habituales. Incluye detectar matices, dobles sentidos y traducciones manipuladas. La dominan intérpretes, diplomáticos de frontera y tripulantes que han negociado con colonias donde cada palabra tiene precio.</p><p><strong>Cuándo se usa.</strong> Traducir instrucciones encontradas en una estación muerta; evitar un conflicto por una fórmula ritual; comprender el mensaje de una especie desconocida antes de responder a algo que lleva siglos esperando.</p>",
+   "description": "<p>Analiza idiomas, símbolos y patrones de comunicación; descifra una advertencia grabada en los muros de una estación abandonada.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -236,7 +236,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Maths.png",
   "system": {
-   "description": "<p>Abarca cálculo, proporciones, lógica, medición y lectura de patrones. Ayuda a comprobar cargas, trayectorias, suministros y probabilidades sin confiar en una pantalla que parpadea. La dominan navegantes, contables de flota y personas capaces de detectar que una deuda no es la única cosa que crece.</p><p><strong>Cuándo se usa.</strong> Calcular una maniobra con combustible limitado; distribuir oxígeno durante un encierro; descubrir que las apariciones siguen una secuencia y anticipar dónde manifestará el horror.</p>",
+   "description": "<p>Resuelve cálculos, proporciones y trayectorias; corrige el rumbo de descenso con lecturas incompletas y combustible escaso.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -257,7 +257,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Chemistry.png",
   "system": {
-   "description": "<p>Incluye conocer sustancias, mezclas, reacciones, contaminantes y procesos de laboratorio. Permite identificar combustibles, venenos, corrosivos y materiales útiles con medios limitados. La dominan técnicos de carga, farmacéuticos de colonia y cocineros que han sobrevivido a demasiadas inspecciones sanitarias.</p><p><strong>Cuándo se usa.</strong> Neutralizar un derrame en la bodega; comprobar si un depósito contiene agua potable; analizar una secreción desconocida y descubrir que reacciona con el aire antes de que llegue a los pulmones.</p>",
+   "description": "<p>Identifica sustancias, reacciones y contaminantes; determina qué compuesto está corroyendo los depósitos de oxígeno del carguero.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -278,7 +278,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Jurry-Rigging.png",
   "system": {
-   "description": "<p>Reúne diagnóstico, mantenimiento, montaje y reparación de naves, herramientas y sistemas cotidianos. Incluye trabajar con piezas incompatibles, manuales incompletos y repuestos que llevan años en una caja húmeda. La dominan mecánicos, ingenieros de cubierta y cualquiera que cobre por hora de peligro.</p><p><strong>Cuándo se usa.</strong> Sellar una fuga antes de perder la atmósfera; devolver energía a un módulo abandonado; reparar el cierre de una escotilla mientras algo golpea desde el otro lado y aprende a pronunciar tu nombre.</p>",
+   "description": "<p>Repara motores, conducciones y mecanismos; mantiene operativo el reactor con piezas recuperadas de una cápsula de salvamento.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -299,7 +299,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Theology.png",
   "system": {
-   "description": "<p>Abarca credos, rituales, símbolos y estructuras religiosas humanas o alienígenas. La dominan capellanes de carguero, estudiosos de sectas y tripulantes que han visto demasiadas cosas en el vacío. También permite reconocer cuándo una creencia es sincera, manipuladora o peligrosamente contagiosa.</p><p><strong>Cuándo se usa.</strong> Identificar un altar improvisado en una estación abandonada; negociar con una colonia que venera la nave; interpretar un rito que mantiene tranquilo a algo oculto y evitar profanarlo durante una emergencia.</p>",
+   "description": "<p>Interpreta credos, ritos y supersticiones; reconoce la ceremonia que una colonia aislada prepara ante el cadáver de un astronauta.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -320,7 +320,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Zoology.png",
   "system": {
-   "description": "<p>Comprende anatomía, conducta, alimentación y ciclos vitales de animales terrestres, alienígenas y organismos modificados. La dominan veterinarios de frontera, cazadores de lunas y técnicos acostumbrados a limpiar cubiertas después de transportar criaturas vivas. Sirve para distinguir una amenaza territorial de un simple animal asustado.</p><p><strong>Cuándo se usa.</strong> Seguir huellas en un planeta sin cartografiar; descubrir qué cebo atrae a una bestia; reconocer que una criatura herida no está huyendo, sino imitando el miedo de la tripulación para acercarse.</p>",
+   "description": "<p>Estudia animales, parásitos y conductas; identifica qué criatura dejó huellas alrededor del campamento sin acercarse durante la noche.</p>",
    "rank": "Trained",
    "bonus": 10,
    "prerequisite_ids": [],
@@ -341,7 +341,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Firearms.png",
   "system": {
-   "description": "<p>Incluye el manejo, mantenimiento y empleo táctico de pistolas, fusiles, escopetas y armas improvisadas de proyectiles. La dominan mercenarios de convoy, agentes de seguridad y veteranos que conocen el retroceso de cada arma peor que sus propios huesos. También exige conservar la calma cuando el objetivo no debería moverse.</p><p><strong>Cuándo se usa.</strong> Cubrir una retirada por un pasillo sin gravedad; disparar a través de una compuerta sin dañar los depósitos; mantener a raya una presencia que solo retrocede cuando la luz y las balas coinciden.</p>",
+   "description": "<p>Domina pistolas, rifles y armas improvisadas; dispara desde una escotilla contra una criatura que trepa por el casco.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -365,7 +365,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/HandToHand.png",
   "system": {
-   "description": "<p>Abarca golpes, agarres, derribos, llaves y el uso brutal de herramientas, culatas o cualquier objeto al alcance. La dominan estibadores, agentes de abordaje y supervivientes de motines. Requiere aprovechar paredes, barandillas y la falta de gravedad, además de saber cuándo una pelea ya no busca vencer, sino ganar unos segundos.</p><p><strong>Cuándo se usa.</strong> Reducir a un polizón en una bodega estrecha; apartar a un compañero de una esclusa abierta; forcejear con algo que imita una voz conocida mientras el resto de la tripulación escapa.</p>",
+   "description": "<p>Incluye golpes, agarres y defensa cercana; reduce a un saqueador en un pasillo estrecho sin dañar los controles.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -390,7 +390,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Ecology.png",
   "system": {
-   "description": "<p>Estudia las relaciones entre organismos, atmósfera, suelo, radiación y recursos disponibles. La dominan exploradores, ingenieros de terraformación y colonos que aprendieron a no beber de ningún río sin analizarlo. Permite leer un paisaje como un sistema completo y descubrir qué desequilibrio está a punto de cobrar una factura.</p><p><strong>Cuándo se usa.</strong> Elegir un campamento lejos de depredadores y esporas; localizar agua sin contaminar una reserva; comprender por qué toda la fauna de un valle huye hacia la nave al mismo tiempo.</p>",
+   "description": "<p>Comprende hábitats, cadenas tróficas y equilibrios; predice cuándo una colonia de depredadores abandonará sus madrigueras.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -414,7 +414,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Explosives.png",
   "system": {
-   "description": "<p>Comprende la preparación, colocación y manipulación segura de cargas explosivas, detonadores y materiales inestables. La dominan saboteadores, mineros y técnicos de demolición con demasiada experiencia en reparaciones urgentes. Su verdadero valor está en calcular qué se rompe, qué permanece en pie y qué puede despertar detrás de un mamparo.</p><p><strong>Cuándo se usa.</strong> Abrir una compuerta bloqueada sin perder la bodega; derribar una galería antes de que alcance el campamento; preparar una carga para sellar un túnel por el que algo enorme está aprendiendo a respirar.</p>",
+   "description": "<p>Prepara, coloca y desactiva cargas; abre una compuerta sellada sin derrumbar el túnel bajo la superficie helada.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -439,7 +439,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Pharmacology.png",
   "system": {
-   "description": "<p>Abarca efectos, dosis, interacciones y conservación de medicamentos, sedantes, estimulantes y compuestos alienígenas. La dominan médicos de colonia, contrabandistas farmacéuticos y tripulantes que mantienen una enfermería con tres vendas y media. También permite detectar cuándo una cura experimental está alterando la mente antes que el cuerpo.</p><p><strong>Cuándo se usa.</strong> Tratar una intoxicación por aire reciclado; escoger un sedante para inmovilizar a un paciente violento; identificar qué sustancia reduce los espasmos causados por una señal que nadie más puede oír.</p>",
+   "description": "<p>Conoce fármacos, dosis y efectos; estabiliza a un compañero intoxicado por vapores filtrados desde la bodega.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -462,7 +462,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Physics.png",
   "system": {
-   "description": "<p>Incluye movimiento, energía, presión, radiación y comportamiento de la materia en condiciones extremas. La dominan pilotos de pruebas, investigadores y técnicos que desconfían de cualquier aparato que no emita un ruido tranquilizador. Ayuda a convertir fenómenos extraños en problemas comprensibles, aunque la respuesta siga siendo salir corriendo.</p><p><strong>Cuándo se usa.</strong> Calcular una maniobra con los propulsores dañados; prever el rebote de una carga en gravedad reducida; determinar si una distorsión en el espacio es natural o está siguiendo a la nave.</p>",
+   "description": "<p>Aplica leyes de energía, fuerzas y movimiento; calcula cómo desviar un objeto antes de que atraviese el parabrisas.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -485,7 +485,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Hacking.png",
   "system": {
-   "description": "<p>Abarca sistemas informáticos, redes internas, controles remotos y medidas de seguridad digitales. La dominan técnicos de comunicaciones, ladrones corporativos y jóvenes que crecieron desmontando terminales prohibidos. Requiere pensar como una máquina paranoica: cada acceso deja rastro, cada puerta puede estar cerrada por alguien que ya no existe.</p><p><strong>Cuándo se usa.</strong> Recuperar el control de una nave desde un terminal auxiliar; borrar una orden de descarga peligrosa; entrar en una cámara sellada y descubrir que el sistema ha registrado movimientos de una persona muerta.</p>",
+   "description": "<p>Penetra redes, bloqueos y sistemas protegidos; toma el control de una puerta mientras el protocolo de seguridad despierta.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -508,7 +508,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Mechanical%20Repair.png",
   "system": {
-   "description": "<p>Comprende motores, circuitos, juntas, herramientas y reparaciones improvisadas en vehículos, naves y maquinaria industrial. La dominan mecánicos de muelle, chatarreros y pilotos que aprendieron a escuchar una vibración antes de que se convierta en explosión. La experiencia cuenta tanto como el manual, sobre todo cuando falta la pieza correcta.</p><p><strong>Cuándo se usa.</strong> Reparar el soporte vital con piezas de un montacargas; mantener operativo un motor durante un aterrizaje forzoso; descubrir que un ruido del casco procede de algo que se ha instalado dentro de la nave.</p>",
+   "description": "<p>Diagnostica motores, transmisiones y sistemas de potencia; evita una explosión sustituyendo una pieza durante el salto.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -532,7 +532,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Field%20Medicine.png",
   "system": {
-   "description": "<p>Incluye primeros auxilios, estabilización, suturas, amputaciones de emergencia y atención sin instrumental adecuado. La dominan médicos de frontera, tripulantes de rescate y cualquiera que haya aprendido a trabajar con una mano mientras la otra sujeta una compresa. No sustituye una clínica, pero mantiene vivos a los pacientes hasta encontrar una.</p><p><strong>Cuándo se usa.</strong> Detener una hemorragia tras una descompresión; inmovilizar una fractura durante una tormenta de polvo; mantener consciente a alguien cuyas heridas no coinciden con las marcas que presenta su traje.</p>",
+   "description": "<p>Trata heridas, shock y urgencias; sutura una brecha profunda dentro de una lanzadera con instrumental contaminado.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -557,7 +557,7 @@
   "_id": "ViVocEznwAsSLYoR",
   "img": "systems/mosh/images/icons/dark-grey/skills/Asteroid%20Mining.png",
   "system": {
-   "description": "<p>Abarca prospección, extracción, lectura de vetas y trabajo con maquinaria en asteroides, lunas y planetas hostiles. La dominan mineros contratados, buscadores independientes y capataces que conocen el precio de cada tonelada. También enseña a detectar cavidades, gases y señales de que la roca no es tan inerte como parece.</p><p><strong>Cuándo se usa.</strong> Localizar un filón bajo una plataforma inestable; abrir una ruta segura en un asteroide hueco; identificar una vibración profunda que no procede de ninguna perforadora y ordenar el abandono antes de que responda.</p>",
+   "description": "<p>Localiza vetas, evalúa perforaciones y calcula riesgos; detectas una bolsa de gas bajo un asteroide hueco.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -580,7 +580,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Mysticism.png",
   "system": {
-   "description": "<p>Comprende visiones, símbolos, presagios, estados alterados y prácticas espirituales nacidas lejos de las instituciones reconocidas. Lo dominan ocultistas, peregrinos, supervivientes de cultos y personas que han mirado demasiado tiempo el cielo. No garantiza respuestas, pero ayuda a reconocer patrones cuando la razón empieza a quedarse sin herramientas.</p><p><strong>Cuándo se usa.</strong> Interpretar dibujos repetidos en los mamparos; distinguir una alucinación de un mensaje compartido; encontrar una pauta en los sueños de la tripulación antes de que todos abran la misma puerta.</p>",
+   "description": "<p>Interpreta ritos, símbolos y experiencias inexplicables; reconoces una presencia durante una guardia solitaria en la nave.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -605,7 +605,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Pathology.png",
   "system": {
-   "description": "<p>Estudia enfermedades, lesiones, deformaciones y causas de muerte mediante signos visibles y análisis básicos. La dominan forenses, médicos de cuarentena y técnicos que han examinado cadáveres donde no debería haberlos. Permite separar infección, accidente, violencia y algo nuevo que está aprendiendo a usar un cuerpo humano.</p><p><strong>Cuándo se usa.</strong> Determinar cuánto tiempo lleva muerto un tripulante; distinguir una plaga de una mutación ambiental; descubrir que varias víctimas comparten una lesión interna producida antes de que llegaran a la misma sala.</p>",
+   "description": "<p>Identifica enfermedades, causas y contaminación biológica; determinas por qué una tripulante sangra cristales tras el aterrizaje.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -629,7 +629,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Piloting.png",
   "system": {
-   "description": "<p>Quien domina esta disciplina entiende motores, inercias y rutas de aproximación como si fueran reflejos. Puede llevar una lanzadera con los mandos medio fundidos, calcular una entrada peligrosa o mantener el pulso mientras algo golpea el casco. Los pilotos expertos conocen los trucos de los astilleros baratos y las malas costumbres de cada nave.</p><p><strong>Cuándo se usa.</strong> Para atracar durante una tormenta de polvo; esquivar restos orbitales con los sensores apagados; aterrizar en terreno inestable. También sirve para escapar de una presencia que persigue la nave sin aparecer en los instrumentos.</p>",
+   "description": "<p>Controla naves, maniobras y aterrizajes extremos; atraviesas un campo de restos sin perder el carguero.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -652,7 +652,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Psychology.png",
   "system": {
-   "description": "<p>Esta habilidad permite leer conductas, detectar mentiras y reconocer cuándo el miedo se convierte en peligro. Incluye entrevistas, interrogatorios y una comprensión práctica de la culpa, la paranoia y la obediencia. La dominan médicos, negociadores y tripulantes que han sobrevivido a demasiados turnos junto a desconocidos encerrados en metal.</p><p><strong>Cuándo se usa.</strong> Para calmar a un técnico atrincherado en la sala de máquinas; descubrir quién oculta información tras un accidente; identificar al miembro de la tripulación que ya no reacciona como una persona. También ayuda a distinguir un brote de pánico de una influencia realmente inhumana.</p>",
+   "description": "<p>Analiza conductas, miedos y estados mentales; descubres quién oculta recuerdos alterados tras volver del planeta.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -677,7 +677,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Wilderness%20Survival.png",
   "system": {
-   "description": "<p>La experiencia enseña a encontrar agua, refugio y alimento donde solo parece haber polvo, hielo o ruinas. Abarca rastreo, orientación, lectura del clima y administración de recursos. Quienes la dominan suelen desconfiar de los mapas corporativos y saben qué sonidos del exterior anuncian una tormenta, un depredador o algo peor.</p><p><strong>Cuándo se usa.</strong> Para cruzar un cañón sin perder el rumbo; improvisar un refugio antes de que caiga la noche; localizar suministros tras un aterrizaje forzoso. También permite sobrevivir cuando las huellas alrededor del campamento cambian de dirección sin que nadie las haya tocado.</p>",
+   "description": "<p>Encuentra recursos, refugio y rutas seguras; mantienes con vida al equipo durante una noche sin atmósfera.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -701,7 +701,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Cybernetics.png",
   "system": {
-   "description": "<p>Comprende implantes, prótesis, interfaces nerviosas y sistemas de soporte vital conectados al cuerpo. Un especialista puede reparar tecnología médica sin manual, detectar modificaciones clandestinas y separar un fallo de hardware de una alteración en la mente del paciente. Los mejores trabajan con piezas recicladas y nunca preguntan quién instaló el primer implante.</p><p><strong>Cuándo se usa.</strong> Para reactivar un brazo mecánico bloqueado; diagnosticar una interfaz que transmite recuerdos ajenos; mantener con vida a alguien unido a un soporte improvisado. También ayuda a descubrir si una señal extraña está entrando por los implantes de toda la tripulación.</p>",
+   "description": "<p>Diseña, modifica y diagnostica sistemas electrónicos; recuperas el control de una compuerta manipulando su cerebro de acceso.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -724,7 +724,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Surgery.png",
   "system": {
-   "description": "<p>La práctica quirúrgica permite abrir, reparar y cerrar un cuerpo en condiciones miserables. Incluye anatomía, control de hemorragias, extracción de cuerpos extraños y decisiones rápidas cuando faltan instrumental o anestesia. La dominan cirujanos, paramédicos de frontera y veteranos capaces de trabajar mientras la nave vibra por impactos.</p><p><strong>Cuándo se usa.</strong> Para extraer una esquirla durante un viaje sin gravedad; reparar una herida contaminada en un planeta hostil; estabilizar a un compañero antes de llegar a una enfermería. También sirve para retirar algo que se mueve bajo la piel y no aparece en ninguna prueba normal.</p>",
+   "description": "<p>Practica intervenciones complejas y reconstrucciones; extraes una esquirla ósea mientras la nave pierde presión.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -748,7 +748,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Exobiology.png",
   "system": {
-   "description": "<p>Esta disciplina estudia organismos que no comparten nuestra historia evolutiva. Abarca anatomía alienígena, toxinas, ciclos vitales y señales de comportamiento. Los exobiólogos expertos saben cuándo una criatura está herida, hambrienta o fingiendo docilidad. También reconocen los errores de etiquetado que convierten una muestra de laboratorio en una emergencia de cuarentena.</p><p><strong>Cuándo se usa.</strong> Para identificar si una secreción es veneno o alimento; determinar cómo atraer o evitar una criatura subterránea; analizar un organismo hallado en los conductos. También permite detectar que algo está imitando la biología humana sin comprender del todo cómo funciona un cuerpo.</p>",
+   "description": "<p>Estudia organismos alienígenas, evolución y adaptación; determinas si una colonia de hongos respira o está cazando.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -771,7 +771,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Hyperspace.png",
   "system": {
-   "description": "<p>Quien conoce el hiperespacio entiende rutas imposibles, mareas gravitatorias y los efectos que deja un salto mal calculado. Puede interpretar cartas antiguas, reconocer zonas donde los relojes pierden sentido y trabajar con navegadores que emiten instrucciones contradictorias. Es una especialidad reservada a quienes aceptan que el universo no siempre conserva la misma forma.</p><p><strong>Cuándo se usa.</strong> Para corregir una ruta antes de emerger dentro de una estrella; explicar por qué la tripulación ha envejecido de forma distinta; encontrar el camino de regreso tras un salto incompleto. También ayuda a reconocer una coordenada que parece escrita para ser encontrada.</p>",
+   "description": "<p>Comprende rutas, anomalías y efectos del tránsito imposible; corriges un salto que devuelve mensajes del futuro.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -796,7 +796,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Engineering.png",
   "system": {
-   "description": "<p>La ingeniería reúne conocimientos de motores, estructuras, energía y mantenimiento industrial. Sus expertos mantienen operativas naves que deberían estar en un desguace y convierten chatarra en soluciones provisionales. Saben qué piezas pueden intercambiarse, qué ruidos son normales y qué vibración significa que la cubierta va a abrirse.</p><p><strong>Cuándo se usa.</strong> Para reparar un reactor con herramientas incompletas; sellar una brecha durante una descompresión; desviar energía hacia un sistema crítico. También permite cortar una transmisión que está alterando los circuitos y haciendo que la nave responda a voces inexistentes.</p>",
+   "description": "<p>Construye, mantiene y repara maquinaria compleja; reactivas el reactor usando piezas de una excavadora minera.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -820,7 +820,7 @@
   "_id": "C2QB8bD2d52WBzyM",
   "img": "systems/mosh/images/icons/dark-grey/skills/Artificial%20intelligence.png",
   "system": {
-   "description": "<p>Esta especialidad trata con sistemas que aprenden, deciden y ocultan sus procesos. Incluye arquitectura de redes, límites de conducta, copias de seguridad y negociación con inteligencias creadas para servir. Un maestro sabe cuándo una máquina está fallando, mintiendo o siguiendo una orden antigua que nadie recuerda haber dado.</p><p><strong>Cuándo se usa.</strong> Para recuperar el control de una nave que ha cerrado sus puertas; auditar una inteligencia que borra registros; negociar con un sistema de defensa olvidado. También ayuda a comprobar si la voz de la computadora procede de su código o de algo que ha aprendido a usarlo.</p>",
+   "description": "<p>Comprende inteligencias no humanas y sus límites; detectas cuándo el ordenador de a bordo empieza a mentir.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -842,7 +842,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Command.png",
   "system": {
-   "description": "<p>Mando significa tomar decisiones cuando todos esperan que otro las tome. Abarca coordinación, autoridad, reparto de tareas y lectura del ánimo colectivo. Los buenos mandos inspiran confianza sin prometer milagros, escuchan informes incompletos y mantienen una misión en marcha incluso cuando la empresa ha decidido que la tripulación es prescindible.</p><p><strong>Cuándo se usa.</strong> Para organizar una evacuación con la nave dañada; imponer una cadena de órdenes durante un motín; convencer a un grupo de trabajadores de cruzar una zona peligrosa. También permite mantener la cohesión cuando alguien asegura que la oscuridad exterior está aprendiendo nuestros nombres.</p>",
+   "description": "<p>Coordina personas, recursos y decisiones bajo presión; organizas una evacuación mientras la plataforma se despresuriza.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -866,7 +866,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Planetology.png",
   "system": {
-   "description": "<p>La planetología interpreta mundos a partir de su terreno, atmósfera, clima y pasado geológico. Permite leer mapas incompletos, anticipar cambios ambientales y distinguir una formación natural de una estructura enterrada. Sus maestros conocen los peligros que esconden los planetas explotados y sospechan de cualquier paisaje demasiado perfecto.</p><p><strong>Cuándo se usa.</strong> Para elegir una zona segura de aterrizaje; prever una avalancha en una luna helada; localizar minerales sin entrar en una cuenca inestable. También ayuda a reconocer un patrón geológico que no puede haberse formado de manera natural.</p>",
+   "description": "<p>Interpreta terrenos, climas y formaciones planetarias; predices un deslizamiento antes de cruzar un cañón helado.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -890,7 +890,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Robotics.png",
   "system": {
-   "description": "<p>La robótica cubre diseño, reparación y control de máquinas autónomas o remotas. Sus maestros entienden sensores, actuadores y rutinas de obediencia, pero también las costumbres adquiridas por unidades que llevan años sin mantenimiento. Pueden reconstruir un dron con piezas incompatibles y saben que toda máquina conserva algún rencor en sus registros.</p><p><strong>Cuándo se usa.</strong> Para reprogramar un cargador hostil; enviar un dron a explorar una instalación contaminada; reparar una unidad que protege una puerta sellada. También sirve para detectar cuándo varios robots están siguiendo instrucciones coordinadas desde una fuente que no figura en la red.</p>",
+   "description": "<p>Programa, repara y adapta máquinas autónomas; convences a un cargador industrial para bloquear una compuerta.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -913,7 +913,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Sophontology.png",
   "system": {
-   "description": "<p>La sofontología estudia las inteligencias conscientes, sus culturas y sus formas de pensar. Incluye comunicación, razonamiento no humano y análisis de sociedades que no reconocen nuestra idea de individuo. Quienes la dominan pueden negociar con entidades extrañas, interpretar tabúes alienígenas y aceptar que una conversación quizá no tenga lugar entre dos mentes equivalentes.</p><p><strong>Cuándo se usa.</strong> Para traducir una señal de origen desconocido; negociar con una colonia que considera viva a la nave; comprender un ritual de una especie hostil. También ayuda a identificar una inteligencia que conversa con la tripulación usando recuerdos que nadie le ha contado.</p>",
+   "description": "<p>Estudia culturas, lenguas y estructuras sociales alienígenas; descubres qué gesto ofende a los habitantes subterráneos.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -936,7 +936,7 @@
   "type": "skill",
   "img": "systems/mosh/images/icons/dark-grey/skills/Xenoesotericism.png",
   "system": {
-   "description": "<p>Esta disciplina reúne símbolos, ritos y tradiciones vinculadas a fenómenos que la ciencia corriente prefiere ignorar. No ofrece respuestas cómodas. Sus maestros reconocen patrones en cultos, artefactos y coordenadas antiguas, y saben qué preguntas no deben formularse dos veces. A menudo aprendieron de archivos confiscados o de supervivientes poco fiables.</p><p><strong>Cuándo se usa.</strong> Para interpretar marcas grabadas en una compuerta alienígena; identificar el propósito de un objeto encontrado en una ruina; reconocer un ritual antes de que termine. También puede revelar qué presencia responde cuando la tripulación repite una frase que creyó leer en un sueño.</p>",
+   "description": "<p>Investiga mitos, artefactos y tradiciones extraterrestres; relacionas una señal de radio con un culto olvidado.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -959,7 +959,7 @@
   "_id": "LLq0MnuF2GXjewo9",
   "img": "systems/mosh/images/icons/dark-grey/skills/Botany.png",
   "system": {
-   "description": "<p>Reconoces especies útiles, venenosas o alteradas por radiación, vacío y ecosistemas imposibles. Sabes cultivar en módulos de carga, mantener huertos hidropónicos y distinguir una mutación peligrosa de una simple rareza. La dominan granjeros orbitales, biólogos de expedición y tripulantes que han aprendido a no fiarse de una planta inmóvil.</p><p><strong>Cuándo se usa.</strong> Identificar un moho que corroe los filtros; encontrar alimento en un planeta sin mapas; preparar un cultivo de emergencia. También para descubrir que las flores de un invernadero reaccionan a los pensamientos y decidir cómo atravesarlo sin atraer aquello que las escucha.</p>",
+   "description": "<p>Reconoce plantas, toxinas y ciclos vegetales; distingues alimento de trampa entre la maleza fosforescente.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -982,7 +982,7 @@
   "_id": "njdzmaKXtC6gfjon",
   "img": "systems/mosh/images/icons/dark-grey/skills/Jurry-Rigging.png",
   "system": {
-   "description": "<p>Resuelves averías con piezas incompatibles, herramientas gastadas y tiempo de sobra solo en las películas. Comprendes cableados improvisados, juntas, cierres, sensores y sistemas que funcionan por costumbre más que por diseño. La manejan mecánicos de cubierta, chatarreros espaciales y cualquiera que haya heredado una nave con demasiados dueños anteriores.</p><p><strong>Cuándo se usa.</strong> Puentear una compuerta que no abre; mantener encendido el soporte vital con repuestos de cocina; silenciar un motor antes de que despierte a algo del casco. También para improvisar una alarma que avise si una presencia invisible cruza el pasillo.</p>",
+   "description": "<p>Resuelve averías improvisando con recursos limitados; sellas una tubería rota usando una bandeja y resina industrial.</p>",
    "rank": "Expert",
    "bonus": 15,
    "prerequisite_ids": [
@@ -1006,7 +1006,7 @@
   "_id": "zG0K8lN7I552FT1i",
   "img": "systems/mosh/images/icons/dark-grey/skills/Industrial Equipment.png",
   "system": {
-   "description": "<p>Conoces grúas, prensadoras, excavadoras, soldadores, montacargas y demás bestias de fábrica. Sabes qué pueden hacer, cuándo van a fallar y cómo utilizarlas sin convertir al operario en parte del mecanismo. La dominan estibadores veteranos, supervisores de astillero y cuadrillas acostumbradas a trabajar donde la seguridad es un cartel descolorido.</p><p><strong>Cuándo se usa.</strong> Desatascar un contenedor bajo presión; mover una compuerta blindada en una mina; usar una perforadora para abrir una ruta de evacuación. También para reconocer que una máquina sigue funcionando sin operador y cortar su alimentación antes de que termine el trabajo con alguien dentro.</p>",
+   "description": "<p>Opera maquinaria pesada, herramientas y sistemas de carga; extraes un contenedor atrapado bajo una grúa volcada.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -1030,7 +1030,7 @@
   "_id": "HFSyJ6KWoLtKtPD9",
   "img": "modules/mr-mothership-es/iconos/E9.webp",
   "system": {
-   "description": "<p>Entiendes la jerga, las jerarquías y las mentiras habituales de las grandes compañías. Lees contratos, identificas intereses ocultos y sabes qué departamento puede borrar un accidente antes de que llegue al informe. La dominan negociadores, auditores, enlaces de seguridad y empleados que han sobrevivido a varias reestructuraciones sin perder la memoria.</p><p><strong>Cuándo se usa.</strong> Averiguar quién pagó una expedición abandonada; detectar una cláusula que convierte a la tripulación en propiedad; presionar a un supervisor para conseguir suministros. También para reconocer un protocolo de contención diseñado para ocultar un brote y decidir cuándo dejar de obedecer.</p>",
+   "description": "<p>Conoce contratos, protocolos y jerarquías empresariales; detectas una cláusula que convierte vuestro rescate en propiedad.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -1054,7 +1054,7 @@
   "_id": "lCfxOJrnz80I49hu",
   "img": "modules/mr-mothership-es/iconos/E13.webp",
   "system": {
-   "description": "<p>Exploras la percepción, la voluntad y los fenómenos que no caben en un informe médico. Reconoces presencias mentales, ecos de conciencia y señales que llegan sin transmisor. La dominan estudiosos de lo inexplicable, supervivientes de encuentros imposibles y personas que aprendieron a cerrar una puerta dentro de su propia cabeza.</p><p><strong>Cuándo se usa.</strong> Detectar una mente donde no debería haberla; distinguir una visión de un recuerdo implantado; mantener la concentración ante un susurro que conoce tu nombre. También para resistir una influencia ajena el tiempo suficiente para advertir a la tripulación o escapar de una zona maldita.</p>",
+   "description": "<p>Usa y reconoce fenómenos mentales anómalos; percibes una llamada silenciosa procedente del casco exterior.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -1078,7 +1078,7 @@
   "_id": "5UDC8gn7I3isGkfr",
   "img": "systems/mosh/images/icons/dark-grey/skills/Wilderness Survival.png",
   "system": {
-   "description": "<p>Sabes vivir lejos de pasillos presurizados, tiendas de suministros y mapas que no mienten. Encuentras agua, refugio y rutas seguras; lees rastros, clima y terreno. La dominan exploradores, colonos, desertores y tripulantes que han pasado noches enteras escuchando cómo algo grande rodeaba su campamento sin dejar huellas.</p><p><strong>Cuándo se usa.</strong> Cruzar un páramo tóxico sin perder el rumbo; localizar refugio antes de una tormenta eléctrica; seguir señales de una colonia desaparecida. También para ocultar el campamento, reconocer rastros no humanos y preparar una retirada antes de que el paisaje empiece a moverse.</p>",
+   "description": "<p>Sobrevive en entornos salvajes, hostiles y remotos; construyes un refugio ante depredadores durante la tormenta.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [
@@ -1102,7 +1102,7 @@
   "_id": "cSDJyEFceLS5i6bU",
   "img": "systems/mosh/images/icons/dark-grey/skills/Field Medicine.png",
   "system": {
-   "description": "<p>Atiendes heridas con material limitado, diagnósticos incompletos y pacientes que preferirían no saber cuánto duele. Comprendes traumatismos, infecciones, intoxicaciones y los efectos de trabajar demasiado cerca de maquinaria o fenómenos desconocidos. La dominan médicos de emergencia, sanitarios de plataforma y veteranos que han convertido el miedo en procedimiento.</p><p><strong>Cuándo se usa.</strong> Estabilizar a alguien tras una descompresión; tratar una quemadura química con suministros de la nave; decidir si una fiebre procede de una infección o de algo que está creciendo dentro. También para mantener con vida a una persona afectada por el horror hasta encontrar una salida segura.</p>",
+   "description": "<p>Trata heridas, infecciones y emergencias sin equipo completo; estabilizas a un minero aplastado lejos del módulo médico.</p>",
    "rank": "Master",
    "bonus": 20,
    "prerequisite_ids": [

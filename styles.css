@@ -11,8 +11,19 @@
 .mr-gen-bio button { width: auto; padding: 2px 10px; line-height: 22px; }
 .mr-gen-bio textarea { width: 100%; resize: vertical; border: 1px solid var(--color-border-light-tertiary, #888); border-radius: 4px; padding: 6px; font-size: 13px; line-height: 1.35; background: transparent; }
 
-/* Combate: aplicar daño */
-.mosh .mr-aplicar { display: flex; gap: 6px; margin-top: 6px; }
-.mosh .mr-aplicar button { flex: 1; font-size: 12px; line-height: 22px; padding: 0 6px; }
-.mr-danio h3 { margin: 0 0 4px; font-size: 14px; }
-.mr-danio ul { margin: 0; padding-left: 18px; }
+/* Combate: botones y notas dentro de las tarjetas del sistema */
+.mosh .mr-botones { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 -2px 6px; }
+.mosh .mr-botones button { flex: 1 1 45%; margin: 0; font-family: inherit; font-size: 11px; font-weight: bold; text-transform: uppercase;
+  line-height: 24px; padding: 0 6px; color: #fff; background: #111; border: none; border-radius: 0; white-space: nowrap; }
+.mosh .mr-botones button:hover { background: #444; box-shadow: none; }
+.mosh .mr-botones .mr-nota { flex: 1 1 100%; margin: 0 0 2px; font-size: 12px; }
+.mosh .mr-pasos { margin: 0; padding-left: 16px; }
+.mosh .mr-pasos li { margin: 1px 0; }
+.mosh .mr-plegada { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; cursor: pointer; }
+/* registro de combate */
+.mr-combate { display: flex; gap: 4px; padding: 4px 6px; }
+.mr-combate button { flex: 1; display: flex; align-items: center; justify-content: center; gap: 4px; font-size: 12px; line-height: 24px; }
+.mr-combate img { width: 18px; height: 18px; border: none; filter: invert(1); }
+/* diálogo de elegir habilidad: la descripción no estira la ventana */
+.macro-popup-dialog .macro_desc span p ~ p { display: none; }
+.macro-popup-dialog .macro_desc span { display: -webkit-box !important; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }

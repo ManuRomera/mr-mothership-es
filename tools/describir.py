@@ -24,7 +24,7 @@ Para cada ARMA escribe una entrada de catálogo comercial/militar con humor seco
  'armaduras': COMUN + """
 Para cada ARMADURA o prenda escribe una entrada de catálogo de tienda o de intendencia: <p> de 55-90 palabras: fabricante o línea inventada, material, ajuste, para qué entorno está pensada, un detalle práctico y un defecto o rareza, y un eslogan final entre comillas. Si es ropa civil o de trabajo, que se note el uso y el estilo (cómoda, ridícula, gastada); si es blindaje, que huela a ingeniería y a manual de instrucciones.""",
  'habilidades': COMUN + """
-Para cada HABILIDAD escribe: <p> de 35-55 palabras explicando qué abarca y quién la domina; y <p><strong>Cuándo se usa.</strong> con dos o tres ejemplos concretos y breves de situaciones de juego a bordo de una nave o en un planeta hostil, incluyendo un uso que sirva para sobrevivir al horror. 70-110 palabras en total.""",
+Para cada HABILIDAD escribe UNA sola frase de 14-24 palabras dentro de un <p>: qué abarca y un ejemplo concreto de uso a bordo o en un planeta hostil. Debe caber en dos líneas del diálogo de tirada: nada de listas ni títulos.""",
  'objetos': COMUN + """
 Para cada OBJETO o equipo escribe una entrada de catálogo/inventario: <p> de 45-80 palabras: qué es, para qué sirve a bordo, un detalle de uso o de aspecto y una complicación o rareza (un fallo típico, una anécdota). Si es un objeto personal o de ambientación (cartera, mascota, recuerdo), cuenta qué dice del dueño. Si es un animal, trátalo como compañero. Termina con una frase corta tipo eslogan o aviso.""",
  'averias': COMUN + """
@@ -62,7 +62,7 @@ def lote(cat, items):
         m = re.search(r'\{.*\}', r.stdout, re.S)
         try:
             out = json.loads(m.group(0))
-            if set(out) == set(items) and all(len(txt(v)) > 80 for v in out.values()): return out
+            if set(out) == set(items) and all(len(txt(v)) > (40 if cat == 'habilidades' else 80) for v in out.values()): return out
         except Exception: pass
     raise SystemExit(f'lote fallido en {cat}: {list(items)[:2]}')
 
