@@ -31,7 +31,7 @@ Activa **MR- Mothership en español** en tu mundo y pon Foundry en **Español** 
 | 🖥️ **Interfaz** | Las ~650 cadenas del sistema: hojas de personaje, criatura y nave, ajustes, generador de personajes, avisos. |
 | 🧩 **Textos fijos** | Botones, diálogos y mensajes que el sistema escribe en inglés dentro de plantillas y código; se traducen al vuelo sin tocar el sistema. |
 | 📚 **Compendios** | Condiciones, averías de mantenimiento, tablas y macros de **0e y 1e**, con Babele (los datos originales quedan intactos). |
-| 🧵 **Parches (d100)** | Los 100 parches de la tabla de creación de personaje, **cada uno con su imagen**. *Configuración → Parches → Tirar parche* saca una tarjeta al chat con el botón **Coser a mi personaje** (lo añade como objeto con su imagen); el Guardián puede crear la tabla nativa *Parches (d100)* en el mundo. |
+| 🧵 **Parches (d100)** | Los 100 parches de la tabla de creación de personaje, **cada uno con su imagen**. *Configuración → Parches → Tirar parche* saca una tarjeta al chat con el botón **Coser a mi personaje** (lo añade como objeto con su imagen); el Guardián puede crear la tabla nativa *Parches (d100)* en el mundo. **Integrado en el Generador de personajes del sistema:** al tirar el parche sale este d100 y al guardar queda cosido en la ficha (con lupa al pasar el cursor). Se desactiva en los ajustes del módulo. |
 | 📖 **Glosario** | Guardián, Cordura, Miedo, Cuerpo, Estrés, Determinación, Salvación de muerte… ver [`docs/GLOSARIO.md`](docs/GLOSARIO.md). |
 
 ## 🔧 Cómo está hecho

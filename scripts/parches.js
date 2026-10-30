@@ -10,14 +10,16 @@ const parches = async () => lista ??= await (await fetch(`modules/${ID}/parches/
 /** Actor al que se cose: el del token seleccionado o el personaje del usuario. */
 const actorActual = () => canvas?.tokens?.controlled?.[0]?.actor ?? game.user.character ?? null;
 
-export async function tirarParche() {
+/** Tira el d100 y publica la tarjeta. `conBoton:false` la deja sin «Coser» (la usa el generador, que ya lo cose al guardar). */
+export async function tirarParche({ conBoton = true } = {}) {
   const tirada = await new Roll("1d100 - 1").evaluate();
   const n = tirada.total, texto = (await parches())[n];
-  ChatMessage.create({
+  await ChatMessage.create({
     speaker: ChatMessage.getSpeaker(), rolls: [tirada],
     content: `<div class="mr-parche" data-parche="${n}"><img src="${img(n)}" alt=""><div><h3>Parche ${String(n).padStart(2, "0")}</h3>
-      <p>${esc(texto)}</p><button type="button" data-coser="${n}"><i class="fa-solid fa-scissors" inert></i> Coser a mi personaje</button></div></div>`
+      <p>${esc(texto)}</p>${conBoton ? `<button type="button" data-coser="${n}"><i class="fa-solid fa-scissors" inert></i> Coser a mi personaje</button>` : ""}</div></div>`
   });
+  return { n, texto };
 }
 
 export async function coser(n, actor = actorActual()) {
@@ -70,4 +72,47 @@ Hooks.on("renderSettings", (app, html) => {
 Hooks.once("ready", () => {
   const mod = game.modules.get(ID);
   mod.api = Object.assign(mod.api ?? {}, { tirarParche, coser, crearTabla });
+});
+
+// --- Generador de personajes del sistema: el parche sale de nuestra tabla d100 y se cose al guardar ---
+Hooks.once("init", () => {
+  game.settings.register(ID, "parchesGenerador", {
+    name: "Parches del módulo en el generador de personajes",
+    hint: "Al tirar el parche en el generador de personajes se usa la tabla d100 de este módulo (con imagen) en lugar de la tabla de la clase. Se cose al personaje como objeto al guardar.",
+    scope: "world", config: true, type: Boolean, default: true
+  });
+});
+
+Hooks.once("ready", async () => {
+  if (game.system?.id !== "mosh") return;
+  try {
+    const { DLActorGenerator } = await import("/systems/mosh/module/windows/actor-generator.js");
+    const original = DLActorGenerator.prototype.rollPatch;
+    DLActorGenerator.prototype.rollPatch = async function (html) {
+      const clase = html.find('img[id="system.class.value"]').prop("value"); // como el original: en una <img> es undefined, no cuenta como vacío
+      if (!game.settings.get(ID, "parchesGenerador") || clase === "" || !this.patchTable) return original.call(this, html);
+      if (html.find('img[id="system.class.patch.value"]').prop("hidden") !== false) return;
+      const { n, texto } = await tirarParche({ conBoton: false });
+      html.find('img[id="system.class.patch.value"]').prop("hidden", true);
+      html.find('input[id="system.class.patch.value"]').prop("hidden", false).prop("value", n);
+      html.find('input[id="system.class.patch.text"]').prop("hidden", false).prop("value", texto);
+      html.find('input[id="system.class.patch.uuid"]').prop("value", `mr-parche-${n}`);
+    };
+    // al guardar, el generador llama a modifyItem con el identificador del parche: lo cosemos en vez de buscar un objeto
+    const proto = CONFIG.Actor.documentClass.prototype;
+    const modifyItem = proto.modifyItem;
+    proto.modifyItem = function (itemId, cantidad) {
+      const m = /^mr-parche-(\d+)$/.exec(String(itemId));
+      return m ? coser(Number(m[1]), this) : modifyItem.call(this, itemId, cantidad);
+    };
+  } catch (e) { console.warn(`${ID} | no se pudo integrar el generador de personajes`, e); }
+});
+
+// Lupa: al pasar el cursor por la miniatura de un parche en la ficha se ve la imagen grande.
+Hooks.on("renderActorSheet", (app, html) => {
+  const raiz = html instanceof HTMLElement ? html : html[0];
+  for (const i of raiz?.querySelectorAll(`img[src*="/${ID}/parches/"]`) ?? []) {
+    i.dataset.tooltipHtml = `<img src="${i.getAttribute("src")}" alt="" style="width:260px;border-radius:6px;display:block">`;
+    i.dataset.tooltipDirection = "RIGHT";
+  }
 });
