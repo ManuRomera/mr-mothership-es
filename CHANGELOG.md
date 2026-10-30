@@ -1,5 +1,11 @@
 # Cambios
 
+## 1.5.0 - 2026-10-30
+- **Descripciones completas** para las 16 clases (ambientación, cómo interpretarlas con frases de ejemplo y ganchos de trasfondo), 39 armas y 42 armaduras y prendas (en tono de catálogo, conservando debajo la regla original), 49 habilidades (qué abarcan y cuándo se usan), 184 objetos y equipo, y las 100 averías de mantenimiento (qué se ve, qué lo causa y un gancho de escena para el Guardián).
+- **Generador de personajes con nombre y biografía:** nuevo selector de sexo (aleatorio, hombre, mujer, no binario) y botón «Nombre y biografía». Al elegir clase se propone un nombre (con mote a veces) y una biografía de varios párrafos a medida de la clase, el equipo, las habilidades, el parche y la baratija; se puede editar y se guarda en la ficha. Reservas amplias por clase y sin repetir frases entre personajes seguidos.
+- **Iconos nuevos** al estilo Mothership para el arco, los puños americanos, el lanzacohetes LAT-90 y siete armaduras (atuendo de la tripulación, ropa de trabajo pesada, trajes de batalla, traje de riesgo biológico, traje de vacío y uniforme); también para varios objetos que llevaban un icono genérico.
+- «Pastor» se interpreta como guía espiritual, no como ganadero. Nombres con tildes (Revólver, Lingüística, Traje de vacío…).
+
 ## 1.4.0 - 2026-10-30
 - **Clases y equipo en español, listos para el generador de personajes.** Nuevos compendios del módulo: 16 clases (Marine, Androide, Científico, Tripulante, Colono, Ejecutivo, Pastor, Buscavidas, Criminal, Psíquico, Explorador, Jubilado, Escoria, Esclavo asalariado, Atavismo y Psiónico), 49 habilidades, 39 armas, 42 armaduras, 202 objetos, los 100 parches como objetos, 18 tablas de equipo inicial/baratijas/parches y las reglas rápidas. El «Generador de personajes» del sistema ya encuentra las clases (antes decía que faltaba la clase) y rellena habilidades, equipo, parche y baratija.
 - **Equipo inicial con varios objetos y cantidades** («x2»): el generador original solo entendía un objeto por resultado; ahora se añaden todos al guardar.

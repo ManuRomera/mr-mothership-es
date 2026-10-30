@@ -6,7 +6,7 @@
   "_id": "6MUUwv9OEVzGRmCW",
   "img": "modules/mr-mothership-es/iconos/A1.webp",
   "system": {
-   "description": "<p>P&iacute;ldoras nanotecnol&oacute;gicas que ayudan a tu cuerpo a reparar el da&ntilde;o al otorgar ventaja a las salvaciones corporales destinadas a repeler enfermedades y venenos, as&iacute; como intentos de curarse del descanso.</p>",
+   "description": "<p>Estas píldoras nanotecnológicas circulan por la sangre como una cuadrilla de reparadores microscópicos. Se guardan en un tubo con cierre de seguridad y suelen saber a metal mojado. Los tripulantes las usan después de respirar algo sospechoso o dormir en un camarote contaminado. A veces dejan la lengua azul durante horas. <strong>Repara el cuerpo. No preguntes cómo.</strong></p><p><strong>Reglas.</strong> P&iacute;ldoras nanotecnol&oacute;gicas que ayudan a tu cuerpo a reparar el da&ntilde;o al otorgar ventaja a las salvaciones corporales destinadas a repeler enfermedades y venenos, as&iacute; como intentos de curarse del descanso.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 1.5
@@ -26,7 +26,7 @@
   "_id": "ozhvCAjS404dJjDF",
   "img": "modules/mr-mothership-es/iconos/C6.webp",
   "system": {
-   "description": "<p>Un peque&ntilde;o dispositivo que env&iacute;a una bengala y luego emite un fuerte pitido cada pocos segundos. Adem&aacute;s, env&iacute;a una llamada en todos los canales de radio a los barcos o veh&iacute;culos de la zona, pero puede ser bloqueada por un inhibidor de radio.</p>",
+   "description": "<p>Compacta y chillona, esta baliza convierte una emergencia en un anuncio para todo el vecindario orbital. Al activarla, lanza una bengala, emite un pitido insistente y llama en todos los canales de radio cercanos. El equipo de rescate agradecerá encontrarla; los saqueadores también. Algunos modelos llevan golpes de antiguas evacuaciones. <strong>Si la oyes, quizá ya sea tarde.</strong></p><p><strong>Reglas.</strong> Un peque&ntilde;o dispositivo que env&iacute;a una bengala y luego emite un fuerte pitido cada pocos segundos. Adem&aacute;s, env&iacute;a una llamada en todos los canales de radio a los barcos o veh&iacute;culos de la zona, pero puede ser bloqueada por un inhibidor de radio.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 2000
@@ -46,7 +46,7 @@
   "_id": "B9QaF5IhtsN7WrfE",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "system": {
-   "description": "<p>Bater&iacute;a de alta resistencia utilizada para alimentar cortadoras l&aacute;ser, drones de salvamento y otros art&iacute;culos. Se puede recargar en 1 hora si est&aacute; conectado a la corriente el&eacute;ctrica o en 6 horas con energ&iacute;a solar. A&ntilde;adir impermeabilizaci&oacute;n (+500cr).</p>",
+   "description": "<p>Una batería de alta resistencia para cortadoras láser, drones de salvamento y cualquier máquina que consuma más de lo razonable. Su carcasa gris lleva conectores gruesos y marcas de carga hechas a rotulador. Tarda una hora conectada a la corriente o seis con energía solar. La humedad la arruina, salvo que pagues por impermeabilizarla. <strong>Potencia para salir. Energía para volver.</strong></p><p><strong>Reglas.</strong> Bater&iacute;a de alta resistencia utilizada para alimentar cortadoras l&aacute;ser, drones de salvamento y otros art&iacute;culos. Se puede recargar en 1 hora si est&aacute; conectado a la corriente el&eacute;ctrica o en 6 horas con energ&iacute;a solar. A&ntilde;adir impermeabilizaci&oacute;n (+500cr).</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 500
@@ -66,7 +66,7 @@
   "_id": "aj1J0PDg6sSoQltL",
   "img": "modules/mr-mothership-es/iconos/A10.webp",
   "system": {
-   "description": "<p>Largo alcance. Permite al usuario buscar signos de vida. Puede decir la ubicaci&oacute;n de los signos de vida, pero no cu&aacute;l es esa vida. Bloqueado por algunos materiales a discreci&oacute;n del Guardi&aacute;n.</p>",
+   "description": "<p>Este aparato de largo alcance rastrea signos de vida y señala su ubicación con una precisión inquietante. No identifica qué respira, se arrastra o permanece quieto al otro lado de la pared. Se lleva colgado al pecho y proyecta un mapa verdoso sobre la pantalla. Algunos materiales bloquean la lectura. <strong>Encontrar vida no significa encontrar ayuda.</strong></p><p><strong>Reglas.</strong> Largo alcance. Permite al usuario buscar signos de vida. Puede decir la ubicaci&oacute;n de los signos de vida, pero no cu&aacute;l es esa vida. Bloqueado por algunos materiales a discreci&oacute;n del Guardi&aacute;n.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 3000
@@ -86,7 +86,7 @@
   "_id": "91aTtHFhWfL49bum",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "system": {
-   "description": "<p>Otorga un agarre magn&eacute;tico al usuario, lo que le permite caminar f&aacute;cilmente sobre el exterior de una nave (en el espacio, mientras est&aacute; atracado o flotando libremente), asteroides met&aacute;licos o cualquier otra superficie magn&eacute;tica.</p>",
+   "description": "<p>Las suelas alojan placas magnéticas que se aferran a cascos, asteroides metálicos y pasarelas sin gravedad. Crujen al despegarse y dejan un dibujo oscuro sobre la pintura de la nave. Son imprescindibles para trabajar fuera del casco, aunque una bota mal ajustada puede convertir una reparación rutinaria en un vuelo sin billete de regreso. <strong>Pisa firme. El vacío espera.</strong></p><p><strong>Reglas.</strong> Otorga un agarre magn&eacute;tico al usuario, lo que le permite caminar f&aacute;cilmente sobre el exterior de una nave (en el espacio, mientras est&aacute; atracado o flotando libremente), asteroides met&aacute;licos o cualquier otra superficie magn&eacute;tica.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 350
@@ -106,7 +106,7 @@
   "_id": "mI59cdtc9J2fatVY",
   "img": "modules/mr-mothership-es/iconos/A0.webp",
   "system": {
-   "description": "<p>Una variedad de ap&oacute;sitos y tratamientos para ayudar a detener el sangrado, vendar cortes y tratar otras lesiones menores.</p>",
+   "description": "<p>Una bolsa compacta con apósitos, vendas y tratamientos para cortes, golpes y sangrados menores. Huele a desinfectante barato y suele llevarse colgada junto al cinturón de herramientas. En muchas naves, el contenido se repone con restos de otros botiquines, así que nunca coincide con la ilustración del envase. <strong>Primero tapa la herida. Luego busca al médico.</strong></p><p><strong>Reglas.</strong> Una variedad de ap&oacute;sitos y tratamientos para ayudar a detener el sangrado, vendar cortes y tratar otras lesiones menores.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 75
@@ -126,7 +126,7 @@
   "_id": "yA8FB5AH5YpvA1wr",
   "img": "modules/mr-mothership-es/iconos/A0.webp",
   "system": {
-   "description": "<p>Camilla port&aacute;til que cabe dentro de una mochila. Permite al usuario atar al paciente de forma segura y llevarlo a un lugar donde sus heridas puedan ser mejor tratadas. Se despliega hasta aproximadamente 2 m.</p>",
+   "description": "<p>Enrollada, cabe en una mochila; desplegada, ofrece una superficie de unos dos metros para asegurar y transportar a un paciente. Las correas tienen hebillas anchas, pensadas para manos temblorosas y pasillos estrechos. El tejido acumula manchas que nadie quiere identificar. En gravedad irregular, cargarla exige más coordinación de la anunciada. <strong>Ata bien al paciente. Corre después.</strong></p><p><strong>Reglas.</strong> Camilla port&aacute;til que cabe dentro de una mochila. Permite al usuario atar al paciente de forma segura y llevarlo a un lugar donde sus heridas puedan ser mejor tratadas. Se despliega hasta aproximadamente 2 m.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 150
@@ -141,12 +141,12 @@
  },
  {
   "folder": null,
-  "name": "Cinturon de herramientes variadas",
+  "name": "Cinturón de herramientas variadas",
   "type": "item",
   "_id": "rCN1mhc3FuEUeqEt",
   "img": "modules/mr-mothership-es/iconos/C4.webp",
   "system": {
-   "description": "",
+   "description": "<p>Un cinturón práctico, repleto de llaves, alicates, destornilladores, bridas y piezas que alguna vez pertenecieron a otra máquina. Cada dueño añade sus propias soluciones y elimina las herramientas que ya no piensa devolver. El cierre suele fallar justo cuando hace falta una mano libre. Los veteranos reconocen su valor por el ruido al caminar. <strong>Si no lo arregla, al menos sujétalo.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -166,7 +166,7 @@
   "_id": "7qpCnTEd9Dy62pXc",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "system": {
-   "description": "<p>Otorga visualizaci&oacute;n, grabaci&oacute;n y operaci&oacute;n remota de un arma a distancia, as&iacute; como +5 DA&Ntilde;O al arma</p>",
+   "description": "<p>Este complemento conecta el arma a la visión y los controles del usuario. Permite observar, grabar y operar el disparo a distancia, incluso desde una cobertura incómoda. Su carcasa pulida parece demasiado delicada para una nave de carga, y acumula huellas en cada superficie. Los técnicos aseguran que mejora el arma; los contables, que mejora la factura. <strong>Apunta lejos. Paga cerca.</strong></p><p><strong>Reglas.</strong> Otorga visualizaci&oacute;n, grabaci&oacute;n y operaci&oacute;n remota de un arma a distancia, as&iacute; como +5 DA&Ntilde;O al arma</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 10000
@@ -186,7 +186,7 @@
   "_id": "uS9yETBeFljliAxr",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "system": {
-   "description": "<p>Permite la comunicaci&oacute;n de barco a barco a una distancia razonable, as&iacute; como de superficie a superficie dentro de una docena de kil&oacute;metros. Bloqueado por un inhibidor de radio.</p>",
+   "description": "<p>Equipo sencillo para hablar entre barcos cercanos o mantener contacto en superficie dentro de una docena de kilómetros. Sus auriculares aíslan bastante bien, salvo cuando el motor principal decide participar en la conversación. Se entrega en parejas y suele conservar pegatinas de tripulaciones anteriores. Un inhibidor de radio puede dejarlo completamente mudo. <strong>Habla ahora. El silencio cobra intereses.</strong></p><p><strong>Reglas.</strong> Permite la comunicaci&oacute;n de barco a barco a una distancia razonable, as&iacute; como de superficie a superficie dentro de una docena de kil&oacute;metros. Bloqueado por un inhibidor de radio.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 100
@@ -206,7 +206,7 @@
   "_id": "4gFEQdQCcrjrhf8U",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "system": {
-   "description": "<p>Dispositivo de comunicaci&oacute;n del tama&ntilde;o de una mochila para su uso en la comunicaci&oacute;n superficie-barco.</p>",
+   "description": "<p>Una mochila pesada con antena desplegable, batería y suficiente potencia para comunicar la superficie con un barco. El operador necesita espacio para extenderla y paciencia para orientar el conjunto. Las correas cortan los hombros después de unas horas, pero casi nadie se queja mientras espera una extracción. Su luz de enlace parpadea incluso cuando nadie responde. <strong>Arriba te oyen. Quizá.</strong></p><p><strong>Reglas.</strong> Dispositivo de comunicaci&oacute;n del tama&ntilde;o de una mochila para su uso en la comunicaci&oacute;n superficie-barco.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 1000
@@ -226,7 +226,7 @@
   "_id": "CZ2koms2ClH1kUmI",
   "img": "modules/mr-mothership-es/iconos/C2.webp",
   "system": {
-   "description": "<p>Detecta la radiaci&oacute;n y muestra los niveles de radiaci&oacute;n.</p>",
+   "description": "<p>Pequeño, barato y desagradablemente honesto, este contador detecta la radiación y muestra sus niveles sin adornos. Se cuelga del bolsillo y emite avisos que suelen llegar antes que las órdenes de evacuación. En las naves viejas, algunos pitidos proceden de manchas permanentes del casco. Aun así, nadie quiere verlo callado demasiado tiempo. <strong>Si pita, no mires detrás.</strong></p><p><strong>Reglas.</strong> Detecta la radiaci&oacute;n y muestra los niveles de radiaci&oacute;n.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 20
@@ -246,7 +246,7 @@
   "_id": "tp3eN8ZYhtf9PqoF",
   "img": "modules/mr-mothership-es/iconos/A6.webp",
   "system": {
-   "description": "",
+   "description": "<p>Una correa resistente sirve para sujetar equipo, cerrar una compuerta rebelde o mantener unido algo que ya debería haberse desmontado. En la práctica, cada tripulante acaba llevándola enrollada en algún bolsillo, junto a un recuerdo y una herramienta oxidada. Las mejores muestran nudos de varios dueños. <strong>Una vuelta más y aguanta.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -266,7 +266,7 @@
   "_id": "JgnatQq6UAWuZBub",
   "img": "modules/mr-mothership-es/iconos/D2.webp",
   "system": {
-   "description": "<p>Una c&aacute;mara que llevas en la ropa y que puede transmitir v&iacute;deo a un centro de control para que los dem&aacute;s miembros de la tripulaci&oacute;n puedan ver lo que est&aacute;s viendo. A&ntilde;ade visi&oacute;n nocturna (+300cr) o visi&oacute;n t&eacute;rmica (+1kcr).</p>",
+   "description": "<p>Esta cámara se fija a la ropa y transmite lo que ve a un centro de control, para que la tripulación siga cada paso desde otra cubierta. Su luz de grabación inspira confianza en los supervisores y paranoia en todos los demás. Puede incorporar visión nocturna o térmica, pero ninguna detecta una mala decisión. <strong>Sonríe para el informe de incidentes.</strong></p><p><strong>Reglas.</strong> Una c&aacute;mara que llevas en la ropa y que puede transmitir v&iacute;deo a un centro de control para que los dem&aacute;s miembros de la tripulaci&oacute;n puedan ver lo que est&aacute;s viendo. A&ntilde;ade visi&oacute;n nocturna (+300cr) o visi&oacute;n t&eacute;rmica (+1kcr).</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 50
@@ -286,7 +286,7 @@
   "_id": "mKFtfxjVQ97DJlOo",
   "img": "modules/mr-mothership-es/iconos/A1.webp",
   "system": {
-   "description": "",
+   "description": "<p>Compacto, robusto y casi siempre cubierto de grasa, este equipo devuelve el pulso a los tripulantes que aún no han terminado de pagar su contrato. Suele vivir bajo el asiento del piloto, junto a los fusibles. Algunos modelos emiten una voz tranquilizadora que nadie recuerda haber instalado. Si falla, solo queda improvisar con cables. <strong>La muerte no acepta reclamaciones.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -301,12 +301,12 @@
  },
  {
   "folder": null,
-  "name": "Dispositivo de Filtración de Agua",
+  "name": "Dispositivo de filtración de agua",
   "type": "item",
   "_id": "QKJJ5rwthBiKcywb",
   "img": "modules/mr-mothership-es/iconos/D6.webp",
   "system": {
-   "description": "<p>Puede bombear 4 litros de agua filtrada por hora incluso de los pantanos m&aacute;s salobres</p>",
+   "description": "<p>Una bomba portátil con filtros de cerámica, carbón y materiales que la empresa no detalla. Convierte agua de pantano, depósitos viejos y charcos sospechosos en líquido bebible, aunque el sabor depende de lo que haya muerto dentro. Los técnicos recomiendan limpiarlo antes de cada turno. Si el agua sabe a metal, ya es demasiado tarde. <strong>Bebe primero. Pregunta después.</strong></p><p><strong>Reglas.</strong> Puede bombear 4 litros de agua filtrada por hora incluso de los pantanos m&aacute;s salobres</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 50
@@ -326,7 +326,7 @@
   "_id": "deQvQ3jV8UjVyiO5",
   "img": "modules/mr-mothership-es/iconos/C1.webp",
   "system": {
-   "description": "<p>Dron a control remoto a bater&iacute;a. Requiere dos manos para operar el receptor. Puede volar hasta 450 m de altura, a una distancia de 3 km del operador. Puede funcionar durante 2 horas. Puede grabar y transmitir im&aacute;genes al receptor. Si se compra por separado, se puede equipar con hasta dos de los siguientes: binoculares, inhibidor de radio, contador Geiger, cortadora l&aacute;ser, esc&aacute;ner m&eacute;dico, localizador personal, gafas infrarrojas, baliza de emergencia, esc&aacute;ner de diagn&oacute;stico cibern&eacute;tico, bioesc&aacute;ner. Puede transportar hasta 20-30 kg.</p>",
+   "description": "<p>Este aparato de rescate despega desde una nave, una plataforma o un tejado oxidado y transmite sus imágenes al receptor del operador. Su chasis admite accesorios especializados y puede llevar una carga considerable, pero no perdona los golpes ni las tormentas de polvo. El receptor exige las dos manos, justo cuando más falta hace una tercera. <strong>Si lo ves, aún hay esperanza.</strong></p><p><strong>Reglas.</strong> Dron a control remoto a bater&iacute;a. Requiere dos manos para operar el receptor. Puede volar hasta 450 m de altura, a una distancia de 3 km del operador. Puede funcionar durante 2 horas. Puede grabar y transmitir im&aacute;genes al receptor. Si se compra por separado, se puede equipar con hasta dos de los siguientes: binoculares, inhibidor de radio, contador Geiger, cortadora l&aacute;ser, esc&aacute;ner m&eacute;dico, localizador personal, gafas infrarrojas, baliza de emergencia, esc&aacute;ner de diagn&oacute;stico cibern&eacute;tico, bioesc&aacute;ner. Puede transportar hasta 20-30 kg.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 10000
@@ -346,7 +346,7 @@
   "_id": "hStrQSei66uH7w2l",
   "img": "modules/mr-mothership-es/iconos/D5.webp",
   "system": {
-   "description": "<p>Tienda de campa&ntilde;a, cantimplora, estufa, mochila, br&uacute;jula y saco de dormir.</p>",
+   "description": "<p>Una solución sencilla para pasar la noche lejos de una nave habitable. Incluye tienda, cantimplora, estufa, mochila, brújula y saco de dormir. Todo cabe en un bulto incómodo que huele a plástico húmedo y combustible barato. La brújula suele señalar el campo magnético más cercano, no necesariamente el norte. <strong>Acampar es sobrevivir con menos paredes.</strong></p><p><strong>Reglas.</strong> Tienda de campa&ntilde;a, cantimplora, estufa, mochila, br&uacute;jula y saco de dormir.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 1000
@@ -366,7 +366,7 @@
   "_id": "L5PK0jLza2NTWTPa",
   "img": "modules/mr-mothership-es/iconos/A1.webp",
   "system": {
-   "description": "<p>Cura la criosicknesso, reduce el estr&eacute;s en 1, restaura 1d10 de salud y otorga [+] a todas las tiradas durante 1d10 min. Tira 1d10. Si tienes menos de la cantidad de dosis que has tomado en las &uacute;ltimas 24 horas, haz un Death Save.</p>",
+   "description": "<p>Pequeñas ampollas de emergencia para quienes deben seguir trabajando después de una criosicknesso, una mala noticia o ambas cosas. La caja promete claridad, energía y unas horas de valentía química. Los veteranos cuentan historias de tripulantes que hablaban con las máquinas tras abusar del tratamiento. La etiqueta recomienda moderación, con una letra casi microscópica. <strong>El turno no termina. Tú quizá sí.</strong></p><p><strong>Reglas.</strong> Cura la criosicknesso, reduce el estr&eacute;s en 1, restaura 1d10 de salud y otorga [+] a todas las tiradas durante 1d10 min. Tira 1d10. Si tienes menos de la cantidad de dosis que has tomado en las &uacute;ltimas 24 horas, haz un Death Save.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 1000
@@ -386,7 +386,7 @@
   "_id": "bV3S3JwYFdHolxGi",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "system": {
-   "description": "<p>Exoesqueleto mec&aacute;nico al aire libre utilizado para levantar objetos pesados (hasta 5000 kg). Las garras del cargador infligen 1 herida. El usuario solo puede usar el atuendo est&aacute;ndar de la tripulaci&oacute;n o el traje de batalla est&aacute;ndar mientras est&aacute; en funcionamiento. Funciona con pilas (48 horas de uso).</p>",
+   "description": "<p>Un exoesqueleto de carga para mover maquinaria, contenedores y cadáveres demasiado pesados para una persona. Sus garras chirrían al cerrarse y dejan marcas profundas en el metal. Solo admite la ropa de trabajo reglamentaria o el traje de batalla, porque ninguna empresa quiere explicar una muerte por enganche de tela. Las pilas duran una jornada larga. <strong>Pesa menos que una demanda.</strong></p><p><strong>Reglas.</strong> Exoesqueleto mec&aacute;nico al aire libre utilizado para levantar objetos pesados (hasta 5000 kg). Las garras del cargador infligen 1 herida. El usuario solo puede usar el atuendo est&aacute;ndar de la tripulaci&oacute;n o el traje de batalla est&aacute;ndar mientras est&aacute; en funcionamiento. Funciona con pilas (48 horas de uso).</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 100000
@@ -406,7 +406,7 @@
   "_id": "AGHCaFVCDCQ5Blke",
   "img": "modules/mr-mothership-es/iconos/F8.webp",
   "system": {
-   "description": "",
+   "description": "<p>Recipiente personal para llevar el almuerzo por corredores sin gravedad, turnos interminables y comedores que cobran por respirar. Las abolladuras cuentan más historias que su dueño: una evacuación, una pelea o demasiados aterrizajes forzosos. Algunas conservan pegatinas de puertos que ya no existen. Si aparece vacía en la taquilla de otro, la conversación será breve. <strong>No toques la comida ajena.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -426,7 +426,7 @@
   "_id": "AcQuwiIG6sTaaoxz",
   "img": "modules/mr-mothership-es/iconos/A9.webp",
   "system": {
-   "description": "<p>Permite al usuario ver las firmas de calor, a veces de hasta varias horas de antig&uuml;edad. A&ntilde;ade visi&oacute;n nocturna (+300cr).</p>",
+   "description": "<p>Estas gafas revelan firmas de calor recientes, incluso cuando la fuente ya se ha marchado. Son útiles para rastrear motores, cuerpos ocultos y huellas térmicas en pasillos oscuros. El visor tiñe todo de colores enfermizos y convierte una habitación vacía en una pregunta. La montura suele empañarse durante los momentos importantes. <strong>El calor no siempre pertenece a un vivo.</strong></p><p><strong>Reglas.</strong> Permite al usuario ver las firmas de calor, a veces de hasta varias horas de antig&uuml;edad. A&ntilde;ade visi&oacute;n nocturna (+300cr).</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 1500
@@ -446,7 +446,7 @@
   "_id": "dAmnp8R26T4g1XnQ",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "system": {
-   "description": "<p>A menudo usado por los marines, el HUD permite al usuario ver a trav&eacute;s de las c&aacute;maras corporales de otros en su unidad y conectarse a cualquier weapo mejorado de enlace inteligente</p>",
+   "description": "<p>Un visor compacto, popular entre marines y supervisores que prefieren observar desde lejos. Permite acceder a las cámaras corporales de la unidad y enlazarse con armamento preparado para recibir órdenes inteligentes. En manos civiles parece una diadema cara; en manos militares, una invasión de intimidad. Las interferencias suelen coincidir con los peores informes. <strong>Sonríe para el registro.</strong></p><p><strong>Reglas.</strong> A menudo usado por los marines, el HUD permite al usuario ver a trav&eacute;s de las c&aacute;maras corporales de otros en su unidad y conectarse a cualquier weapo mejorado de enlace inteligente</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 100
@@ -466,7 +466,7 @@
   "_id": "gAS4GXh7Wzo9PlJY",
   "img": "modules/mr-mothership-es/iconos/C4.webp",
   "system": {
-   "description": "<p>Llaves, llaves, destornilladores, etc. Se puede usar como arma en caso de apuro (1d5 DA&Ntilde;O).</p>",
+   "description": "<p>Una bolsa de herramientas básicas para reparar motores, paneles, cierres y cualquier cosa que todavía finja funcionar. Contiene llaves, destornilladores y piezas difíciles de identificar. También sirve para golpear cuando la negociación fracasa o cuando el manual miente. Cada mecánico añade su propia pieza inútil y luego la echa de menos. <strong>Si no encaja, aprieta más.</strong></p><p><strong>Reglas.</strong> Llaves, llaves, destornilladores, etc. Se puede usar como arma en caso de apuro (1d5 DA&Ntilde;O).</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 20
@@ -486,7 +486,7 @@
   "_id": "NigeD3e74h9cfyZb",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "system": {
-   "description": "<p>Dispositivo del tama&ntilde;o de una mochila que, cuando se activa, hace que todas las se&ntilde;ales de radio en un radio de 100 km sean incomprensibles.</p>",
+   "description": "<p>Una mochila pesada que convierte las comunicaciones cercanas en murmullos sin sentido. Es útil para trabajar sin supervisión, escapar de una orden o impedir que alguien pida ayuda. Al activarlo, las luces de estado parpadean como si el aparato estuviera nervioso. La tripulación suele descubrir demasiado tarde quién dependía de la radio. <strong>Silencio corporativo garantizado.</strong></p><p><strong>Reglas.</strong> Dispositivo del tama&ntilde;o de una mochila que, cuando se activa, hace que todas las se&ntilde;ales de radio en un radio de 100 km sean incomprensibles.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 4000
@@ -506,7 +506,7 @@
   "_id": "z8bkQWB0EI6yY3YI",
   "img": "modules/mr-mothership-es/iconos/C4.webp",
   "system": {
-   "description": "<p>Un conjunto muy avanzado de herramientas destinadas a hackear sistemas b&aacute;sicos de esclusas de aire y puertas electr&oacute;nicas.</p>",
+   "description": "<p>Un estuche estrecho con herramientas delicadas para manipular cierres de esclusas y puertas electrónicas básicas. Sus piezas parecen instrumentos quirúrgicos fabricados para una mano paciente y una conciencia flexible. Los cierres viejos suelen abrirse con facilidad; los nuevos registran cada intento con una cortesía inquietante. Conviene no perder ninguna pieza dentro del mecanismo. <strong>Todo cerrojo tiene memoria.</strong></p><p><strong>Reglas.</strong> Un conjunto muy avanzado de herramientas destinadas a hackear sistemas b&aacute;sicos de esclusas de aire y puertas electr&oacute;nicas.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 40
@@ -526,7 +526,7 @@
   "_id": "UD6YhjWV3Tp45fJ5",
   "img": "modules/mr-mothership-es/iconos/C4.webp",
   "system": {
-   "description": "<p>Un conjunto completo de herramientas para realizar reparaciones detalladas o trabajos de construcci&oacute;n en productos electr&oacute;nicos.</p>",
+   "description": "<p>Maletín completo para reparar, desmontar y reconstruir circuitos, sensores y pequeños sistemas electrónicos. Incluye sondas, pinzas, soldadores y herramientas que parecen diseñadas por personas que nunca tuvieron que trabajar con guantes. Su contenido permite convertir una avería en una solución temporal, o en una explosión educativa. Los compartimentos tienen etiquetas en tres alfabetos. <strong>La electricidad siempre cobra.</strong></p><p><strong>Reglas.</strong> Un conjunto completo de herramientas para realizar reparaciones detalladas o trabajos de construcci&oacute;n en productos electr&oacute;nicos.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 100
@@ -546,7 +546,7 @@
   "_id": "LvjKHpx3x3zCtV8F",
   "img": "modules/mr-mothership-es/iconos/A0.webp",
   "system": {
-   "description": "<p>Repara los trajes vac&iacute;os perforados y rotos, restaurando su disponibilidad espacial. Los vaccsuits parcheados tienen un AP de 1.</p>",
+   "description": "<p>Un paquete de sellos, fibras adhesivas y parches resistentes para devolver a un traje perforado la apariencia de una segunda oportunidad. Los remiendos quedan visibles, con colores que rara vez combinan con el uniforme. Cada parche recuerda un accidente que la compañía preferiría archivar como desgaste normal. Comprueba dos veces la unión antes de salir al vacío. <strong>El espacio encuentra cualquier agujero.</strong></p><p><strong>Reglas.</strong> Repara los trajes vac&iacute;os perforados y rotos, restaurando su disponibilidad espacial. Los vaccsuits parcheados tienen un AP de 1.</p>",
    "quantity": 3,
    "weight": 0,
    "cost": 200
@@ -566,7 +566,7 @@
   "_id": "pS1xNbgMdOSYm8Y3",
   "img": "modules/mr-mothership-es/iconos/A10.webp",
   "system": {
-   "description": "<p>Se utiliza para investigar la xenoflora y la xenofauna en el campo. Puede tomar signos vitales, muestras de ADN y recopilar otros datos sobre material extra&ntilde;o. Es posible que los resultados no sean instant&aacute;neos y que se requiera un laboratorio para un an&aacute;lisis completo.</p>",
+   "description": "<p>Este estuche reúne viales, sensores y pinzas estériles para estudiar xenoflora y xenofauna sobre el terreno. Registra signos vitales, recoge ADN y almacena datos sobre materiales extraños. Los resultados pueden tardar, y un laboratorio suele ser imprescindible. Sus cierres se atascan con barro orgánico. <strong>No acerques la cara al contenido.</strong></p><p><strong>Reglas.</strong> Se utiliza para investigar la xenoflora y la xenofauna en el campo. Puede tomar signos vitales, muestras de ADN y recopilar otros datos sobre material extra&ntilde;o. Es posible que los resultados no sean instant&aacute;neos y que se requiera un laboratorio para un an&aacute;lisis completo.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 50
@@ -586,7 +586,7 @@
   "_id": "Sp2XtxzN70PC1KYT",
   "img": "modules/mr-mothership-es/iconos/A3.webp",
   "system": {
-   "description": "<p>De mano o de hombro. Ilumina 10 m por delante del usuario</p>",
+   "description": "<p>Disponible en versión de mano o de hombro, proyecta un haz limpio para explorar pasillos, hangares y superficies sin atmósfera. Alcanza diez metros por delante del usuario. La carcasa de Fabrilux suele llevar arañazos de demasiados aterrizajes. A veces ilumina una silueta que no estaba allí. <strong>Enciende antes de entrar.</strong></p><p><strong>Reglas.</strong> De mano o de hombro. Ilumina 10 m por delante del usuario</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 30
@@ -606,7 +606,7 @@
   "_id": "EaZT5rFGpcQSA6W4",
   "img": "modules/mr-mothership-es/iconos/C6.webp",
   "system": {
-   "description": "<p>Permite a los miembros de la tripulaci&oacute;n en un centro de control (o en el puente de un barco) rastrear la ubicaci&oacute;n del usuario.</p>",
+   "description": "<p>Este emisor permite que el centro de control o el puente sigan la posición de quien lo lleva. Se fija al traje, al cinturón o a una correa interior. Los modelos de Señal Nula emiten un pitido leve cuando pierden cobertura. Algunos tripulantes lo consideran una correa electrónica. <strong>Si parpadea, alguien te busca.</strong></p><p><strong>Reglas.</strong> Permite a los miembros de la tripulaci&oacute;n en un centro de control (o en el puente de un barco) rastrear la ubicaci&oacute;n del usuario.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 200
@@ -626,7 +626,7 @@
   "_id": "BmSr0kmEd4uHtfsg",
   "img": "modules/mr-mothership-es/iconos/C5.webp",
   "system": {
-   "description": "<p>Peque&ntilde;as barras luminosas desechables capaces de atenuar la iluminaci&oacute;n en un radio de 1 m</p>",
+   "description": "<p>Pequeña barra desechable que ofrece una luz tenue en un radio de un metro. Sirve para marcar rutas, señalar cadáveres o no despertar algo sensible a los focos. Se activa doblándola; después huele vagamente a plástico caliente. En almacenes viejos, algunas barras brillan con colores no solicitados. <strong>La luz dura. La confianza, menos.</strong></p><p><strong>Reglas.</strong> Peque&ntilde;as barras luminosas desechables capaces de atenuar la iluminaci&oacute;n en un radio de 1 m</p>",
    "quantity": 5,
    "weight": 0,
    "cost": 5
@@ -646,7 +646,7 @@
   "_id": "zK3E9jCN4XaAtTiv",
   "img": "modules/mr-mothership-es/iconos/A7.webp",
   "system": {
-   "description": "<p>Mochila grande, duradera e impermeable</p>",
+   "description": "<p>Grande, resistente e impermeable, guarda herramientas, raciones y cualquier cosa que no deba mojarse con fluidos de origen desconocido. Sus correas admiten parches, remiendos y pequeñas ofrendas de mala suerte. La lona de Carga Brava resiste casi todo, salvo los cierres mal tratados. <strong>Si pesa más al volver, no la abras a bordo.</strong></p><p><strong>Reglas.</strong> Mochila grande, duradera e impermeable</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 50
@@ -666,7 +666,7 @@
   "_id": "Kpapk4xQxdd21OQ5",
   "img": "modules/mr-mothership-es/iconos/A7.webp",
   "system": {
-   "description": "<p>Allows wearer to fly up to 100m high and up to a speed of 100km/hr for 2 hours on a tank of fuel. Deals 1d100[+] DMG if destroyed. Fuel can be refilled for 200cr.</p>",
+   "description": "<p>Este arnés propulsor permite volar hasta cien metros de altura y alcanzar cien kilómetros por hora durante dos horas con un depósito lleno. El combustible se repone por 200 créditos. Si queda destruido, el estallido es catastrófico. Los técnicos de Ímpetu Orbital recomiendan no aterrizar de espaldas. <strong>El cielo también tiene suelo.</strong></p><p><strong>Reglas.</strong> Allows wearer to fly up to 100m high and up to a speed of 100km/hr for 2 hours on a tank of fuel. Deals 1d100[+] DMG if destroyed. Fuel can be refilled for 200cr.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 75000
@@ -686,7 +686,7 @@
   "_id": "G3rk65mLM9BmNUln",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "system": {
-   "description": "",
+   "description": "<p>Moneda pesada, normalmente marcada con el emblema de una nave, una cuadrilla o una deuda antigua. Sirve para resolver discusiones, recordar juramentos y demostrar que alguien estuvo allí cuando las cosas se torcieron. Muchos capitanes la guardan en el bolsillo más cercano al corazón. <strong>Una cara. Una decisión.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -706,7 +706,7 @@
   "_id": "hlI06tmX67GFoNkN",
   "img": "modules/mr-mothership-es/iconos/F4.webp",
   "system": {
-   "description": "",
+   "description": "<p>Herramienta sencilla para abrir zanjas, mover tierra, despejar escombros o comprobar si el suelo devuelve un sonido hueco. En una nave, suele vivir junto al equipo de emergencia y acumular demasiados usos improvisados. La pala de astillero pasa de mano en mano y rara vez vuelve limpia. <strong>Siempre hay algo debajo.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -726,7 +726,7 @@
   "_id": "KSx1l1qtdeFbnv2p",
   "img": "modules/mr-mothership-es/iconos/A6.webp",
   "system": {
-   "description": "<p>Cuerda de nailon ligera de uso general.</p>",
+   "description": "<p>Ligero, resistente y de uso general, este cordón de nailon sirve para asegurar carga, improvisar amarres o cruzar un tramo difícil sin perder el equipo. Se seca rápido, pero conserva olores de otros planetas durante semanas. Los rollos de Trenza Nueve suelen venir con un nudo imposible. <strong>Átalo bien o despídete.</strong></p><p><strong>Reglas.</strong> Cuerda de nailon ligera de uso general.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 10
@@ -746,7 +746,7 @@
   "_id": "q9ZM1zzA7adeaEtD",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "system": {
-   "description": "",
+   "description": "<p>Una pelota de tenis sobrevive en taquillas, camarotes y salas de máquinas por razones que nadie recuerda. Sirve para pasar el rato, distraer a un animal compañero o comprobar si una cubierta tiene pendiente. La goma envejecida rebota de forma irregular y siempre acaba bajo una puerta cerrada. <strong>Si vuelve sola, corre.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -766,7 +766,7 @@
   "_id": "VD6iDpCR50fsqd2j",
   "img": "modules/mr-mothership-es/iconos/A2.webp",
   "system": {
-   "description": "<p>Toma 1d5 DA&Ntilde;O y reduce tu Nivel de Radiaci&oacute;n (ver p&aacute;g. 33.2) en 1 durante 2d10 minutos</p>",
+   "description": "<p>Estas píldoras reducen temporalmente el nivel de radiación en uno durante 2d10 minutos, pero provocan 1d5 de daño al tomarlas. Vienen en blísteres plateados con instrucciones diminutas y tranquilizadoras. Su sabor recuerda al metal mojado. Los trabajadores de Reactor Norte las llaman caramelos de la nómina. <strong>Alivio no significa seguridad.</strong></p><p><strong>Reglas.</strong> Toma 1d5 DA&Ntilde;O y reduce tu Nivel de Radiaci&oacute;n (ver p&aacute;g. 33.2) en 1 durante 2d10 minutos</p>",
    "quantity": 5,
    "weight": 0,
    "cost": 200
@@ -781,12 +781,12 @@
  },
  {
   "folder": null,
-  "name": "Raciones Batalla",
+  "name": "Raciones de batalla",
   "type": "item",
   "_id": "V9RMqkSLXVGv5eBB",
   "img": "modules/mr-mothership-es/iconos/D7.webp",
   "system": {
-   "description": "<p>\"Comida, lista para comer\". Raciones de campo individuales y aut&oacute;nomas en envases ligeros. Cada uno tiene suficiente sustento para una sola persona durante un d&iacute;a (no incluye agua).</p>",
+   "description": "<p>Comida lista para comer, empaquetada en un envase ligero y autónomo. Cada ración alimenta a una persona durante un día, aunque no incluye agua. El menú de Batalla Nutricional cambia poco y mejora aún menos. Algunas tripulaciones guardan una para celebraciones, otras para interrogatorios. <strong>Abre, mastica, sobrevive.</strong></p><p><strong>Reglas.</strong> \"Comida, lista para comer\". Raciones de campo individuales y aut&oacute;nomas en envases ligeros. Cada uno tiene suficiente sustento para una sola persona durante un d&iacute;a (no incluye agua).</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 70
@@ -801,12 +801,12 @@
  },
  {
   "folder": null,
-  "name": "Respirador Reciclador",
+  "name": "Respirador reciclador",
   "type": "item",
   "_id": "DUKyVjkv0UjQfIP9",
   "img": "modules/mr-mothership-es/iconos/C7.webp",
   "system": {
-   "description": "<p>Cuando se usa, filtra el aire t&oacute;xico y/o permite respirar bajo el agua hasta por 20 minutos a la vez sin volver a salir a la superficie. Se puede conectar a un tanque de ox&iacute;geno.</p>",
+   "description": "<p>Este respirador filtra aire tóxico y permite respirar bajo el agua hasta veinte minutos por uso, sin volver a la superficie. También puede conectarse a un tanque de oxígeno. La máscara de Reciclo Hondo se empaña con facilidad y hace que cada respiración suene demasiado cercana. <strong>Si el aire sabe dulce, sal.</strong></p><p><strong>Reglas.</strong> Cuando se usa, filtra el aire t&oacute;xico y/o permite respirar bajo el agua hasta por 20 minutos a la vez sin volver a salir a la superficie. Se puede conectar a un tanque de ox&iacute;geno.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 500
@@ -826,7 +826,7 @@
   "_id": "1amr2HQxM2NMOx9G",
   "img": "modules/mr-mothership-es/iconos/A4.webp",
   "system": {
-   "description": "<p>Cuando se conecta a un traje de vac&iacute;o proporciona hasta 12 horas de ox&iacute;geno en circunstancias normales, 4 horas en circunstancias estresantes. Explosivo.</p>",
+   "description": "<p>Conectado a un traje de vacío, proporciona hasta doce horas de oxígeno en circunstancias normales y cuatro en situaciones estresantes. La máscara de filtro protege frente a partículas y convierte cada respiración en un recordatorio. El tanque es explosivo; las correas de Oxígeno Kestrel no perdonan golpes. <strong>No lo dejes junto al reactor.</strong></p><p><strong>Reglas.</strong> Cuando se conecta a un traje de vac&iacute;o proporciona hasta 12 horas de ox&iacute;geno en circunstancias normales, 4 horas en circunstancias estresantes. Explosivo.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 50
@@ -841,12 +841,12 @@
  },
  {
   "folder": null,
-  "name": "binoculares",
+  "name": "Binoculares",
   "type": "item",
   "_id": "rltT7Qa3zuuRIoKp",
   "img": "modules/mr-mothership-es/iconos/A9.webp",
   "system": {
-   "description": "<p>Aumento de 20x. A&ntilde;ade visi&oacute;n nocturna (+300cr) o visi&oacute;n t&eacute;rmica (+1kcr).</p>",
+   "description": "<p>Instrumento habitual en torres de vigilancia, hangares y cubiertas de atraque. Sus lentes ofrecen un aumento de 20x para distinguir matrículas, grietas o movimientos donde el ojo solo ve oscuridad. El modelo básico pesa más de lo que parece y deja marcas de grasa en los guantes. Puede incorporar visión nocturna o térmica. <strong>Mira dos veces antes de abrir.</strong></p><p><strong>Reglas.</strong> Aumento de 20x. A&ntilde;ade visi&oacute;n nocturna (+300cr) o visi&oacute;n t&eacute;rmica (+1kcr).</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 150
@@ -861,12 +861,12 @@
  },
  {
   "folder": null,
-  "name": "cigarrillos",
+  "name": "Cigarrillos",
   "type": "item",
   "_id": "gn2qJQIvmwp95SOH",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/G12.webp",
   "system": {
-   "description": "",
+   "description": "<p>Tabaco barato, prensado en fábricas orbitales y vendido como gesto de cortesía entre turnos. Sirve para llenar silencios, calmar manos temblorosas o señalar que alguien necesita cinco minutos lejos del puente. Los cigarrillos suelen conservar el olor del último puerto visitado, incluso dentro de un camarote sellado. Algunos arden con una llama verdosa. <strong>Fumar no arregla la nave.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -881,12 +881,12 @@
  },
  {
   "folder": null,
-  "name": "cinta adhesiva",
+  "name": "Cinta adhesiva",
   "type": "item",
   "_id": "lE3S82mKah8eMZ1n",
   "img": "modules/mr-mothership-es/iconos/C3.webp",
   "system": {
-   "description": "",
+   "description": "<p>El recurso universal de cualquier tripulación: sujeta cables, sella tuberías, tapa grietas y mantiene cerradas puertas que deberían estar bloqueadas. Cada rollo acumula polvo, pelos y pequeñas pruebas de que alguien improvisó demasiado. En los compartimentos de carga aparece pegada a herramientas, cascos y dedos ajenos. Si falla, suele hacerlo durante la peor vibración. <strong>Si no se mueve, está arreglado.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -901,12 +901,12 @@
  },
  {
   "folder": null,
-  "name": "escáner de diagnóstico cibernético",
+  "name": "Escáner de diagnóstico cibernético",
   "type": "item",
   "_id": "BejXDKi1QSSoMPkD",
   "img": "modules/mr-mothership-es/iconos/A10.webp",
   "system": {
-   "description": "<p>Permite al usuario escanear androides y otros organismos cibern&eacute;ticos para diagnosticar cualquier problema f&iacute;sico o mental que puedan tener. A menudo los androides desconf&iacute;an de &eacute;l.&nbsp;</p>",
+   "description": "<p>Dispositivo compacto para revisar androides, prótesis y organismos cibernéticos sin desmontarlos por completo. Lee daños físicos, errores de memoria y alteraciones mentales con una pantalla llena de diagramas poco tranquilizadores. Los androides suelen apartarse cuando lo ven, como si reconocieran una mala experiencia anterior. El escáner también puede diagnosticar al técnico que lo sostiene. <strong>No es una inspección amistosa.</strong></p><p><strong>Reglas.</strong> Permite al usuario escanear androides y otros organismos cibern&eacute;ticos para diagnosticar cualquier problema f&iacute;sico o mental que puedan tener. A menudo los androides desconf&iacute;an de &eacute;l.&nbsp;</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 2000
@@ -921,12 +921,12 @@
  },
  {
   "folder": null,
-  "name": "escáner médico",
+  "name": "Escáner médico",
   "type": "item",
   "_id": "VOF7vzD66rgMvUoO",
   "img": "modules/mr-mothership-es/iconos/A0.webp",
   "system": {
-   "description": "<p>Permite al usuario escanear un cuerpo vivo o muerto para analizarlo en busca de enfermedades o anomal&iacute;as, sin tener que hacer una biopsia o autopsia. Es posible que los resultados no sean instant&aacute;neos y que se requiera un laboratorio para un an&aacute;lisis completo.</p>",
+   "description": "<p>Equipo médico de sobremesa capaz de examinar cuerpos vivos o muertos en busca de enfermedades, anomalías y señales que no aparecen bajo una lámpara. Evita biopsias y autopsias, aunque sus resultados pueden tardar o exigir un laboratorio completo. La carcasa blanca se amarillea en naves viejas y conserva huellas de manos enguantadas. A veces identifica algo que nadie quería encontrar. <strong>La ciencia también da malas noticias.</strong></p><p><strong>Reglas.</strong> Permite al usuario escanear un cuerpo vivo o muerto para analizarlo en busca de enfermedades o anomal&iacute;as, sin tener que hacer una biopsia o autopsia. Es posible que los resultados no sean instant&aacute;neos y que se requiera un laboratorio para un an&aacute;lisis completo.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 8000
@@ -941,12 +941,12 @@
  },
  {
   "folder": null,
-  "name": "escáner subterráneo",
+  "name": "Escáner subterráneo",
   "type": "item",
   "_id": "bsSilvzSja9wxsht",
   "img": "modules/mr-mothership-es/iconos/A10.webp",
   "system": {
-   "description": "",
+   "description": "<p>Maletín de exploración con sensores para leer cavidades, estructuras enterradas y cambios de densidad bajo el suelo. Se emplea en prospecciones, rescates y revisiones de túneles donde cavar a ciegas sería una forma cara de morir. Sus indicadores parpadean ante vetas metálicas, bolsas de gas o cosas que no figuran en ningún plano. <strong>Lo que está debajo sigue ahí.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -961,12 +961,12 @@
  },
  {
   "folder": null,
-  "name": "explosivos y detonadores",
+  "name": "Explosivos y detonadores",
   "type": "item",
   "_id": "WRt2lFSq8BVgAuu6",
   "img": "modules/mr-mothership-es/iconos/D0.webp",
   "system": {
-   "description": "<p>Carga explosiva lo suficientemente potente como para abrir una esclusa de aire. Todos los organismos a corta distancia deben hacer una salva de cuerpo o recibir una herida (explosiva). El detonador funciona a larga distancia, pero puede ser bloqueado por un inhibidor de radio.</p>",
+   "description": "<p>Conjunto de carga explosiva y detonadores para abrir esclusas, forzar compuertas o convertir una discusión en un informe de bajas. La carga cabe en una caja acolchada, pero nadie la transporta con alegría. El detonador funciona a larga distancia, salvo cuando un inhibidor de radio decide convertirlo en un pisapapeles. Los equipos cercanos agradecen que se anuncie el ensayo. <strong>La distancia no siempre protege.</strong></p><p><strong>Reglas.</strong> Carga explosiva lo suficientemente potente como para abrir una esclusa de aire. Todos los organismos a corta distancia deben hacer una salva de cuerpo o recibir una herida (explosiva). El detonador funciona a larga distancia, pero puede ser bloqueado por un inhibidor de radio.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 500
@@ -981,12 +981,12 @@
  },
  {
   "folder": null,
-  "name": "frasco de ácido",
+  "name": "Frasco de ácido",
   "type": "item",
   "_id": "TRRNx48luBwIn5uB",
   "img": "modules/mr-mothership-es/iconos/D1.webp",
   "system": {
-   "description": "",
+   "description": "<p>Recipiente industrial de vidrio grueso, normalmente recuperado de un laboratorio clausurado. Contiene ácido para limpiar piezas, disolver residuos o resolver problemas que la herramienta adecuada no supo resolver. El tapón suele estar pegado por años de corrosión y las etiquetas se desprenden con el calor. Un golpe mal dado convierte el suelo en una trampa. <strong>El ácido no distingue culpables.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1001,12 +1001,12 @@
  },
  {
   "folder": null,
-  "name": "maletín",
+  "name": "Maletín",
   "type": "item",
   "_id": "1sY24F4lE4oP6FGV",
   "img": "modules/mr-mothership-es/iconos/A12.webp",
   "system": {
-   "description": "",
+   "description": "<p>Contenedor rígido para transportar documentos, instrumental, muestras o secretos que no conviene dejar en un cajón. Su interior suele estar forrado con espuma recortada a mano y una capa de polvo de varios puertos. El propietario lo cierra incluso cuando está vacío, por costumbre o por miedo a perder algo. En algunas naves, nadie pregunta qué guarda. <strong>Lo importante viaja cerrado.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1021,12 +1021,12 @@
  },
  {
   "folder": null,
-  "name": "manta de Mylar",
+  "name": "Manta de Mylar",
   "type": "item",
   "_id": "rGycBribCNGwJmdl",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H3.webp",
   "system": {
-   "description": "<p>Manta ligera hecha de material termorreflectante. A menudo se utiliza para la regulaci&oacute;n t&eacute;rmica de pacientes que sufren de fr&iacute;o extremo u otros traumatismos.</p>",
+   "description": "<p>Manta ligera de material termorreflectante, imprescindible para estabilizar a pacientes con frío extremo, traumatismos o demasiadas horas en una esclusa. Cruje con cada movimiento y se pega a la ropa como una segunda piel brillante. También sirve para envolver suministros delicados o improvisar intimidad en una enfermería abarrotada. Una esquina chamuscada cuenta su historia. <strong>Conserva el calor, no la dignidad.</strong></p><p><strong>Reglas.</strong> Manta ligera hecha de material termorreflectante. A menudo se utiliza para la regulaci&oacute;n t&eacute;rmica de pacientes que sufren de fr&iacute;o extremo u otros traumatismos.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 10
@@ -1041,12 +1041,12 @@
  },
  {
   "folder": null,
-  "name": "pluma estilográfica",
+  "name": "Pluma estilográfica",
   "type": "item",
   "_id": "PeEj1wH6h7I25X5j",
   "img": "modules/mr-mothership-es/iconos/F11.webp",
   "system": {
-   "description": "",
+   "description": "<p>Instrumento de escritura reservado para contratos, informes y decisiones que alguien quiere hacer parecer importantes. Su propietario suele valorar las apariencias, la memoria familiar o ambas cosas. La tinta se seca en los trayectos largos y deja manchas negras sobre los dedos, justo antes de firmar. Algunas plumas llevan grabado el nombre de una empresa desaparecida. <strong>Todo acuerdo deja marca.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1061,12 +1061,12 @@
  },
  {
   "folder": null,
-  "name": "talonario de recetas",
+  "name": "Talonario de recetas",
   "type": "item",
   "_id": "3VMDmbDFd8Tsh8LI",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "system": {
-   "description": "",
+   "description": "<p>Papelería médica para recetar sedantes, antibióticos y tratamientos que quizá no existan en el almacén. Suele vivir en un bolsillo interior, junto a una identificación caducada y una lista de nombres tachados. Tenerlo dice que su dueño conoce la autoridad del sello, o que está dispuesto a fingirla. Las hojas desprenden un olor químico persistente. <strong>Una firma puede abrir muchas puertas.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1081,12 +1081,12 @@
  },
  {
   "folder": null,
-  "name": "tarjeta de acceso corporativa VIP",
+  "name": "Tarjeta de acceso corporativa VIP",
   "type": "item",
   "_id": "maB62r6UNLLMdAiB",
   "img": "modules/mr-mothership-es/iconos/C10.webp",
   "system": {
-   "description": "",
+   "description": "<p>Credencial rígida con banda magnética, fotografía favorecedora y un nivel de acceso que rara vez coincide con la realidad. Su portador puede cruzar controles, conseguir una habitación mejor o provocar una reverencia incómoda. Las empresas la cancelan sin aviso cuando cambia el viento financiero. A veces sigue funcionando porque nadie ha actualizado el sistema. <strong>La confianza caduca antes que la tarjeta.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1101,12 +1101,12 @@
  },
  {
   "folder": null,
-  "name": "terminal de computadora portátil",
+  "name": "Terminal de computadora portátil",
   "type": "item",
   "_id": "BMk7N43CPA7Td4MF",
   "img": "modules/mr-mothership-es/iconos/C0.webp",
   "system": {
-   "description": "<p>Monitor de ordenador plano, teclado e interfaz que permite al usuario hackear ordenadores y redes preexistentes, as&iacute; como realizar tareas inform&aacute;ticas est&aacute;ndar.</p>",
+   "description": "<p>Terminal portátil para trabajar con redes, controlar sistemas y entrar en ordenadores que preferirían permanecer cerrados. Su pantalla plana se llena de reflejos durante los turnos nocturnos y el teclado conserva migas de varias tripulaciones. Permite tareas informáticas corrientes, pero rara vez recibe mantenimiento antes de una emergencia. Los puertos se aflojan con las vibraciones. <strong>Conéctalo bajo tu responsabilidad.</strong></p><p><strong>Reglas.</strong> Monitor de ordenador plano, teclado e interfaz que permite al usuario hackear ordenadores y redes preexistentes, as&iacute; como realizar tareas inform&aacute;ticas est&aacute;ndar.</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 1500
@@ -1121,12 +1121,12 @@
  },
  {
   "folder": null,
-  "name": "vacuna",
+  "name": "Vacuna",
   "type": "item",
   "_id": "pmWjPewIDs3gMaNu",
   "img": "modules/mr-mothership-es/iconos/A1.webp",
   "system": {
-   "description": "",
+   "description": "<p>Una dosis sellada de la farmacéutica <em>Vitahelix</em>, preparada para mantener a raya infecciones recogidas en puertos, lunas mineras y estaciones con demasiadas ratas. Se guarda en frío, aunque casi nadie recuerda dónde está el compartimento refrigerado. Algunas unidades llegan con la etiqueta borrada o una fecha imposible. Sirve para seguir trabajando cuando el cuerpo pide cuarentena.</p><p><strong>Previene el contagio. No el papeleo.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1141,12 +1141,12 @@
  },
  {
   "_id": "e5ZL65UaYSLSgjGk",
-  "name": "rebreather",
+  "name": "Rebreather",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C7.webp",
   "folder": null,
   "system": {
-   "description": "<p>rebreather</p>",
+   "description": "<p>Equipo respiratorio compacto para atravesar compartimentos sin aire, cubiertos de humo o saturados de vapores industriales. La carcasa amarillenta lleva el sello de <em>Oxígeno Norte</em> y varias reparaciones hechas con cinta. El diafragma suele silbar cuando queda poca reserva, justo cuando alguien intenta mantener la calma. Se cuelga del cuello y ocupa menos que una mala noticia.</p><p><strong>Respira primero. Pregunta después.</strong></p><p><strong>Reglas.</strong> rebreather</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1161,12 +1161,12 @@
  },
  {
   "_id": "T79oeEFTPjgWh4TJ",
-  "name": "detonador",
+  "name": "Detonador",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D0.webp",
   "folder": null,
   "system": {
-   "description": "<p>detonador</p>",
+   "description": "<p>Dispositivo de activación remota usado para iniciar cargas, cortar conversaciones o recordar a una compañía que el contrato de mantenimiento está mal redactado. Tiene una carcasa negra, un interruptor protegido y una luz roja demasiado alegre. Los modelos viejos emiten un pitido al encenderse, aunque nadie sabe si es una prueba o una despedida.</p><p><strong>Un botón. Muchas consecuencias.</strong></p><p><strong>Reglas.</strong> detonador</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1181,12 +1181,12 @@
  },
  {
   "_id": "nyODKbySg6FamuHS",
-  "name": "pastillas antirradiación",
+  "name": "Pastillas antirradiación",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A2.webp",
   "folder": null,
   "system": {
-   "description": "<p>pastillas antirradiación x3</p>",
+   "description": "<p>Tres comprimidos de emergencia, envueltos en blíster plateado y marcados por <em>Radisec</em>. Se toman antes de entrar en zonas contaminadas, después de salir de ellas o cuando alguien empieza a brillar bajo la luz de mantenimiento. El sabor recuerda al metal mojado. Los tripulantes veteranos guardan siempre una unidad para el jefe de turno.</p><p><strong>La radiación no acepta excusas.</strong></p><p><strong>Reglas.</strong> pastillas antirradiación x3</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1201,12 +1201,12 @@
  },
  {
   "_id": "DhwYimnklcFdMyT4",
-  "name": "perro",
+  "name": "Perro",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C15.webp",
   "folder": null,
   "system": {
-   "description": "<p>perro</p>",
+   "description": "<p>Compañero de cuatro patas, criado para vivir entre motores, turnos largos y personas que hablan solas durante el salto. Duerme junto al panel más caliente y ladra a las puertas que nadie ha abierto. Su dueño lo conserva porque aún confía en algo que no cobra por respirar. Puede llevar mensajes, encontrar comida o detectar que algo va mal.</p><p><strong>Buen perro. Mal presentimiento.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1221,12 +1221,12 @@
  },
  {
   "_id": "ZO5s9uxcymGucQpt",
-  "name": "cubo",
+  "name": "Cubo",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "folder": null,
   "system": {
-   "description": "<p>cubo</p>",
+   "description": "<p>Recipiente resistente de polímero gris, útil para transportar agua, piezas sueltas, vómitos o cualquier cosa que no deba tocar el suelo. El asa está soldada de nuevo y conserva una pegatina de <em>Volumen Seguro</em>. En muchas naves acaba convertido en asiento, maceta o casco improvisado. Si aparece lleno y nadie admite haberlo usado, aléjate.</p><p><strong>Todo cabe. Casi nada sale limpio.</strong></p><p><strong>Reglas.</strong> cubo</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1241,12 +1241,12 @@
  },
  {
   "_id": "vtocEwQ1MzWua4A4",
-  "name": "juego de cepillos",
+  "name": "Juego de cepillos",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "folder": null,
   "system": {
-   "description": "<p>juego de cepillos</p>",
+   "description": "<p>Conjunto de cepillos finos, raspadores y pequeños mangos metálicos para limpiar conectores, juntas, válvulas y rincones donde se acumula la grasa. La caja pertenece a <em>Brillamotor</em>, pero contiene herramientas de tres fabricantes distintos. Su propietario suele conocer la nave por el ruido que hace al limpiarla. También sirve para examinar huellas demasiado pequeñas.</p><p><strong>La suciedad siempre guarda algo.</strong></p><p><strong>Reglas.</strong> juego de cepillos</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1261,12 +1261,12 @@
  },
  {
   "_id": "jhNvvRoIYxIrFhXa",
-  "name": "máscara filtrante",
+  "name": "Máscara filtrante",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C7.webp",
   "folder": null,
   "system": {
-   "description": "<p>máscara filtrante</p>",
+   "description": "<p>Máscara ajustable con filtros intercambiables, fabricada para talleres, bodegas y planetas donde el aire tiene opiniones propias. El visor está rayado y la goma huele a desinfectante barato. Filtra polvo y vapores corrientes, pero se obstruye con rapidez en incendios o túneles abandonados. Quien la lleva ha aprendido a desconfiar de los medidores.</p><p><strong>Si huele raro, ya vas tarde.</strong></p><p><strong>Reglas.</strong> máscara filtrante</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1281,12 +1281,12 @@
  },
  {
   "_id": "EEhzbkyQMDCkEle1",
-  "name": "caja de puros",
+  "name": "Caja de puros",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>caja de puros x4</p>",
+   "description": "<p>Caja de cuatro puros envueltos en papel oscuro, reservados para celebraciones, sobornos o funerales sin cuerpo. La marca <em>Humo Real</em> promete tabaco de calidad; la tripulación sospecha que contiene hojas de cualquier colonia. Cada unidad lleva una historia distinta y una ceniza que cae demasiado deprisa. Abrirla delante del capitán exige valor o estupidez.</p><p><strong>Enciende uno. Confiesa algo.</strong></p><p><strong>Reglas.</strong> caja de puros x4</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1301,12 +1301,12 @@
  },
  {
   "_id": "tqAGb1pi1ZT2khwv",
-  "name": "petaca de ginebra",
+  "name": "Petaca de ginebra",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>petaca de ginebra</p>",
+   "description": "<p>Petaca plana de acero, abollada en una esquina y grabada con las iniciales de alguien que ya no viaja. Contiene ginebra fuerte, de la destilería <em>Astrolabio</em> o de un depósito sin etiqueta. Pasa de mano en mano durante las guardias difíciles y vuelve siempre medio vacía. Su dueño bebe poco, pero nunca la presta dos veces.</p><p><strong>Calienta el pecho. Enfría el juicio.</strong></p><p><strong>Reglas.</strong> petaca de ginebra</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1321,12 +1321,12 @@
  },
  {
   "_id": "ZpcnAgOPVDUFA1pO",
-  "name": "micrófono de garganta",
+  "name": "Micrófono de garganta",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "folder": null,
   "system": {
-   "description": "<p>micrófono de garganta</p>",
+   "description": "<p>Micrófono sujeto a la garganta mediante una banda elástica, diseñado para transmitir la voz entre motores, trajes y alarmas. El modelo de <em>Voxen</em> capta cada trago, tos y palabra dicha demasiado cerca. Hay que hablar bajo y claro; gritar solo distorsiona el mensaje. Algunos tripulantes lo llevan desconectado para escuchar mejor lo que ocurre alrededor.</p><p><strong>Habla poco. El casco escucha.</strong></p><p><strong>Reglas.</strong> micrófono de garganta</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1341,12 +1341,12 @@
  },
  {
   "_id": "nbXSPR7fINO6nttk",
-  "name": "auricular",
+  "name": "Auricular",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "folder": null,
   "system": {
-   "description": "<p>auricular</p>",
+   "description": "<p>Auricular de un solo oído, con cable enrollado y espuma endurecida por años de sudor. Permite recibir órdenes sin abandonar la radio principal ni fingir que nadie está llamando. El canal se corta al pasar junto a ciertos motores y, a veces, transmite respiraciones de fondo. Su dueño ha aprendido a no preguntar de quién son.</p><p><strong>Escucha la orden. Desconfía del silencio.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1361,12 +1361,12 @@
  },
  {
   "_id": "pJgg7sNQhYU30VTo",
-  "name": "botella de champán",
+  "name": "Botella de champán",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>botella de champán</p>",
+   "description": "<p>Botella de champán de producción limitada, reservada para bautizos de nave, ascensos y accidentes que no constan en el informe. La etiqueta de <em>Estrella Clara</em> está despegada y el líquido podría llevar años soportando vibraciones. Hace un estallido satisfactorio al abrirse, aunque el corcho puede golpear sensores, ojos o la última esperanza de la tripulación.</p><p><strong>Brinda antes de abrir la compuerta.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1381,12 +1381,12 @@
  },
  {
   "_id": "DO4eyRcl88W0jMvm",
-  "name": "katana",
+  "name": "Katana",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F6.webp",
   "folder": null,
   "system": {
-   "description": "<p>katana</p>",
+   "description": "<p>Hoja larga de acero oscuro, equilibrada para el combate cercano y demasiado elegante para una sala de máquinas. El mango está envuelto con tela aislante y la vaina presenta marcas de uso reciente. Su propietario valora la disciplina, los gestos dramáticos o ambas cosas. En gravedad baja, un movimiento torpe puede convertir una discusión en un problema de mantenimiento.</p><p><strong>Corta rápido. Piensa antes.</strong></p><p><strong>Reglas.</strong> katana</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1401,12 +1401,12 @@
  },
  {
   "_id": "fAYadf2CfKZxkqzn",
-  "name": "reloj inteligente",
+  "name": "Reloj inteligente",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D3.webp",
   "folder": null,
   "system": {
-   "description": "<p>reloj inteligente</p>",
+   "description": "<p>Marca la hora, controla constantes y recibe avisos de la nave cuando el resto del equipo duerme. Su carcasa de plástico gris lleva una pantalla siempre cubierta de grasa. A veces vibra sin motivo cerca de compartimentos sellados. Su propietario lo conserva porque fue un regalo de la compañía, aunque la empresa también puede localizarlo. <strong>Si pita, comprueba primero tu pulso.</strong></p><p><strong>Reglas.</strong> reloj inteligente</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1421,12 +1421,12 @@
  },
  {
   "_id": "HaBv7z0H02sX47Jx",
-  "name": "mascota sintética",
+  "name": "Mascota sintética",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C14.webp",
   "folder": null,
   "system": {
-   "description": "<p>mascota sintética</p>",
+   "description": "<p>Un compañero artificial para turnos largos, camarotes estrechos y tripulaciones que no soportan hablarse. Imita gestos sencillos y aprende rutinas, pero sus ojos de vidrio delatan cada reinicio. Algunas unidades desarrollan apego a una persona concreta y se niegan a obedecer al resto. Dice de su dueño que teme la soledad, pero quiere fingir que no. <strong>No lo dejes solo en la oscuridad.</strong></p><p><strong>Reglas.</strong> mascota sintética</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1441,12 +1441,12 @@
  },
  {
   "_id": "X7YAuE8E4TKXZ7Lb",
-  "name": "maletín con ruedas",
+  "name": "Maletín con ruedas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A12.webp",
   "folder": null,
   "system": {
-   "description": "<p>maletín con ruedas</p>",
+   "description": "<p>Sirve para llevar ropa, herramientas pequeñas o cualquier cosa que no deba tocar el suelo de la nave. Sus ruedas chirrían al girar y una esquina está reforzada con cinta de mantenimiento. En gravedad irregular se mueve por su cuenta y golpea puertas, piernas y ocasionalmente cadáveres. Su dueño viaja mucho o pretende parecer importante. <strong>Ciérralo antes del despegue.</strong></p><p><strong>Reglas.</strong> maletín con ruedas</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1461,12 +1461,12 @@
  },
  {
   "_id": "0C28WC4JklRC5EXj",
-  "name": "documentos",
+  "name": "Documentos",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>documentos</p>",
+   "description": "<p>Permisos, identificaciones, contratos y papeles que demuestran que el portador existe y que alguien se responsabiliza de él. Van doblados dentro de una funda transparente, con sellos de oficinas ya desaparecidas. Un documento mal archivado puede convertir una escala rutinaria en una detención interminable. Su dueño confía más en los formularios que en las personas. <strong>Firma siempre antes de sangrar.</strong></p><p><strong>Reglas.</strong> documentos</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1481,12 +1481,12 @@
  },
  {
   "_id": "caXvC4ja0Xu5t4I0",
-  "name": "analgésicos",
+  "name": "Analgésicos",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A2.webp",
   "folder": null,
   "system": {
-   "description": "<p>analgésicos x4</p>",
+   "description": "<p>Alivian dolores de cabeza, golpes y articulaciones castigadas por meses de turnos en cubierta. Vienen en un blíster aplastado, guardado junto a llaves, tornillos o monedas. Tomarlos con el estómago vacío produce decisiones creativas y malos recuerdos. Su propietario trabaja demasiado y considera el dolor una avería menor. <strong>El dolor avisa; la factura también.</strong></p><p><strong>Reglas.</strong> analgésicos x4</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1501,12 +1501,12 @@
  },
  {
   "_id": "Faq7zvGyrla9Ewtx",
-  "name": "pluma",
+  "name": "Pluma",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F11.webp",
   "folder": null,
   "system": {
-   "description": "<p>pluma</p>",
+   "description": "<p>Una herramienta sencilla para contratos, notas rápidas y mensajes que conviene que parezcan importantes. El cuerpo metálico está rayado y conserva tinta seca en la junta. En naves viejas suele fallar justo al firmar una entrega, como si conociera el contenido. Su dueño aún cree que escribir a mano demuestra autoridad. <strong>La tinta no arregla una mentira.</strong></p><p><strong>Reglas.</strong> pluma</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1521,12 +1521,12 @@
  },
  {
   "_id": "kVJN7WrBo5UWiYhl",
-  "name": "bloc",
+  "name": "Bloc",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>bloc</p>",
+   "description": "<p>Recoge rutas, listas de carga, nombres de muertos y pensamientos que no caben en un informe oficial. Sus hojas absorben la humedad y presentan manchas de café con una precisión casi cartográfica. Hay tripulantes que arrancan páginas antes de abandonar una nave. Su propietario observa más de lo que dice y teme olvidar algo concreto. <strong>Anota todo. Sobre todo lo imposible.</strong></p><p><strong>Reglas.</strong> bloc</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1541,12 +1541,12 @@
  },
  {
   "_id": "l1482CO9Xi1nxzR7",
-  "name": "terminal portátil",
+  "name": "Terminal portátil",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C0.webp",
   "folder": null,
   "system": {
-   "description": "<p>terminal portátil</p>",
+   "description": "<p>Permite consultar manuales, enviar informes y acceder a los sistemas de la nave desde cualquier rincón con señal. La carcasa está abollada y la pantalla tarda en encenderse cuando hace frío. Guarda copias antiguas de archivos que nadie recuerda haber creado. Su dueño trabaja incluso durante el descanso, o necesita parecer ocupado. <strong>Guarda antes de conectar.</strong></p><p><strong>Reglas.</strong> terminal portátil</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1561,12 +1561,12 @@
  },
  {
   "_id": "5UEzcgceIuLJCgir",
-  "name": "diario de audio",
+  "name": "Diario de audio",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>diario de audio</p>",
+   "description": "<p>Registra confesiones, informes de turno y conversaciones que nadie quiere repetir delante de un supervisor. Cabe en un bolsillo y tiene el micrófono cubierto con una rejilla ennegrecida. A veces conserva unos segundos de audio después de apagarse, siempre con un ruido de fondo distinto. Su dueño espera ser escuchado cuando ya no pueda explicarse. <strong>Habla claro. La máquina escucha.</strong></p><p><strong>Reglas.</strong> diario de audio</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1581,12 +1581,12 @@
  },
  {
   "_id": "ur4xjjNNihqYDTp2",
-  "name": "perfume",
+  "name": "Perfume",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D1.webp",
   "folder": null,
   "system": {
-   "description": "<p>perfume</p>",
+   "description": "<p>Disimula el olor a metal caliente, sudor y filtros de aire que deberían haberse cambiado hace meses. El frasco es pequeño, elegante y demasiado caro para una tripulación de carga. En espacios cerrados se pega a la ropa durante horas y puede provocar sospechas durante una inspección. Su propietario quiere dejar huella, aunque sea química. <strong>El perfume no engaña a los perros.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1601,12 +1601,12 @@
  },
  {
   "_id": "e5KPWA0vvd942Hn2",
-  "name": "medallón sagrado",
+  "name": "Medallón sagrado",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>medallón sagrado</p>",
+   "description": "<p>Una pieza de devoción, herencia o miedo, llevada bajo la ropa durante cada viaje. El metal está gastado por el roce y la cadena ha sido reparada más de una vez. Algunos tripulantes lo aprietan antes de abrir una compuerta, incluso quienes aseguran no creer en nada. Su dueño necesita protección, consuelo o ambas cosas. <strong>La fe también necesita mantenimiento.</strong></p><p><strong>Reglas.</strong> medallón sagrado</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1621,12 +1621,12 @@
  },
  {
   "_id": "YAdoG179DpnuERIV",
-  "name": "tarro de tierra consagrada",
+  "name": "Tarro de tierra consagrada",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>tarro de tierra consagrada</p>",
+   "description": "<p>Un pequeño tarro sellado con tierra recogida de un lugar considerado santo, seguro o simplemente familiar. Viaja envuelto en tela, dentro de un bolsillo interior, lejos de los imanes de carga. Nadie sabe si contiene consuelo o suciedad, pero su propietario duerme mejor al tocarlo. Dice que aún tiene un hogar al que volver. <strong>No abras el tarro durante el salto.</strong></p><p><strong>Reglas.</strong> tarro de tierra consagrada</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1641,12 +1641,12 @@
  },
  {
   "_id": "ojZe3vnWATFnnkPf",
-  "name": "cuentas de oración",
+  "name": "Cuentas de oración",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>cuentas de oración</p>",
+   "description": "<p>Se deslizan entre los dedos mientras el portador repite palabras, nombres o promesas. Las cuentas son de madera oscura, plástico pulido o material que nadie identifica del todo. El cordón suele romperse en el peor momento, dispersando la oración por el suelo de la cubierta. Su dueño busca orden cuando todo lo demás se descompone. <strong>Cuenta despacio. Respira entre cuentas.</strong></p><p><strong>Reglas.</strong> cuentas de oración</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1661,12 +1661,12 @@
  },
  {
   "_id": "CJH4NFBDAiZoDUGA",
-  "name": "certificado de ordenación",
+  "name": "Certificado de ordenación",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>certificado de ordenación</p>",
+   "description": "<p>Acredita que su portador ha recibido una orden religiosa, un cargo espiritual o una autorización que alguien consideró necesaria. El documento está protegido por una funda rígida y varios sellos, algunos casi ilegibles. En ciertos puertos abre puertas; en otros provoca preguntas incómodas. Su dueño lleva una responsabilidad que no cabe en el uniforme. <strong>El papel no garantiza la absolución.</strong></p><p><strong>Reglas.</strong> certificado de ordenación</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1681,12 +1681,12 @@
  },
  {
   "_id": "q8yvQFLIBrwgpw4P",
-  "name": "incienso y turíbulo",
+  "name": "Incienso y turíbulo",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D10.webp",
   "folder": null,
   "system": {
-   "description": "<p>incienso y turíbulo</p>",
+   "description": "<p>Una brasa perfumada y un recipiente metálico para contenerla. Se usa en camarotes, bodegas y salas de máquinas cuando alguien necesita que el aire huela a algo distinto de plástico quemado. El turíbulo deja manchas negras y su cadena suele engancharse en los conductos. A veces, el humo activa sensores o atrae cosas que no respiran.<br><strong>Quema una ofrenda. Comprueba primero los filtros.</strong></p><p><strong>Reglas.</strong> incienso y turíbulo</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1701,12 +1701,12 @@
  },
  {
   "_id": "Qu05UGcAE4IpNPxP",
-  "name": "alfombra de oración",
+  "name": "Alfombra de oración",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>alfombra de oración</p>",
+   "description": "<p>Una superficie plegable para mantener la compostura durante las oraciones, incluso con la nave vibrando como una lavadora sin equilibrio. Suele llevar bordes gastados y una brújula bordada para orientarse en cualquier cubierta. El polvo metálico se incrusta en la tela y nadie recuerda cuándo fue la última limpieza.<br><strong>Arrodíllate con cuidado. El suelo también escucha.</strong></p><p><strong>Reglas.</strong> alfombra de oración</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1721,12 +1721,12 @@
  },
  {
   "_id": "fibEUuUOpzuY0yq4",
-  "name": "aceites rituales",
+  "name": "Aceites rituales",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D10.webp",
   "folder": null,
   "system": {
-   "description": "<p>aceites rituales</p>",
+   "description": "<p>Pequeños frascos de aceites aromáticos para ungir herramientas, puertas, tripulantes o cualquier cosa que parezca necesitar protección. Se guardan en una caja acolchada, junto a vendas y piezas de repuesto. Uno de los tapones siempre pierde, dejando los guantes resbaladizos y un olor persistente a hierbas dulces.<br><strong>Unta poco. La nave ya tiene suficiente perfume.</strong></p><p><strong>Reglas.</strong> aceites rituales</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1741,12 +1741,12 @@
  },
  {
   "_id": "Og4JOkuDo4yW5Bn0",
-  "name": "gato",
+  "name": "Gato",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C14.webp",
   "folder": null,
   "system": {
-   "description": "<p>gato</p>",
+   "description": "<p>Compañero de cuatro patas, cazador de roedores y supervisor no remunerado de la tripulación. Duerme donde quiere, ignora las alarmas y observa las compuertas cerradas durante demasiado tiempo. Algunos llevan una campanilla; otros, una cicatriz que nadie sabe explicar. Si desaparece, suele reaparecer en un lugar imposible, cubierto de grasa.<br><strong>Si maúlla hacia el vacío, no abras.</strong></p><p><strong>Reglas.</strong> gato</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1761,12 +1761,12 @@
  },
  {
   "_id": "O44d4LDHvsolPgvP",
-  "name": "placas de identificación con plegarias",
+  "name": "Placas de identificación con plegarias",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>placas de identificación con plegarias</p>",
+   "description": "<p>Dos placas metálicas unidas por una cadena, grabadas con el nombre del portador y varias plegarias diminutas. Sirven para identificar cuerpos, reclamar pertenencias y recordar que alguien esperaba un regreso. El grabado se desgasta con el sudor y las esquinas cortan la piel durante el sueño.<br><strong>Llévalas puestas. Por si vuelves sin ti.</strong></p><p><strong>Reglas.</strong> placas de identificación con plegarias</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1781,12 +1781,12 @@
  },
  {
   "_id": "6xjWMulv8WH9h1uj",
-  "name": "panfletos religiosos",
+  "name": "Panfletos religiosos",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>panfletos religiosos</p>",
+   "description": "<p>Hojas dobladas con promesas de salvación, ilustraciones de santos orbitales y direcciones de templos que quizá ya no existan. Se reparten en cantinas, esclusas y colas de mantenimiento. La tinta se corre con facilidad, pero los mensajes sobreviven en las paredes de los camarotes. Útiles para iniciar conversaciones o discusiones.<br><strong>Lee la letra pequeña. Siempre pide algo.</strong></p><p><strong>Reglas.</strong> panfletos religiosos</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1801,12 +1801,12 @@
  },
  {
   "_id": "tnFi22806Dq4sYqk",
-  "name": "libro sagrado",
+  "name": "Libro sagrado",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>libro sagrado</p>",
+   "description": "<p>Un volumen encuadernado, resistente al aceite y al sudor, con páginas llenas de relatos, advertencias y notas de antiguos propietarios. Viaja en fundas impermeables y suele abrirse por la misma página, incluso después de cambiar de nave. Sus márgenes contienen nombres tachados, coordenadas y respuestas que nadie recuerda haber escrito.<br><strong>Cuida el libro. Puede que te esté leyendo.</strong></p><p><strong>Reglas.</strong> libro sagrado</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1821,12 +1821,12 @@
  },
  {
   "_id": "8idWIW8QXZ1uoUPJ",
-  "name": "cantimplora con agua bendita",
+  "name": "Cantimplora con agua bendita",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>cantimplora con agua bendita</p>",
+   "description": "<p>Una cantimplora marcada con símbolos de protección y llena de agua consagrada antes del embarque. Se emplea en bendiciones, limpiezas y pequeños gestos contra la mala suerte. El tapón está sujeto con alambre porque la rosca original se perdió hace años. El líquido sabe a cobre y deja un sedimento oscuro en el fondo.<br><strong>Bebe con fe. O, al menos, con sed.</strong></p><p><strong>Reglas.</strong> cantimplora con agua bendita</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1841,12 +1841,12 @@
  },
  {
   "_id": "TWr8mJmLA6fmSkUr",
-  "name": "petaca de alcohol de grano",
+  "name": "Petaca de alcohol de grano",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>petaca de alcohol de grano</p>",
+   "description": "<p>Una petaca abollada con alcohol de grano, calor barato para los turnos largos y anestesia improvisada para los accidentes pequeños. El metal conserva el olor de todas las cubiertas donde ha estado. Su propietario la ofrece como muestra de confianza, aunque a veces olvida haberlo hecho y la busca mientras la sostiene.<br><strong>Un trago para el frío. Dos para la memoria.</strong></p><p><strong>Reglas.</strong> petaca de alcohol de grano</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1861,12 +1861,12 @@
  },
  {
   "_id": "KN2J5BzNiLZgdibh",
-  "name": "cúter",
+  "name": "Cúter",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C4.webp",
   "folder": null,
   "system": {
-   "description": "<p>cúter</p>",
+   "description": "<p>Herramienta plegable con hoja corta, pensada para abrir embalajes, raspar juntas y cortar bridas en una emergencia. Cabe en cualquier bolsillo y suele llevar restos de cinta adhesiva pegados al mango. El mecanismo se atasca con polvo fino, justo cuando más falta hace. Nunca confíes en que la hoja está realmente cerrada.<br><strong>Corta el precinto. No la mano.</strong></p><p><strong>Reglas.</strong> cúter</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1881,12 +1881,12 @@
  },
  {
   "_id": "Pk1wXTE5z9W2BLjp",
-  "name": "opio",
+  "name": "Opio",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A1.webp",
   "folder": null,
   "system": {
-   "description": "<p>opio</p>",
+   "description": "<p>Una pequeña reserva de opio, guardada en un envoltorio encerado y lejos de las herramientas comunes. Se usa para calmar dolores, dormir durante tormentas de radiación o silenciar recuerdos demasiado ruidosos. El paquete cambia de escondite con cada turno y siempre falta una cantidad imposible de justificar.<br><strong>Alivia el dolor. También puede quedarse con él.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1901,12 +1901,12 @@
  },
  {
   "_id": "23zcxE4NSNHUlG58",
-  "name": "pipa",
+  "name": "Pipa",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H7.webp",
   "folder": null,
   "system": {
-   "description": "<p>pipa</p>",
+   "description": "<p>Una pipa de madera oscura o metal ennegrecido, acompañante de pausas breves en cubiertas donde nadie fuma por placer. Sirve para quemar tabaco, hierbas o mezclas de origen poco claro. La cazoleta conserva sabores antiguos y el humo se queda atrapado en el pelo durante horas.<br><strong>Enciende despacio. Respira menos.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1921,12 +1921,12 @@
  },
  {
   "_id": "HzvhHJsgoQOdrk8r",
-  "name": "paracord 20 m",
+  "name": "Paracord 20 m",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A6.webp",
   "folder": null,
   "system": {
-   "description": "<p>paracord 20 m</p>",
+   "description": "<p>Veinte metros de cuerda sintética trenzada, compacta, resistente y útil para asegurar carga, improvisar reparaciones o marcar una ruta de regreso. Suele ir enrollada con obsesivo cuidado, aunque termina llena de nudos después del primer incidente. Algunas fibras brillan bajo la luz ultravioleta, detalle que nadie menciona en el inventario.<br><strong>Haz un nudo. Luego pregunta por qué.</strong></p><p><strong>Reglas.</strong> paracord 20 m</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1941,12 +1941,12 @@
  },
  {
   "_id": "GvXo486VNhSsqACv",
-  "name": "ratón",
+  "name": "Ratón",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/E8.webp",
   "folder": null,
   "system": {
-   "description": "<p>ratón</p>",
+   "description": "<p>Compañero pequeño, nervioso y sorprendentemente adaptable. Vive entre cajas, paneles y conductos, donde mantiene a raya a los insectos y roba cualquier cosa brillante. Sus chillidos revelan cambios de presión antes que algunos instrumentos. Si aparece con el pelo húmedo, la tripulación revisa las tuberías y evita dormir cerca de las paredes.<br><strong>Aliméntalo bien. Sabe dónde cruje la nave.</strong></p><p><strong>Reglas.</strong> ratón</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1961,12 +1961,12 @@
  },
  {
   "_id": "jbhMiLwOHdge2FmM",
-  "name": "cartera",
+  "name": "Cartera",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A12.webp",
   "folder": null,
   "system": {
-   "description": "<p>cartera</p>",
+   "description": "<p>Guarda identificaciones, tarjetas de acceso y las últimas fotografías que aún no se han corrompido. Suele fabricarse con polímero flexible, cosido a mano y con un cierre que protesta en los controles. La cartera dice mucho de su dueño: ordenado, supersticioso o incapaz de tirar un recibo de hace diez años. Si pesa demasiado, quizá no sea por dinero. <strong>Lleva solo lo que puedas perder.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -1981,12 +1981,12 @@
  },
  {
   "_id": "4howtA9AX5m7067k",
-  "name": "pastillas de cafeína",
+  "name": "Pastillas de cafeína",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A2.webp",
   "folder": null,
   "system": {
-   "description": "<p>pastillas de cafeína</p>",
+   "description": "<p>Pequeños comprimidos para mantener los ojos abiertos durante turnos interminables, maniobras de emergencia y reuniones con supervisores que sonríen demasiado. Vienen en tubos sin etiqueta o con colores apagados por la humedad. El temblor de manos suele llegar antes que el alivio, y algunos tripulantes aseguran que oyen el motor hablar después de tres. <strong>Duerme cuando puedas.</strong></p><p><strong>Reglas.</strong> pastillas de cafeína</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2001,12 +2001,12 @@
  },
  {
   "_id": "h53pFR0jYfWbwg5n",
-  "name": "placa falsa",
+  "name": "Placa falsa",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C10.webp",
   "folder": null,
   "system": {
-   "description": "<p>placa falsa</p>",
+   "description": "<p>Documento de identidad, permiso de atraque o acreditación de una empresa que quizá no existe. Está impreso sobre material barato, con hologramas torcidos y una fotografía deliberadamente poco favorecedora. Sirve para atravesar puertas aburridas, pero los lectores antiguos detectan detalles que nadie recuerda haber añadido. Su dueño suele conocer a alguien que conoce a alguien. <strong>La tinta también declara.</strong></p><p><strong>Reglas.</strong> placa falsa</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2021,12 +2021,12 @@
  },
  {
   "_id": "ZYfELIlemLCeVGsI",
-  "name": "drogas recreativas",
+  "name": "Drogas recreativas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A1.webp",
   "folder": null,
   "system": {
-   "description": "<p>drogas recreativas x2</p>",
+   "description": "<p>Tabletas, polvo o ampollas adquiridas en puertos donde las cámaras nunca funcionan bien. Se usan para celebrar contratos, soportar escalas largas o fingir que el camarote no huele a muerte. El envoltorio cambia según el proveedor y rara vez incluye instrucciones legibles. Llevarlas revela confianza, desesperación o ambas cosas a la vez. <strong>La diversión deja residuos.</strong></p><p><strong>Reglas.</strong> drogas recreativas x2</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2041,12 +2041,12 @@
  },
  {
   "_id": "pUiEhr4Zq68kn0ey",
-  "name": "mascota",
+  "name": "Mascota",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C14.webp",
   "folder": null,
   "system": {
-   "description": "<p>mascota</p>",
+   "description": "<p>Un compañero pequeño, extraño y sorprendentemente resistente a los trayectos de carga. Puede ser peludo, escamoso, viscoso o tener demasiados ojos para una mascota doméstica. Duerme cerca de los conductos calientes y reconoce las voces antes que los nombres. Su presencia revela que el dueño todavía conserva algo de ternura, aunque el animal muerda al personal médico. <strong>No lo dejes solo.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2061,12 +2061,12 @@
  },
  {
   "_id": "D1BAr1rgrkjSDsui",
-  "name": "contacto criminal",
+  "name": "Contacto criminal",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>contacto criminal</p>",
+   "description": "<p>Un nombre guardado en una libreta, una frecuencia cifrada o un rostro que nunca aparece dos veces en el mismo puerto. Este contacto consigue piezas, favores y rutas discretas, siempre a cambio de algo incómodo. Puede conocer la ley mejor que cualquier abogado y la nave peor que cualquier mecánico. Tenerlo cerca dice que alguien ya cruzó una línea. <strong>Las deudas viajan lejos.</strong></p><p><strong>Reglas.</strong> contacto criminal</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2081,12 +2081,12 @@
  },
  {
   "_id": "DONpSgWql5Fs2Kew",
-  "name": "localizador dañado",
+  "name": "Localizador dañado",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C6.webp",
   "folder": null,
   "system": {
-   "description": "<p>localizador dañado</p>",
+   "description": "<p>Dispositivo de rastreo con carcasa golpeada, antena torcida y una luz que parpadea sin ritmo. Todavía puede señalar una posición aproximada, aunque a veces insiste en localizar objetos que quedaron atrás o lugares que no figuran en ningún mapa. Se conserva por costumbre, miedo o falta de repuesto. Su dueño nunca admite que lo escucha por la noche. <strong>Si pita, no respondas.</strong></p><p><strong>Reglas.</strong> localizador dañado</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2101,12 +2101,12 @@
  },
  {
   "_id": "JBBhqjyLBQIgWukg",
-  "name": "localizador",
+  "name": "Localizador",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C6.webp",
   "folder": null,
   "system": {
-   "description": "<p>localizador</p>",
+   "description": "<p>Baliza compacta para marcar personas, contenedores, vehículos o puntos de reunión en estaciones congestionadas. Su carcasa lleva imanes, arañazos y una etiqueta de mantenimiento que nadie ha actualizado. Emite una señal discreta, pero no tan discreta como prometen los vendedores de la cubierta inferior. Resulta útil hasta que alguien decide seguirla en sentido contrario. <strong>Siempre deja rastro.</strong></p><p><strong>Reglas.</strong> localizador</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2121,12 +2121,12 @@
  },
  {
   "_id": "dSjVDKSHNKqyAw0b",
-  "name": "raciones",
+  "name": "Raciones",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D7.webp",
   "folder": null,
   "system": {
-   "description": "<p>raciones x7</p>",
+   "description": "<p>Paquetes sellados de alimento comprimido, caldo mineral y bebida con sabor a algo. Se almacenan bajo los asientos, detrás de los filtros o en compartimentos que oficialmente no existen. La textura recuerda al aislamiento de cables y el último paquete suele desaparecer durante una guardia. Las raciones cuentan una verdad sencilla sobre la tripulación: nadie confía en el siguiente puerto. <strong>Come antes de investigar.</strong></p><p><strong>Reglas.</strong> raciones x7</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2141,12 +2141,12 @@
  },
  {
   "_id": "zcOM89kTqaPFmDEt",
-  "name": "unidad MoHab",
+  "name": "Unidad MoHab",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>unidad MoHab</p>",
+   "description": "<p>Módulo habitable plegable para ampliar una nave, improvisar un puesto de descanso o alojar a alguien que no conviene dejar suelto por los pasillos. Sus paneles encajan con un chasquido tranquilizador y sus juntas acumulan polvo de otros viajes. El sistema de ventilación tiene opiniones propias sobre el aire limpio. <strong>Hogar es donde no gotea el techo.</strong></p><p><strong>Reglas.</strong> unidad MoHab</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2161,12 +2161,12 @@
  },
  {
   "_id": "rkH3Pce6Z1CQvRxf",
-  "name": "dron de reconocimiento",
+  "name": "Dron de reconocimiento",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C1.webp",
   "folder": null,
   "system": {
-   "description": "<p>dron de reconocimiento</p>",
+   "description": "<p>Máquina ligera con cámara, sensores y hélices protegidas por una jaula de reparación. Explora corredores, bodegas y ruinas antes de enviar a una persona, aunque sus grabaciones suelen omitir justo lo importante. Regresa cubierta de polvo, sangre o una sustancia que nadie quiere identificar. La tripulación le habla como si pudiera sentir miedo. <strong>Primero manda el dron.</strong></p><p><strong>Reglas.</strong> dron de reconocimiento</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2181,12 +2181,12 @@
  },
  {
   "_id": "wWAkHjYbTkl2cmWX",
-  "name": "paracord",
+  "name": "Paracord",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A6.webp",
   "folder": null,
   "system": {
-   "description": "<p>paracord</p>",
+   "description": "<p>Cuerda sintética de gran resistencia, enrollada con cuidado y marcada por nudos de usos anteriores. Sirve para asegurar carga, improvisar sujeciones, reparar una escotilla o sacar a alguien de un lugar demasiado oscuro. El aislamiento puede esconder cortes, fibras quemadas o manchas que no son óxido. Su dueño sabe arreglar cosas y rara vez pregunta por qué. <strong>Haz un nudo y sigue.</strong></p><p><strong>Reglas.</strong> paracord</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2201,12 +2201,12 @@
  },
  {
   "_id": "g80SFacfLKGvx9N6",
-  "name": "cóctel frutal",
+  "name": "Cóctel frutal",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>cóctel frutal</p>",
+   "description": "<p>Mezcla embotellada de zumos concentrados, hielo industrial y un destilado de procedencia dudosa. Se sirve en vasos transparentes para que el color oculte las impurezas. Endulza conversaciones tensas y ayuda a celebrar reparaciones que todavía no han terminado. El sabor cambia según la fruta disponible y a veces deja una película luminosa en los labios. <strong>Bébelo antes de que se mueva.</strong></p><p><strong>Reglas.</strong> cóctel frutal</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2221,12 +2221,12 @@
  },
  {
   "_id": "QIIPfZzpZ8W2QYkY",
-  "name": "baraja",
+  "name": "Baraja",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A15.webp",
   "folder": null,
   "system": {
-   "description": "<p>baraja</p>",
+   "description": "<p>Baraja gastada, plastificada y con varias cartas ligeramente más gruesas que las demás. Se usa para pasar guardias, negociar turnos o decidir quién sale primero a revisar el ruido del casco. Las ilustraciones mezclan animales imposibles con símbolos de antiguas rutas comerciales. Quien la lleva suele saber perder con elegancia y hacer trampas sin levantar la voz. <strong>Reparte y no preguntes.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2241,12 +2241,12 @@
  },
  {
   "_id": "XApIHwucplWw057H",
-  "name": "cupones",
+  "name": "Cupones",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "folder": null,
   "system": {
-   "description": "<p>cupones</p>",
+   "description": "<p>Pequeños vales impresos para canjear servicios, comida o favores en estaciones de paso. Suelen llevar sellos de empresas desaparecidas y una letra diminuta que nadie lee hasta que es demasiado tarde. Algunos tripulantes los guardan como inversión; otros los usan para encender cigarrillos. Caducan justo cuando más falta hacen. <strong>El futuro acepta cupones. A veces.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2261,12 +2261,12 @@
  },
  {
   "_id": "7xcIPNLN2JlEBIVa",
-  "name": "pack de cerveza",
+  "name": "Pack de cerveza",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>pack de cerveza x6</p>",
+   "description": "<p>Seis latas de cerveza tibia, encajadas en plástico gris y protegidas contra golpes moderados. Sirven para celebrar un aterrizaje, sobornar a un técnico o soportar una reunión de seguridad. El sabor recuerda al metal húmedo, pero nadie pregunta por la receta. Una lata siempre aparece abollada y nadie admite haberla abierto. <strong>Bebe despacio. El casco no perdona.</strong></p><p><strong>Reglas.</strong> pack de cerveza x6</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2281,12 +2281,12 @@
  },
  {
   "_id": "LhcIQla3uc2WGv8p",
-  "name": "cámara",
+  "name": "Cámara",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D2.webp",
   "folder": null,
   "system": {
-   "description": "<p>cámara</p>",
+   "description": "<p>Dispositivo compacto para registrar rostros, averías y escenas que luego conviene negar. El cuerpo lleva arañazos, cinta aislante y una lente que tiende a empañarse en los momentos importantes. Sus imágenes pueden demostrar quién abrió la compuerta, aunque también captan sombras que no estaban allí. <em>La memoria no es una prueba de cordura.</em></p><p><strong>Reglas.</strong> cámara</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2301,12 +2301,12 @@
  },
  {
   "_id": "3TqnkGnGNQAdTCxL",
-  "name": "mapa en papel del sistema",
+  "name": "Mapa en papel del sistema",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>mapa en papel del sistema</p>",
+   "description": "<p>Hoja plegada con rutas, órbitas y anotaciones hechas por varias manos nerviosas. Resulta útil cuando los sistemas de navegación fallan o cuando la tripulación necesita fingir que sabe adónde va. El papel huele a combustible y conserva una mancha de café sobre el único puerto seguro. Hay caminos tachados sin explicación. <strong>No sigas una línea que respira.</strong></p><p><strong>Reglas.</strong> mapa en papel del sistema</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2321,12 +2321,12 @@
  },
  {
   "_id": "weC38BnJP6jFMYmq",
-  "name": "mascota gato o perro pequeño",
+  "name": "Mascota gato o perro pequeño",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C14.webp",
   "folder": null,
   "system": {
-   "description": "<p>mascota gato o perro pequeño</p>",
+   "description": "<p>Compañero pequeño, peludo y sorprendentemente adaptable a los ruidos de la nave. Duerme sobre motores calientes, detecta presencias antes que los sensores y juzga a cada visitante con una sinceridad incómoda. Su dueño lo trata como familia, o como la única criatura que aún le espera al volver. A veces mira un rincón vacío durante horas. <strong>Si gruñe, escucha.</strong></p><p><strong>Reglas.</strong> mascota gato o perro pequeño</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2341,12 +2341,12 @@
  },
  {
   "_id": "kkll9pvy5sVMSzfe",
-  "name": "maleta con ruedas",
+  "name": "Maleta con ruedas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A12.webp",
   "folder": null,
   "system": {
-   "description": "<p>maleta con ruedas</p>",
+   "description": "<p>Equipaje rígido con ruedas desparejadas, asa telescópica y una cerradura que funciona cuando le apetece. Facilita los traslados entre hangares, camarotes y oficinas donde nadie quiere cargar con sus propias decisiones. Las pegatinas cuentan más viajes que su propietario. Una rueda chirría al pasar cerca de puertas selladas. <strong>Arrastra tus problemas con estilo.</strong></p><p><strong>Reglas.</strong> maleta con ruedas</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2361,12 +2361,12 @@
  },
  {
   "_id": "mgsSTHsptdikrxwH",
-  "name": "tanque de oxígeno",
+  "name": "Tanque de oxígeno",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A4.webp",
   "folder": null,
   "system": {
-   "description": "<p>tanque de oxígeno</p>",
+   "description": "<p>Depósito portátil para respirar durante reparaciones, incendios o paseos por lugares donde el aire tiene malas intenciones. Su carcasa muestra golpes, números borrados y una válvula remendada con piezas de procedencia dudosa. Pesa más de lo que parece y siempre queda menos contenido del esperado. <strong>Comprueba la válvula antes de confiar en el universo.</strong></p><p><strong>Reglas.</strong> tanque de oxígeno</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2381,12 +2381,12 @@
  },
  {
   "_id": "m2iPdUICZWcjyTw7",
-  "name": "whisky",
+  "name": "Whisky",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>whisky</p>",
+   "description": "<p>Botella de licor oscuro, guardada para brindar, olvidar o tomar decisiones que parecían malas incluso antes de beber. El vidrio suele llevar una etiqueta arrancada y un tapón que no encaja del todo. Su dueño lo reserva para ocasiones especiales, que en una nave vieja ocurren con demasiada frecuencia. <em>Un trago no arregla la avería.</em></p><p><strong>Reglas.</strong> whisky</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2401,12 +2401,12 @@
  },
  {
   "_id": "uxKaMal8CcLjniNc",
-  "name": "sentido de privilegio",
+  "name": "Sentido de privilegio",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "folder": null,
   "system": {
-   "description": "<p>sentido de privilegio</p>",
+   "description": "<p>Actitud cultivada en despachos cómodos, camarotes privados y filas que siempre se abren a tiempo. Quien la posee espera atención inmediata, obediencia y una explicación escrita cuando algo sale mal. Resulta difícil de abandonar, incluso después de perder el uniforme y el sueldo. En espacios estrechos ocupa más que una maleta. <strong>El privilegio no sirve de escudo.</strong></p><p><strong>Reglas.</strong> sentido de privilegio</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2421,12 +2421,12 @@
  },
  {
   "_id": "e9jJHfu18dwim1Ij",
-  "name": "tarjeta VIP corporativa retirada",
+  "name": "Tarjeta VIP corporativa retirada",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C10.webp",
   "folder": null,
   "system": {
-   "description": "<p>tarjeta VIP corporativa retirada</p>",
+   "description": "<p>Placa laminada con el emblema de una compañía que ya no responde llamadas. Todavía abre alguna puerta, provoca saludos automáticos y recuerda a su dueño una época de hoteles limpios y comida caliente. La banda magnética está gastada, pero el nombre grabado sigue imponiendo respeto. Algunos guardias fingen no reconocerla. <strong>La vieja autoridad también caduca.</strong></p><p><strong>Reglas.</strong> tarjeta VIP corporativa retirada</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2441,12 +2441,12 @@
  },
  {
   "_id": "VrOd9AROCLY1GVeq",
-  "name": "una cantidad obscena de créditos y negativa a gastarlos",
+  "name": "Una cantidad obscena de créditos y negativa a gastarlos",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "folder": null,
   "system": {
-   "description": "<p>una cantidad obscena de créditos y negativa a gastarlos</p>",
+   "description": "<p>Fortuna suficiente para comprar favores, suministros y probablemente una nave mejor, acompañada de una resistencia casi religiosa a tocarla. Su propietario cuenta cada crédito, negocia hasta el aire y duerme abrazado a sus claves. La riqueza ofrece seguridad, pero también atrae reclamaciones, ladrones y familiares repentinos. <strong>Ahorrar no detiene una descompresión.</strong></p><p><strong>Reglas.</strong> una cantidad obscena de créditos y negativa a gastarlos</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2461,12 +2461,12 @@
  },
  {
   "_id": "kFb2jyTV12PijYJp",
-  "name": "collar de descarga pirateado",
+  "name": "Collar de descarga pirateado",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>collar de descarga pirateado</p>",
+   "description": "<p>Collar de control modificado con herramientas improvisadas y demasiadas funciones ocultas. Puede intimidar a una mascota, un prisionero o a quien lo encuentre en la caja de mantenimiento. Los cables sobresalen como venas y el cierre deja una marca rojiza. Su dueño asegura que está desactivado. Nadie se ofrece a comprobarlo. <strong>La garantía quedó en otra galaxia.</strong></p><p><strong>Reglas.</strong> collar de descarga pirateado</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2481,12 +2481,12 @@
  },
  {
   "_id": "Vxi5AUhJD3o3PFIE",
-  "name": "póster pornográfico",
+  "name": "Póster pornográfico",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H13.webp",
   "folder": null,
   "system": {
-   "description": "<p>póster pornográfico</p>",
+   "description": "<p>Cartel enrollado, de colores intensos y gusto discutible, rescatado de un camarote abandonado o comprado con vergüenza. Sirve para cubrir una pared oxidada, distraer visitas y recordar que la tripulación aún conserva deseos, aunque sean poco elegantes. El adhesivo falla con la humedad y deja manchas persistentes. <strong>Decora bajo tu propia responsabilidad.</strong></p><p><strong>Reglas.</strong> póster pornográfico</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2501,12 +2501,12 @@
  },
  {
   "_id": "eEzb4VkQboznh2mB",
-  "name": "gorro de chef",
+  "name": "Gorro de chef",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H10.webp",
   "folder": null,
   "system": {
-   "description": "<p>gorro de chef</p>",
+   "description": "<p>Prenda blanca y alta, diseñada para imponer orden en cocinas donde todo tiende a incendiarse. Su propietario la lleva con orgullo, ironía o desesperación, según el menú y la calidad del agua. Las manchas forman un historial de turnos, motines y experimentos culinarios. Conserva una costura azul de un antiguo comedor corporativo. <strong>La higiene empieza por la cabeza.</strong></p><p><strong>Reglas.</strong> gorro de chef</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2521,12 +2521,12 @@
  },
  {
   "_id": "XfWxnkLTPubUM8Kc",
-  "name": "bridas",
+  "name": "Bridas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A6.webp",
   "folder": null,
   "system": {
-   "description": "<p>bridas</p>",
+   "description": "<p>Un puñado de tiras dentadas, negras de grasa y con el cierre medio gastado. Sirven para sujetar cables, cerrar compuertas que no encajan y mantener unido cualquier componente que la compañía no quiera reparar. Algunas llevan marcas de dientes o quemaduras de motor. Fallan justo cuando más aprieta el vacío. <strong>Si se mueve, brídalo.</strong></p><p><strong>Reglas.</strong> bridas</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2541,12 +2541,12 @@
  },
  {
   "_id": "4oczOBKXPTnNXahd",
-  "name": "mechero soplete",
+  "name": "Mechero soplete",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/G13.webp",
   "folder": null,
   "system": {
-   "description": "<p>mechero soplete</p>",
+   "description": "<p>Pequeño, pesado y con el depósito arañado por años de servicio. En la nave se usa para calentar tuberías, encoger aislantes y convencer a tornillos oxidados. La llama azul tiembla cuando queda poco combustible, aunque nadie recuerda haberlo rellenado. Un encendido demasiado alegre puede dejar una mancha negra en el techo. <strong>El fuego siempre encuentra trabajo.</strong></p><p><strong>Reglas.</strong> mechero soplete</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2561,12 +2561,12 @@
  },
  {
   "_id": "toDSrJCHvjWHKu4n",
-  "name": "bandana",
+  "name": "Bandana",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H6.webp",
   "folder": null,
   "system": {
-   "description": "<p>bandana</p>",
+   "description": "<p>La tela está descolorida, impregnada de sudor, polvo de carga y algún desinfectante barato. Protege del aceite, disimula una cicatriz o sirve de filtro improvisado durante una fuga. El estampado suele revelar una antigua lealtad: una tripulación, un sindicato o una promesa incumplida. Después de cada lavado aparece una mancha nueva. <strong>Aprieta los dientes y sigue.</strong></p><p><strong>Reglas.</strong> bandana</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2581,12 +2581,12 @@
  },
  {
   "_id": "jNOBWceQjKvpPTW5",
-  "name": "gafas de sol",
+  "name": "Gafas de sol",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D9.webp",
   "folder": null,
   "system": {
-   "description": "<p>gafas de sol</p>",
+   "description": "<p>Montura ligera, cristales oscuros y bisagras que crujen al abrirse. Resultan útiles contra destellos de soldadura, polvo mineral y la iluminación criminal de ciertos hangares. Su dueño las conserva incluso dentro de la nave, quizá para parecer más importante o para ocultar unas ojeras imposibles. La lente izquierda refleja cosas que no están detrás. <strong>No mires demasiado tiempo.</strong></p><p><strong>Reglas.</strong> gafas de sol</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2601,12 +2601,12 @@
  },
  {
   "_id": "79c5seU1QZ47EOWj",
-  "name": "llaves de camión todoterreno",
+  "name": "Llaves de camión todoterreno",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H15.webp",
   "folder": null,
   "system": {
-   "description": "<p>llaves de camión todoterreno</p>",
+   "description": "<p>Un llavero de metal abollado, unido a varias llaves enormes y una etiqueta con letras casi borradas. Pertenecen a un camión todoterreno viejo, aunque nadie sabe si sigue existiendo o si espera en algún desguace orbital. Su dueño habla de él como de un compañero. Una llave abre siempre la puerta equivocada. <strong>Arranca primero. Pregunta después.</strong></p><p><strong>Reglas.</strong> llaves de camión todoterreno</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2621,12 +2621,12 @@
  },
  {
   "_id": "JManGyQYjSbHuYhW",
-  "name": "aviador espejo",
+  "name": "Aviador espejo",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D9.webp",
   "folder": null,
   "system": {
-   "description": "<p>aviador espejo</p>",
+   "description": "<p>Gafas de aviador con cristales plateados, demasiado elegantes para una cubierta llena de remaches. Protegen los ojos de chispas, polvo y la luz enfermiza de los motores de salto. También sirven para proyectar una seguridad que quizá ya no queda. El espejo del cristal derecho devuelve una expresión ligeramente distinta. <strong>La confianza también lleva montura.</strong></p><p><strong>Reglas.</strong> aviador espejo</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2641,12 +2641,12 @@
  },
  {
   "_id": "bvKsiXFuCvBmffAP",
-  "name": "maletín de cocaína",
+  "name": "Maletín de cocaína",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A1.webp",
   "folder": null,
   "system": {
-   "description": "<p>maletín de cocaína</p>",
+   "description": "<p>Maletín rígido, cierres cromados y un olor dulce que sobrevive a cualquier desinfectante. Transporta paquetes de cocaína lejos de aduanas, inspectores y compañeros demasiado curiosos. El interior está acolchado con espuma industrial, no con el material original. Su propietario suele hablar poco y revisar dos veces las cerraduras. El polvo se pega a los guantes. <strong>Nunca viajes sin un plan de fuga.</strong></p><p><strong>Reglas.</strong> maletín de cocaína</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2661,12 +2661,12 @@
  },
  {
   "_id": "ev3W7fbXTef6vt3d",
-  "name": "entradas de club",
+  "name": "Entradas de club",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H14.webp",
   "folder": null,
   "system": {
-   "description": "<p>entradas de club</p>",
+   "description": "<p>Dos entradas plastificadas para un club que probablemente cambió de nombre, dueño o planeta. Representan una noche prometida, una deuda pendiente o la esperanza de volver a ser alguien durante unas horas. Se guardan en la cartera, junto a recibos ilegales y fotografías borrosas. El código de barras aún funciona, pero solo después de medianoche. <strong>La fiesta también cobra intereses.</strong></p><p><strong>Reglas.</strong> entradas de club</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2681,12 +2681,12 @@
  },
  {
   "_id": "cDofzrFqw1wb4N6C",
-  "name": "brazo cibernético",
+  "name": "Brazo cibernético",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/B6.webp",
   "folder": null,
   "system": {
-   "description": "<p>brazo cibernético</p>",
+   "description": "<p>Prótesis industrial de aspecto robusto, con placas rayadas y conectores que nunca quedan del todo limpios. Ayuda a cargar piezas, cerrar compuertas y golpear maquinaria que se resiste a cooperar. Su propietario conoce cada zumbido y cada tirón del sistema. A veces mueve los dedos durante el sueño, siguiendo órdenes antiguas. <strong>La carne falla. El metal recuerda.</strong></p><p><strong>Reglas.</strong> brazo cibernético</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2701,12 +2701,12 @@
  },
  {
   "_id": "kl2PDVUwcXdHPBAt",
-  "name": "aeroshell de reentrada",
+  "name": "Aeroshell de reentrada",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/B6.webp",
   "folder": null,
   "system": {
-   "description": "<p>aeroshell de reentrada</p>",
+   "description": "<p>Carcasa de reentrada cubierta de abrasiones, sellos endurecidos y números de mantenimiento contradictorios. Protege a su ocupante durante descensos violentos, cuando la atmósfera decide cobrar peaje. El interior huele a plástico caliente y vómito seco. Una junta pierde presión si se cierra con demasiada confianza. Fue certificado por una empresa que ya no responde. <strong>Caer es fácil. Frenar, no.</strong></p><p><strong>Reglas.</strong> aeroshell de reentrada</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2726,7 +2726,7 @@
   "img": "modules/mr-mothership-es/iconos/B6.webp",
   "folder": null,
   "system": {
-   "description": "<p>MMU</p>",
+   "description": "<p>Unidad de maniobra personal con depósitos compactos, controles sencillos y una capa de polvo adherida a cada superficie. Permite desplazarse fuera del casco, recuperar herramientas o alcanzar una escotilla que quedó demasiado lejos. El indicador de combustible parece optimista incluso cuando no debería. En silencio, los propulsores emiten un golpeteo irregular. <strong>El espacio no perdona los rodeos.</strong></p><p><strong>Reglas.</strong> MMU</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2741,12 +2741,12 @@
  },
  {
   "_id": "Gi59EwWRMCk3qT8o",
-  "name": "radio cifrada militar",
+  "name": "Radio cifrada militar",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A5.webp",
   "folder": null,
   "system": {
-   "description": "<p>radio cifrada militar</p>",
+   "description": "<p>Radio de carcasa verde apagada, antena plegable y teclado protegido con una cubierta de goma. Mantiene comunicaciones discretas cuando la empresa, los piratas o ambos escuchan demasiado. Su cifrado exige una secuencia que nadie conserva por escrito. En ocasiones transmite una voz militar entre mensajes muertos. El aparato niega haberla emitido. <strong>Habla bajo. Escucha más bajo.</strong></p><p><strong>Reglas.</strong> radio cifrada militar</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2766,7 +2766,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa interior</p>",
+   "description": "<p>Prenda básica, doblada con una disciplina que rara vez sobrevive al segundo turno. A bordo cumple una función sencilla: conservar un mínimo de dignidad frente a duchas averiadas, lavadoras contaminadas y compañeros sin sentido del espacio personal. El tejido lleva una etiqueta cortada y una mancha imposible de identificar. Su dueño la guarda como si fuera un uniforme. <strong>La higiene es una forma de resistencia.</strong></p><p><strong>Reglas.</strong> Ropa interior</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2781,12 +2781,12 @@
  },
  {
   "_id": "fNbFWHdcSXGkrbTW",
-  "name": "resaca incapacitante",
+  "name": "Resaca incapacitante",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>resaca incapacitante</p>",
+   "description": "<p>El cuerpo paga ahora la factura de una noche que parecía buena idea. La resaca llega con boca seca, luces demasiado fuertes y una incapacidad absoluta para tolerar otro pitido de alarma. Suele revelar quién bebió por celebración, quién por miedo y quién no recuerda la diferencia. El café empeora las cosas, pero nadie aprende. <strong>El turno empieza igual.</strong></p><p><strong>Reglas.</strong> resaca incapacitante</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2801,12 +2801,12 @@
  },
  {
   "_id": "UC0isrqkc8cdwiO1",
-  "name": "corbata horrible",
+  "name": "Corbata horrible",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/B5.webp",
   "folder": null,
   "system": {
-   "description": "<p>corbata horrible</p>",
+   "description": "<p>Prenda corporativa de corte rígido, color indefinible y estampado capaz de provocar disculpas antes de una reunión. Sirve para parecer ascendido cuando toca negociar con supervisores, inspectores o criaturas que entienden de jerarquías. El nudo aprieta incluso sin gravedad. Su antiguo propietario juraba que traía suerte; también desapareció durante una auditoría. <strong>Viste el éxito. Sobrevive a la vergüenza.</strong></p><p><strong>Reglas.</strong> corbata horrible</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2826,7 +2826,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa de oficina</p>",
+   "description": "<p>Conjunto de camisa, pantalón y chaqueta pensado para oficinas que flotan demasiado lejos de cualquier planeta. A bordo permite fingir normalidad durante videollamadas, evaluaciones y despidos colectivos. La tela conserva un olor tenue a moqueta, sudor y desinfectante barato. Sus bolsillos guardan recibos de dietas nunca pagadas. <strong>La productividad exige una buena apariencia.</strong></p><p><strong>Reglas.</strong> Ropa de oficina</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2841,12 +2841,12 @@
  },
  {
   "_id": "gr2BwGUK5oBgobWv",
-  "name": "archivador de cuentas",
+  "name": "Archivador de cuentas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>archivador de cuentas</p>",
+   "description": "<p>Carpeta gruesa, reforzada en las esquinas, con facturas, balances y anotaciones que nadie quiere revisar. Resulta útil para demostrar que una avería, una muerte o una demora ya estaba presupuestada. Las hojas están ordenadas por colores, aunque algunos cambian bajo luz ultravioleta. Un antiguo contable dejó una página en blanco para futuras tragedias. <strong>Todo gasto encuentra su justificación.</strong></p><p><strong>Reglas.</strong> archivador de cuentas</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2861,12 +2861,12 @@
  },
  {
   "_id": "HuwlXcs9GXwLPn2t",
-  "name": "café sintético",
+  "name": "Café sintético",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F8.webp",
   "folder": null,
   "system": {
-   "description": "<p>café sintético</p>",
+   "description": "<p>Bebida oscura fabricada con extractos, aromatizantes y la promesa de mantener despierta a cualquier tripulación. Se prepara en vasos desechables y deja un brillo aceitoso sobre la lengua. El sabor recuerda vagamente al café, si uno ha olvidado cómo era. A veces produce temblores justo cuando empieza una inspección. <strong>Despierta. Cumple. No preguntes por los ingredientes.</strong></p><p><strong>Reglas.</strong> café sintético</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2881,12 +2881,12 @@
  },
  {
   "_id": "eCUkUDXL9OGblgRd",
-  "name": "pelota antiestrés",
+  "name": "Pelota antiestrés",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C8.webp",
   "folder": null,
   "system": {
-   "description": "<p>pelota antiestrés</p>",
+   "description": "<p>Pequeño objeto de goma con forma de planeta sonriente, diseñado para descargar tensión entre turnos y alarmas. Cabe en una mano enguantada y vuelve lentamente a su forma tras cada apretón. Con el tiempo, algunas desarrollan grietas que parecen venas. La tripulación suele bautizarla después del tercer incidente grave. <strong>Aprieta fuerte. El casco también.</strong></p><p><strong>Reglas.</strong> pelota antiestrés</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2901,12 +2901,12 @@
  },
  {
   "_id": "cInmJMEcZC0CqIMs",
-  "name": "micrograbadora con mantras pro-corporativos",
+  "name": "Micrograbadora con mantras pro-corporativos",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>micrograbadora con mantras pro-corporativos</p>",
+   "description": "<p>Dispositivo diminuto que reproduce mensajes sobre compromiso, crecimiento y obediencia al protocolo. Se lleva en el bolsillo para escucharlo durante guardias largas o antes de firmar una renuncia. La carcasa está rayada y el altavoz distorsiona las palabras más importantes. En ocasiones empieza a sonar sin que nadie lo active. <strong>Tu empresa cree en ti. Probablemente.</strong></p><p><strong>Reglas.</strong> micrograbadora con mantras pro-corporativos</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2921,12 +2921,12 @@
  },
  {
   "_id": "ZKIQbbdTsA7QF27H",
-  "name": "bolígrafo",
+  "name": "Bolígrafo",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F11.webp",
   "folder": null,
   "system": {
-   "description": "<p>bolígrafo</p>",
+   "description": "<p>Instrumento sencillo para firmar informes, marcar cajas y dejar constancia de decisiones que luego nadie reconocerá. Su cuerpo transparente revela una tinta azul de origen incierto y un muelle fatigado. En gravedad cero, las gotas flotantes se adhieren a los paneles como pequeños testigos. Muchos tripulantes lo atan al uniforme para no perderlo. <strong>Una firma puede hundir una nave.</strong></p><p><strong>Reglas.</strong> bolígrafo</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2941,12 +2941,12 @@
  },
  {
   "_id": "EUroKjiq5r2H3C72",
-  "name": "tarjeta de gerente robada",
+  "name": "Tarjeta de gerente robada",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C10.webp",
   "folder": null,
   "system": {
-   "description": "<p>tarjeta de gerente robada</p>",
+   "description": "<p>Credencial de acceso perteneciente a alguien con más autoridad, mejores raciones y menos posibilidades de limpiar filtros. Permite adoptar una identidad respetable durante unos minutos, siempre que nadie mire demasiado la fotografía. El borde está doblado y conserva una mancha de sangre seca. Su dueño original sigue figurando como disponible para ascensos. <strong>La jerarquía abre puertas. También activa alarmas.</strong></p><p><strong>Reglas.</strong> tarjeta de gerente robada</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2961,12 +2961,12 @@
  },
  {
   "_id": "0y8z5OQsYQmovNWk",
-  "name": "fideos autocalentables",
+  "name": "Fideos autocalentables",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F12.webp",
   "folder": null,
   "system": {
-   "description": "<p>fideos autocalentables</p>",
+   "description": "<p>Ración compacta de fideos, especias y salsa concentrada que se calienta al añadir agua y paciencia. Resulta práctica durante reparaciones, guardias nocturnas o comidas demasiado cercanas a una fuga. El envase se hincha con un suspiro preocupante y nunca indica el contenido completo. Algunos sobres incluyen una pequeña pieza metálica. <strong>Calientes en minutos. Digestibles, quizá.</strong></p><p><strong>Reglas.</strong> fideos autocalentables</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -2981,12 +2981,12 @@
  },
  {
   "_id": "UEvGXq9ie34XniAZ",
-  "name": "alargador 50 m",
+  "name": "Alargador 50 m",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C4.webp",
   "folder": null,
   "system": {
-   "description": "<p>alargador 50 m</p>",
+   "description": "<p>Cable enrollado de gran longitud, con aislamiento grueso y conectores reparados varias veces. Sirve para llevar corriente a herramientas, luces de emergencia o habitaciones donde la nave ya ha decidido no colaborar. Su carrete pesa más de lo que parece y deja manchas negras en las manos. Nadie recuerda quién lo trajo. <strong>Donde no llega la nave, llega el cable.</strong></p><p><strong>Reglas.</strong> alargador 50 m</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3006,7 +3006,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Camisa hawaiana</p>",
+   "description": "<p>Camisa amplia, colorida y absolutamente inadecuada para cualquier protocolo de seguridad. Sus motivos tropicales representan palmeras, soles y aves que quizá no existan en ningún planeta conocido. Ayuda a distinguir al optimista, al recién llegado o al tripulante que ya ha renunciado a impresionar a nadie. Las mangas esconden reparaciones discretas. <strong>El vacío no tiene código de vestimenta.</strong></p><p><strong>Reglas.</strong> Camisa hawaiana</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3021,12 +3021,12 @@
  },
  {
   "_id": "ilbsSb5aoU9Jg6Nw",
-  "name": "petaca vacía",
+  "name": "Petaca vacía",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>petaca vacía</p>",
+   "description": "<p>Recipiente metálico pequeño, abollado y completamente vacío, conservado por costumbre más que por utilidad. Cabe en un bolsillo y suele acompañar a quienes necesitan recordar una celebración, una promesa o una mala decisión. Al agitarlo produce un sonido seco, como una respuesta. Su tapón no cierra bien desde el último puerto. <strong>Vacía por fuera. Llena de historias.</strong></p><p><strong>Reglas.</strong> petaca vacía</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3041,12 +3041,12 @@
  },
  {
   "_id": "BoVGWzj6rRRF2J4U",
-  "name": "chaleco reflectante",
+  "name": "Chaleco reflectante",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/B7.webp",
   "folder": null,
   "system": {
-   "description": "<p>chaleco reflectante</p>",
+   "description": "<p>Chaleco de tejido brillante pensado para que una persona cansada destaque entre humo, polvo y luces de emergencia. Sirve durante reparaciones, maniobras de carga y evacuaciones que nadie había previsto. El cierre se atasca con frecuencia y las bandas reflectantes pierden brillo bajo radiación intensa. Lleva escrito un nombre borrado por el uso. <strong>Si te ven, quizá te rescaten.</strong></p><p><strong>Reglas.</strong> chaleco reflectante</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3061,12 +3061,12 @@
  },
  {
   "_id": "s4HxZ6a7xkvilcl0",
-  "name": "portapapeles con nombres de colegas",
+  "name": "Portapapeles con nombres de colegas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>portapapeles con nombres de colegas</p>",
+   "description": "<p>Tablilla rígida cubierta de nombres, turnos y pequeñas notas sobre personas que ya no responden por el canal interno. Se usa para repartir tareas, comprobar ausencias y recordar quién debía traer repuestos. La tinta se ha corrido en varios nombres, como si hubieran sido borrados con humedad. Nadie quiere aparecer en la última línea. <strong>El trabajo continúa. La lista también.</strong></p><p><strong>Reglas.</strong> portapapeles con nombres de colegas</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3081,12 +3081,12 @@
  },
  {
   "_id": "pIDoyuHNYWlQIy4S",
-  "name": "extintor",
+  "name": "Extintor",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H4.webp",
   "folder": null,
   "system": {
-   "description": "<p>extintor</p>",
+   "description": "<p>Colgado junto a la compuerta, espera su momento con una calma irritante. Sirve para apagar incendios pequeños, motores que se calientan demasiado y errores de mantenimiento con llamas. La carcasa está abollada y lleva instrucciones en tres idiomas muertos. A veces descarga espuma antes de tiempo, justo sobre el uniforme del encargado. <strong>Apaga el fuego. Luego busca al responsable.</strong></p><p><strong>Reglas.</strong> extintor</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3106,7 +3106,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Camiseta de grupo</p>",
+   "description": "<p>Prenda de algodón barato, con un emblema que reúne a una banda, una tripulación o una pandilla de muelle. En los pasillos estrechos funciona como señal de pertenencia y excusa para discutir con desconocidos. El dibujo suele estar agrietado por los lavados industriales. Quien la conserva quiere recordar tiempos mejores, o fingir que existieron. <strong>La lealtad también encoge.</strong></p><p><strong>Reglas.</strong> Camiseta de grupo</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3121,12 +3121,12 @@
  },
  {
   "_id": "6rPDybU8Wi8wzPQK",
-  "name": "rompedor de contraseñas",
+  "name": "Rompedor de contraseñas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C0.webp",
   "folder": null,
   "system": {
-   "description": "<p>rompedor de contraseñas</p>",
+   "description": "<p>Pequeña caja de cables, pinzas y luces nerviosas. Se conecta a cerraduras, terminales y controles que nadie debería tocar sin autorización. Su carcasa lleva marcas de haber sido escondida en demasiados compartimentos. Puede tardar unos segundos eternos y emitir un pitido que delata al usuario. La tripulación lo llama herramienta; seguridad lo llama confesión. <strong>Toda contraseña guarda rencor.</strong></p><p><strong>Reglas.</strong> rompedor de contraseñas</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3146,7 +3146,7 @@
   "img": "modules/mr-mothership-es/iconos/C10.webp",
   "folder": null,
   "system": {
-   "description": "<p>ID corporativo falso</p>",
+   "description": "<p>Tarjeta plastificada con fotografía convincente, código de empleado y una empresa que quizá quebró hace años. Abre puertas, despierta saludos automáticos y convierte al portador en problema de otro departamento. La tinta reacciona mal al desinfectante y el holograma muestra, a veces, una cara distinta. Su dueño conoce el valor de parecer aburridamente autorizado. <strong>Sonría para el control de acceso.</strong></p><p><strong>Reglas.</strong> ID corporativo falso</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3161,12 +3161,12 @@
  },
  {
   "_id": "OzAZlCDcxnqBgMjv",
-  "name": "chicle",
+  "name": "Chicle",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/G12.webp",
   "folder": null,
   "system": {
-   "description": "<p>chicle</p>",
+   "description": "<p>Pequeño bloque dulce, flexible y resistente a casi todo, guardado en bolsillos, consolas y cajones de herramientas. Sirve para entretener la boca durante turnos largos y sellar temporalmente una junta que pierde presión. En gravedad cero se pega donde no debe y adquiere sabores de la nave. Quien lo mastica trabaja demasiado o piensa demasiado. <strong>No lo trague si parpadea.</strong></p><p><strong>Reglas.</strong> chicle</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3181,12 +3181,12 @@
  },
  {
   "_id": "hryJTxQ9E5Z4wkot",
-  "name": "ídolo de Venus",
+  "name": "Ídolo de Venus",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D8.webp",
   "folder": null,
   "system": {
-   "description": "<p>ídolo de Venus</p>",
+   "description": "<p>Figura oscura, tallada en una piedra que no aparece en ningún inventario de Venus. Se deja sobre la consola, junto a la litera o delante de una puerta cerrada. Para algunos es recuerdo de una expedición; para otros, una promesa. Cambia de postura cuando nadie mira y siempre parece más pesada al devolverla. <strong>Venus recuerda a sus visitantes.</strong></p><p><strong>Reglas.</strong> ídolo de Venus</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3201,12 +3201,12 @@
  },
  {
   "_id": "IpTjbmCFW5aUWYwK",
-  "name": "antirradiación",
+  "name": "Antirradiación",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A2.webp",
   "folder": null,
   "system": {
-   "description": "<p>antirradiación x10</p>",
+   "description": "<p>Paquete de protección química, sellado en láminas plateadas y marcado con advertencias descoloridas. Se guarda cerca de los trajes, donde el aire empieza a picar y las luces de alarma dejan de ser decorativas. El envoltorio cruje como hielo bajo las botas. A veces llega caducado, pero nadie quiere comprobar cuánto importa eso. <strong>El espacio no perdona la exposición.</strong></p><p><strong>Reglas.</strong> antirradiación x10</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3221,12 +3221,12 @@
  },
  {
   "_id": "QUmcLdQWpvdvYjnR",
-  "name": "perro de caza",
+  "name": "Perro de caza",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C15.webp",
   "folder": null,
   "system": {
-   "description": "<p>perro de caza</p>",
+   "description": "<p>Compañero de cuatro patas, criado para seguir rastros entre hangares, túneles y asentamientos con demasiadas puertas. Duerme junto a la esclusa y gruñe ante sonidos que los sensores ignoran. Su collar está lleno de remiendos y el pelo conserva polvo de varios planetas. Quien lo lleva a bordo aún confía en alguien. <strong>Si ladra, escucha.</strong></p><p><strong>Reglas.</strong> perro de caza</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3241,12 +3241,12 @@
  },
  {
   "_id": "zxO2IOfl4ZolXrQD",
-  "name": "trampa para osos",
+  "name": "Trampa para osos",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D5.webp",
   "folder": null,
   "system": {
-   "description": "<p>trampa para osos</p>",
+   "description": "<p>Artilugio de hierro dentado, pensado para detener intrusos, animales o compañeros que corren sin mirar el suelo. Se coloca en pasillos oscuros y zonas de carga, normalmente con una nota de advertencia demasiado pequeña. Los dientes están mellados, pero siguen cerrando con entusiasmo. Más de una trampa ha capturado al técnico que la instaló. <strong>Mire dónde pisa.</strong></p><p><strong>Reglas.</strong> trampa para osos</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3261,12 +3261,12 @@
  },
  {
   "_id": "h9pg7UfpLobWUCJ6",
-  "name": "cuerno para beber",
+  "name": "Cuerno para beber",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H11.webp",
   "folder": null,
   "system": {
-   "description": "<p>cuerno para beber</p>",
+   "description": "<p>Recipiente curvo, endurecido y pulido por muchas manos. Se usa en celebraciones de muelle, pactos improvisados y turnos nocturnos que terminan con alguien cantando a las tuberías. El borde conserva manchas imposibles de eliminar y el asa está atada con cable. Su dueño valora las tradiciones, aunque nadie recuerde de quién eran. <strong>Beba con cuidado. Brinde más despacio.</strong></p><p><strong>Reglas.</strong> cuerno para beber</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3281,12 +3281,12 @@
  },
  {
   "_id": "9yfzCoZBQFP716by",
-  "name": "pintura facial",
+  "name": "Pintura facial",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>pintura facial</p>",
+   "description": "<p>Pigmento graso para cubrir la cara antes de una ceremonia, una protesta o una incursión mal planificada. También oculta ojeras, quemaduras leves y la expresión de quien acaba de leer el contrato laboral. Se aplica con los dedos y deja manchas en visores y almohadas. El diseño elegido suele revelar más que cualquier uniforme. <strong>La máscara siempre cuenta algo.</strong></p><p><strong>Reglas.</strong> pintura facial</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3301,12 +3301,12 @@
  },
  {
   "_id": "Id1590BR2wwZ5dZs",
-  "name": "hierbas psicoactivas",
+  "name": "Hierbas psicoactivas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A2.webp",
   "folder": null,
   "system": {
-   "description": "<p>hierbas psicoactivas</p>",
+   "description": "<p>Ramillete seco de origen incierto, envuelto en papel de cocina y guardado lejos de los filtros de aire. Se quema, se mastica o se prepara en infusión según la costumbre del propietario. El olor se queda en la ropa y provoca conversaciones demasiado sinceras. Quien lo conserva busca escapar unas horas, aunque el espacio nunca se marche. <strong>Relájese. Luego revise las coordenadas.</strong></p><p><strong>Reglas.</strong> hierbas psicoactivas</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3326,7 +3326,7 @@
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>Wikipedia antigua</p>",
+   "description": "<p>Archivo antiguo de conocimiento colectivo, descargado antes de que los servidores dejaran de responder. Contiene historia, recetas, instrucciones dudosas y discusiones sobre asuntos que ya no importan. Se consulta durante averías o apuestas absurdas. Algunas entradas están incompletas y otras describen lugares que nadie reconoce. Quien lo guarda teme olvidar cómo era el mundo. <strong>La verdad también se corrompe.</strong></p><p><strong>Reglas.</strong> Wikipedia antigua</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3341,12 +3341,12 @@
  },
  {
   "_id": "VqHh0IoimrQYm6do",
-  "name": "diccionario",
+  "name": "Diccionario",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>diccionario</p>",
+   "description": "<p>Volumen compacto, con páginas finas y esquinas dobladas por el uso. Sirve para descifrar informes, revisar contratos y descubrir que una palabra sencilla escondía una amenaza legal. Tiene anotaciones en los márgenes, casi todas hechas por personas que ya no viajan. Su dueño prefiere entender antes de firmar, una costumbre peligrosa en cualquier compañía. <strong>Lea la letra pequeña.</strong></p><p><strong>Reglas.</strong> diccionario</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3361,12 +3361,12 @@
  },
  {
   "_id": "RTkLnZiWCYRyyyR4",
-  "name": "cámara con flash",
+  "name": "Cámara con flash",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D2.webp",
   "folder": null,
   "system": {
-   "description": "<p>cámara con flash</p>",
+   "description": "<p>Pequeña cámara de carcasa amarillenta, útil para registrar averías, criaturas y accidentes que la tripulación preferiría negar. El flash consume más energía de la prevista y deja una mancha azul en las fotografías. Su lente tiene arañazos con forma de estrella, recuerdo de una inspección demasiado cercana. <strong>Sonríe: quizá sea la última prueba.</strong></p><p><strong>Reglas.</strong> cámara con flash</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3381,12 +3381,12 @@
  },
  {
   "_id": "OK77I2J6A3QxlpCj",
-  "name": "flechas",
+  "name": "Flechas",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D4.webp",
   "folder": null,
   "system": {
-   "description": "<p>flechas x10</p>",
+   "description": "<p>Diez flechas sencillas, guardadas en un tubo de plástico sellado con cinta aislante. Sirven para cazar, señalar rutas o improvisar reparaciones cuando todo lo demás falla. Algunas llevan plumas de colores distintos, porque fueron recuperadas de varios cargamentos. Una punta suele aparecer doblada tras cada viaje. <strong>Apunta bien; la nave no perdona.</strong></p><p><strong>Reglas.</strong> flechas x10</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3401,12 +3401,12 @@
  },
  {
   "_id": "eiTtM0wup7VPoevt",
-  "name": "lémur inteligente",
+  "name": "Lémur inteligente",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C14.webp",
   "folder": null,
   "system": {
-   "description": "<p>lémur inteligente</p>",
+   "description": "<p>Compañero inquieto, de manos ágiles y ojos demasiado atentos para su tamaño. Este lémur inteligente se adapta a la vida a bordo, roba herramientas y aprende los nombres de quienes le dan comida. Duerme dentro de los conductos calientes y a veces regresa con objetos que nadie recuerda haber perdido. <strong>No le enseñes dónde guardas la comida.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3421,12 +3421,12 @@
  },
  {
   "_id": "fB4QgUyevFzGPgK6",
-  "name": "planeador plegable",
+  "name": "Planeador plegable",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/A7.webp",
   "folder": null,
   "system": {
-   "description": "<p>planeador plegable</p>",
+   "description": "<p>Un ala ligera de varillas, lona gris y cierres gastados que cabe bajo una litera. Permite salvar desniveles, cruzar instalaciones abiertas o escapar de una compuerta mal situada. Al desplegarlo, siempre cruje como si protestara. Su anterior dueño escribió instrucciones de uso en el armazón, pero ninguna coincide con la pieza correcta. <strong>Pliega antes de despegar.</strong></p><p><strong>Reglas.</strong> planeador plegable</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3441,12 +3441,12 @@
  },
  {
   "_id": "VXAhjbHBeqfytN5j",
-  "name": "cuerno de pólvora y bala",
+  "name": "Cuerno de pólvora y bala",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H11.webp",
   "folder": null,
   "system": {
-   "description": "<p>cuerno de pólvora y bala x12</p>",
+   "description": "<p>Doce cargas de pólvora y bala, reunidas en un cuerno tallado y envuelto en cuero aceitado. Pertenece a una época en la que los problemas se resolvían con humo, ruido y mucha confianza. El tapón está atado con hilo rojo para no perderlo en gravedad baja. Una carga suele humedecerse durante los viajes largos. <strong>La pólvora odia la humedad.</strong></p><p><strong>Reglas.</strong> cuerno de pólvora y bala x12</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3461,12 +3461,12 @@
  },
  {
   "_id": "HbScBODZUGj4p0pU",
-  "name": "billete jump liner",
+  "name": "Billete jump liner",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C10.webp",
   "folder": null,
   "system": {
-   "description": "<p>billete jump liner</p>",
+   "description": "<p>Un billete arrugado para viajar en una línea de salto, impreso en papel térmico y sellado con tinta violeta. Puede abrir puertas, justificar una huida o recordar que alguien esperaba llegar a casa. El nombre del pasajero aparece parcialmente borrado, como si la máquina hubiera dudado. Nadie garantiza que siga siendo válido. <strong>Conserve el resguardo. Y rece.</strong></p><p><strong>Reglas.</strong> billete jump liner</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3486,7 +3486,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa campesina</p>",
+   "description": "<p>Vestimenta de lona basta, botas remendadas y una chaqueta con bolsillos suficientes para esconder medio inventario. Resulta práctica en granjas orbitales, colonias pobres y naves donde el uniforme se considera una amenaza. Las manchas cuentan más historias que el propietario. Quien la lleva suele querer parecer humilde, aunque no siempre lo sea. <strong>La tierra no pregunta.</strong></p><p><strong>Reglas.</strong> Ropa campesina</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3501,12 +3501,12 @@
  },
  {
   "_id": "c41AE2Vns5DNL8km",
-  "name": "carro de mano",
+  "name": "Carro de mano",
   "type": "item",
-  "img": "modules/mr-mothership-es/iconos/D4.webp",
+  "img": "modules/mr-mothership-es/iconos/H8.webp",
   "folder": null,
   "system": {
-   "description": "<p>carro de mano</p>",
+   "description": "<p>Carro estrecho de dos ruedas, con plataforma de madera y un asa reforzada con alambre. Sirve para mover cajas, baterías, cadáveres o cualquier carga que la tripulación no quiera levantar. Una rueda chirría al girar hacia la izquierda, lo que permite localizarlo en la oscuridad. El freno se atasca cuando hay prisa. <strong>Empuja primero. Pregunta después.</strong></p><p><strong>Reglas.</strong> carro de mano</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3521,12 +3521,12 @@
  },
  {
   "_id": "Av6zEPyZbwW2mFfD",
-  "name": "dron de arado",
+  "name": "Dron de arado",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C1.webp",
   "folder": null,
   "system": {
-   "description": "<p>dron de arado</p>",
+   "description": "<p>Máquina baja con patas articuladas, cuchillas romas y un depósito lleno de tierra vieja. El dron prepara bancales, limpia cultivos y excava donde nadie quiere meter las manos. Sus sensores confunden huesos con piedras y siguen trabajando sin protestar. Lleva grabado el nombre de una granja que desapareció del registro colonial. <strong>Si araña, aléjate.</strong></p><p><strong>Reglas.</strong> dron de arado</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3541,12 +3541,12 @@
  },
  {
   "_id": "t3UNbUCDs25bp8sz",
-  "name": "familiares",
+  "name": "Familiares",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C14.webp",
   "folder": null,
   "system": {
-   "description": "<p>1d5 familiares</p>",
+   "description": "<p>Entre uno y cinco familiares que siguen viajando juntos, unidos por la sangre, la deuda o ambas cosas. Ayudan a reparar, vigilar y mantener la ficción de que el destino merece la pena. Discuten en voz baja cuando creen que nadie escucha. Sus recuerdos del hogar no siempre coinciden, pero todos guardan la misma fotografía. <strong>La familia siempre cobra.</strong></p><p><strong>Reglas.</strong> 1d5 familiares</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3561,12 +3561,12 @@
  },
  {
   "_id": "Rfvb0qNJNWCSm3n0",
-  "name": "cabra flaca",
+  "name": "Cabra flaca",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C14.webp",
   "folder": null,
   "system": {
-   "description": "<p>cabra flaca</p>",
+   "description": "<p>Animal pequeño, huesudo y resistente, con barba rala y una mirada que parece juzgar cada decisión. La cabra flaca come restos, cartón y cualquier cosa que huela a grasa. Su presencia mantiene viva una rutina doméstica en mitad del vacío. Tiene la costumbre de balar ante las puertas cerradas. <strong>Si calla, comprueba los motores.</strong></p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3701,12 +3701,12 @@
  },
  {
   "_id": "tpLnoih5Jrlzs5FV",
-  "name": "alcohol",
+  "name": "Alcohol",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/F10.webp",
   "folder": null,
   "system": {
-   "description": "<p>alcohol</p>",
+   "description": "<p>Botellas de destilado áspero, etiquetadas a mano y con distinto grado de transparencia. Sirven para brindar, desinfectar heridas o borrar conversaciones demasiado claras. Cada tripulante reconoce su propio olor, aunque nadie admite tener una preferencia. Una botella contiene algo que se mueve cuando la nave gira. <strong>Bebe despacio. Mira el fondo.</strong></p><p><strong>Reglas.</strong> alcohol</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3741,12 +3741,12 @@
  },
  {
   "_id": "CYAq8rn3V4tvimvV",
-  "name": "botella de agua",
+  "name": "Botella de agua",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/D6.webp",
   "folder": null,
   "system": {
-   "description": "<p>botella de agua</p>",
+   "description": "<p>Recipiente de plástico duro, abollado y marcado con iniciales de varias generaciones de tripulantes. Mantiene el agua a mano durante guardias largas, reparaciones y evacuaciones poco elegantes. La tapa no cierra del todo y deja un pequeño círculo húmedo sobre cualquier superficie. Su dueño la conserva como si fuera un trofeo. <strong>Cada gota cuenta.</strong></p><p><strong>Reglas.</strong> botella de agua</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3801,12 +3801,12 @@
  },
  {
   "_id": "54vlFFip4Vo9znTE",
-  "name": "panfleto sindical",
+  "name": "Panfleto sindical",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>panfleto sindical</p>",
+   "description": "<p>Hoja doblada muchas veces, impresa con tinta barata y llena de consignas contra turnos imposibles, salarios atrasados y supervisores blindados. Puede iniciar una conversación, una protesta o una investigación interna. Sus márgenes contienen teléfonos antiguos y nombres tachados. Quien lo guarda aún cree que organizarse sirve de algo. <strong>Lee antes de firmar.</strong></p><p><strong>Reglas.</strong> panfleto sindical</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3846,7 +3846,7 @@
   "img": "modules/mr-mothership-es/iconos/D3.webp",
   "folder": null,
   "system": {
-   "description": "<p>Reloj de oro falso</p>",
+   "description": "<p>Brilla demasiado bajo la luz blanca de la nave y pesa menos de lo que promete. Sirve para aparentar rango, pagar favores o recordar tiempos mejores, aunque su baño dorado se descascarilla con el sudor y el lubricante. A veces, el segundero se detiene justo antes de una mala noticia. <em>El lujo también necesita cuerda.</em></p><p><strong>Reglas.</strong> Reloj de oro falso</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0
@@ -3901,12 +3901,12 @@
  },
  {
   "_id": "jn9LJrXuBtasa6VR",
-  "name": "carta",
+  "name": "Carta",
   "type": "item",
   "img": "modules/mr-mothership-es/iconos/C9.webp",
   "folder": null,
   "system": {
-   "description": "<p>carta</p>",
+   "description": "<p>Doblada varias veces, guardada en un bolsillo o pegada bajo una litera, conserva una voz que no cabe en ninguna transmisión. Puede ser una despedida, una deuda o la última prueba de que alguien esperaba el regreso del dueño. El papel huele a polvo, combustible y hogar. <em>Leerla no cambia nada.</em></p><p><strong>Reglas.</strong> carta</p>",
    "quantity": 1,
    "weight": 0,
    "cost": 0

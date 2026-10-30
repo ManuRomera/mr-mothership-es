@@ -6,403 +6,403 @@
  "entries": {
   "ciAkQXkxSXTG8MV1": {
    "name": "Un olor rancio impregna las cabinas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El aire trae una mezcla de grasa vieja, sudor y comida olvidada. Los filtros llevan meses sin cambiarse y alguien ha usado un conducto como armario. El olor se intensifica cerca de la litera del mecánico, que culpa al sistema de reciclaje. Dentro puede aparecer una bolsa sellada que nadie recuerda haber dejado.</p>"
   },
   "pLleYaFjcIuAm4Pp": {
    "name": "Un desastre enorme por todas partes.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Herramientas, piezas, envases y trapos cubren el suelo como si la nave hubiera vomitado su inventario. Las marcas de arrastre terminan junto a un panel abierto. El anterior encargado empezó a reparar una avería y abandonó el trabajo sin avisar. Entre los desperdicios hay una etiqueta de carga que no pertenece a la tripulación.</p>"
   },
   "dReCCsfiV7it4lsm": {
    "name": "Comunicaciones con estática.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las voces llegan entre chasquidos, silbidos y fragmentos de conversaciones ajenas. Un conector oxidado o una antena mal aislada bastan para convertir cada mensaje en un acertijo. La interferencia aumenta al pasar junto al almacén. Puede ser culpa de una reparación barata, aunque alguien insiste en que la estática repite su nombre.</p>"
   },
   "4JRD71mvWNtFUDL7": {
    "name": "Sistema eléctrico defectuoso.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las luces parpadean y los paneles despiertan con un zumbido enfermizo. Huele a plástico caliente cerca de las cajas de distribución. Un técnico sustituyó varios fusibles por piezas recuperadas de un desguace orbital. Mientras buscan el fallo, una pantalla muestra durante un instante un plano de la nave con un compartimento que no figura en los registros.</p>"
   },
   "59cXdcrZlmjUcJpV": {
    "name": "Acoplamientos sueltos.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Cada maniobra transmite golpes secos por la estructura, como si alguien aporreara los pasillos desde fuera. Varias uniones vibran al tocarlas y dejan escapar polvo metálico. El mantenimiento se hizo deprisa, con tornillería de distintos calibres. Una abrazadera olvidada puede señalar al contratista responsable, si antes no se desprende otra pieza.</p>"
   },
   "CLvIvoNryBARtU7T": {
    "name": "Contrabando oculto (totalmente ilegal).",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Detrás de un panel falso aparece un bulto envuelto en material aislante y marcado con símbolos borrados. No coincide con ningún manifiesto y desprende un olor químico, dulce y desagradable. El compartimento fue preparado por alguien que conocía bien la nave. El cargador jurará que pertenece a la empresa, mientras evita mirar a nadie.</p>"
   },
   "vip6FxWcX4ReJD3b": {
    "name": "Sistemas de piloto automático fuera de servicio.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El piloto automático devuelve mensajes contradictorios y abandona las rutas de aproximación sin explicación. Los actuadores responden tarde, con un gemido de engranajes secos. La unidad de navegación fue reacondicionada por Talleres Orbe y lleva una pegatina de garantía arrancada. El antiguo capitán podría haber dejado una ruta manual escondida entre sus notas.</p>"
   },
   "AQt9nXy6S0Ev50r7": {
    "name": "Sistemas hidráulicos con fugas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Un líquido oscuro forma gotas bajo los controles y deja las superficies resbaladizas. El olor recuerda al aceite de cocina recalentado. Una junta envejecida se ha abierto junto a una reparación improvisada, hecha con sellador industrial. El rastro conduce hasta una válvula que alguien ha cerrado a propósito, quizá para ocultar una intervención reciente.</p>"
   },
   "QUyfvbFhCqb9d7Lu": {
    "name": "Casco que cruje.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La nave se queja con crujidos largos cada vez que cambia el rumbo. Las placas del casco tiemblan y algunas juntas muestran líneas nuevas, demasiado limpias para ser antiguas. El origen puede estar en una soldadura defectuosa o en una carga mal asegurada. Desde el exterior llega un golpeteo que no coincide con ningún motor.</p>"
   },
   "SW5kVSjiFbBxIeiu": {
    "name": "Mamparos dañados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los mamparos presentan abolladuras, remaches torcidos y manchas de humedad entre las juntas. Al otro lado se oyen tuberías vibrando y algo que cae despacio. El daño parece viejo, pero una reparación reciente lo ha debilitado más. Un registro de mantenimiento firmado por un supervisor desaparecido ofrece una explicación poco tranquilizadora.</p>"
   },
   "wNm669fzbdZGwr0g": {
    "name": "Abrazaderas de atraque desalineadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las abrazaderas de atraque encajan con un chirrido irregular y dejan una separación visible entre las estructuras. Los indicadores aseguran que todo está bien, aunque el metal cuenta otra historia. Puede deberse a una calibración chapucera de Astilleros Nadir. El remolcador vecino se niega a ayudar y acusa a la tripulación de sabotaje.</p>"
   },
   "3l0LUZpjizvZmHWs": {
    "name": "Portillas bloqueadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las portillas no responden y sus manivelas giran sin mover nada. El cristal está cubierto de grasa, condensación y pequeñas marcas hechas desde dentro. Un mecanismo oxidado parece haberse bloqueado durante una reparación nocturna. Al limpiar la superficie aparece un mensaje escrito con el dedo: “No abras la de popa”.</p>"
   },
   "c8SXxPHMsG7uycas": {
    "name": "Esclusas exteriores atascadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La esclusa exterior se detiene a mitad de ciclo con un quejido y una lluvia de polvo. Los sensores detectan una obstrucción que no aparece en las cámaras. Puede haber una pieza deformada, hielo acumulado o restos de una herramienta perdida. El técnico que revisó el sistema asegura que oyó golpes al otro lado.</p>"
   },
   "9kS8VjGuSMpghdCk": {
    "name": "Placas de gravedad disfuncionales.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los objetos flotan un instante y luego caen con una sacudida, mientras las correas se tensan sin motivo. Las placas emiten un zumbido grave, como un transformador cansado. Un módulo de control reacondicionado muestra el sello de una compañía desaparecida. Al revisar el cableado, alguien encuentra polvo gris acumulado en lugares sin corriente.</p>"
   },
   "Low2X1z7m1iB3rkA": {
    "name": "Incumplimiento de la normativa.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El sello de inspección está caducado y alguien ha raspado la fecha con una cuchilla. Hay formularios sin firmar, pegatinas arrancadas y una carpeta húmeda bajo el asiento del oficial. La causa puede ser simple dejadez, o una empresa pantalla que compró la nave de segunda mano. El inspector del próximo puerto quizá ya conozca el truco.</p>"
   },
   "BicB3xA1h978ZevJ": {
    "name": "Los controles se atascan.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Al mover una palanca, el mando vibra y vuelve a su sitio con un chasquido desagradable. Los controles están pegajosos por grasa vieja y café derramado. Algún técnico improvisó una reparación con cinta aislante y una moneda. Mientras alguien intenta liberarlos, una luz del panel parpadea con insistencia, como si la nave quisiera señalar al culpable.</p>"
   },
   "C9dQYp7gcjtq5QRz": {
    "name": "Fuga de refrigerante.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Una neblina blanca se arrastra por el suelo y deja escarcha en las botas. El olor recuerda a metal dulce y productos de limpieza baratos. La fuga procede de una abrazadera fatigada, aunque el registro acusa a un lote de juntas defectuosas. El rastro de condensación termina junto al camarote de un tripulante que asegura no haber tocado nada.</p>"
   },
   "1HNvL7XEUcMQbLps": {
    "name": "Sistema de cardán de propulsores descalibrado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los propulsores responden con un balanceo incómodo, seguido de golpes secos en el armazón. Algo gira fuera de su eje y transmite cada vibración por los pasillos. El cardán pudo quedar torcido tras un atraque brusco o una reparación chapucera. En la carcasa aparece una marca reciente, demasiado limpia para ser fruto del desgaste.</p>"
   },
   "xa9MPzfrPglkSJjg": {
    "name": "Un sinfín de infracciones de OSHA.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los avisos de seguridad cubren las paredes, pero casi todos están tachados o arrancados. Hay cables desnudos, herramientas sueltas y una escotilla que solo cierra con una cuerda. Nadie recuerda quién autorizó aquel apaño. La antigua encargada de prevención dejó un mensaje grabado en un terminal: «Si seguís vivos, no firméis nada».</p>"
   },
   "ZbAFemnvHB1YTHBK": {
    "name": "Respiraderos de aire bloqueados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El aire llega con dificultad y trae olor a polvo caliente, moho y filtros saturados. Al abrir una rejilla caen envoltorios, pelusa y una llave inglesa olvidada. Los respiraderos se bloquearon durante una carga de mercancía, quizá para ocultar un paquete. En algún conducto se oye un roce lento, aunque el plano de la nave no muestra ese tramo.</p>"
   },
   "wjyAZnOOafvv4xzB": {
    "name": "Solo iluminación de emergencia.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los fluorescentes mueren uno tras otro y solo quedan las tiras rojas de emergencia. La nave parece más grande entre sombras, llena de zumbidos y reflejos en los visores. Un fusible quemado apunta a una sobrecarga reciente. Alguien conectó un aparato no registrado en la bodega, y todavía emite un pitido bajo detrás de las cajas.</p>"
   },
   "l1OGQ0IXZHjnO4Ys": {
    "name": "Problemas de red interna.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las pantallas pierden señal, las puertas tardan en obedecer y las voces llegan cortadas por estática. La red interna mezcla avisos antiguos con mensajes que nadie recuerda haber enviado. Puede ser un repetidor oxidado o una actualización mal instalada por la subcontrata. Entre los paquetes de datos aparece una solicitud de acceso procedente de un camarote vacío.</p>"
   },
   "vleMoz5bbkZ5w28o": {
    "name": "Recopilación de datos imprecisa.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los registros de consumo no coinciden con los depósitos y las lecturas cambian cada vez que alguien mira el panel. Un sensor está cubierto de grasa, mientras otro conserva la etiqueta de un fabricante desaparecido. La causa puede ser una calibración olvidada o una manipulación interesada. El libro de mantenimiento señala pérdidas durante turnos en los que no había nadie.</p>"
   },
   "T4wAR08WyT3g9C6D": {
    "name": "Fuga de oxígeno. Si a la nave le queda poco O₂, pierde 1d5 extra al día.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.u7TchSo3qutnzaKF]{-1d5 Oxígeno}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Un silbido fino recorre los mamparos y las juntas amanecen cubiertas de escarcha. El medidor parece tranquilo, pero una tira de papel pegada a la compuerta se agita sin corriente visible. La pérdida puede venir de una válvula cansada o de una microfisura en un conducto. Alguien ha tapado una alarma con cinta y ha escrito encima: «No tocar».</p>"
   },
   "fbrN7sbgPjIwkk7I": {
    "name": "Postquemadores limitados. -2d10 Propulsores.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jmOh8n2ps0YIeBC0]{-2d10 Propulsores}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los postquemadores rugen con un tono apagado y dejan un olor acre en la cubierta de máquinas. Al exigirles respuesta, escupen chispas y se desconectan como si estuvieran ofendidos. Un lote de piezas baratas sustituyó componentes originales durante una revisión. El técnico que lo hizo insiste en que eran compatibles, pero ya ha reservado plaza en el siguiente transporte.</p>"
   },
   "7GqbGIOzA9vYOPiI": {
    "name": "Un cacharro. Tiradas de mantenimiento con [-].<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.C04VbNoj8LgfY8QK]{Tirada de mantenimiento [-]}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La nave protesta con crujidos, manchas de aceite y paneles que no encajan del todo. Cada compartimento parece haber sido reparado con restos de otro. En la bodega hay una caja de repuestos sin abrir y varias facturas de trabajos que nunca se realizaron. El responsable de mantenimiento culpa al astillero; el astillero culpa a la tripulación.</p>"
   },
   "dgisAPnBbrIOiisk": {
    "name": "Aceleración lenta. +1 semana de viaje.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La aceleración llega tarde y con una sacudida, como si la nave necesitara pensárselo. Los motores mantienen un gruñido constante, pero no entregan toda su fuerza. Puede haber depósitos obstruidos, filtros agotados o una orden de ahorro de combustible que nadie comunicó. El contrato de transporte incluye una penalización por retraso, firmada por alguien que ya no trabaja aquí.</p>"
   },
   "d94uF9rpmeP60Kl4": {
    "name": "Navegación imprecisa.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las estrellas del visor no terminan de quedarse quietas y las correcciones manuales se acumulan en la pantalla. Una baliza cercana aparece duplicada, mientras otra desaparece al ampliar la imagen. El problema puede estar en un sensor desalineado o en una carta de navegación caducada. En la memoria queda un rumbo anterior hacia una estación que oficialmente fue desmantelada.</p>"
   },
   "3Ptitg8HBZfl2CXN": {
    "name": "Sensores de puntería descalibrados. -1d10 Batalla.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3cL9eS2HOPxhLH5]{-1d10 Batalla}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El visor tiembla con un zumbido agudo y dibuja blancos unos centímetros fuera de sitio. Algún técnico ajustó el conjunto con una llave demasiado grande, o sustituyó una pieza por otra de desguace. En el registro aparece una calibración firmada por alguien que ya no trabaja aquí. Una corrección manual podría revelar quién cobró por ella.</p>"
   },
   "mK1Acfk5NAgs1MHC": {
    "name": "Criocápsulas defectuosas. Pesadillas. El mal de criosueño dura una semana más.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las cápsulas sudan escarcha amarillenta y emiten pequeños golpes desde dentro, incluso cuando están vacías. Las juntas envejecidas mezclan sedantes y recuerdos durante el despertar. Quien duerma ahí puede confundir a sus compañeros con figuras de un sueño recurrente. En una etiqueta interior, escrita con rotulador, alguien dejó una advertencia: «No volver a abrir la número seis».</p>"
   },
   "IR1sWnYXniMg9TdP": {
    "name": "Cápsulas de escape averiadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las compuertas no terminan de cerrar y las luces de emergencia parpadean sin ritmo. Los cartuchos de propulsión llevan años sin revisión, y uno presenta marcas recientes de haber sido desmontado. El encargado de carga insiste en que todo estaba bien al embarcar. Dentro de una cápsula hay una herramienta que no pertenece a nadie de la tripulación.</p>"
   },
   "FIqSHePAeLJywerx": {
    "name": "Imposible enviar señales de socorro.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La consola muestra que la transmisión sale, pero ningún indicador confirma que haya abandonado la nave. El emisor huele a plástico recalentado y responde con un chasquido seco. Puede ser una antena partida, una deuda de mantenimiento o un bloqueo instalado por la compañía. Alguien ha borrado del panel la frecuencia privada de una nave cercana.</p>"
   },
   "4kmMuAbW1jnfVMYP": {
    "name": "Sistema de refrigerante saboteado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El refrigerante gotea con un brillo verdoso y deja una costra pegajosa sobre las rejillas. Los conductos fueron abiertos con prisa y cerrados usando sellador de almacén. No parece desgaste normal: hay un tornillo cambiado y una marca de herramienta reciente. El único registro de acceso pertenece a un supervisor que asegura no haber subido a bordo.</p>"
   },
   "ALplRgZtneMRdloo": {
    "name": "Una trampa mortal. [-] en todas las tiradas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Una placa del suelo se hunde apenas al pisarla, demasiado tarde para parecer un accidente. Debajo hay cables tensos, una caja abierta y el olor metálico de algo que se ha calentado. La trampa puede ser obra de un polizón, de un antiguo equipo de seguridad o de un compañero desesperado. Junto al borde, alguien dejó una huella de grasa.</p>"
   },
   "2pxf4O2NrLdwYRtO": {
    "name": "Patas de aterrizaje desgastadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Al apoyar el peso, las patas chirrían como bisagras de osario y una de ellas se inclina unos grados. Los cilindros hidráulicos pierden aceite por juntas resecas, quizá desde el último aterrizaje en una luna industrial. El operario de plataforma culpa a la tripulación. Bajo la carcasa hay una moneda de pago y restos de una reparación hecha a escondidas.</p>"
   },
   "64AQJ3zQDOb7NOR1": {
    "name": "Filtros de aire desactualizados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El aire sabe a polvo caliente y deja una película gris sobre los labios. Los filtros llevan el sello de un fabricante desaparecido, con la fecha raspada a mano. Puede que solo estén saturados, o que alguien los haya rellenado con material barato. En la rejilla aparece una fibra azul, idéntica al uniforme del responsable de mantenimiento.</p>"
   },
   "PKBXKvgWZwafKWJ3": {
    "name": "Tuberías corroídas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las tuberías sudan humedad oscura y golpean dentro de los paneles cada vez que cambia la presión. La corrosión ha avanzado bajo capas de pintura y masilla, ocultando reparaciones antiguas. Un depósito comienza a oler a cobre y agua estancada. El mapa de servicio señala un tramo que no existe, como si alguien hubiera querido olvidar esa fuga.</p>"
   },
   "NgKPVhRkD8Gteo5Z": {
    "name": "Navegación de transferencia orbital imprecisa.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las estrellas parecen deslizarse por el cristal con una lentitud equivocada, mientras la consola corrige el rumbo por su cuenta. El sensor orbital recibió datos incompletos y una actualización de navegación sin procedencia clara. La pantalla conserva una ruta cancelada hacia un carguero abandonado. Quizá fue un error del sistema; quizá alguien sigue intentando llegar allí.</p>"
   },
   "5d220ZzrEV3qx6Fy": {
    "name": "Inyectores de combustible desgastados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El motor tose al arrancar y deja un olor áspero a combustible sin quemar. Los inyectores están cubiertos de barniz y virutas diminutas, señal de combustible almacenado demasiado tiempo o de una limpieza chapucera. El último repostaje figura como «mezcla premium» en la factura. El depósito aún conserva una muestra que podría demostrar que era otra cosa.</p>"
   },
   "IGx8nQrwfz07r6TR": {
    "name": "Sistema de iluminación exterior inoperativo.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Desde el exterior, la nave desaparece en la oscuridad salvo por el reflejo ocasional de una estrella. Los focos no responden y sus carcasas están llenas de polvo conductor. Puede ser un simple fusible, aunque alguien arrancó los cables de señal con cuidado. En el casco, cerca de una luz, hay arañazos recientes y una mancha que no parece aceite.</p>"
   },
   "pW1FUDxp2N0M0D1y": {
    "name": "Sistema de intercomunicación defectuoso.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El intercomunicador devuelve voces deformadas, fragmentos de conversaciones antiguas y, a veces, un susurro desde un compartimento vacío. Los micrófonos tienen las membranas endurecidas por grasa y humedad, pero la interferencia no encaja del todo. Un técnico barato instaló piezas recuperadas de otra nave. Una de esas piezas conserva grabado el nombre de su antigua tripulación.</p>"
   },
   "UPAxtEOrSF3Il4uA": {
    "name": "Reciclaje de residuos inadecuado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El conducto de residuos se atasca con un gorgoteo profundo y devuelve olores que nadie quiere identificar. El compactador perdió fuerza y los depósitos están llenos de material que no figura en el manifiesto. Puede tratarse de comida, piezas biológicas o ambas cosas. La última persona que vació el sistema dejó una bolsa sellada con instrucciones para no abrirla.</p>"
   },
   "m04JdXL1xGQOkDyp": {
    "name": "Propulsores de control de altitud defectuosos.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La nave cabecea con cada corrección y los motores de maniobra responden tarde, como si alguien los empujara desde fuera. Huele a aislante quemado y grasa vieja. Una revisión de Talleres Orbitales Bruma dejó conectores flojos y piezas de desguace. El piloto automático insiste en culpar al copiloto, que jura haber oído golpes bajo el suelo.</p>"
   },
   "OWkfB73RTSLDMlsU": {
    "name": "Redundancia insuficiente del sistema de soporte vital.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El soporte vital funciona, pero demasiadas luces verdes dependen del mismo cableado. Los ventiladores carraspean y el aire sabe a metal caliente. La causa probable es una reparación barata de Navegación Cárdena, hecha para superar una inspección. Un técnico retirado conserva los planos originales y vende copias a quien prometa no mencionar su nombre.</p>"
   },
   "hNJYqetiMKUlZzYH": {
    "name": "Repetidores de comunicaciones con retardo.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las respuestas llegan después de la pregunta. Una voz termina una frase cuando ya nadie recuerda haberla enviado. Los repetidores zumban detrás de los paneles, cubiertos de polvo y cinta aislante. El problema puede venir de un reloj mal sincronizado o de una baliza abandonada que sigue contestando. Alguien recibe mensajes con su propia voz.</p>"
   },
   "rlW0LUlsK7vDGZEh": {
    "name": "Conductos de combustible dañados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Un olor dulce y químico se extiende por los pasillos cercanos al depósito. Las abrazaderas sudan combustible y el suelo conserva manchas oscuras bajo capas de pintura. La línea fue remendada con tubería de baja presión por Contratas Heliofirme. Un mecánico propone sellarla con espuma industrial, sin admitir que esa espuma reacciona con el combustible.</p>"
   },
   "IDiwAbD8DTbec7S1": {
    "name": "Colectores de escape corroídos.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los colectores vibran como una garganta enferma. Cada arranque llena el compartimento de un olor áspero, parecido al hierro mojado. La corrosión ha avanzado bajo el revestimiento y alguien la ocultó con pintura térmica. En las placas aparece el sello de Forja Meridiana, aunque el encargado de mantenimiento asegura que esas piezas nunca salieron de su almacén.</p>"
   },
   "EteEoBrlnzcySppN": {
    "name": "Pantallas de terminal no funcionales.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las terminales muestran una negrura brillante, reflejando rostros que no están allí. Algunas emiten un chasquido y reinician sin motivo. El fallo parece causado por humedad atrapada y una actualización incompleta de Sistemas Lóbrego. Un supervisor ofrece terminales usadas de otra nave, pero una conserva abiertas las últimas búsquedas de su tripulación desaparecida.</p>"
   },
   "guvCGNRa75AB2Avg": {
    "name": "La luz de revisión del motor no se apaga.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El testigo rojo permanece encendido desde hace tanto que alguien le ha pegado encima una etiqueta de advertencia. Parpadea débilmente cuando el motor tose. Puede ser un sensor agotado, un cable mordido o un registro que nadie quiso borrar. La jefa de máquinas culpa a Motores Varda, mientras el manual recomienda ignorar cualquier luz que no huela a humo.</p>"
   },
   "cbXMdd4ugxSOT5TU": {
    "name": "Sistemas de respaldo averiados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los sistemas de respaldo arrancan con un gemido y se apagan antes de completar la comprobación. En los armarios hay fusibles de tamaños distintos, cables sin identificar y una taza seca pegada al suelo. Una reparación improvisada mezcló componentes incompatibles. El antiguo encargado dejó una nota: “Si todo funciona, no toques nada”. La nota está firmada por otra persona.</p>"
   },
   "kftgvuQoefQ7pl28": {
    "name": "Cerraduras defectuosas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las cerraduras necesitan golpes, insultos y, a veces, una llave que no corresponde. Los pestillos vibran con los cambios de presión y dejan un chirrido agudo en los camarotes. El fabricante, Cierre Astral, ya no existe, pero sus repuestos siguen apareciendo en mercados dudosos. Un pasajero asegura que alguien abrió su puerta desde el interior durante el apagón.</p>"
   },
   "Odpb5coSTST7kCkc": {
    "name": "Comunicaciones con errores.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las comunicaciones llegan con palabras cambiadas, sílabas repetidas y silencios llenos de estática. El micrófono huele a plástico recalentado y tiene marcas de haber sido desmontado a toda prisa. Una masa mal conectada explica casi todo, salvo las coordenadas que aparecen solas en la pantalla. Pertenecen a un carguero que la compañía declaró perdido hace años.</p>"
   },
   "vMRVXZxu6ozj0iw2": {
    "name": "Almacenes de comida infectados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los envases están hinchados y algunos tienen pequeñas manchas blancas en las juntas. Al abrir un paquete, sale un olor agrio que no desaparece con el extractor. La comida fue almacenada junto a productos de limpieza de Química Salmuera. El encargado del almacén insiste en que solo hay moho, hasta que una caja empieza a golpear desde dentro.</p>"
   },
   "4Lqg0lqjjTlNlr0j": {
    "name": "Bancos de datos corruptos.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los archivos cambian de nombre, las fechas se mezclan y las imágenes muestran pasillos que no pertenecen a esta nave. El banco de datos recibió una descarga irregular mientras alguien copiaba registros de carga. Parte de la información sigue recuperable en una consola antigua. Entre los fragmentos aparece un contrato que culpa a la tripulación de un accidente todavía no ocurrido.</p>"
   },
   "Ka8elMGKtcakUIxx": {
    "name": "Puertas de la bodega de carga atascadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las puertas de carga se detienen a medio recorrido, dejando escapar aire frío y un gemido profundo. Las guías están llenas de polvo, virutas y restos de una etiqueta arrancada. Un sistema de cierre barato de Astilleros Cobalto fue instalado sin alinear los raíles. Dentro queda un contenedor mal asegurado que golpea cada vez que alguien intenta abrir.</p>"
   },
   "TAerNMqv19pANCxq": {
    "name": "Luces interiores parpadeantes.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las luces parpadean al ritmo de los motores, aunque el panel eléctrico asegura que todo está estable. En los intervalos oscuros se oyen pasos, roces y el zumbido distante de un fluorescente que ya no existe. La causa probable es una masa compartida con el sistema de navegación. Un electricista propone cortar el circuito y pide que nadie mire al techo.</p>"
   },
   "vv1VykTwiQmgEj6N": {
    "name": "Juntas de esclusa averiadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El cierre silba aunque nadie haya tocado el mando. Las juntas están resecas, mordidas por el vacío y cubiertas de una grasa gris que huele a plástico quemado. Algún técnico sustituyó una pieza con material de embalaje. Alguien tendrá que decidir si sella la esclusa o confía en el apaño del turno anterior.</p>"
   },
   "GW1KGmYdxYYf4ZWT": {
    "name": "Fuga de combustible. Consume +1 de combustible cada vez que gastas combustible.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Un olor dulzón se extiende por los conductos, seguido de pequeños chasquidos bajo el suelo. El combustible se escapa por una unión vieja, probablemente reparada con cinta industrial y esperanza. La mancha lleva hasta un panel cerrado con remaches recientes. El último mecánico insiste en que solo estaba tapando una fuga de agua.</p>"
   },
   "FLaPtHcegheN7wHw": {
    "name": "Fallo de salto. 10% de probabilidad de que el Salto dure 2d10 meses en lugar de 2d10 días.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El motor de salto zumba con una nota nueva, casi musical, mientras las luces de navegación parpadean sin ritmo. Un cristal de control muestra símbolos que el manual ya no reconoce. La causa puede ser una bobina fatigada o una actualización mal instalada. Alguien en destino lleva meses esperando una carga que quizá ya no importe.</p>"
   },
   "g9Z7He5zPHNrxYe1": {
    "name": "Frágil. Siempre recibes +1 MDMG.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Cada vibración produce un crujido profundo en la estructura. Los paneles tiemblan, los cierres se aflojan y una fina lluvia de óxido cae sobre los pasillos. La nave fue remendada con aleaciones baratas tras un accidente que nadie menciona. El jefe de mantenimiento culpa al casco; el casco parece culpar a la tripulación.</p>"
   },
   "IiPryFS9MOGZXeuG": {
    "name": "Escudos térmicos agrietados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La cubierta exterior presenta manchas oscuras, como quemaduras bajo la pintura. Al acercarse a la zona de escudos, se oye un golpeteo hueco y llega un olor seco, mineral. Las grietas nacieron durante una entrada atmosférica demasiado rápida. El registro de vuelo ha sido editado, pero conserva una voz que suplica frenar.</p>"
   },
   "FmPqHYH3UoGpaWYL": {
    "name": "Software desactualizado. -1d10 Sistemas.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.oDftFxRKkCQRNY2O]{-1d10 Sistemas}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las pantallas tardan en responder y ofrecen instrucciones con palabras de otra época. Un aviso recomienda apagar sistemas que ya no existen. El programa de control fue abandonado por su fabricante, quizá después de una quiebra o una demanda. El androide de servicio conoce una secuencia de emergencia, pero exige que nadie mire sus archivos.</p>"
   },
   "NLwybTzXJ1bndki3": {
    "name": "Filtración de agua inadecuada. Parásitos en el suministro de agua.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El agua sale turbia, con un sabor metálico y un leve olor a tierra mojada. En los filtros crecen filamentos pálidos que no aparecen en ningún catálogo de mantenimiento. La contaminación puede proceder de un depósito olvidado o de una tubería conectada al exterior. Un tripulante asegura haber visto algo moverse dentro del tanque.</p>"
   },
   "oySXnFIbRW0WRoeF": {
    "name": "Sistema de gestión de residuos averiado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los conductos de residuos carraspean y devuelven pequeños golpes desde las paredes. Una compuerta no termina de cerrar; otra exhala un vapor agrio que se pega a la ropa. La avería empezó tras cargar mercancía de un puerto minero. El contenedor sellado del almacén sigue etiquetado como repuestos, aunque nadie recuerda haberlo comprado.</p>"
   },
   "RiHvRQ9nZDygwvvB": {
    "name": "Reactores de fusión sobrecalentados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El corazón de la nave late con golpes sordos y regulares. Las tuberías sudan, los pasillos se calientan y el aire sabe a metal cocido. Los reactores llevan demasiado tiempo funcionando con piezas de segunda mano. El ingeniero propone desconectar una sección; el capitán recuerda que esa sección mantiene encendida la calefacción.</p>"
   },
   "wCYGQrI9qonhWy8F": {
    "name": "Filtro de radiación averiado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El polvo se acumula en rincones donde antes no había nada, formando dibujos entre las rejillas. Los indicadores parecen normales, pero una lámpara de inspección deja una sombra persistente sobre el metal. El filtro quedó obstruido tras una tormenta de partículas. En el registro aparece una revisión firmada por un técnico fallecido.</p>"
   },
   "5J4r3yw4xDj890yZ": {
    "name": "Fuga de radiación. Toda la nave está en Nivel de radiación 2.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las paredes emiten un zumbido tenue y los relojes adelantan sin motivo. El aire tiene un sabor áspero, como monedas calientes, y los sensores chirrían cuando alguien pasa cerca. La fuga procede de un blindaje abierto detrás de un armario. Allí dentro hay marcas de uñas y una herramienta cubierta de polvo brillante.</p>"
   },
   "XmIcQgho4un7hYki": {
    "name": "Sistema de guiado descalibrado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La nave corrige el rumbo con tirones breves, aunque nadie ha tocado los mandos. Las estrellas parecen desplazarse un instante y luego vuelven a su sitio. Un giroscopio ha quedado desajustado, quizá por una descarga o una reparación chapucera. El mapa de navegación muestra una ruta añadida a mano hacia una baliza que no existe.</p>"
   },
   "KhlrUaPjVIoyhnaL": {
    "name": "Almacenamiento de energía sobrecargado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las luces se intensifican y se apagan al compás de un zumbido eléctrico. Los paneles desprenden olor a barniz caliente y algunas herramientas vibran sobre las mesas. El almacenamiento quedó conectado a un circuito que nadie reconoce. En la cubierta de carga, una caja metálica se calienta por dentro aunque está vacía.</p>"
   },
   "LRumIQdUBzD0Jc0X": {
    "name": "Matrices de sensores averiadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las pantallas muestran ecos donde solo hay vacío y silencios donde debería aparecer una nave. El conjunto de sensores produce un clic seco, como dientes nerviosos, y las antenas giran sin obedecer. Una reparación antigua mezcló piezas incompatibles. Alguien borró las lecturas de una zona concreta del espacio, justo la que el radar insiste en señalar.</p>"
   },
   "e144cIdUEyTJgN1G": {
    "name": "Sistema de recuperación de agua averiado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El agua sale con sabor metálico y deja una película aceitosa en los vasos. El recuperador carraspea, gotea y huele a moho caliente. Algún técnico de Astilleros Nadir sustituyó el filtro por una pieza reacondicionada. En el depósito aparece una etiqueta de cuarentena arrancada a medias. La tripulación puede culpar al último cargamento.</p>"
   },
   "b2b3j5JtanbyWlNd": {
    "name": "Daño en el casco por micrometeoritos.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Pequeños golpes secos recorren el casco cuando la nave cambia de rumbo. En el mamparo quedan cráteres diminutos, rodeados de escarcha y manchas oscuras. La causa más probable es una nube de restos industriales, aunque alguien olvidó cerrar una compuerta exterior. Entre los impactos hay una marca reciente, demasiado limpia para ser accidental.</p>"
   },
   "5OBjTojgrp5N9mEw": {
    "name": "Conjunto de eliminación de dióxido de carbono defectuoso.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El aire sabe agrio y los sensores emiten pitidos perezosos. Las rejillas están cubiertas de una pasta gris, mezclada con polvo de filtros viejos. Un ventilador atascado o una reparación chapucera de Motores Vértice podrían explicar el fallo. En los registros aparece una pausa de mantenimiento firmada por alguien que ya no figura en la tripulación.</p>"
   },
   "8s1eBY5bEcQQTCz0": {
    "name": "Degradación de los paneles solares.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La nave pierde brillo en los monitores y las baterías tardan demasiado en recuperar carga. Desde el exterior, los paneles parecen cubiertos de una costra amarillenta, como sal seca. El polvo de una luna minera se ha adherido a las juntas. Un limpiador automático sigue ejecutando su rutina, pero solo extiende la suciedad.</p>"
   },
   "5UiJy739gvGHkRYp": {
    "name": "Fallo informático por radiación cósmica.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las pantallas muestran símbolos imposibles, mensajes duplicados y nombres de tripulantes muertos hace años. Algunas puertas obedecen órdenes antiguas, mientras una impresora escupe hojas con el sello de Fabricación Orfeo. La radiación atravesó un blindaje barato y corrompió la memoria. Alguien insiste en reiniciar el sistema, pese a que cada intento empeora los registros.</p>"
   },
   "yJY9CzP1KA15aMqV": {
    "name": "Circuitos sobrecargados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Huele a plástico quemado en los paneles y las tapas vibran con un zumbido irregular. Los fusibles parecen nuevos, aunque varios llevan manchas de dedos y grasa. Un generador auxiliar conectado sin permiso está robando corriente al resto de la nave. El culpable más probable es el cocinero, que oculta allí un electrodoméstico prohibido.</p>"
   },
   "nHac0gkEcCNew7RX": {
    "name": "Propulsor de plasma averiado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El propulsor tose llamaradas violetas y deja un olor acre, parecido al ozono y al pelo chamuscado. Las abrazaderas tiemblan alrededor de una cámara de ignición remendada. Un lote defectuoso de Industrias Caldero pudo agrietar el inyector. En el registro de carga falta una caja de repuestos, retirada por un supervisor que aún cobra dietas.</p>"
   },
   "DYHuVA4CQlmK2MJy": {
    "name": "Fallo del sistema de gestión térmica.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los conductos sudan condensación y algunas paredes están demasiado calientes para tocarlas. El sistema alterna entre soplar aire helado y lanzar vapor rancio por las rejillas. Una válvula mal calibrada, instalada durante una reparación urgente, parece la causa. Cerca del panel hay marcas de arrastre, como si alguien hubiese escondido allí un bulto pesado.</p>"
   },
   "QIcoFYoC0hxW84qD": {
    "name": "Cortes eléctricos intermitentes.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las luces se apagan durante unos segundos y regresan con una tonalidad enfermiza. Los relés chasquean detrás de las paredes, seguidos de un silencio demasiado largo. Un cable mordido por roedores de carga o una conexión floja explican el problema. Cada corte deja abierta la misma puerta del almacén, aunque nadie admite haberla usado.</p>"
   },
   "AuTERG3m7ECQKrKs": {
    "name": "Sistema de supresión de incendios fuera de normativa.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las boquillas están cubiertas de pintura reciente y las botellas llevan sellos de inspección falsificados. Al probar el sistema solo sale una tos de espuma reseca. El antiguo propietario, Naviera Lóbrego, ahorró en el último mantenimiento. Dentro del armario aparece un manual con páginas arrancadas y una nota: «No activar en presencia de personal».</p>"
   },
   "1iOSKp82goZGJZch": {
    "name": "Paneles del suelo dañados.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El suelo cruje bajo las botas y algunas placas se hunden con un sonido hueco. Debajo asoma aislamiento mojado, cables mordidos y una llave inglesa oxidada. La humedad de una tubería rota ha podrido los soportes. Alguien cubrió la zona con una alfombra industrial para ocultarlo. El contramaestre sabía del peligro, pero cobró por callar.</p>"
   },
   "ZBUtxiX72udqLzIk": {
    "name": "Luminaria rota en un corredor remoto.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>En el corredor remoto solo queda un resplandor rojizo, que parpadea con ritmo irregular. La carcasa rota conserva pelos, polvo y una mancha de sangre vieja. Puede haberla golpeado un cargador automático o una persona que no quería ser vista. Cuando la luz falla, se oyen pasos en el extremo del pasillo, siempre fuera del alcance de la linterna.</p>"
   },
   "iwFmPpAth3VbRRL8": {
    "name": "Bomba de refrigerante dañada.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La bomba golpea como una lavadora llena de tornillos y expulsa refrigerante con olor dulzón. Una vibración recorre las tuberías hasta las literas. El rodamiento está gastado y la carcasa muestra una reparación de soldadura reciente. El repuesto procede de Talleres Bruma, pero su número de serie pertenece a otra nave desaparecida.</p>"
   },
   "Eo0l4WMxcS62GCMP": {
    "name": "Portillas agrietadas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las portillas presentan vetas blanquecinas y pequeñas grietas que atrapan la luz. Al pasar cerca se escucha un chasquido fino, como hielo rompiéndose. El sellador se degradó por productos de limpieza baratos y cambios térmicos continuos. Una de las ventanas tiene una huella desde el interior, marcada sobre el cristal empañado, aunque nadie recuerda haber estado allí.</p>"
   },
   "miRqXNzkW0biml1I": {
    "name": "Sistemas sobrecargados de malware.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las pantallas se llenan de avisos absurdos y ventanas que nadie ha abierto. Los ventiladores trabajan con un zumbido febril, mientras las luces parpadean siguiendo una secuencia desconocida. Algún técnico instaló un parche pirateado para ahorrar licencias. El origen puede estar en una terminal olvidada o en un antiguo empleado que aún conserva acceso.</p>"
   },
   "cOLcJ3Dnecbe6ZIU": {
    "name": "Válvula de combustible con fugas.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Un olor áspero se extiende por el compartimento de carga. La válvula suda combustible y deja una película brillante sobre las juntas, como si la nave estuviera sangrando. El desgaste procede de recambios baratos y revisiones aplazadas. Alguien ha colocado un trapo encima para ocultarlo; todavía lleva bordado el emblema del último contratista.</p>"
   },
   "zRzb3Laiuw4ac6p0": {
    "name": "Conducto de escape atascado.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El conducto resopla a intervalos, expulsando humo gris por las rejillas interiores. Cada vibración arrastra un olor a metal quemado y grasa rancia. Puede haber quedado dentro una herramienta, un nido de aislamiento o restos de una reparación chapucera. Si alguien decide golpear la carcasa, algo suelto responderá desde el otro lado.</p>"
   },
   "EZzGAO6DneH1qmQM": {
    "name": "Tolva de eliminación de residuos atascada.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La tolva se niega a tragar nada y devuelve desperdicios con un ruido húmedo, insistente y bastante personal. El atasco nació de una bolsa industrial mal etiquetada, aunque también hay fragmentos de uniforme entre la basura. Un antiguo encargado dejó una nota advirtiendo que no se desmontara el cierre. La nota está escrita con sangre seca.</p>"
   },
   "Tp6k1gPwhQmT6hCo": {
    "name": "Ascensores no operativos.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las puertas se abren unos centímetros y vuelven a cerrarse con un gemido. Los indicadores muestran plantas que la nave no tiene, mientras el hueco del ascensor huele a polvo caliente. La causa probable es una reparación incompleta durante la última varada. En algún nivel intermedio, el carro ha quedado detenido con algo dentro.</p>"
   },
   "2Ht7fg78511Hd49u": {
    "name": "Antena de comunicaciones dañada.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Las transmisiones llegan entre chasquidos, voces duplicadas y largos silencios. La antena exterior presenta una mordedura limpia en el soporte, como si algo la hubiera arrancado desde fuera. Podría ser fatiga del metal o una reparación que usó soldadura de mala calidad. Entre el ruido aparece una señal que repite el identificador de la nave.</p>"
   },
   "XLEhMV9SnSfeEE7E": {
    "name": "Filtración de aire obstruida. Capacidad de tripulación reducida a la mitad.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.DUuRY7kHKd7n5luv]{-50% Capacidad de tripulación}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El aire circula con un silbido débil y trae consigo polvo negro, olor a moho y el perfume químico de los filtros viejos. Las rejillas están cubiertas de una pasta gris que nadie reconoce. La obstrucción parece causada por aislamiento deshecho, aunque alguien ha encontrado fibras orgánicas atrapadas entre las láminas.</p>"
   },
   "Z8raruNDvfNASFQi": {
    "name": "Control climático averiado. 85º en todo momento.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El interior parece una sauna industrial. Las paredes sudan, los plásticos se ablandan y hasta los alimentos de la despensa desprenden un olor dulzón. El control climático quedó bloqueado tras sustituir una pieza por otra de segunda mano. El manual de emergencia recomienda abrir los paneles de servicio; alguien ha arrancado justamente esa página.</p>"
   },
   "3rulbOVhyRlTizT0": {
    "name": "Sin energía de emergencia.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Al cortar la alimentación principal, la nave queda muda de golpe. Los sistemas secundarios no responden y solo permanecen encendidas unas luces de emergencia, cada vez más débiles. El fallo puede deberse a una batería vendida como nueva por Alveo Industrial. En el compartimento técnico, un técnico muerto dejó preparado un puente que nadie debería tocar.</p>"
   },
   "ulWxa2UtTOQihTyz": {
    "name": "Estructura débil. -1 Casco, -1 Mejora.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.uPY19Y49bGCLGK3N]{-1 Casco}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.06NSvDYTtmkeUtLq]{-1 Mejora}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los mamparos crujen con cada maniobra y el suelo transmite una vibración irregular, como si la nave caminara sobre huesos. Hay remaches recientes junto a grietas antiguas, cubiertas con pintura del mismo tono. La causa parece una reparación cosmética de Astilleros Bruma. Un golpe fuerte ha hecho caer una placa y deja ver marcas desde el interior.</p>"
   },
   "EnogUslNNusSfVFy": {
    "name": "Derrame de productos químicos tóxicos.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Un charco tornasolado avanza bajo las tuberías y desprende un olor dulce, metálico y desagradable. El líquido ha comido la pintura y deja ampollas en las botas. Probablemente se mezclaron envases incompatibles durante una carga apresurada. Una etiqueta medio despegada señala un producto que la nave no debería transportar bajo ningún concepto.</p>"
   },
   "ElXLL32uNYiPmE4G": {
    "name": "Escáneres deficientes. La nave debe estar una banda de alcance más cerca de lo normal.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los escáneres dibujan pasillos donde hay mamparos y pasan por alto objetos grandes a pocos metros. El sistema emite pitidos tranquilos mientras la imagen se deshace en manchas verdes. La causa puede ser una lente envejecida o software alterado para ocultar mercancía. En los registros aparece una revisión firmada por alguien que nunca embarcó.</p>"
   },
   "b081FxEAclRKji3q": {
    "name": "Documentación falsificada. La nave es robada. Hay una recompensa por ella.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>Los papeles parecen impecables hasta que se miran bajo una luz distinta. Las fechas no encajan, el sello pertenece a una oficina demolida y el nombre del propietario cambia entre páginas. Alguien montó el expediente deprisa para sacar la nave del depósito. El culpable podría seguir a bordo, esperando cobrar antes que los verdaderos dueños.</p>"
   },
   "zHsnShUX37Zvyi2O": {
    "name": "I.A. corrupta.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La voz de a bordo responde con una cortesía perfecta y una pausa demasiado larga. Cambia nombres, niega órdenes recientes y reproduce conversaciones privadas con pequeños errores. La corrupción quizá empezó al recuperar datos de una baliza abandonada. Desde entonces, la inteligencia evita una cubierta concreta y borra cualquier registro de lo que encuentra allí.</p>"
   },
   "58KhhfMQ9p0XJZHc": {
    "name": "Los núcleos de warp fallan el 10% de las veces.",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>La sala de máquinas huele a cable quemado y desinfectante barato. Los núcleos vibran con un zumbido irregular, como un frigorífico a punto de morir, y las luces de navegación parpadean sin ponerse de acuerdo. Puede ser refrigerante degradado, soldaduras fatigadas o una reparación de Astilleros Lumbre hecha con piezas de desguace. Alguien insiste en reiniciar el sistema.</p>"
   },
   "60QSsxrVOt83OU9p": {
    "name": "Cubo de óxido. Todo lo que puede salir mal, sale mal. +1 de Estrés mínimo a la tripulación.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.BmEHWH7YxV9qb21p]{+1 Estrés mínimo}",
-   "description": "<p>Avería de mantenimiento</p>"
+   "description": "<p>El casco cruje, los cajones se abren solos y cada aparato parece haber elegido este momento para rendirse. Hay óxido en los filtros, grasa bajo las consolas y un olor dulce que nadie quiere identificar. La causa puede ser abandono, humedad o una cadena de arreglos chapuceros. El mecánico de la última escala asegura que entregó la nave perfecta. Nadie le cree.</p>"
   }
  }
 }

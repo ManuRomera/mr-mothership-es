@@ -35,7 +35,7 @@ Activa **MR- Mothership en español** en tu mundo y pon Foundry en **Español** 
 | 📖 **Glosario** | Guardián, Cordura, Miedo, Cuerpo, Estrés, Determinación, Salvación de muerte… ver [`docs/GLOSARIO.md`](docs/GLOSARIO.md). |
 
 ## 🧑‍🚀 Clases y equipo listos para jugar
-El módulo trae sus propios compendios (**Clases, Habilidades, Armas, Armaduras, Objetos, Parches, Tablas de creación de personaje y Reglas rápidas**) con 16 clases en español. Abre el «Generador de personajes» del sistema, elige clase y listo: aplica los bonos, te deja elegir habilidades, tira el equipo inicial, el parche (d100 con imagen) y la baratija, y lo cose todo a la ficha al guardar. Si tenías «Básicos de Mosh», desactívalo: este módulo lo sustituye.
+El módulo trae sus propios compendios (**Clases, Habilidades, Armas, Armaduras, Objetos, Parches, Tablas de creación de personaje y Reglas rápidas**) con 16 clases en español. Abre el «Generador de personajes» del sistema, elige clase y listo: aplica los bonos, te deja elegir habilidades, tira el equipo inicial, el parche (d100 con imagen) y la baratija, y lo cose todo a la ficha al guardar. Elige sexo y pulsa «Nombre y biografía» para recibir un personaje con nombre, mote y una biografía propia (editable) que se guarda en la ficha. Todas las clases, armas, armaduras, habilidades, objetos y averías llevan descripción ambiental. Si tenías «Básicos de Mosh», desactívalo: este módulo lo sustituye.
 
 ## 🔧 Cómo está hecho
 

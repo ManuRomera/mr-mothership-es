@@ -26,6 +26,8 @@ jobs:
           unzip -l dist/mr-mothership-es.zip | grep -q parches/99.webp
           unzip -l dist/mr-mothership-es.zip | grep -q scripts/parches.js
           unzip -l dist/mr-mothership-es.zip | grep -q packs/clases/CURRENT
+          unzip -l dist/mr-mothership-es.zip | grep -q lang/personajes.json
+          unzip -l dist/mr-mothership-es.zip | grep -q scripts/generador.js
           unzip -l dist/mr-mothership-es.zip | grep -q iconos/E0.webp
       - name: Notas
         run: |

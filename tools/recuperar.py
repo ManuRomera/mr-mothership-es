@@ -56,7 +56,7 @@ REGLAS_OBJETO = [  # (palabras clave, glifo de iconos/); gana la primera coincid
  (['gato', 'mascota', 'lemur', 'cabra', 'familiares'], 'C14'), (['perro'], 'C15'), (['raton'], 'E8'),
  (['corbata'], 'B5'), (['camisa', 'camiseta'], 'B10'), (['chaleco'], 'B7'), (['ropa'], 'B0'),
  (['brazo cibernetico', 'mmu', 'aeroshell', 'propulsora'], 'B6'),
- (['katana'], 'F6'), (['pala'], 'F4'), (['pluma', 'boligrafo'], 'F11'),
+ (['extintor'], 'H4'), (['bandana'], 'H6'), (['pipa'], 'H7'), (['carro de mano'], 'H8'), (['gorro de chef'], 'H10'), (['cuerno'], 'H11'), (['poster'], 'H13'), (['entradas'], 'H14'), (['llaves'], 'H15'), (['manta de mylar'], 'H3'), (['cigarrillos', 'chicle'], 'G12'), (['mechero'], 'G13'), (['katana'], 'F6'), (['pala'], 'F4'), (['pluma', 'boligrafo'], 'F11'),
 ]
 def glifo_objeto(nombre):
     n = norm(nombre)
@@ -76,9 +76,9 @@ def glifo_armadura(nombre):
         if any(x in n for x in ks): return k
     return 'B0'
 
-ARMAS_ICONO = {'puos americanos': 'Unarmed', 'puenos americanos': 'Unarmed', 'hacha de madera': 'BoardingAxe', 'garrote': 'D14', 'pincho': 'F6',
+ARMAS_ICONO = {'puos americanos': 'G1', 'puenos americanos': 'G1', 'puos': 'G1', 'hacha de madera': 'BoardingAxe', 'garrote': 'D14', 'pincho': 'F6',
                'escopeta recortada': 'F5', 'arma improvisada': 'Crowbar', 'rifle': 'F1', 'martillo a dos manos': 'F4',
-               'pistola de bolsillo': 'F7', 'pistola pequena': 'F7', 'pistola compacta oculta': 'F7', 'arco': 'D13',
+               'pistola de bolsillo': 'F7', 'pistola pequena': 'F7', 'pistola compacta oculta': 'F7', 'arco': 'G0',
                'mosquete': 'F0', 'rifle antiguo': 'F0', 'rifle de caza lejano': 'F1', 'rifle antimateria': 'F2'}
 HAB_ICONO = {'Botánica': 'Botany', 'Apaños técnicos': 'Jurry-Rigging', 'Equipo industrial': 'Industrial Equipment',
              'Supervivencia agreste': 'Wilderness Survival', 'Medicina de campo': 'Field Medicine'}
@@ -86,6 +86,8 @@ CLASE_ICONO = {'Marine': 'E0', 'Colono': 'E1', 'Ejecutivo': 'B5', 'Pastor': 'E2'
                'Psíquico': 'E6', 'Explorador': 'E7', 'Jubilado': 'B8', 'Escoria': 'E8', 'Esclavo asalariado': 'E9',
                'Atavismo': 'E10', 'Psiónico': 'E13', 'Androide': 'E11', 'Científico': 'E14', 'Tripulante': 'E12'}
 
+ARMADURA_FIJA = {'atuendo estandar de la tripulacion': 'G3', 'ropa de trabajo pesada': 'G5', 'traje de batalla avanzado': 'G4', 'traje de batalla estandar': 'G6',
+                 'traje de peligro biologico': 'H0', 'traje de vacio': 'H2', 'uniforme': 'G10'}
 def icono(it, parche_n=None):
     t, n, img = it['type'], it['name'], it['img']
     if t == 'class': return g(CLASE_ICONO.get(n, 'E12'))
@@ -99,15 +101,10 @@ def icono(it, parche_n=None):
         if 'svg' in img:
             k = ARMAS_ICONO.get(norm(n), 'F6')
             return g(k) if re.match(r'^[A-F]\d+$', k) else f'systems/mosh/images/icons/dark-grey/weapons/{k}.png'
-        if 'guns_08' in img: return 'systems/mosh/images/icons/sci-fi_icons/transparent/guns/guns_08.PNG'
+        if 'guns_08' in img: return g('G2')
         return img
     if t == 'armor':
-        if img.startswith('worlds/'):
-            f = pathlib.Path(unicodedata.normalize('NFC', urllib.parse.unquote(img.split('/')[-1])))
-            dst = R / 'iconos' / ('armadura-' + norm(f.stem).replace(' ', '-') + '.png')
-            src = pathlib.Path('/Volumes/Datos_Dock/FoundryVTT/Data/worlds/another-bug-hunt/assets/Iconos') / f.name
-            if src.exists(): shutil.copy(src, dst)
-            return f'{ICO}{dst.name}'
+        if norm(n) in ARMADURA_FIJA: return g(ARMADURA_FIJA[norm(n)])
         return g(glifo_armadura(n)) if 'svg' in img else img
     if t == 'item':
         if parche_n is not None: return f'modules/{ID}/parches/{parche_n:02d}.webp'
@@ -143,8 +140,30 @@ TILDES = {'Arqueologia': 'Arqueología', 'Botanica': 'Botánica', 'Geologia': 'G
           'Farmacologia': 'Farmacología', 'Fisica': 'Física', 'Mecanica': 'Mecánica', 'Mineria espacial': 'Minería espacial',
           'Patologia': 'Patología', 'Psicologia': 'Psicología', 'Cibernetica': 'Cibernética', 'Cirugia': 'Cirugía',
           'Exobiologia': 'Exobiología', 'Ingenieria': 'Ingeniería', 'Inteligencia Artificial': 'Inteligencia artificial',
-          'Planetologia': 'Planetología', 'Robotica': 'Robótica', 'Sofontologia': 'Sofontología', 'Conocimientos del Borde exterior': 'Conocimientos del Borde Exterior'}
+          'Planetologia': 'Planetología', 'Robotica': 'Robótica', 'Sofontologia': 'Sofontología', 'Conocimientos del Borde exterior': 'Conocimientos del Borde Exterior', 'Lingüista': 'Lingüística'}
 for h in packs['habilidades']: h['name'] = TILDES.get(h['name'], h['name'])
+
+# erratas de nombres (tildes y mayúsculas iniciales) en armas, armaduras y objetos
+NOMBRES = {'Revolver': 'Revólver', 'traje de vacio': 'Traje de vacío', 'Traje de peligro biologico': 'Traje de peligro biológico',
+           'Cinturon de herramientes variadas': 'Cinturón de herramientas variadas', 'Dispositivo de Filtración de Agua': 'Dispositivo de filtración de agua',
+           'Pistola de Espuma': 'Pistola de espuma', 'Pistola Tranquilizante': 'Pistola tranquilizante', 'Llave Inglesa': 'Llave inglesa',
+           'Raciones Batalla': 'Raciones de batalla', 'Respirador Reciclador': 'Respirador reciclador', 'Botiquín de primeros auxilios': 'Botiquín de primeros auxilios'}
+for cat in ('armas', 'armaduras', 'objetos'):
+    for d in packs[cat]:
+        n = NOMBRES.get(d['name'], d['name']); d['name'] = n[:1].upper() + n[1:]
+
+# descripciones largas redactadas con tools/describir.py (la regla original se conserva debajo)
+def interior(h): return re.sub(r'^<p>|</p>$', '', (h or '').strip())
+for cat, docs in packs.items():
+    f = R / f'art_src/desc/{cat}.json'
+    if not f.exists(): continue
+    desc = json.load(open(f))
+    for d in docs:
+        nuevo = desc.get(d['_id'])
+        if not nuevo: continue
+        orig = interior(d['system'].get('description'))
+        if cat == 'clases': d['system']['description'] = (f'<p><em>{orig}</em></p>' if orig else '') + nuevo
+        else: d['system']['description'] = nuevo + (f'<p><strong>Reglas.</strong> {orig}</p>' if orig and norm(re.sub(r'<[^>]+>', '', orig)) not in norm(re.sub(r'<[^>]+>', '', nuevo)) else '')
 
 tablas = []
 for t in A['tables']:

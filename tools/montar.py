@@ -112,3 +112,11 @@ for f in sorted(SRC.glob('pack.*.json')):
               open(R/f'compendium/mosh.{pack}.json', 'w'), ensure_ascii=False, indent=1)
     print(pack, len(ent), '/', len(orig))
 print('lang faltan:', len(faltan), 'literales:', len(lit))
+
+# averías de mantenimiento: descripciones largas (tools/describir.py averias)
+_f = R/'art_src/desc/averias.json'
+if _f.exists():
+    _d = json.load(open(_f)); _p = R/'compendium/mosh.items_maintenance_1e.json'; _c = json.load(open(_p))
+    for k, v in _d.items():
+        if k in _c['entries']: _c['entries'][k]['description'] = v
+    json.dump(_c, open(_p, 'w'), ensure_ascii=False, indent=1); print('averías con descripción:', len(_d))

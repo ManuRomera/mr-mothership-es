@@ -368,7 +368,7 @@
    }
   },
   {
-   "en": "^(.*?)((?:Minimum |Maximum )?)(Bankruptcy|Intellect|Thrusters|Strength|Bleeding|Instinct|Systems|Resolve|Loyalty|Net HP|Stress|Health|Combat|Wounds|Sanity|Battle|Speed|Armor|Calm|Fear|Body) (increased|decreased) from$",
+   "en": "^(.*?)((?:Minimum |Maximum )?)(Bankruptcy|Thrusters|Intellect|Bleeding|Instinct|Strength|Resolve|Loyalty|Systems|Battle|Combat|Sanity|Stress|Health|Net HP|Wounds|Armor|Speed|Body|Calm|Fear) (increased|decreased) from$",
    "es": "$1$3 $2$4 de",
    "map": {
     "Minimum": "mínimo",

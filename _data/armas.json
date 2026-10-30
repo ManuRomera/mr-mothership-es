@@ -6,7 +6,7 @@
   "_id": "38t4HCDomNdlytGj",
   "img": "systems/mosh/images/icons/dark-grey/weapons/MachineGun_02.png",
   "system": {
-   "description": "<p>A dos manos. Pesado. El ca&ntilde;&oacute;n se puede maniobrar para disparar en las esquinas</p>",
+   "description": "<p>La firma <strong>Brasa Orbital</strong> diseñó la MUG-5 para convoyes mineros, seguridad de hangares y discusiones laborales que han perdido toda posibilidad de mediación. Se maneja a dos manos y pesa como una mala decisión. El cañón articulado permite disparar en las esquinas, aunque la culata suele recordar al usuario quién manda. <em>Advertencia:</em> no apoyarla contra una pared presurizada sin comprobar antes qué hay al otro lado. «Cinco disparos, cero reuniones de seguimiento».</p><p><strong>Reglas.</strong> A dos manos. Pesado. El ca&ntilde;&oacute;n se puede maniobrar para disparar en las esquinas</p>",
    "antiArmor": false,
    "damage": "4d10",
    "ammo": 1,
@@ -46,7 +46,7 @@
   "_id": "z244ojrkJJLZG6FY",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Wrench.png",
   "system": {
-   "description": "<p>salvacion Cuerpo o aturdido 1 ronda.</p>",
+   "description": "<p>Fabricado por <strong>Defensa Nexo</strong>, el modelo Pulso-9 nació para controlar motines sin estropear demasiado el mobiliario corporativo. El golpe produce una vibración seca, desagradable y sorprendentemente personal. No necesita munición, solo contacto y cierta disposición a acercarse. <em>Advertencia:</em> los usuarios con implantes antiguos pueden quedarse mirando fijamente una pared durante horas. La empresa no considera eso una avería si siguen firmando la nómina. «Ponga orden sin dejar marcas que compliquen el informe».</p><p><strong>Reglas.</strong> salvacion Cuerpo o aturdido 1 ronda.</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 0,
@@ -86,7 +86,7 @@
   "_id": "LkK4uDgl5wRAsk2Q",
   "img": "systems/mosh/images/icons/dark-grey/weapons/LaserCutter.png",
   "system": {
-   "description": "<p>A dos manos. Pesado. 1 ronda de recarga entre disparos.</p>",
+   "description": "<p>La cortadora <strong>Heliox Modelo Rayo-6</strong> fue creada para separar mamparos, contenedores y, en casos documentados, tripulaciones de sus planes de jubilación. Requiere ambas manos y se siente como sujetar una estrella pequeña con muy mal humor. Entre disparos necesita una ronda de recarga, tiempo suficiente para reconsiderar la carrera elegida. <em>Advertencia:</em> el metal recién cortado puede seguir respirando. «Abra cualquier cosa, salvo la caja de responsabilidades legales».</p><p><strong>Reglas.</strong> A dos manos. Pesado. 1 ronda de recarga entre disparos.</p>",
    "antiArmor": false,
    "damage": "1d100",
    "ammo": 1,
@@ -126,7 +126,7 @@
   "_id": "ENAezt3aT7Du0eie",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Unarmed.png",
   "system": {
-   "description": "",
+   "description": "<p>Las manos desnudas pertenecen al catálogo universal de <strong>Recursos Humanos del Vacío</strong>, división que no admite reclamaciones. No necesitan cargador, mantenimiento ni licencia, pero exigen acercarse mucho al problema. Usarlas produce una sensación inmediata de vulnerabilidad y una factura posterior de fisioterapia. <em>Advertencia:</em> algunos organismos espaciales interpretan el contacto directo como una declaración territorial. Si responden, procure que la conversación termine pronto. «Cuando todo falla, aún le quedan las manos».</p>",
    "antiArmor": false,
    "damage": "",
    "ammo": 0,
@@ -166,7 +166,7 @@
   "_id": "d7axv9AfR5oBrLKK",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Scalpel.png",
   "system": {
-   "description": "",
+   "description": "<p>El escalpelo <strong>Quirón Industrial</strong> procede de un lote antiguo de enfermerías orbitales. Fue diseñado para incisiones limpias, reparaciones de emergencia y decisiones médicas tomadas sin consultar al paciente. Es ligero, preciso y demasiado fácil de encontrar en una manga. <em>Advertencia:</em> la hoja conserva mejor el filo que la memoria del último propietario. Si aparece junto a una camilla vacía, cierre la puerta y no pregunte por qué. «La herramienta pequeña para problemas de tamaño humano».</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 0,
@@ -206,7 +206,7 @@
   "_id": "H9eZFrPyGZc8pq5k",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Shotgun_03.png",
   "system": {
-   "description": "<p>1d10 DA&Ntilde;O a Larga Distancia o m&aacute;s.</p>",
+   "description": "<p>La escopeta <strong>Taladro Rojo M-4</strong> nació para repeler abordajes en pasillos estrechos, donde negociar requiere más espacio del disponible. El retroceso llega antes que el arrepentimiento y deja los brazos temblando con sincera honestidad. A larga distancia pierde eficacia con rapidez; la munición parece ofenderse al viajar demasiado. <em>Advertencia:</em> no confunda el seguro con una promesa. «Cuatro oportunidades para terminar la conversación».</p><p><strong>Reglas.</strong> 1d10 DA&Ntilde;O a Larga Distancia o m&aacute;s.</p>",
    "antiArmor": false,
    "damage": "4d10",
    "ammo": 1,
@@ -246,7 +246,7 @@
   "_id": "MxzlBjR96HxpuaFF",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Grenade_01.png",
   "system": {
-   "description": "<p>Al impactar, da&ntilde;a a todos los adyacentes al enemigo.</p>",
+   "description": "<p>La granada <strong>Rémora Fragmentaria</strong>, fabricada por <strong>Orbe Mecánico</strong>, fue pensada para limpiar compartimentos infestados y reuniones de seguridad demasiado concurridas. Cabe en la mano, pesa poco y convierte el concepto de espacio personal en un recuerdo. Al detonar, los fragmentos no distinguen entre amenaza, aliado ni técnico de mantenimiento. <em>Advertencia:</em> si alguien pregunta si está activada, probablemente ya sea tarde. «Una solución compacta para problemas de grupo».</p><p><strong>Reglas.</strong> Al impactar, da&ntilde;a a todos los adyacentes al enemigo.</p>",
    "antiArmor": false,
    "damage": "3d10",
    "ammo": 1,
@@ -285,7 +285,7 @@
   "_id": "DEdtuFuSlZCOIP7b",
   "img": "systems/mosh/images/icons/dark-grey/weapons/BoardingAxe.png",
   "system": {
-   "description": "",
+   "description": "<p>El hacha <strong>Astillero Norte Tipo Abordaje</strong> se fabricó cuando las naves llevaban más remaches que sistemas de defensa. Sirve para abrir puertas, cortar cables y recordar a los intrusos que el metal también puede tener rencor. El mango suele estar reparado por varias generaciones de tripulantes. <em>Advertencia:</em> algunas unidades conservan manchas que ningún limpiador industrial reconoce. «Herramienta, arma y herencia familiar en una sola pieza».</p>",
    "antiArmor": false,
    "damage": "2d10",
    "ammo": 0,
@@ -326,7 +326,7 @@
   "_id": "vXrjNQct1cApGrEq",
   "img": "systems/mosh/images/icons/dark-grey/weapons/FlameThrower_01.png",
   "system": {
-   "description": "<p>Salvacion Cuerpo [-] o ser incendiado (2d10 DMG / ronda)</p>",
+   "description": "<p>El lanzallamas <strong>Ceniza-4 de Fulgor Técnico</strong> fue diseñado para esterilizar nidos, bodegas y cualquier lugar donde algo se mueva con demasiadas patas. El calor llega como una pared y deja el aire con sabor a cable quemado. Sus depósitos duran poco, pero las consecuencias suelen durar más. <em>Advertencia:</em> no lo use cerca de oxígeno, combustible o compañeros que quiera conservar. «Limpieza profunda, incluso de recuerdos».</p><p><strong>Reglas.</strong> Salvacion Cuerpo [-] o ser incendiado (2d10 DMG / ronda)</p>",
    "antiArmor": false,
    "damage": "2d10",
    "ammo": 1,
@@ -361,11 +361,11 @@
  },
  {
   "folder": null,
-  "name": "Llave Inglesa",
+  "name": "Llave inglesa",
   "type": "weapon",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Wrench.png",
   "system": {
-   "description": "<p>salvacion Cuerpo o aturdido 1 ronda.</p>",
+   "description": "<p>La llave inglesa <strong>Ferroviaria K-1</strong> fue fabricada para motores de carga, tornillos oxidados y discusiones técnicas que necesitaban una conclusión física. Tiene el peso tranquilizador de una herramienta honrada y el equilibrio exacto de un objeto lanzado con resentimiento. Puede dejar a alguien viendo luces durante un rato. <em>Advertencia:</em> el fabricante recomienda no emplearla sobre maquinaria sensible, cráneos ni supervisores. «Apriete lo necesario y explique lo mínimo».</p><p><strong>Reglas.</strong> salvacion Cuerpo o aturdido 1 ronda.</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -406,7 +406,7 @@
   "_id": "qxiezWA1La6w0dSg",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Crowbar.png",
   "system": {
-   "description": "<p>Otorga [+] en las pruebas de fuerza para abrir esclusas atascadas, levantar objetos pesados, etc.</p>",
+   "description": "<p>La palanca <strong>Mano Muerta</strong> de <strong>Vértice Salvamento</strong> acompaña a los equipos que rescatan cargamentos, abren esclusas atascadas y levantan objetos que nadie quiso asegurar correctamente. Es sencilla, robusta y transmite una confianza casi supersticiosa. Con ella, las puertas parecen menos definitivas y las malas ideas más manejables. <em>Advertencia:</em> si una compuerta se abre sola, no asuma que ha sido por la palanca. «Para mover lo imposible unos centímetros».</p><p><strong>Reglas.</strong> Otorga [+] en las pruebas de fuerza para abrir esclusas atascadas, levantar objetos pesados, etc.</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 0,
@@ -441,12 +441,12 @@
  },
  {
   "folder": null,
-  "name": "Pistola Tranquilizante",
+  "name": "Pistola tranquilizante",
   "type": "weapon",
   "_id": "y0vjQQKib9ZW1sfQ",
   "img": "systems/mosh/images/icons/dark-grey/weapons/TranqPistol.png",
   "system": {
-   "description": "<p>Si se inflige DA&Ntilde;O: el enemigo debe salvacion decuerpo o estar inconsciente 1d10 rondas.</p>",
+   "description": "<p>La pistola tranquilizante <strong>Sueño Gris S-6</strong>, de <strong>Calma Orbital</strong>, fue diseñada para fauna de carga, pacientes nerviosos y empleados que han empezado a aullar durante el turno. El disparo es leve; el silencio posterior, bastante más convincente. Sus dardos exigen apuntar con cuidado y explicar después por qué alguien duerme en el suelo. <em>Advertencia:</em> la dosis no distingue entre especie, rango ni nómina. «Duerma ahora; el informe puede esperar».</p><p><strong>Reglas.</strong> Si se inflige DA&Ntilde;O: el enemigo debe salvacion decuerpo o estar inconsciente 1d10 rondas.</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 1,
@@ -481,12 +481,12 @@
  },
  {
   "folder": null,
-  "name": "Pistola de Espuma",
+  "name": "Pistola de espuma",
   "type": "weapon",
   "_id": "x7x8lv0m66npG5Dc",
   "img": "systems/mosh/images/icons/dark-grey/weapons/FoamGun.png",
   "system": {
-   "description": "<p>Salvacion Cuerpo o te quedar&aacute;s atascado. Comprobaci&oacute;n de fuerza [-] para escapar.</p>",
+   "description": "<p>La pistola de espuma <strong>Inmovilizador P-3</strong> de <strong>Sellos Kársticos</strong> se creó para contener fugas, animales pequeños y personal que insiste en atravesar zonas clausuradas. Dispara una masa adhesiva que convierte el movimiento en una negociación lenta con la gravedad. <em>Advertencia:</em> la espuma no reconoce uniformes y puede fijar al usuario a su propia nave durante una evacuación. «Detenga el problema antes de que aprenda a correr».</p><p><strong>Reglas.</strong> Salvacion Cuerpo o te quedar&aacute;s atascado. Comprobaci&oacute;n de fuerza [-] para escapar.</p>",
    "antiArmor": false,
    "damage": "1",
    "ammo": 1,
@@ -526,7 +526,7 @@
   "_id": "vVApnvQqFyJ6RYYB",
   "img": "systems/mosh/images/icons/dark-grey/weapons/FlareGun.png",
   "system": {
-   "description": "<p>Llamarada de alta intensidad visible de d&iacute;a y de noche desde Largo Alcance</p>",
+   "description": "<p>La pistola de bengalas <strong>Señal Roja L-2</strong> fue fabricada por <strong>Baliza Comunal</strong> para rescates, averías y tripulaciones que han descubierto demasiado tarde que el mapa estaba al revés. Su proyectil ilumina el vacío con una intensidad visible desde gran distancia, de día o de noche. El retroceso resulta modesto; la atención que atrae, no siempre. <em>Advertencia:</em> una señal clara también puede ser una invitación. «Si quiere que le encuentren, hágase imposible de ignorar».</p><p><strong>Reglas.</strong> Llamarada de alta intensidad visible de d&iacute;a y de noche desde Largo Alcance</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 1,
@@ -566,7 +566,7 @@
   "_id": "xsEm25XgfjcA3J89",
   "img": "systems/mosh/images/icons/dark-grey/weapons/NailGun_01.png",
   "system": {
-   "description": "",
+   "description": "<p>Fabricada por Clavex Industrial, la serie Remache-32 nació para asegurar paneles, cajones y, llegado el caso, tripulantes revoltosos. Su retroceso es ligero, pero cada disparo suena como una decisión administrativa irreversible. El cargador admite treinta y dos clavos, aunque la empresa recomienda no comprobar cuántos quedan mirando por el cañón. Puede atascarse con polvo, óxido o tejidos demasiado gruesos. <em>“Clavamos el problema donde haga falta.”</em></p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 1,
@@ -606,7 +606,7 @@
   "_id": "t8dw24g8S1xxDA1l",
   "img": "systems/mosh/images/icons/dark-grey/weapons/RiggingGun_01.png",
   "system": {
-   "description": "<ul>\n<li>1d10 DA&Ntilde;O + 2d10 DA&Ntilde;O cuando se retira</li>\n<li>Microfilamento de 100 m. salvacion de Cuerpo o enredarse</li>\n</ul>",
+   "description": "<p>El modelo Garfio-100 de Remolques Varda fue diseñado para recuperar carga flotante y trabajadores que olvidaron engancharse. Solo admite un disparo, pero arrastra cien metros de microfilamento cuando se retira, con resultados dolorosos y poco decorosos. El cable puede enredar a quien esté cerca; la prueba de Cuerpo no figura en el manual, pero sí en varios informes de accidentes. Su uso produce una sensación firme, tensa y ligeramente vengativa. <em>“Si no vuelve por las buenas, vuelve enganchado.”</em></p><p><strong>Reglas.</strong> <ul>\n<li>1d10 DA&Ntilde;O + 2d10 DA&Ntilde;O cuando se retira</li>\n<li>Microfilamento de 100 m. salvacion de Cuerpo o enredarse</li>\n</ul></p>",
    "antiArmor": false,
    "damage": "1d10",
    "ammo": 1,
@@ -641,12 +641,12 @@
  },
  {
   "folder": null,
-  "name": "Revolver",
+  "name": "Revólver",
   "type": "weapon",
   "_id": "ufUWXvdof3xMv9sn",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Revolver_01.png",
   "system": {
-   "description": "",
+   "description": "<p>El revólver Víbora-6, de Fundiciones Orbe, se diseñó para capataces que necesitaban contar hasta seis sin recurrir a los dedos. Es pesado, sencillo y transmite la tranquilizadora certeza de una herramienta que ya sobrevivió a su propietario anterior. El tambor gira con un chasquido seco, como una puerta que se cierra detrás de ti. Requiere limpieza frecuente, aunque rara vez la recibe. <em>“Seis oportunidades para resolver una conversación.”</em></p>",
    "antiArmor": false,
    "damage": "1d10+1",
    "ammo": 6,
@@ -686,7 +686,7 @@
   "_id": "THtcCwIFXgEGuph7",
   "img": "systems/mosh/images/icons/dark-grey/weapons/PulseRifle_01.png",
   "system": {
-   "description": "",
+   "description": "<p>El rifle de pulsos Ardent-5, fabricado por Heliox Sistemas, se concibió para controlar fauna hostil en instalaciones remotas. Sus cinco cargas liberan una descarga brutal y azulada que deja la empuñadura caliente y el ambiente con olor a tormenta. Dispararlo resulta limpio, distante y muy poco humano. La carcasa acumula calor; tocarla después de una ráfaga puede convertir una victoria táctica en una visita médica. <em>“La distancia protege. La energía decide.”</em></p>",
    "antiArmor": false,
    "damage": "3d10",
    "ammo": 5,
@@ -726,7 +726,7 @@
   "_id": "cX5LE4H48FIpUh2I",
   "img": "systems/mosh/images/icons/dark-grey/weapons/SmartGun_01.png",
   "system": {
-   "description": "<p>[-] en la prueba de combate cuando se dispara a corta distancia.</p>",
+   "description": "<p>El visor inteligente Alecto-3 de Nexo Militar calcula trayectorias, corrige el pulso y juzga tus decisiones con una luz amarilla. Sus tres disparos alcanzan distancias extremas con precisión de laboratorio. A corta distancia, sin embargo, el sistema se vuelve torpe y aplica una penalización a la prueba de combate: demasiados datos, demasiado poco espacio. El fabricante insiste en que no es un defecto, sino una limitación contextual. <em>“Apunte lejos. Piense menos.”</em></p><p><strong>Reglas.</strong> [-] en la prueba de combate cuando se dispara a corta distancia.</p>",
    "antiArmor": false,
    "damage": "4d10",
    "ammo": 1,
@@ -766,7 +766,7 @@
   "_id": "onNo7M3GReEqqjFi",
   "img": "systems/mosh/images/icons/dark-grey/weapons/HandWelder_01.png",
   "system": {
-   "description": "<p>Puede cortar puertas de esclusas de aire.</p>",
+   "description": "<p>El soldador manual Fulgor de Talleres Cárdena nació para reparar tuberías, pero acabó entrando en arsenales por la puerta de servicio. No usa cargador: consume combustible y paciencia. A distancia adyacente escupe un arco blanco, áspero y terriblemente convincente. También puede cortar puertas de esclusas de aire, una función útil que la garantía considera abuso del producto. No lo deje encendido junto a nada que respire. <em>“Calienta, corta y despeja el camino.”</em></p>",
    "antiArmor": false,
    "damage": "1d10",
    "ammo": 0,
@@ -806,7 +806,7 @@
   "_id": "F2LBga58gtiybVHH",
   "img": "systems/mosh/images/icons/dark-grey/weapons/SMG_01.png",
   "system": {
-   "description": "<p>Se puede disparar con una sola mano.</p>",
+   "description": "<p>El subfusil Rayo-5 de Manufacturas Kestrel fue creado para escoltas de carga que necesitaban potencia sin soltar una mano del pasamanos. Sus cinco cargas ofrecen una respuesta seca y contundente. Puede dispararse con una sola mano, aunque la otra suele estar ocupada agarrándose a algo que todavía funciona. El fabricante desaconseja usarlo cerca de depósitos presurizados, tripulantes nerviosos o cualquier superficie con la palabra combustible. <em>“Una mano libre. Cinco razones para conservarla.”</em></p><p><strong>Reglas.</strong> Se puede disparar con una sola mano.</p>",
    "antiArmor": false,
    "damage": "2d10",
    "ammo": 1,
@@ -846,7 +846,7 @@
   "_id": "7eYcaj0TNJ0F0aaV",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Vibechete.png",
   "system": {
-   "description": "<p>Al infligir una Herida, tira sobre AMBAS columnas de Sangrado Y Sangre</p>",
+   "description": "<p>La Vibechete de Cortes Nadir combina una hoja industrial con un motor vibratorio que nunca suena satisfecho. Se diseñó para abrir compuertas, cortar cableado y resolver disputas de mantenimiento. Al infligir una herida, las columnas de Sangrado y Sangre entran ambas en juego, según la documentación más optimista. Vibra hasta en reposo y puede cortar su propia funda si la funda es barata. <em>“Corte limpio. Consecuencias abundantes.”</em></p><p><strong>Reglas.</strong> Al infligir una Herida, tira sobre AMBAS columnas de Sangrado Y Sangre</p>",
    "antiArmor": true,
    "damage": "3d10",
    "ammo": 0,
@@ -881,12 +881,12 @@
  },
  {
   "folder": null,
-  "name": "lanzacohetes LAT-90",
+  "name": "Lanzacohetes LAT-90",
   "type": "weapon",
   "_id": "UYOGhqJEm8z5CJjT",
-  "img": "systems/mosh/images/icons/sci-fi_icons/transparent/guns/guns_08.PNG",
+  "img": "modules/mr-mothership-es/iconos/G2.webp",
   "system": {
-   "description": "<p>Two-handed. Heavy. Reloading takes a round.</p>",
+   "description": "<p>El lanzacohetes LAT-90 de Lanzares Orbital fue diseñado para situaciones en las que el departamento jurídico ya ha abandonado la nave. Es pesado, requiere dos manos y solo admite un cohete. Recargarlo lleva un asalto completo, tiempo suficiente para arrepentirse, esconderse o redactar el informe. Su retroceso no negocia con la arquitectura interior. El alcance no figura en el catálogo porque la empresa prefiere que lo descubra el enemigo. <em>“Cuando hace falta hablar alto, no susurre.”</em></p><p><strong>Reglas.</strong> Two-handed. Heavy. Reloading takes a round.</p>",
    "antiArmor": false,
    "damage": "2d10*10",
    "ammo": 1,
@@ -921,12 +921,12 @@
  },
  {
   "folder": null,
-  "name": "rifle antimateria",
+  "name": "Rifle antimateria",
   "type": "weapon",
   "_id": "m5dcrUZctquP4yuO",
   "img": "modules/mr-mothership-es/iconos/F2.webp",
   "system": {
-   "description": "<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,null,&quot;list_item&quot;,null]\">A dos manos. Pesado. Debe estar boca abajo/arriostrado.</p>\n<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,null,&quot;list_item&quot;,null]\">[-] en Prueba de combate a corta distancia.</p>",
+   "description": "<p>El rifle antimateria Umbral-5 de Vacío Técnico está pensado para objetivos extremadamente lejanos y problemas que nadie quiere tener cerca. Requiere dos manos, es pesado y debe usarse boca abajo o bien arriostrado. A corta distancia impone una penalización a la prueba de combate; su diseño espera que el universo tenga la cortesía de mantenerse lejos. Cinco disparos bastan para convertir una misión en una investigación. <em>“No dispare a lo que piensa reparar.”</em></p><p><strong>Reglas.</strong> <p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,null,&quot;list_item&quot;,null]\">A dos manos. Pesado. Debe estar boca abajo/arriostrado.</p>\n<p data-pm-slice=\"1 1 [&quot;bullet_list&quot;,null,&quot;list_item&quot;,null]\">[-] en Prueba de combate a corta distancia.</p>",
    "antiArmor": false,
    "damage": "2d10*5",
    "ammo": 5,
@@ -961,12 +961,12 @@
  },
  {
   "_id": "Xiy8WoOCyYkdODfJ",
-  "name": "hacha de madera",
+  "name": "Hacha de madera",
   "type": "weapon",
   "img": "systems/mosh/images/icons/dark-grey/weapons/BoardingAxe.png",
   "folder": null,
   "system": {
-   "description": "<p>hacha de madera</p>",
+   "description": "<p>Esta hacha de madera fue fabricada a mano, probablemente antes de que alguien decidiera que las naves debían llevar herramientas más modernas. Su mango conserva marcas de uso, grasa y una pequeña quemadura que nadie explica. Golpea con la dignidad sencilla de una pieza de museo que se niega a quedarse expuesta. El fabricante original no ofrece repuestos, instrucciones ni responsabilidad por astillas. <em>“La tradición también puede abrirse paso.”</em></p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1001,12 +1001,12 @@
  },
  {
   "_id": "sF2kqzS5qDEqGRTm",
-  "name": "puños americanos",
+  "name": "Puños americanos",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F6.webp",
   "folder": null,
   "system": {
-   "description": "<p>puños americanos</p>",
+   "description": "<p>Estos puños americanos, hallados en un cajón de herramientas sin inventariar, llevan grabadas unas iniciales borradas y varias decisiones permanentes. Encajan mal, pesan lo justo y convierten una discusión laboral en un asunto de traumatología. No necesitan cargador, mantenimiento ni permiso de compra en la mayoría de las colonias que ya han perdido la paciencia. El metal se enfría deprisa en el vacío, pero no mejora el tacto. <em>“Ponga algo sólido entre usted y el problema.”</em></p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1041,12 +1041,12 @@
  },
  {
   "_id": "LHdr9wo7l90cWc3E",
-  "name": "garrote",
+  "name": "Garrote",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/D14.webp",
   "folder": null,
   "system": {
-   "description": "<p>garrote</p>",
+   "description": "<p>El garrote de servicio de Seguridad Pardo es una pieza básica, fiable y profundamente honesta. Consiste en madera endurecida, una empuñadura gastada y la promesa de que nadie espera tecnología avanzada de quien lo lleva. Se siente pesado al levantarlo y más pesado todavía después. Las instrucciones recomiendan evitar conductos, cascos y compañeros con memoria. Su mayor defecto es que deja pruebas, aunque la empresa llama a eso trazabilidad. <em>“Simple de usar. Difícil de olvidar.”</em></p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1081,12 +1081,12 @@
  },
  {
   "_id": "OCUHGsvNHW8tfUy7",
-  "name": "pincho",
+  "name": "Pincho",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F6.webp",
   "folder": null,
   "system": {
-   "description": "<p>pincho</p>",
+   "description": "<p>El pincho de emergencia de Astilleros Bruma se fabrica con una varilla, una punta afilada y el tipo de desesperación que no aparece en los presupuestos. Fue diseñado para liberar atascos, perforar embalajes y convencer a organismos demasiado cercanos. No tiene cargador ni mecanismos que fallen, salvo la mano que lo empuña. Guárdelo con la punta protegida; la última persona que ignoró esa advertencia sigue siendo motivo de conversación. <em>“Si cabe una punta, cabe una solución.”</em></p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1121,12 +1121,12 @@
  },
  {
   "_id": "LCEswCxhYlQ867Gr",
-  "name": "escopeta recortada",
+  "name": "Escopeta recortada",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F5.webp",
   "folder": null,
   "system": {
-   "description": "<p>escopeta recortada</p>",
+   "description": "<p>Fabricada por Armería Varga, la Recortada Estibador-4 nació para despejar almacenes, camarotes y discusiones salariales. Su culata desapareció durante el primer prototipo, y nadie consideró necesario reemplazarla. Al dispararla, el retroceso recuerda que la ingeniería también puede guardar rencor. El cañón corto resulta práctico en pasillos, aunque conviene comprobar qué hay detrás del objetivo antes de apretar el gatillo. <em>Advertencia: no apuntar cerca de depósitos presurizados, compañeros nerviosos ni supervisores con seguro médico.</em> “Pequeña, contundente y fácil de esconder bajo el mono.”</p><p><strong>Reglas.</strong> escopeta recortada</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1161,12 +1161,12 @@
  },
  {
   "_id": "xcTbfkGIyFGZI94h",
-  "name": "arma improvisada",
+  "name": "Arma improvisada",
   "type": "weapon",
   "img": "systems/mosh/images/icons/dark-grey/weapons/Crowbar.png",
   "folder": null,
   "system": {
-   "description": "<p>arma improvisada 1d5</p>",
+   "description": "<p>Reunida con piezas de desguace, tuberías de servicio y una cantidad preocupante de cinta aislante, esta pieza carece de fabricante oficial. Algunos la llaman herramienta; otros, una demanda pendiente. Al usarla, cada disparo tiene la intimidad desagradable de una avería doméstica. Sirve cuando no queda nada mejor y, a veces, cuando sí queda. Sus componentes no siempre comparten calibre, propósito o lealtad. <em>Advertencia: si huele a ozono, aléjela de su cara y rece por el seguro de la nave.</em> “Hecha a mano. Porque esperar un envío también mata.”</p><p><strong>Reglas.</strong> arma improvisada 1d5</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1201,12 +1201,12 @@
  },
  {
   "_id": "2vC23j5M8vByDRup",
-  "name": "rifle",
+  "name": "Rifle",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F1.webp",
   "folder": null,
   "system": {
-   "description": "<p>rifle</p>",
+   "description": "<p>El rifle Orsini Cargador-1 fue diseñado para guardias de carga, patrullas de frontera y trabajadores que necesitaban mantener una conversación a distancia. Su construcción es sobria, pesada y bastante honesta sobre sus intenciones. Al encajarlo en el hombro transmite una seguridad antigua, casi reconfortante, hasta que se recuerda dónde termina el blindaje de la nave. El mantenimiento exige paciencia y herramientas que suelen estar en otro turno. <em>Advertencia: nunca lo deje apoyado junto a una válvula importante.</em> “Un disparo claro para problemas poco claros.”</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1241,12 +1241,12 @@
  },
  {
   "_id": "UvPugWSqnugNdrcr",
-  "name": "martillo a dos manos",
+  "name": "Martillo a dos manos",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F4.webp",
   "folder": null,
   "system": {
-   "description": "<p>martillo a dos manos 2d10</p>",
+   "description": "<p>Forjado por Talleres Kárst durante la reconstrucción de una estación minera, este martillo fue pensado para romper compuertas, placas y cualquier cosa que insistiera en seguir cerrada. Se maneja con ambas manos y convierte cada golpe en una declaración laboral difícil de recurrir. El peso se siente antes, durante y bastante después del impacto. No es elegante, pero tampoco lo son las emergencias. <em>Advertencia: las paredes de la nave suelen pertenecer a alguien, y ese alguien puede estar dentro.</em> “Cuando el diálogo falla, mejore la herramienta.”</p><p><strong>Reglas.</strong> martillo a dos manos 2d10</p>",
    "antiArmor": false,
    "damage": "2d10",
    "ammo": 10,
@@ -1281,12 +1281,12 @@
  },
  {
   "_id": "wSLe1y6VBjn4AyrN",
-  "name": "pistola de bolsillo",
+  "name": "Pistola de bolsillo",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F7.webp",
   "folder": null,
   "system": {
-   "description": "<p>pistola de bolsillo (1d10, 3 cargadores x3)</p>",
+   "description": "<p>La pistola de bolsillo Nadir P-3 fue concebida para inspectores, cobradores y ejecutivos que preferían llevar una solución discreta en el bolsillo interior. El fabricante presume de su tamaño; el usuario descubre pronto que también ha reducido el espacio para sus dedos. Al dispararla se siente rápida, nerviosa y demasiado cercana a la mano. Cabe casi en cualquier parte, incluso donde no debería. <em>Advertencia: el seguro es pequeño, sensible y famoso por tener criterio propio.</em> “Tres oportunidades compactas para conservar la iniciativa.”</p><p><strong>Reglas.</strong> pistola de bolsillo (1d10, 3 cargadores x3)</p>",
    "antiArmor": false,
    "damage": "1d10",
    "ammo": 10,
@@ -1321,12 +1321,12 @@
  },
  {
   "_id": "UEs9a84X1RYRygWx",
-  "name": "arco",
+  "name": "Arco",
   "type": "weapon",
-  "img": "modules/mr-mothership-es/iconos/D13.webp",
+  "img": "systems/mosh/images/icons/dark-grey/weapons/G0.png",
   "folder": null,
   "system": {
-   "description": "<p>arco 1d10</p>",
+   "description": "<p>El arco Silente Argo nació para cazadores de fauna orbital y tripulaciones cansadas de anunciar su posición por radio. Fabricado con laminados sintéticos y una cuerda que chirría solo cuando quiere, ofrece una experiencia limpia, tensa y sorprendentemente personal. Cada disparo exige concentración, espacio y cierta confianza en los dedos. No produce humo, casquillos ni explicaciones convincentes para el departamento de seguridad. <em>Advertencia: una cuerda rota puede buscar los ojos con más entusiasmo que el proyectil.</em> “Sin ruido, sin factura de munición, sin testigos satisfechos.”</p><p><strong>Reglas.</strong> arco 1d10</p>",
    "antiArmor": false,
    "damage": "1d10",
    "ammo": 10,
@@ -1361,12 +1361,12 @@
  },
  {
   "_id": "tvhuRaXhPTtNDh7J",
-  "name": "mosquete",
+  "name": "Mosquete",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F0.webp",
   "folder": null,
   "system": {
-   "description": "<p>mosquete 2d10</p>",
+   "description": "<p>El mosquete de pólvora negra fabricado por Manufacturas Bellor fue recuperado de un museo colonial y reacondicionado para clientes con gustos históricos o presupuestos terminales. Su aspecto impone respeto; su manejo exige paciencia, pólvora y una tolerancia razonable al humo. Cada disparo se siente como una ceremonia celebrada en una habitación demasiado pequeña. Es pesado, lento y peligrosamente convincente. <em>Advertencia: no confunda la nube de humo con cobertura táctica ni con una señal de evacuación.</em> “La tradición vuelve a disparar, aunque nadie sepa por qué.”</p><p><strong>Reglas.</strong> mosquete 2d10</p>",
    "antiArmor": false,
    "damage": "2d10",
    "ammo": 10,
@@ -1401,12 +1401,12 @@
  },
  {
   "_id": "8hYOBDRFfpqylHIn",
-  "name": "rifle antiguo [-]",
+  "name": "Rifle antiguo [-]",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F0.webp",
   "folder": null,
   "system": {
-   "description": "<p>rifle antiguo 1d10 [-] (2 cargadores)</p>",
+   "description": "<p>El rifle antiguo Vesper-12 procede de arsenales olvidados y almacenes donde la humedad tenía rango de oficial. Fue diseñado para guerras que ya no figuran en los mapas, pero conserva una presencia incómoda y dos cargadores que alguien decidió no perder. Al usarlo, la culata cruje, el metal protesta y cada disparo parece recordar una derrota. Su precisión depende de la limpieza y de la benevolencia del tiempo. <em>Advertencia: si encuentra una marca de unidad desconocida, no pregunte a quién perteneció.</em> “Dos cargadores, cien años de malos precedentes.”</p><p><strong>Reglas.</strong> rifle antiguo 1d10 [-] (2 cargadores)</p>",
    "antiArmor": false,
    "damage": "1d10",
    "ammo": 10,
@@ -1441,12 +1441,12 @@
  },
  {
   "_id": "kMMEK6MKMZL2aXj6",
-  "name": "pistola pequeña",
+  "name": "Pistola pequeña",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F7.webp",
   "folder": null,
   "system": {
-   "description": "<p>pistola pequeña (4)</p>",
+   "description": "<p>La pistola pequeña Meridiano Dedo-4 fue creada para comerciantes, mensajeros y personas que necesitaban parecer indefensas durante una negociación. Su armazón cabe en una palma y su mecanismo tiene la delicadeza de una puerta de ascensor cansada. Al dispararla se siente ligera, brusca y más decidida que su propietario medio. Es fácil de ocultar, difícil de explicar y sencilla de olvidar en el bolsillo equivocado. <em>Advertencia: compruebe siempre hacia dónde mira antes de guardarla.</em> “Cuatro razones para no aceptar reuniones sin salida.”</p><p><strong>Reglas.</strong> pistola pequeña (4)</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1481,12 +1481,12 @@
  },
  {
   "_id": "VCdEMxLtktL1SHBC",
-  "name": "pistola compacta oculta",
+  "name": "Pistola compacta oculta",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F7.webp",
   "folder": null,
   "system": {
-   "description": "<p>pistola compacta oculta (6)</p>",
+   "description": "<p>Diseñada por Dispositivos Muro, la Compacta Oculta fue pensada para agentes, transportistas discretos y empleados con cláusulas de confidencialidad especialmente agresivas. Su perfil plano desaparece bajo la ropa, pero el gatillo parece conservar memoria propia. Al sacarla, transmite una seguridad breve y desagradablemente profesional. No ocupa espacio; sí ocupa decisiones. El acabado mate disimula arañazos, sangre y cierta falta de remordimiento corporativo. <em>Advertencia: jamás la lleve cargada durante un registro de seguridad; los registros también tienen manos.</em> “Seis maneras de salir de una conversación sin levantarse.”</p><p><strong>Reglas.</strong> pistola compacta oculta (6)</p>",
    "antiArmor": false,
    "damage": "1d5",
    "ammo": 10,
@@ -1521,12 +1521,12 @@
  },
  {
   "_id": "yvGaHCyUhIPeMJ61",
-  "name": "rifle de caza lejano",
+  "name": "Rifle de caza lejano",
   "type": "weapon",
   "img": "modules/mr-mothership-es/iconos/F1.webp",
   "folder": null,
   "system": {
-   "description": "<p>rifle de caza lejano 2d10 (6)</p>",
+   "description": "<p>El rifle de caza lejano Altair Nómada fue desarrollado por Caza Técnica Lúmina para rastrear depredadores en lunas abiertas y objetivos que preferían mantenerse fuera de la nómina. Su cañón largo exige espacio, apoyo y una paciencia que rara vez sobrevive al primer turno. Al dispararlo se siente estable, preciso y bastante ajeno a quien aprieta el gatillo. Los seis cartuchos justifican cada decisión. <em>Advertencia: el eco puede llegar antes que la confirmación del impacto.</em> “Para presas lejanas y problemas que conviene no traer de vuelta.”</p><p><strong>Reglas.</strong> rifle de caza lejano 2d10 (6)</p>",
    "antiArmor": false,
    "damage": "2d10",
    "ammo": 10,

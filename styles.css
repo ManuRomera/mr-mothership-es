@@ -3,3 +3,10 @@
 .mr-parche h3 { margin:0 0 2px; border:0; font-size:1.4em; }
 .mr-parche p { margin:0 0 6px; font-weight:600; }
 .mr-parche button { line-height:24px; font-size:12px; }
+
+/* Generador de personajes: sexo, nombre y biografía */
+.mr-gen-bio { margin: 6px 0 10px; }
+.mr-gen-bio .mr-gen-fila { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+.mr-gen-bio select { height: 26px; }
+.mr-gen-bio button { width: auto; padding: 2px 10px; line-height: 22px; }
+.mr-gen-bio textarea { width: 100%; resize: vertical; border: 1px solid var(--color-border-light-tertiary, #888); border-radius: 4px; padding: 6px; font-size: 13px; line-height: 1.35; background: transparent; }

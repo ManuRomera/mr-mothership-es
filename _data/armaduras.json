@@ -4,9 +4,9 @@
   "name": "Atuendo estándar de la tripulación",
   "type": "armor",
   "_id": "RjmM9QMVBqOtbudA",
-  "img": "modules/mr-mothership-es/iconos/armadura-atuendo-estandar-de-la-tripulacion.png",
+  "img": "modules/mr-mothership-es/iconos/G3.webp",
   "system": {
-   "description": "",
+   "description": "<p>La línea <strong>Turno Largo</strong>, de Talleres Orbe, combina tejido sintético, bolsillos reforzados y un ajuste pensado para moverse entre mamparos estrechos. Sirve en cabinas, hangares y trabajos de mantenimiento rutinario. El cuello lleva una tira absorbente para el sudor y la grasa. Tras varios lavados, el color corporativo se vuelve indefinible. <em>“Si puedes abrocharlo, aún puedes trabajar.”</em></p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "normal",
@@ -29,9 +29,9 @@
   "folder": null,
   "name": "Ropa de trabajo pesada",
   "type": "armor",
-  "img": "modules/mr-mothership-es/iconos/armadura-ropa-de-trabajo-pesada.png",
+  "img": "modules/mr-mothership-es/iconos/G5.webp",
   "system": {
-   "description": "",
+   "description": "<p>Fabricada por Mallas Risco, esta ropa de faena usa lona acolchada, costuras dobles y refuerzos en rodillas, codos y hombros. Está pensada para carga, reparaciones y superficies llenas de bordes, polvo o aceite. Sus bolsillos admiten herramientas pequeñas sin deformarse. El forro raspa el cuello y conserva olores con una eficacia alarmante. <em>“Pesa porque protege.”</em></p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "normal",
@@ -56,9 +56,9 @@
   "name": "Traje de batalla avanzado",
   "type": "armor",
   "_id": "tnhXBOT7xWQSHAep",
-  "img": "modules/mr-mothership-es/iconos/armadura-advanced-battle-dress.png",
+  "img": "modules/mr-mothership-es/iconos/G4.webp",
   "system": {
-   "description": "",
+   "description": "<p>El modelo <strong>Baluarte IX</strong>, de Sistemas Hadrón, emplea placas cerámicas, fibras laminadas y sellos articulados de ajuste preciso. Está diseñado para abordajes, disturbios orbitales y lugares donde la ingeniería ya ha perdido la discusión. Incluye visor abatible, anclajes modulares y un compartimento de mantenimiento bajo el pecho. El cierre principal exige ambas manos. <em>“La seguridad empieza cuando deja de ser cómoda.”</em></p>",
    "armorPoints": 10,
    "damageReduction": 0,
    "speed": "-",
@@ -82,9 +82,9 @@
   "name": "Traje de batalla estándar",
   "type": "armor",
   "_id": "DfLdIeCNgpvQTScU",
-  "img": "modules/mr-mothership-es/iconos/armadura-traje-de-batalla-estandar.png",
+  "img": "modules/mr-mothership-es/iconos/G6.webp",
   "system": {
-   "description": "",
+   "description": "<p>El <strong>Protector Karda</strong>, ensamblado por Fundición Velar, combina placas compuestas, juntas flexibles y un arnés regulable para distintos cuerpos y uniformes. Funciona en abordajes, escoltas y operaciones de seguridad dentro de estaciones. El interior incluye canales para cableado y pequeños útiles. Su visor se empaña con facilidad durante esfuerzos intensos. <em>“Diseñado para volver de donde otros no vuelven.”</em></p>",
    "armorPoints": 7,
    "damageReduction": 0,
    "speed": "normal",
@@ -105,12 +105,12 @@
  },
  {
   "folder": null,
-  "name": "Traje de peligro biologico",
+  "name": "Traje de peligro biológico",
   "type": "armor",
   "_id": "SXP0wMnpIZqFv22n",
-  "img": "modules/mr-mothership-es/iconos/armadura-armadura-exploracion.png",
+  "img": "modules/mr-mothership-es/iconos/H0.webp",
   "system": {
-   "description": "",
+   "description": "<p>La serie <strong>Bioescudo C-4</strong>, de Química Selen, está confeccionada con polímero sellado, guantes integrados y capucha de cierre completo. Se destina a laboratorios contaminados, depósitos de residuos y superficies con aire dudoso. Lleva una ventana amplia y tiras interiores para sujetar filtros y muestras. El material cruje al caminar y hace sudar incluso en cámaras frías. <em>“Aísla el problema. No siempre el miedo.”</em></p>",
    "armorPoints": 5,
    "damageReduction": 0,
    "speed": "normal",
@@ -133,9 +133,9 @@
   "folder": null,
   "name": "Uniforme",
   "type": "armor",
-  "img": "modules/mr-mothership-es/iconos/armadura-uniforme.png",
+  "img": "modules/mr-mothership-es/iconos/G10.webp",
   "system": {
-   "description": "",
+   "description": "<p>Confeccionado por Vestuarios Meridiano, este uniforme combina tela resistente, cierres sencillos y un corte reconocible a distancia. Está pensado para turnos de servicio, controles de acceso y tareas donde parecer autorizado resulta casi tan útil como estarlo. Los bolsillos admiten tarjetas, llaves y una libreta. El emblema bordado se despega después de demasiados lavados. <em>“Una presencia profesional, incluso sin sueldo profesional.”</em></p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "normal",
@@ -157,12 +157,12 @@
  },
  {
   "folder": null,
-  "name": "traje de vacio",
+  "name": "Traje de vacío",
   "type": "armor",
   "_id": "MWEsHfHbaXI37evM",
-  "img": "modules/mr-mothership-es/iconos/armadura-traje-de-vacio.png",
+  "img": "modules/mr-mothership-es/iconos/H2.webp",
   "system": {
-   "description": "",
+   "description": "<p>El <strong>Vacío Seguro V-12</strong>, de Ingeniería Nadir, usa tejido multicapa, juntas presurizadas y un arnés de ajuste rápido para trabajos fuera del casco. Está pensado para reparaciones exteriores, evacuaciones y paseos involuntarios por el espacio. Incorpora conexiones de herramientas, visor intercambiable y reserva de emergencia integrada. Las articulaciones endurecen con el frío y los guantes no combinan con nada. <em>“Fuera solo hay silencio. Llévate tu propio aire.”</em></p>",
    "armorPoints": 3,
    "damageReduction": 0,
    "speed": "-",
@@ -188,7 +188,7 @@
   "img": "modules/mr-mothership-es/iconos/B12.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa de frío (PA 2)</p>",
+   "description": "<p>La colección <strong>Bruma Polar</strong>, de Confecciones Lumbre, emplea fibras térmicas, aislamiento comprimido y un corte amplio para llevar capas debajo. Está pensada para colonias heladas, bodegas criogénicas y planetas donde el viento corta como una herramienta. Incluye bolsillos interiores para calentar manos o guardar baterías. El gorro aplasta el pelo de forma irreversible y pierde volumen con cada temporada. <em>“El frío también firma contratos.”</em></p><p><strong>Reglas.</strong> Ropa de frío (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
@@ -212,7 +212,7 @@
   "img": "modules/mr-mothership-es/iconos/B9.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa de lluvia (PA 2)</p>",
+   "description": "<p>El conjunto <strong>Monzón de Servicio</strong>, fabricado por Tejidos Umbral, combina capas impermeables, capucha ajustable y botas con suela de agarre irregular. Sirve para lluvias ácidas suaves, cubiertas exteriores y ciudades donde el cielo gotea sin descanso. Las costuras selladas evitan filtraciones y los bolsillos llevan solapas grandes. La capucha reduce la visión hasta convertir cada charco en una amenaza. <em>“Seco por dentro. Sospechoso por fuera.”</em></p><p><strong>Reglas.</strong> Ropa de lluvia (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
@@ -236,7 +236,7 @@
   "img": "modules/mr-mothership-es/iconos/B1.webp",
   "folder": null,
   "system": {
-   "description": "<p>Bata de laboratorio (PA 1)</p>",
+   "description": "<p>La bata de <strong>Serie Blanca</strong>, distribuida por Suministros Helix, está hecha de fibra ligera, con corte amplio y mangas preparadas para remangarse sin deshacerse. Se usa en laboratorios, enfermerías y salas donde una mancha puede convertirse en informe. Incluye un bolsillo para rotuladores y otro para pequeños instrumentos. El tejido se prende con facilidad en pomos y asas. <em>“La limpieza es una hipótesis de trabajo.”</em></p><p><strong>Reglas.</strong> Bata de laboratorio (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -260,7 +260,7 @@
   "img": "modules/mr-mothership-es/iconos/B5.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa corporativa (PA 1)</p>",
+   "description": "<p>La línea <strong>Presencia Ejecutiva</strong>, de Imagen Cívica, ofrece chaqueta sintética, camisa de cuello rígido y un corte pensado para parecer caro bajo una luz amable. Se utiliza en oficinas, reuniones y controles donde importa quién dice representar a quién. Incluye compartimentos discretos para credenciales y comunicadores. El tejido no respira y las costuras brillantes delatan cada reparación. <em>“La confianza entra por la solapa.”</em></p><p><strong>Reglas.</strong> Ropa corporativa (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -284,7 +284,7 @@
   "img": "modules/mr-mothership-es/iconos/B8.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa de descanso (PA 1)</p>",
+   "description": "<p>El conjunto <strong>Horas Muertas</strong>, de Descanso Mínimo, usa tejido blando, cintura elástica y un ajuste holgado para dormir en camarotes estrechos. Está pensado para pausas, guardias nocturnas y esos minutos en que nadie recuerda qué alarma sonó. Incluye bolsillos para tarjetas, tapones y objetos que no deberían estar en la cama. La tela absorbe pelusas como si las coleccionara. <em>“Descansa ahora. Ya se romperá algo después.”</em></p><p><strong>Reglas.</strong> Ropa de descanso (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -308,7 +308,7 @@
   "img": "modules/mr-mothership-es/iconos/B8.webp",
   "folder": null,
   "system": {
-   "description": "<p>Vestiduras religiosas (PA 2)</p>",
+   "description": "<p>Las vestiduras de <strong>Luz Umbral</strong>, confeccionadas por Taller Devoto, combinan telas pesadas, ribetes resistentes y un corte amplio para ceremonias, procesiones o reuniones de fe en gravedad variable. Incluyen cordones ajustables y bolsillos ocultos para símbolos, notas y pequeños objetos rituales. El tejido acumula polvo con dignidad y tarda días en secarse. <em>“La esperanza también necesita costuras.”</em></p><p><strong>Reglas.</strong> Vestiduras religiosas (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
@@ -332,7 +332,7 @@
   "img": "modules/mr-mothership-es/iconos/B5.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa elegante rescatada (PA 1)</p>",
+   "description": "<p>Rescatado de almacenes, salones y equipajes abandonados, este conjunto reúne prendas de distintas casas desaparecidas y tallas discutibles. La confección suele incluir fibras finas, cierres delicados y adornos que sobrevivieron a más de un propietario. Sirve para cenas, recepciones o engaños de corta duración. Cada pieza guarda una mancha, un remiendo o una historia que nadie quiere confirmar. <em>“Elegancia: parecer intacto durante una hora.”</em></p><p><strong>Reglas.</strong> Ropa elegante rescatada (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -356,7 +356,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa remendada (PA 1)</p>",
+   "description": "<p>La línea <strong>Segunda Vuelta</strong>, de Talleres Nártex, mezcla lona de carga, algodón industrial y parches de procedencia dudosa. Se ajusta a cuerpos cansados y sirve para camarotes fríos, almacenes polvorientos y turnos demasiado largos. Los bolsillos aceptan herramientas pequeñas, aunque ninguno conserva ya su forma original. Las costuras crujen al agacharse. <em>“Todavía aguanta otro viaje.”</em></p><p><strong>Reglas.</strong> Ropa remendada (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -380,7 +380,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Harapos sucios (PA 0)</p>",
+   "description": "<p>Fabricados por Recuperaciones Lóbrega, estos restos de ropa reúnen fibras endurecidas, cordones desparejados y manchas que nadie quiere identificar. Están pensados para trabajos provisionales, pasillos sucios y ambientes donde perder una prenda resulta preferible a perder la dignidad. Un bolsillo interior permite guardar una llave o una mentira. El tejido desprende polvo al moverse. <em>“Si cubre, cuenta como uniforme.”</em></p><p><strong>Reglas.</strong> Harapos sucios (PA 0)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -404,7 +404,7 @@
   "img": "modules/mr-mothership-es/iconos/B15.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa civil (PA 1)</p>",
+   "description": "<p>La confección doméstica de Casa Meridiana emplea fibras sintéticas suaves y cortes discretos para estaciones habitadas, oficinas de tránsito y visitas a familiares que aún contestan. Resulta cómoda, lavable y razonablemente presentable. Los botones combinan mal entre sí, pero resisten mejor que las cremalleras baratas. Incluye una etiqueta interior con instrucciones de lavado ilegibles. <em>“Parezca normal durante unas horas.”</em></p><p><strong>Reglas.</strong> Ropa civil (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -428,7 +428,7 @@
   "img": "modules/mr-mothership-es/iconos/B6.webp",
   "folder": null,
   "system": {
-   "description": "<p>Armadura recuperada (PA 4)</p>",
+   "description": "<p>Montada por Reacondicionados Vórtice, esta protección combina placas de aleación, cerámica rescatada y sellos sustituidos a mano. Su ajuste depende del antiguo propietario y de cuántas piezas se hayan encontrado. Está pensada para corredores industriales, bodegas de carga y accidentes con maquinaria pesada. Un cierre lateral lleva marcas de inventario ajenas. Puede vibrar al respirar. <em>“La ingeniería también sobrevive a la basura.”</em></p><p><strong>Reglas.</strong> Armadura recuperada (PA 4)</p>",
    "armorPoints": 4,
    "damageReduction": 0,
    "speed": "",
@@ -452,7 +452,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Mono de sujeto de investigación (PA 1)</p>",
+   "description": "<p>El fabricante clínico Orbisela distribuye este mono de tejido blanco, ligero y resistente a salpicaduras, diseñado para laboratorios, cubiertas de observación y cámaras donde nadie explica el procedimiento. El cuello alto facilita la identificación del sujeto y oculta una pequeña abertura para sensores. Los cierres se bloquean desde fuera. Tras varios lavados, el blanco adquiere un tono grisáceo. <em>“La comodidad empieza cuando deja de preguntar.”</em></p><p><strong>Reglas.</strong> Mono de sujeto de investigación (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -476,7 +476,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Mono ensangrentado de sujeto de investigación (PA 1)</p>",
+   "description": "<p>La versión de emergencia de Orbisela conserva el tejido blanco, los cierres clínicos y las costuras reforzadas, aunque llega marcada por sangre seca y lavados incompletos. Se diseñó para sujetos trasladados deprisa entre salas, laboratorios y módulos de cuarentena. Una presilla permite sujetar una identificación o una vía. El olor metálico no desaparece, ni siquiera después de ventilarlo. <em>“El protocolo termina cuando deja de moverse.”</em></p><p><strong>Reglas.</strong> Mono ensangrentado de sujeto de investigación (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -500,7 +500,7 @@
   "img": "modules/mr-mothership-es/iconos/B6.webp",
   "folder": null,
   "system": {
-   "description": "<p>Traje psi experimental (PA 4; alcance psi lejano hasta perder PA)</p>",
+   "description": "<p>Desarrollado por Neurodina Aplicada, este traje combina malla conductora, espuma de amortiguación y placas flexibles alrededor de la cabeza y el pecho. Se ajusta en laboratorio y está pensado para pruebas psíquicas, cámaras aisladas y situaciones que aconsejan mantener las manos quietas. Un panel trasero registra cada descarga, aunque borra los datos más interesantes. Las correas dejan marcas profundas. <em>“Piense con cuidado. El traje escucha.”</em></p><p><strong>Reglas.</strong> Traje psi experimental (PA 4; alcance psi lejano hasta perder PA)</p>",
    "armorPoints": 4,
    "damageReduction": 0,
    "speed": "",
@@ -524,7 +524,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Camisa hawaiana y pantalón corto (PA 1)</p>",
+   "description": "<p>La colección <strong>Sol Perpetuo</strong>, de Textiles Caléndula, ofrece algodón ligero, estampados tropicales y pantalones cortos con cintura elástica. Está pensada para colonias cálidas, cubiertas de recreo y trabajadores que confunden vacaciones con contrato indefinido. La camisa oculta un bolsillo para tarjetas y tornillos. Los colores destiñen con el sudor y atraen miradas hostiles en cualquier puerto serio. <em>“El clima no puede ser tan malo.”</em></p><p><strong>Reglas.</strong> Camisa hawaiana y pantalón corto (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -548,7 +548,7 @@
   "img": "modules/mr-mothership-es/iconos/B8.webp",
   "folder": null,
   "system": {
-   "description": "<p>Chándal y visera de plástico (PA 1)</p>",
+   "description": "<p>El conjunto deportivo de Carrera Doméstica mezcla tejido de punto, cierres baratos y una visera de plástico translúcido. Se diseñó para gimnasios orbitales, recados rápidos y tripulaciones que quieren parecer ocupadas. El chándal permite moverse con facilidad y disimula manchas de grasa. La visera se deforma cerca de motores calientes y produce un silbido incómodo al correr. <em>“Entrena hoy para huir mañana.”</em></p><p><strong>Reglas.</strong> Chándal y visera de plástico (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -572,7 +572,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa de trabajo gastada (PA 1)</p>",
+   "description": "<p>La serie <strong>Turno Largo</strong>, de Uniformes Broncial, usa lona de algodón, refuerzos en las rodillas y cremalleras reparadas. Está pensada para talleres, muelles de carga y naves donde cada superficie deja una marca distinta. Los bolsillos admiten guantes, tuercas y un bocadillo aplastado. El tejido conserva grasa de trabajos anteriores y las mangas nunca quedan a la misma altura. <em>“Gastada, pero contratada.”</em></p><p><strong>Reglas.</strong> Ropa de trabajo gastada (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -596,7 +596,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Mono gastado (PA 1)</p>",
+   "description": "<p>Confeccionado por Mono Norte, este modelo emplea sarga flexible y remiendos de distintos lotes, preparado para mantenimiento, inspecciones y jornadas que empiezan antes de dormir. El corte permite trepar por escalas estrechas y guardar una herramienta en cada costado. El color original se perdió hace tiempo. Una manga conserva una etiqueta con el nombre de alguien que ya no trabaja allí. <em>“Donde hay una costura, hay futuro.”</em></p><p><strong>Reglas.</strong> Mono gastado (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -620,7 +620,7 @@
   "img": "modules/mr-mothership-es/iconos/B15.webp",
   "folder": null,
   "system": {
-   "description": "<p>Camisa y pantalón (PA 1)</p>",
+   "description": "<p>La línea básica de Sastrería Umbral combina camisa de fibra sintética y pantalón de tejido resistente, pensados para oficinas, almacenes y reuniones donde conviene parecer limpio. El corte sencillo permite sentarse durante muchas horas y ocultar pequeñas manchas bajo la chaqueta de trabajo. La camisa encoge de forma desigual y el pantalón hace ruido al caminar. <em>“Presentable hasta el primer turno.”</em></p><p><strong>Reglas.</strong> Camisa y pantalón (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -644,7 +644,7 @@
   "img": "modules/mr-mothership-es/iconos/B5.webp",
   "folder": null,
   "system": {
-   "description": "<p>Conjunto elegante (PA 1)</p>",
+   "description": "<p>El conjunto de gala de Casa Vértice utiliza fibras brillantes, forro ligero y cierres discretos para recepciones, ascensores de lujo y cenas corporativas. Está pensado para impresionar a personas que nunca limpian sus propios derrames. El interior incluye un bolsillo plano para documentos y favores pendientes. El tejido retiene olores y refleja demasiado bien las luces de emergencia. <em>“La elegancia también firma contratos.”</em></p><p><strong>Reglas.</strong> Conjunto elegante (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -668,7 +668,7 @@
   "img": "modules/mr-mothership-es/iconos/B8.webp",
   "folder": null,
   "system": {
-   "description": "<p>Jersey y pana (PA 1)</p>",
+   "description": "<p>La confección de Abrigos Tarsis mezcla jersey de lana sintética con pana gruesa, adecuada para estaciones frías, camarotes mal aislados y paseos por colonias sin calefacción fiable. El cuello protege del aire reciclado y los bolsillos admiten guantes, llaves y pequeñas raciones. La pana acumula polvo con entusiasmo y el jersey pica incluso sobre otra prenda. <em>“Calor de casa, olor de nave.”</em></p><p><strong>Reglas.</strong> Jersey y pana (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -692,7 +692,7 @@
   "img": "modules/mr-mothership-es/iconos/B8.webp",
   "folder": null,
   "system": {
-   "description": "<p>Jersey de golf (PA 1)</p>",
+   "description": "<p>La línea <strong>Par del Vacío</strong>, de Tejidos Lúmina, emplea punto sintético transpirable y un ajuste holgado, pensado para salas de descanso, clubes orbitales y cubiertas con gravedad irregular. El cuello conserva el calor y el bolsillo lateral guarda una tarjeta de acceso o una barrita nutritiva. El dibujo suele desteñirse con el sudor. Sus vendedores insisten: «Viste como un profesional, incluso cuando todo se va al infierno».</p><p><strong>Reglas.</strong> Jersey de golf (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -716,7 +716,7 @@
   "img": "modules/mr-mothership-es/iconos/B5.webp",
   "folder": null,
   "system": {
-   "description": "<p>Traje de negocios (PA 1)</p>",
+   "description": "<p>Confeccionado por <strong>Halcón Ejecutivo</strong>, este conjunto mezcla fibra resistente y forro barato con un corte estrecho, adecuado para reuniones, inspecciones y despidos en oficinas sin ventanas. Los bolsillos interiores ocultan documentos y pequeños objetos, mientras la corbata sirve para parecer ocupado durante una evacuación. El tejido atrae polvo y manchas de combustible. La etiqueta promete: «Autoridad, aunque tu nave pierda piezas».</p><p><strong>Reglas.</strong> Traje de negocios (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -740,7 +740,7 @@
   "img": "modules/mr-mothership-es/iconos/B12.webp",
   "folder": null,
   "system": {
-   "description": "<p>Chaqueta vaquera parcheada (PA 1)</p>",
+   "description": "<p>La casa <strong>Rastro Azul</strong> fabrica estas chaquetas con denim industrial, hilo de cobre y parches de antiguos astilleros. El corte amplio permite llevar herramientas, placas y recuerdos de tripulaciones desaparecidas. Sus remaches aguantan tirones y golpes menores, pero el forro raspa el cuello y cada parche cuenta una historia que quizá nadie quiere oír. El catálogo concluye: «Reparada mil veces. Enterrada ninguna».</p><p><strong>Reglas.</strong> Chaqueta vaquera parcheada (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -764,7 +764,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa callejera chillona (PA 1)</p>",
+   "description": "<p><strong>Neón Cívico</strong> vende prendas de colores agresivos, telas elásticas y cortes imposibles para moverse por mercados, estaciones y barrios donde nadie pregunta demasiado. Las costuras reforzadas soportan carreras, empujones y noches enteras sentado sobre una caja de carga. Algunos estampados brillan bajo luces de emergencia, lo que dificulta esconderse. La marca presume: «Si van a recordarte, que sea por algo».</p><p><strong>Reglas.</strong> Ropa callejera chillona (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -788,7 +788,7 @@
   "img": "modules/mr-mothership-es/iconos/B6.webp",
   "folder": null,
   "system": {
-   "description": "<p>Armadura de batalla antigua (PA 6)</p>",
+   "description": "<p>El fabricante <strong>Forja Kárstica</strong> recupera placas de antiguas campañas militares y las monta sobre un armazón de aleación pesada. Está pensada para abordajes, trincheras presurizadas y pasillos donde las puertas dejaron de funcionar hace décadas. Los cierres son mecánicos y fáciles de reparar con herramientas básicas. El conjunto pesa, chirría y conserva olores de aceite viejo. Manual de servicio: «Protección probada antes de que existieran las garantías».</p><p><strong>Reglas.</strong> Armadura de batalla antigua (PA 6)</p>",
    "armorPoints": 6,
    "damageReduction": 0,
    "speed": "",
@@ -812,7 +812,7 @@
   "img": "modules/mr-mothership-es/iconos/B8.webp",
   "folder": null,
   "system": {
-   "description": "<p>Túnica de lana (PA 1)</p>",
+   "description": "<p>Hilada por <strong>Lastra Textil</strong> con lana basta y fibras térmicas, esta túnica ofrece un ajuste amplio para viajes lentos, colonias frías y habitaciones donde la calefacción figura como gasto opcional. Las mangas largas esconden las manos y permiten trabajar sin dejar demasiada piel expuesta. La humedad tarda días en abandonarla y atrae pelusas metálicas. Su vendedor susurra: «Abrigo para cuerpos que aún tienen planes».</p><p><strong>Reglas.</strong> Túnica de lana (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -836,7 +836,7 @@
   "img": "modules/mr-mothership-es/iconos/B15.webp",
   "folder": null,
   "system": {
-   "description": "<p>Ropa de viaje (PA 2)</p>",
+   "description": "<p>La colección <strong>Ruta Larga</strong>, de Equipajes Morera, combina tejido acolchado, cierres resistentes y un corte pensado para dormir sentado. Funciona en transbordadores, estaciones de carga y mundos donde el clima cambia antes que el horario. Incluye bolsillos profundos para credenciales, mapas y comida seca. El material conserva el olor de cada puerto visitado. El anuncio asegura: «Viaja ligero. Sobrevive pesado».</p><p><strong>Reglas.</strong> Ropa de viaje (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
@@ -860,7 +860,7 @@
   "img": "modules/mr-mothership-es/iconos/B6.webp",
   "folder": null,
   "system": {
-   "description": "<p>Brigantina (PA 2)</p>",
+   "description": "<p>Montada por <strong>Armería Vellón</strong>, la brigantina une pequeñas placas metálicas bajo una cubierta de lona encerada. Está diseñada para patrullas, almacenes peligrosos y trabajos cerca de maquinaria que no debería seguir encendida. El ajuste se regula con cordones laterales y puede repararse por secciones. Las placas golpean entre sí al correr y el forro acumula polvo. Instrucción final: «Aprieta las correas antes de entrar».</p><p><strong>Reglas.</strong> Brigantina (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
@@ -884,7 +884,7 @@
   "img": "modules/mr-mothership-es/iconos/B1.webp",
   "folder": null,
   "system": {
-   "description": "<p>Bata de hospital (PA 0)</p>",
+   "description": "<p>Fabricada por <strong>Sanidad Límite</strong> con tejido desechable y costuras mínimas, esta bata sirve para clínicas de tránsito, cuarentenas y salas donde nadie piensa quedarse. El corte abierto facilita revisiones, cables y movimientos rápidos, mientras el bolsillo guarda una identificación o una muestra mal etiquetada. Se rasga con facilidad y deja la espalda expuesta. La etiqueta interior declara: «La comodidad termina donde empieza el diagnóstico».</p><p><strong>Reglas.</strong> Bata de hospital (PA 0)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -908,7 +908,7 @@
   "img": "modules/mr-mothership-es/iconos/B12.webp",
   "folder": null,
   "system": {
-   "description": "<p>Gabardina (PA 1)</p>",
+   "description": "<p><strong>Umbral Confecciones</strong> ofrece esta gabardina de lona encerada, con hombros amplios y forro desmontable para desplazarse bajo lluvia ácida, polvo industrial o miradas insistentes. Sus bolsillos interiores protegen documentos y pequeños instrumentos, y el cuello alto ayuda contra corrientes de aire. El tejido cruje al moverse y la cera huele a almacén húmedo. Su lema es claro: «Llega seco. Llega sospechoso».</p><p><strong>Reglas.</strong> Gabardina (PA 1)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -932,7 +932,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Harapos (PA 0)</p>",
+   "description": "<p>Los talleres de <strong>Reaprovecha-9</strong> ensamblan estos harapos con retales de lonas, uniformes y mantas de carga. El conjunto se adapta a cualquier cuerpo y sirve para dormir, cubrir heridas o no llamar la atención en un muelle olvidado. Los nudos sustituyen a los cierres y cada pieza tiene una textura distinta. Puede llevar manchas de procedencia incierta. El vendedor sonríe: «Nada combina mejor con el fin del mundo».</p><p><strong>Reglas.</strong> Harapos (PA 0)</p>",
    "armorPoints": 1,
    "damageReduction": 0,
    "speed": "",
@@ -956,7 +956,7 @@
   "img": "modules/mr-mothership-es/iconos/B0.webp",
   "folder": null,
   "system": {
-   "description": "<p>Mono (PA 2)</p>",
+   "description": "<p>El mono de <strong>Turno Continuo</strong> está hecho con tejido resistente, bolsillos amplios y un corte diseñado para trepar por conductos, reparar motores y cargar cajas. Se usa en naves viejas, refinerías y hangares donde la ropa suelta acaba atrapada. La cremallera frontal permite quitarlo deprisa, aunque suele atascarse con grasa. La etiqueta promete: «Una pieza, dos manos libres, cero excusas».</p><p><strong>Reglas.</strong> Mono (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
@@ -975,12 +975,12 @@
  },
  {
   "_id": "Wetm3YgIgHbmpX59",
-  "name": "ropa negra",
+  "name": "Ropa negra",
   "type": "armor",
   "img": "modules/mr-mothership-es/iconos/B15.webp",
   "folder": null,
   "system": {
-   "description": "<p>ropa negra (PA 2)</p>",
+   "description": "<p>La línea <strong>Obsidiana Civil</strong> emplea fibras oscuras, cómodas y poco reflectantes, pensadas para turnos nocturnos, funerales improvisados y pasillos donde la luz nunca llega entera. El corte sencillo combina con casi cualquier equipo y disimula manchas hasta que ya es demasiado tarde. El tejido absorbe calor y resulta incómodo bajo focos intensos. Su lema, bordado por dentro, dice: «El negro combina con cualquier destino».</p><p><strong>Reglas.</strong> ropa negra (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
@@ -1004,7 +1004,7 @@
   "img": "modules/mr-mothership-es/iconos/B10.webp",
   "folder": null,
   "system": {
-   "description": "<p>Traje hecho jirones (PA 2)</p>",
+   "description": "<p>El sastre <strong>Última Puntada</strong> reconstruye trajes con telas rescatadas, costuras visibles y un ajuste que depende de cuántas veces haya sido reparado. Resultan útiles en recepciones, puestos de control y oficinas donde importa más aparentar que respirar. Los bolsillos pueden contener restos de propietarios anteriores y las mangas nunca miden lo mismo. El catálogo asegura: «Elegancia suficiente para firmar tu propia condena».</p><p><strong>Reglas.</strong> Traje hecho jirones (PA 2)</p>",
    "armorPoints": 2,
    "damageReduction": 0,
    "speed": "",
