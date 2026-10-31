@@ -90,7 +90,13 @@ BASE = f"""
 {PRE} .mosh.sheet :is(input, textarea)::placeholder {{ color: #77777d !important; }}
 {PRE} .macro-popup-dialog :is(button, .dialog-button) {{ background: #2a2a2d !important; color: #ececee !important; border-color: #4a4a50 !important; }}
 {PRE} .macro-popup-dialog :is(button, .dialog-button):hover {{ background: #3a3a3e !important; }}
-{PRE} :is(.mosh, .macro-popup-dialog) :is(input[type=radio], input[type=checkbox]) {{ accent-color: #ececee; color-scheme: dark; }}
+/* casillas y puntos de elección: dibujados a mano para que el marcado se vea (el nativo oscuro apenas distingue activado de desactivado) */
+{PRE} :is(.mosh, .macro-popup-dialog, .mr-a11y) :is(input[type=radio], input[type=checkbox]) {{ -webkit-appearance: none; appearance: none; width: 20px !important; height: 20px !important; min-width: 20px; margin: 0; flex: none; background: #1c1c1e !important; border: 2px solid #9a9aa2 !important; box-shadow: none; cursor: pointer; }}
+{PRE} :is(.mosh, .macro-popup-dialog, .mr-a11y) input[type=radio] {{ border-radius: 50% !important; }}
+{PRE} :is(.mosh, .macro-popup-dialog, .mr-a11y) input[type=checkbox] {{ border-radius: 5px !important; }}
+{PRE} :is(.mosh, .macro-popup-dialog, .mr-a11y) input[type=radio]:checked {{ background: radial-gradient(circle, #ffffff 0 42%, #1c1c1e 46%) !important; border-color: #ffffff !important; }}
+{PRE} :is(.mosh, .macro-popup-dialog, .mr-a11y) input[type=checkbox]:checked {{ background: #ffffff !important; border-color: #ffffff !important; box-shadow: inset 0 0 0 3px #1c1c1e !important; }}
+{PRE} :is(.mosh, .macro-popup-dialog, .mr-a11y) :is(input[type=radio], input[type=checkbox]):focus-visible {{ outline: 2px solid #8ab4ff; outline-offset: 2px; }}
 {PRE} :is(.mosh, .macro-popup-dialog) select {{ color-scheme: dark; }}
 {PRE} .mr-gen-bio :is(button, select, textarea) {{ background: #2a2a2d !important; color: #ececee !important; border: 1px solid #5a5a62 !important; }}
 {PRE} .mr-gen-bio button:hover {{ background: #3a3a3e !important; }}
