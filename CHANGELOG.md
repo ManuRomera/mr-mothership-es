@@ -1,5 +1,15 @@
 # Cambios
 
+## 1.9.0 - 2026-10-31
+- **Generador de personajes**:
+  - la ventana se ajusta a su contenido (antes la biografía y las listas la desbordaban);
+  - al elegir clase, cada una muestra un **resumen de una línea** (antes «Clase - mr-mothership-es»);
+  - las elecciones de habilidad son una **lista con descripción al pasar el cursor** (qué hace, rango y requisitos);
+  - los objetos «N habilidades», «N psiónicas» y «N créditos» de las tablas de equipo dejan de aparecer como objetos: las habilidades son el **total** y se piden las que falten hasta llegar a él, los **poderes psiónicos** se eligen distintos (nuevos: Telepatía, Telequinesis, Clarividencia, Precognición, Psicometría, Empatía, Sugestión, Sanación psíquica, Descarga mental y Escudo mental) y los **créditos** van a su casilla. Revisadas las 16 clases: solo el Psiónico los usaba.
+- **Muerte validada por el Guardián**: con las heridas al máximo (o una lesión fatal o letal sin tratar) ya no se tira ni se da nada por hecho. Sale una tarjeta con **«Tirar en secreto»** (Guardián) y **«Tirar salvación»** (Guardián o jugador, con ventaja/desventaja). Las criaturas siguen muriendo al llegar a sus heridas máximas.
+- **Cabecera de las hojas** en cristal líquido: oculta hasta pasar el cursor por arriba, solo con iconos (cada uno con su nombre como ayuda). Se desactiva en Accesibilidad.
+- Los ajustes de «Accesibilidad» incluyen la cabecera; README y página con capturas nuevas.
+
 ## 1.8.0 - 2026-10-31
 - **Heridas según las reglas, integradas con las tablas del sistema** (Guía de supervivencia, cap. 28-29 y 32):
   - salud a 0 → 1 herida y la salud vuelve al máximo restando el daño sobrante; la tarjeta dice cuántas heridas quedan antes de caer;

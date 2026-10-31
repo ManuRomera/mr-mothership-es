@@ -1,0 +1,18 @@
+{
+ "Marine": "Soldado curtido: Combate y Miedo muy altos y una herida extra.",
+ "Colono": "Gente de colonia: +10 a todo, pero el pánico fuera de un planeta es peor.",
+ "Ejecutivo": "Mando corporativo: Intelecto alto, créditos ×10 y puede traspasar su pánico.",
+ "Pastor": "Guía espiritual: cuida el ánimo de todos y cura estrés al superar el pánico.",
+ "Buscavidas": "Todoterreno sin recursos: −5 a todo, pero cancela un pánico por sesión.",
+ "Criminal": "Delincuente de barrio: buen Combate y obliga a un aliado a afrontar su Miedo.",
+ "Psíquico": "Mente inestable: Intelecto alto y Cordura baja; su pánico daña mentes cercanas.",
+ "Explorador": "Cartógrafo veloz y frágil: Velocidad alta; puede cambiar un pánico por 2 de estrés.",
+ "Jubilado": "Veterano lento y sabio: muchas habilidades, pero un pánico puede darle un infarto.",
+ "Escoria": "Superviviente de arrabal: rápido y con una herida extra; pánico con desventaja.",
+ "Esclavo asalariado": "Currante de contrata: Intelecto y Velocidad, pero poco Combate; recupera estrés doble.",
+ "Atavismo": "Tribal fuera de lugar: muy fuerte y resistente; la tecnología avanzada le estresa.",
+ "Psiónico": "Telépata entrenado: elige poderes psiónicos; si fallan, el miedo se contagia.",
+ "Androide": "Humano sintético: Miedo 60, Intelecto alto y una herida extra.",
+ "Científico": "Investigador: Cordura e Intelecto altos; sus fallos de Cordura estresan al grupo.",
+ "Tripulante": "Obrero espacial: algo de todo y +10 a las salvaciones; sin rasgo especial."
+}

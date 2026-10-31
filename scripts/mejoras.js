@@ -7,6 +7,7 @@ const CAJAS = [
   ["legible", "Fuente de alta legibilidad", "Letra más espaciada y de formas claras en hojas y tarjetas."],
   ["movimiento", "Reducir movimiento", "Sin transiciones ni animaciones en las ventanas y tarjetas de Mothership."],
   ["ayuda", "Ayuda inmediata", "Los textos de ayuda aparecen al instante al pasar el ratón."],
+  ["cabecera", "Cabecera de ventana oculta", "La barra de título de las hojas se oculta y aparece, como cristal líquido y solo con iconos, al pasar el cursor por ella."],
 ];
 const g = k => game.settings.get(ID, `a11y-${k}`);
 
@@ -55,7 +56,7 @@ function resumir(app, si) {
 Hooks.once("init", () => {
   const reg = (k, datos) => game.settings.register(ID, `a11y-${k}`, { scope: "client", config: true, onChange: aplicar, ...datos });
   reg("escala", { name: "Accesibilidad: tamaño del texto (%)", hint: "Escala el texto de las hojas, diálogos y tarjetas de Mothership.", type: Number, default: 100, range: { min: 85, max: 160, step: 5 } });
-  for (const [k, t, ayuda] of CAJAS) reg(k, { name: k === "oscuro" ? t : `Accesibilidad: ${t.toLowerCase()}`, hint: ayuda, type: Boolean, default: k === "ayuda" });
+  for (const [k, t, ayuda] of CAJAS) reg(k, { name: k === "oscuro" ? t : `Accesibilidad: ${t.toLowerCase()}`, hint: ayuda, type: Boolean, default: k === "ayuda" || k === "cabecera" });
 });
 Hooks.once("ready", () => { if (game.system?.id === "mosh") aplicar(); });
 
@@ -69,6 +70,11 @@ Hooks.on("renderActorSheet", (app, html) => {
   if (game.system?.id !== "mosh") return;
   const raiz = html[0] ?? html;
   if (app.actor?.type === "character") (app.element?.[0] ?? raiz).classList.toggle("mr-resumida", leer(app));
+  // cabecera solo con iconos: cada botón conserva su nombre como ayuda
+  for (const a of (app.element?.[0] ?? raiz).querySelectorAll(".window-header a.header-button")) {
+    const nombre = a.textContent.trim();
+    if (nombre && !a.dataset.tooltip) { a.dataset.tooltip = nombre; a.setAttribute("aria-label", nombre); }
+  }
   const t = raiz.querySelector('textarea[name="system.other.stressdesc.value"]');
   if (t) { requestAnimationFrame(() => encajar(t)); t.addEventListener("input", () => encajar(t)); }
 });

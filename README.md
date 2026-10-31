@@ -34,7 +34,7 @@ Activa **MR- Mothership en español** en tu mundo y pon Foundry en **Español** 
 | 📚 **Compendios del sistema** | Condiciones, averías de mantenimiento (con descripción para interpretarlas), tablas y macros de **0e y 1e**, con Babele: los datos originales quedan intactos. |
 | 🧑‍🚀 **16 clases** | Marine, Androide, Científico, Tripulante y 12 clases más (Colono, Ejecutivo, Pastor, Psiónico, Jubilado…), con bonos, respuesta al trauma, habilidades, ambientación, ejemplos de interpretación y ganchos. |
 | 🧰 **Equipo** | Compendios de **habilidades** (árbol de requisitos de la hoja oficial), **armas** (cada una con su tipo de herida), **armaduras**, **objetos**, **parches** y **tablas de equipo inicial**, todo con iconos al estilo de Mothership y descripciones de catálogo. |
-| 🎲 **Generador de personajes** | El generador del sistema funciona con todas las clases: respeta los caminos de habilidades (entrenada → experta → maestra), tira el equipo, el parche (d100 con imagen) y la baratija. Elige sexo y pulsa **Nombre y biografía** para recibir nombre, mote y una biografía propia, editable, a medida de la clase y lo que ha salido. |
+| 🎲 **Generador de personajes** | El generador del sistema funciona con todas las clases: cada clase muestra un resumen de una línea al elegirla, las habilidades se eligen en una lista con su descripción al pasar el cursor, respeta los caminos de habilidades (entrenada → experta → maestra), tira el equipo, el parche (d100 con imagen) y la baratija. Las «N habilidades», «N psiónicas» y «N créditos» de las tablas de equipo se convierten en elecciones y en tus créditos (los poderes psiónicos —Telepatía, Telequinesis, Clarividencia…— se eligen distintos). Elige sexo y pulsa **Nombre y biografía** para recibir nombre, mote y una biografía propia, editable, a medida de la clase y lo que ha salido. |
 | 🧵 **Parches (d100)** | Los 100 parches con su imagen: tarjeta al chat con **Coser a mi personaje**, tabla nativa para el mundo e integración con el generador. |
 | ⚔️ **Combate automatizado** | Daño, armadura, cobertura, heridas con sus efectos, sangrado y fuego por ronda, orden por Velocidad, sorpresa, pánico y respuestas al trauma. Cada automatismo se activa o desactiva en los ajustes. |
 | ♿ **Mesa** | Modo oscuro completo (hojas, diálogos y chat), tamaño del texto, alto contraste, fuente de alta legibilidad, reducir movimiento, ayuda inmediata y **ficha resumida**. |
@@ -46,9 +46,11 @@ Las tarjetas de daño de un arma traen dos botones: **Objetivos** (tokens marcad
 - primero la **reducción de daño**; después la **cobertura** (solo a distancia) y la **armadura**, que ignoran el daño menor que sus PA y se destruyen si lo igualan o superan (las armas **antiarmadura** la ignoran y la destruyen). La armadura no se desgasta ni pide tirada: protege igual hasta que se rompe;
 - **salud a 0 → 1 herida**: la salud vuelve al máximo y resta el daño sobrante, que puede encadenar varias heridas; la tarjeta dice cuántas quedan antes de caer;
 - se tira en la **tabla de heridas** del arma (con su [+]/[−]; si admite varias, se pregunta cuál) y **su resultado se aplica solo**: sangrado, estrés (el de «los que estén cerca» va a los aliados), fuego de 2d10/3d10 por ronda hasta que alguien lo apague, lesiones letales con **cuenta atrás de 1d10 rondas** hasta la salvación de muerte (botón «Herida tratada») y lesiones fatales;
-- con las **heridas al máximo** el personaje cae y el Guardián tira **en secreto** la salvación de muerte; las criaturas quedan muertas.
+- con las **heridas al máximo** el personaje cae y se publica una tarjeta de **salvación de muerte** con botones: el Guardián decide cuándo tirarla (**en secreto**) y el jugador también puede tirar la suya. Nada se da por muerto sin esa tirada; solo las criaturas quedan muertas.
 
 Además: **sangrado y fuego** al empezar cada turno (ignoran armadura), **orden de turno por Velocidad** (botón en el registro de combate), **sorpresa** (salvación de Miedo; quien falla queda conmocionado), **salir de cobertura al disparar**, **pánico automático** tras un fallo crítico, **respuestas al trauma** de Marine, Científico, Pastor y Androide con botón para aplicarlas a los aliados cercanos, y **estados en el token** (herido, sangrando, en llamas, armadura destruida, muriendo, conmocionado). Si un jugador aplica algo a un token que no es suyo, lo ejecuta el Guardián conectado.
+
+<p align="center"><img src="docs/img/generador.webp" alt="Elección de habilidad en el generador con su descripción al pasar el cursor" width="100%"></p>
 
 <p align="center"><img src="docs/img/claro.webp" alt="Hoja de personaje clásica con las tarjetas de daño y herida en el chat" width="100%"></p>
 
@@ -57,9 +59,12 @@ Además: **sangrado y fuego** al empezar cada turno (ignoran armadura), **orden 
 Botón **Accesibilidad** en la cabecera de las hojas (también en Configuración → Ajustes del módulo; cada persona elige los suyos):
 
 - **Modo oscuro** de verdad: hojas, diálogos de tirada y todas las tarjetas del chat en tonos oscuros con texto claro; las ilustraciones conservan sus colores.
+- **Cabecera de ventana oculta**: la barra de título de las hojas aparece, en cristal líquido y solo con iconos, al pasar el cursor por arriba (se puede desactivar).
 - **Tamaño del texto**, **alto contraste**, **fuente de alta legibilidad**, **reducir movimiento** y **ayuda inmediata** al pasar el ratón.
 
 Botón **Resumida** en la hoja de personaje: solo características, salud, heridas, estrés, armadura, respuesta al trauma y salvaciones, en una ventana pequeña (se recuerda por personaje). La respuesta al trauma ajusta su letra para caber entera en su cuadro.
+
+<p align="center"><img src="docs/img/cabecera.webp" alt="Cabecera de la hoja en cristal líquido, solo con iconos" width="100%"></p>
 
 <p align="center"><img src="docs/img/resumida.webp" alt="Ficha resumida en modo oscuro con el panel de accesibilidad" width="100%"></p>
 

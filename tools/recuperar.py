@@ -143,6 +143,27 @@ TILDES = {'Arqueologia': 'Arqueología', 'Botanica': 'Botánica', 'Geologia': 'G
           'Planetologia': 'Planetología', 'Robotica': 'Robótica', 'Sofontologia': 'Sofontología', 'Conocimientos del Borde exterior': 'Conocimientos del Borde Exterior', 'Lingüista': 'Lingüística'}
 for h in packs['habilidades']: h['name'] = TILDES.get(h['name'], h['name'])
 
+# poderes psiónicos propios: las tablas de equipo de Psiónico y Psíquico dan «N psiónicas» (poderes a elegir, distintos).
+# Son habilidades entrenadas marcadas con flags.psionica: el generador las excluye de las elecciones normales y las ofrece aparte.
+import hashlib
+PODERES = [('Telepatía', 'Oyes pensamientos superficiales y puedes enviar mensajes mentales a quien veas o conozcas.'),
+           ('Telequinesis', 'Mueves objetos con la mente sin tocarlos; cuanto más pesados, más te cuesta.'),
+           ('Clarividencia', 'Ves lo que ocurre en un lugar lejano u oculto, como si estuvieras allí.'),
+           ('Precognición', 'Atisbas el futuro inmediato: una puerta que se abrirá, un disparo que está a punto de llegar.'),
+           ('Psicometría', 'Al tocar un objeto o un cadáver lees su historia reciente y las emociones que guarda.'),
+           ('Empatía', 'Percibes las emociones de quien tienes cerca y puedes apaciguarlas o avivarlas.'),
+           ('Sugestión', 'Plantas una idea sencilla en una mente débil; el objetivo cree que fue suya.'),
+           ('Sanación psíquica', 'Estabilizas a un herido y frenas su sangrado concentrando tu mente en la suya.'),
+           ('Descarga mental', 'Lanzas un golpe mental que aturde a una criatura con mente e ignora la armadura.'),
+           ('Escudo mental', 'Cierras tu mente a intrusiones, lecturas y señales ajenas durante unos instantes.')]
+_psi = next(h for h in packs['habilidades'] if h['name'] == 'Psiónica')
+for n, d in PODERES:
+    p = json.loads(json.dumps(_psi))
+    p.update({'_id': hashlib.md5(f'psionica-{n}'.encode()).hexdigest()[:16], 'name': f'Psiónica: {n}', 'folder': None, 'flags': {ID: {'psionica': True}}})
+    p['system'].update({'rank': 'Trained', 'bonus': 10, 'prerequisite_ids': [],
+                        'description': f'<p>{d}</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>'})
+    packs['habilidades'].append(p)
+
 # árbol de habilidades de la hoja de personaje oficial (Mothership 1e): requisitos previos de cada experta y maestra.
 # El sistema filtra con system.prerequisite_ids (UUID completos) y exige tener al menos uno de ellos.
 PRE = {

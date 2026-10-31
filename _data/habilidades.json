@@ -1119,5 +1119,215 @@
    }
   },
   "folder": "rb1L3T51BN6q3BlV"
+ },
+ {
+  "name": "Psiónica: Telepatía",
+  "type": "skill",
+  "_id": "9078c969aaa59c47",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Oyes pensamientos superficiales y puedes enviar mensajes mentales a quien veas o conozcas.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Telequinesis",
+  "type": "skill",
+  "_id": "e6e4bb0b3d63f673",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Mueves objetos con la mente sin tocarlos; cuanto más pesados, más te cuesta.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Clarividencia",
+  "type": "skill",
+  "_id": "91ccb289ce81edeb",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Ves lo que ocurre en un lugar lejano u oculto, como si estuvieras allí.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Precognición",
+  "type": "skill",
+  "_id": "205574c9d37ccd47",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Atisbas el futuro inmediato: una puerta que se abrirá, un disparo que está a punto de llegar.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Psicometría",
+  "type": "skill",
+  "_id": "f1c5ce0c18b70bda",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Al tocar un objeto o un cadáver lees su historia reciente y las emociones que guarda.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Empatía",
+  "type": "skill",
+  "_id": "6a2a4d517bfd750a",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Percibes las emociones de quien tienes cerca y puedes apaciguarlas o avivarlas.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Sugestión",
+  "type": "skill",
+  "_id": "6ed74270d004f509",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Plantas una idea sencilla en una mente débil; el objetivo cree que fue suya.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Sanación psíquica",
+  "type": "skill",
+  "_id": "6d19e15489b5248b",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Estabilizas a un herido y frenas su sangrado concentrando tu mente en la suya.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Descarga mental",
+  "type": "skill",
+  "_id": "ec94efa777c27cc8",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Lanzas un golpe mental que aturde a una criatura con mente e ignora la armadura.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
+ },
+ {
+  "name": "Psiónica: Escudo mental",
+  "type": "skill",
+  "_id": "35855997c65f360a",
+  "img": "modules/mr-mothership-es/iconos/E13.webp",
+  "system": {
+   "description": "<p>Cierras tu mente a intrusiones, lecturas y señales ajenas durante unos instantes.</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>",
+   "rank": "Trained",
+   "bonus": 10,
+   "prerequisite_ids": [],
+   "class_tags": []
+  },
+  "effects": [],
+  "sort": 0,
+  "flags": {
+   "mr-mothership-es": {
+    "psionica": true
+   }
+  },
+  "folder": null
  }
 ]

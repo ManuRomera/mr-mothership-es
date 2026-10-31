@@ -49,3 +49,39 @@ body.mr-mosh-movimiento :is(.mosh, .macro-popup-dialog, .chat-message) *, body.m
 .mr-a11y .mr-a11y-fila input[type=number] { width: 70px; flex: none; }
 
 .mosh .mr-aplicado { display: inline-block; padding: 1px 6px; border: 1px solid #999; border-radius: 3px; font-size: 12px; opacity: .8; }
+
+/* ---------- cabecera de las hojas: oculta hasta pasar el cursor, en cristal líquido y solo con iconos ---------- */
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers) > .window-header {
+  position: absolute; inset: 6px 8px auto 8px; z-index: 30; height: 34px; padding: 0 8px 0 14px; margin: 0; gap: 2px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, .22), rgba(255, 255, 255, .06)), rgba(24, 24, 28, .46) !important;
+  backdrop-filter: blur(22px) saturate(1.8); -webkit-backdrop-filter: blur(22px) saturate(1.8);
+  border: 1px solid rgba(255, 255, 255, .32) !important; border-radius: 17px; color: #fff;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .32), inset 0 1px 0 rgba(255, 255, 255, .55), inset 0 -1px 0 rgba(255, 255, 255, .08);
+  opacity: 0; transform: translateY(-6px); transition: opacity .18s ease, transform .18s ease;
+}
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers) > .window-header:is(:hover, :focus-within) { opacity: 1; transform: none; }
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers) > .window-header :is(h4, .window-title) { color: #fff; text-shadow: 0 1px 2px rgba(0, 0, 0, .5); }
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers) > .window-header a.header-button {
+  font-size: 0 !important; display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; margin: 0; padding: 0;
+  border-radius: 14px; color: #fff; flex: 0 0 auto; transition: background .12s;
+}
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers) > .window-header a.header-button > i { font-size: 14px !important; margin: 0 !important; }
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers) > .window-header a.header-button:hover { background: rgba(255, 255, 255, .24); text-shadow: none; }
+/* una rayita avisa de que ahí hay barra */
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers)::after {
+  content: ""; position: absolute; top: 5px; left: 50%; width: 56px; height: 4px; margin-left: -28px; border-radius: 2px;
+  background: rgba(128, 128, 128, .5); pointer-events: none; transition: opacity .18s; z-index: 29;
+}
+body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers):has(> .window-header:hover)::after { opacity: 0; }
+@media (prefers-reduced-transparency: reduce) { body.mr-mosh-cabecera .mosh.sheet.actor > .window-header { background: #1c1c1e; backdrop-filter: none; } }
+
+/* ---------- generador: lista de habilidades con descripción al pasar el cursor ---------- */
+.mr-lista { display: grid; grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr)); gap: 5px; max-height: 15rem; overflow-y: auto; padding: 2px; margin: 4px 0; }
+.mr-op { margin: 0; padding: 5px 10px; line-height: 1.2; text-align: left; border-radius: 9px; background: #111 !important; color: #fff !important; border: 2px solid #111 !important; font-size: 13px; cursor: pointer; }
+.mr-op:hover:not(:disabled), .mr-op:focus-visible { background: #3a3a3e !important; border-color: #888 !important; box-shadow: none; }
+.mr-op.sel { background: #fff !important; color: #111 !important; border-color: #888 !important; font-weight: bold; }
+.mr-op:disabled { opacity: .3; cursor: not-allowed; }
+.mr-desc { margin-top: 8px; padding: 8px 12px; min-height: 5.2em; border-radius: 10px; background: rgba(128, 128, 128, .16); border: 1px solid rgba(128, 128, 128, .4); font-size: 13px; }
+.mr-desc p { margin: 3px 0 0; }
+.mr-desc small { opacity: .7; text-transform: uppercase; letter-spacing: .06em; margin-left: 6px; }
+.mr-desc .mr-pre { opacity: .75; font-style: italic; }
