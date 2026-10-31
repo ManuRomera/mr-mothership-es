@@ -387,6 +387,18 @@
    }
   },
   {
+   "en": "^(.*?), with a severity of$",
+   "es": "$1, con una gravedad de"
+  },
+  {
+   "en": "^(.*?)Severity has (increased|decreased) from$",
+   "es": "$1La gravedad $2 de",
+   "map": {
+    "increased": "aumenta",
+    "decreased": "disminuye"
+   }
+  },
+  {
    "en": "^(Minimum|Maximum) (.+)$",
    "es": "$2 $1",
    "map": {

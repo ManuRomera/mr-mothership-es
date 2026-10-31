@@ -20,7 +20,7 @@ jobs:
       - name: Empaquetar
         run: |
           mkdir -p dist
-          zip -r dist/mr-mothership-es.zip module.json scripts lang compendium packs iconos parches styles.css LICENSE NOTICE.md README.md
+          zip -r dist/mr-mothership-es.zip module.json scripts lang compendium packs iconos parches styles.css estilos-oscuro.css LICENSE NOTICE.md README.md
           unzip -l dist/mr-mothership-es.zip | grep -q compendium/mosh.rolltables_1e.json
           unzip -l dist/mr-mothership-es.zip | grep -q lang/literales.json
           unzip -l dist/mr-mothership-es.zip | grep -q parches/99.webp

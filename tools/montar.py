@@ -79,6 +79,9 @@ patrones = [
              'greater than': 'más que', 'greater than or equal to': 'más o igual que'}},
     {'en': r'^(.*?)((?:Minimum |Maximum )?)(' + '|'.join(sorted(ETIQ_CAMPOS, key=len, reverse=True)) + r') (increased|decreased) from$', 'es': '$1$3 $2$4 de',
      'map': {'Minimum': 'mínimo', 'Maximum': 'máximo', 'increased': 'aumenta', 'decreased': 'disminuye'}},
+    # el sistema pega estos trozos en inglés detrás de una frase ya traducida, en el mismo nodo de texto
+    {'en': r'^(.*?), with a severity of$', 'es': '$1, con una gravedad de'},
+    {'en': r'^(.*?)Severity has (increased|decreased) from$', 'es': '$1La gravedad $2 de', 'map': {'increased': 'aumenta', 'decreased': 'disminuye'}},
     {'en': r'^(Minimum|Maximum) (.+)$', 'es': '$2 $1', 'map': {'Minimum': 'mínimo', 'Maximum': 'máximo'}},
     {'en': r'^(.+) from$', 'es': '$1 de'},
     {'en': r'^Rolling for (.+)$', 'es': 'Tirando por $1'},

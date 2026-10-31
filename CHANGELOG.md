@@ -12,7 +12,8 @@
 - **Psiónico**: solo recibía Psiónica y el generador lo dejaba con una habilidad. Ahora elige 1 entrenada + 1 experta con su requisito.
 - **Respuesta al trauma**: la letra se ajusta para que el texto quepa entero en su cuadro.
 - **Títulos de tarjeta** largos ya no se cortan.
-- **Mejoras de mesa** (ajustes de cada navegador, botón «Accesibilidad» en las hojas): modo oscuro para hojas, diálogos y **tarjetas del chat**; tamaño del texto; alto contraste; fuente de alta legibilidad; reducir movimiento; ayuda inmediata. Botón **«Resumida»** en la hoja de personaje: solo características, salud, heridas, estrés, armadura y salvaciones (se recuerda por personaje).
+- Traducidos dos restos en inglés de las tarjetas del sistema («with a severity of», «Severity has increased from»).
+- **Mejoras de mesa** (ajustes de cada navegador, botón «Accesibilidad» en las hojas): **modo oscuro completo** —no una inversión de colores: cada color de la hoja de estilos del sistema se sustituye por su equivalente oscuro (`tools/oscuro.py` → `estilos-oscuro.css`)— para hojas, diálogos y **todas las tarjetas del chat**; tamaño del texto; alto contraste; fuente de alta legibilidad; reducir movimiento; ayuda inmediata. Botón **«Resumida»** en la hoja de personaje: solo características, salud, heridas, estrés, armadura y salvaciones (se recuerda por personaje).
 
 ## 1.7.0 - 2026-10-30
 - **Automatismos de combate, cada uno con su interruptor** en Configuración → Ajustes del módulo («Combate: …»):

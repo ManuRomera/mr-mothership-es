@@ -43,8 +43,13 @@ const clave = app => `${ID}.resumida.${app.actor?.id}`;
 const leer = app => { try { return localStorage.getItem(clave(app)) === "1"; } catch { return false; } };
 function resumir(app, si) {
   try { si ? localStorage.setItem(clave(app), "1") : localStorage.removeItem(clave(app)); } catch { }
-  app.element?.[0]?.classList.toggle("mr-resumida", si);
-  app.setPosition({ height: si ? "auto" : 820 });
+  const el = app.element?.[0]; if (!el) return;
+  el.classList.toggle("mr-resumida", si);
+  if (!si) return app.setPosition({ height: 820 });
+  // alto justo: hasta el campo visible más bajo (las salvaciones sobresalen de su fila en la plantilla del sistema)
+  const campos = [...el.querySelectorAll(".window-content :is(input, textarea)")].filter(x => x.offsetParent);
+  const fondo = Math.max(...campos.map(x => x.getBoundingClientRect().bottom));
+  app.setPosition({ height: Math.ceil(fondo - el.getBoundingClientRect().top + 24) });
 }
 
 Hooks.once("init", () => {

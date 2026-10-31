@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MR- Mothership en español</title>
-<meta name="description" content="Traducción completa al español de España del sistema MoSh (Unofficial Mothership) para Foundry VTT: interfaz, hojas, chat y compendios.">
+<meta name="description" content="El sistema MoSh (Unofficial Mothership) para Foundry VTT en español de España: traducción completa, 16 clases con equipo, generador de personajes, combate automatizado, modo oscuro y accesibilidad.">
 <style>
 :root { --bg:#09181e; --panel:#0f2a31; --ink:#e6eeee; --mut:#8fa9ab; --amb:#e0913a; --teal:#57d8c8; }
 @media (prefers-color-scheme: light) { :root { --bg:#f5f2ea; --panel:#fff; --ink:#15262a; --mut:#5d7174; --amb:#b0600f; --teal:#0f6a64; } }
@@ -17,7 +17,8 @@
 a.b { display:inline-block; padding:.8rem 1.3rem; border:1px solid var(--amb); color:var(--amb); text-decoration:none; font:600 .85rem 'Avenir Next',Arial,sans-serif; letter-spacing:.12em; text-transform:uppercase; }
 a.b.p { background:var(--amb); color:#09181e; } a.b:focus-visible, a.b:hover { outline:2px solid var(--teal); outline-offset:2px; }
 main { max-width:60rem; margin:0 auto; padding:4rem 6vw; } h2 { font:700 1.7rem 'Avenir Next Condensed','Arial Narrow',sans-serif; text-transform:uppercase; letter-spacing:.04em; color:var(--amb); border-top:1px solid var(--mut); padding-top:.8rem; margin-top:3rem; }
-.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)); gap:1rem; } .card { background:var(--panel); padding:1rem 1.2rem; border-top:3px solid var(--amb); font-family:'Avenir Next',Arial,sans-serif; font-size:.95rem; } .card b { display:block; color:var(--teal); font-size:.75rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:.3rem; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(15rem,1fr)); gap:1rem; } .card { background:var(--panel); padding:1rem 1.2rem; border-top:3px solid var(--amb); font-family:'Avenir Next',Arial,sans-serif; font-size:.95rem; } figure { margin:2rem 0; } figure img { width:100%; display:block; border:1px solid var(--mut); } figcaption { color:var(--mut); font:.85rem 'Avenir Next',Arial,sans-serif; margin-top:.4rem; }
+.card b { display:block; color:var(--teal); font-size:.75rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:.3rem; }
 code { background:var(--panel); padding:.7rem 1rem; display:block; overflow-x:auto; font:.85rem Menlo,monospace; color:var(--teal); }
 footer { text-align:center; padding:3rem 1rem; color:var(--mut); font:.8rem 'Avenir Next',Arial,sans-serif; }
 </style>
@@ -26,20 +27,29 @@ footer { text-align:center; padding:3rem 1rem; color:var(--mut); font:.8rem 'Ave
 <header class="hero">
   <small>Traducción no oficial · Foundry VTT v13</small>
   <h1>Mothership<span>en español</span></h1>
-  <p>El sistema MoSh de Foundry, completo en español de España: interfaz, hojas, diálogos, mensajes de chat y los compendios de las ediciones 0e y 1e.</p>
+  <p>El sistema MoSh de Foundry, completo en español de España: traducción de todo el sistema, 16 clases con su equipo, generador de personajes con biografía, combate automatizado según la Guía de supervivencia, modo oscuro y accesibilidad.</p>
   <div class="btns">
     <a class="b p" href="https://github.com/ManuRomera/mr-mothership-es/releases/latest">Última versión</a>
     <a class="b" href="https://github.com/ManuRomera/mr-mothership-es">Repositorio</a>
   </div>
 </header>
 <main>
-  <h2>Qué traduce</h2>
+  <h2>Qué trae</h2>
   <div class="grid">
-    <div class="card"><b>Interfaz</b>Más de 640 cadenas del sistema: hojas de personaje, criatura y nave, ajustes y avisos.</div>
-    <div class="card"><b>Textos fijos</b>Diálogos, botones y mensajes que el sistema escribe en inglés dentro del código.</div>
-    <div class="card"><b>Compendios</b>Condiciones, averías, tablas y macros de 0e y 1e, con Babele; no se tocan los datos originales.</div>
-    <div class="card"><b>Glosario</b>Guardián, Cordura, Miedo, Cuerpo, Estrés, Determinación… coherente en todo el sistema.</div>
+    <div class="card"><b>Traducción completa</b>Más de 640 cadenas del sistema y los textos fijos del código: hojas, diálogos, avisos y chat.</div>
+    <div class="card"><b>Compendios</b>Condiciones, averías, tablas y macros de 0e y 1e con Babele, sin tocar los datos originales.</div>
+    <div class="card"><b>16 clases</b>Las cuatro oficiales y doce más, con bonos, respuesta al trauma, ambientación y ganchos.</div>
+    <div class="card"><b>Equipo</b>Habilidades con su árbol de requisitos, armas, armaduras, objetos, parches y tablas de equipo, con iconos al estilo de Mothership.</div>
+    <div class="card"><b>Generador</b>Personajes completos con nombre, mote y biografía propia según la clase, el sexo y lo que ha salido.</div>
+    <div class="card"><b>Parches d100</b>Los 100 parches con imagen, cosidos a la ficha desde el chat o el generador.</div>
+    <div class="card"><b>Combate</b>Daño, armadura, cobertura, heridas con sus efectos, sangrado y fuego por ronda, Velocidad, sorpresa, pánico y trauma. Cada automatismo se puede desactivar.</div>
+    <div class="card"><b>Mesa</b>Modo oscuro completo con chat, tamaño del texto, alto contraste, fuente legible, menos movimiento y ficha resumida.</div>
   </div>
+  <figure><img src="img/oscuro.webp" alt="Hoja de personaje en modo oscuro con tarjetas de daño y herida en el chat"><figcaption>Modo oscuro: la herida se tira y se aplica sola (sangrado, cuenta atrás de la lesión letal).</figcaption></figure>
+  <h2>Combate según la Guía de supervivencia</h2>
+  <p>La reducción de daño va primero; la cobertura y la armadura ignoran el daño menor que sus PA y se destruyen si lo igualan. Con la salud a 0 se sufre una herida, la salud vuelve al máximo y se tira en la tabla del arma; su resultado (sangrado, estrés, fuego, lesión letal o fatal) se aplica solo. Con las heridas al máximo, el Guardián tira en secreto la salvación de muerte.</p>
+  <figure><img src="img/claro.webp" alt="Hoja clásica con tarjetas de daño en el chat"><figcaption>Las tarjetas nuevas usan el diseño de las del sistema.</figcaption></figure>
+  <figure><img src="img/resumida.webp" alt="Ficha resumida con el panel de accesibilidad"><figcaption>Ficha resumida y panel de accesibilidad.</figcaption></figure>
   <h2>Instalar en Foundry</h2>
   <p>Necesitas el sistema <i>MoSh – Unofficial Mothership</i> y el módulo <b>Babele</b>. En <b>Add-on Modules → Install Module → Manifest URL</b>:</p>
   <code>https://github.com/ManuRomera/mr-mothership-es/releases/latest/download/module.json</code>
