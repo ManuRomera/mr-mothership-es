@@ -81,7 +81,8 @@ body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers):has(> .window-head
 .mr-op:hover:not(:disabled), .mr-op:focus-visible { background: #3a3a3e !important; border-color: #888 !important; box-shadow: none; }
 .mr-op.sel { background: #fff !important; color: #111 !important; border-color: #888 !important; font-weight: bold; }
 .mr-op:disabled { opacity: .3; cursor: not-allowed; }
-.mr-desc { margin-top: 8px; padding: 8px 12px; min-height: 5.2em; border-radius: 10px; background: rgba(128, 128, 128, .16); border: 1px solid rgba(128, 128, 128, .4); font-size: 13px; }
+.mr-lista { min-height: 4rem; }
+.mr-desc { margin-top: 8px; padding: 8px 12px; height: 7.4em; overflow-y: auto; border-radius: 10px; background: rgba(128, 128, 128, .16); border: 1px solid rgba(128, 128, 128, .4); font-size: 13px; }
 .mr-desc p { margin: 3px 0 0; }
 .mr-desc small { opacity: .7; text-transform: uppercase; letter-spacing: .06em; margin-left: 6px; }
 .mr-desc .mr-pre { opacity: .75; font-style: italic; }

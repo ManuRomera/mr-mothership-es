@@ -237,9 +237,10 @@ Hooks.once("ready", async () => {
         const pintar = () => {
           caja.replaceChildren();
           for (const o of sel.options) {
-            if (!o.value || o.hidden) continue;
+            if (!o.value) continue;
+            // las que no encajan con lo elegido arriba se atenúan en vez de desaparecer: así la lista no cambia de tamaño bajo el cursor
             const b = document.createElement("button");
-            b.type = "button"; b.className = "mr-op"; b.textContent = o.textContent.trim(); b.disabled = o.disabled;
+            b.type = "button"; b.className = "mr-op"; b.textContent = o.textContent.trim(); b.disabled = o.disabled || o.hidden;
             b.setAttribute("role", "option"); b.setAttribute("aria-selected", String(o.value === sel.value));
             if (o.value === sel.value) b.classList.add("sel");
             b.addEventListener("mouseenter", () => mostrar(o.value)); b.addEventListener("focus", () => mostrar(o.value));
@@ -255,7 +256,9 @@ Hooks.once("ready", async () => {
         pintores.push(pintar); pintar();
       }
       cont.append(desc);
-      app.setPosition({ height: "auto" });
+      // el cuadro de descripción tiene alto fijo y la ventana se fija a su tamaño inicial: si cambiaran, la lista se movería bajo el cursor y la selección parpadearía
+      requestAnimationFrame(() => app.setPosition({ height: "auto" }));
+      setTimeout(() => { const h = app.element?.offsetHeight; if (h) app.setPosition({ height: h }); }, 150);
     });
   } catch (e) { console.warn(`${ID} | no se pudo ampliar el generador de personajes`, e); }
 });

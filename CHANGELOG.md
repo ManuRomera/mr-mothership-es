@@ -1,5 +1,10 @@
 # Cambios
 
+## 1.9.1 - 2026-10-31
+- **Lista de habilidades del generador estable**: al pasar el cursor, la selección parpadeaba porque la ventana cambiaba de tamaño con cada descripción. Ahora el cuadro de descripción tiene alto fijo, la ventana conserva su tamaño y las opciones que no encajan con lo elegido arriba se atenúan en vez de desaparecer.
+- **Modo oscuro con más contraste**: los dados del generador y de las hojas (negros sobre fondo oscuro) pasan a líneas claras sobre disco oscuro; el botón «Nombre y biografía» y sus controles se leen; los puntos de las casillas de elección (p. ej. al elegir característica para una tirada) se ven. Auditado el contraste de texto en el generador, las pestañas de la hoja y los diálogos.
+- **Psiónica y poderes**: la habilidad **Psiónica** (maestra, +20) es la tirada con la que se usa *cualquier* poder; los poderes concretos (Telepatía, Telequinesis…) son solo «lo que sabes hacer» y ya no llevan bono propio (+0). Las descripciones de ambos lo explican.
+
 ## 1.9.0 - 2026-10-31
 - **Generador de personajes**:
   - la ventana se ajusta a su contenido (antes la biografía y las listas la desbordaban);

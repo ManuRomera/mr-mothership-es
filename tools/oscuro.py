@@ -86,10 +86,16 @@ BASE = f"""
 {PRE} :is(.mosh, .macro-popup-dialog) [style*="color: black"] {{ color: #ececee !important; }}
 {PRE} :is(.mosh, .macro-popup-dialog) [style*="#999"], {PRE} :is(.mosh, .macro-popup-dialog) [style*="#111"] {{ border-color: #6e6e75 !important; }}
 {PRE} :is(.mosh, .macro-popup-dialog) [style*="#ffffff"] {{ border-color: #3e3e43 !important; }}
-{PRE} .mosh.sheet :is(input, textarea, select), {PRE} .macro-popup-dialog :is(input, textarea, select) {{ background-color: #1c1c1e !important; color: #ececee !important; border-color: #3e3e43 !important; }}
+{PRE} .mosh.sheet :is(input, textarea, select):not([type=radio], [type=checkbox]), {PRE} .macro-popup-dialog :is(input, textarea, select):not([type=radio], [type=checkbox]) {{ background-color: #1c1c1e !important; color: #ececee !important; border-color: #3e3e43 !important; }}
 {PRE} .mosh.sheet :is(input, textarea)::placeholder {{ color: #77777d !important; }}
 {PRE} .macro-popup-dialog :is(button, .dialog-button) {{ background: #2a2a2d !important; color: #ececee !important; border-color: #4a4a50 !important; }}
 {PRE} .macro-popup-dialog :is(button, .dialog-button):hover {{ background: #3a3a3e !important; }}
+{PRE} :is(.mosh, .macro-popup-dialog) :is(input[type=radio], input[type=checkbox]) {{ accent-color: #ececee; color-scheme: dark; }}
+{PRE} :is(.mosh, .macro-popup-dialog) select {{ color-scheme: dark; }}
+{PRE} .mr-gen-bio :is(button, select, textarea) {{ background: #2a2a2d !important; color: #ececee !important; border: 1px solid #5a5a62 !important; }}
+{PRE} .mr-gen-bio button:hover {{ background: #3a3a3e !important; }}
+/* el dado es un trazo negro sobre el fondo del propio <img>: se invierte con el fondo ya invertido para quedar líneas claras sobre disco oscuro */
+{PRE} :is(.mosh, .macro-popup-dialog) img[src$="d20-black.svg"] {{ filter: invert(1); background-color: #e2e2e2 !important; border-color: #6e6e75 !important; }}
 /* iconos del sistema (glifos negros sobre blanco): se invierten; el resto de imágenes conserva sus colores */
 {PRE} :is(.mosh, .macro-popup-dialog) img[src*="/icons/ui/"] {{ filter: invert(1) brightness(.92); }}
 /* chat */

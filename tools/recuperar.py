@@ -160,8 +160,8 @@ _psi = next(h for h in packs['habilidades'] if h['name'] == 'Psiónica')
 for n, d in PODERES:
     p = json.loads(json.dumps(_psi))
     p.update({'_id': hashlib.md5(f'psionica-{n}'.encode()).hexdigest()[:16], 'name': f'Psiónica: {n}', 'folder': None, 'flags': {ID: {'psionica': True}}})
-    p['system'].update({'rank': 'Trained', 'bonus': 10, 'prerequisite_ids': [],
-                        'description': f'<p>{d}</p><p><em>Poder psiónico. Coste de estrés según el grado de tu clase (1/2/3).</em></p>'})
+    p['system'].update({'rank': 'Trained', 'bonus': 0, 'prerequisite_ids': [],
+                        'description': f'<p>{d}</p><p><em>Poder psiónico: lo que sabes hacer. Para usarlo tira con la habilidad <strong>Psiónica</strong> (+20); sin bono propio. Coste de estrés según el grado de tu clase (1/2/3).</em></p>'})
     packs['habilidades'].append(p)
 
 # árbol de habilidades de la hoja de personaje oficial (Mothership 1e): requisitos previos de cada experta y maestra.
@@ -239,6 +239,10 @@ for cat, docs in packs.items():
         orig = interior(d['system'].get('description'))
         if cat == 'clases': d['system']['description'] = (f'<p><em>{orig}</em></p>' if orig else '') + nuevo
         else: d['system']['description'] = nuevo + (f'<p><strong>Reglas.</strong> {orig}</p>' if orig and norm(re.sub(r'<[^>]+>', '', orig)) not in norm(re.sub(r'<[^>]+>', '', nuevo)) else '')
+
+# la Psiónica genérica es la tirada de todos los poderes; cada poder es solo «lo que sabes hacer» (bono 0)
+for h in packs['habilidades']:
+    if h['name'] == 'Psiónica': h['system']['description'] += '<p><em>Es la habilidad con la que tiras al usar cualquiera de tus poderes psiónicos (Telepatía, Telequinesis…).</em></p>'
 
 tablas = []
 for t in A['tables']:
