@@ -256,8 +256,9 @@ Hooks.once("ready", async () => {
         pintores.push(pintar); pintar();
       }
       cont.append(desc);
-      // el cuadro de descripción tiene alto fijo y la ventana se fija a su tamaño inicial: si cambiaran, la lista se movería bajo el cursor y la selección parpadearía
-      requestAnimationFrame(() => app.setPosition({ height: "auto" }));
+      // ancho y alto FIJOS: con el ancho automático la ventana saltaba de estrecha a ancha según el texto de la descripción y las opciones se movían bajo el cursor
+      const ancho = Math.min(780, window.innerWidth - 60);
+      app.setPosition({ width: ancho, left: Math.max(10, (window.innerWidth - ancho) / 2), height: "auto" });
       setTimeout(() => { const h = app.element?.offsetHeight; if (h) app.setPosition({ height: h }); }, 150);
     });
   } catch (e) { console.warn(`${ID} | no se pudo ampliar el generador de personajes`, e); }

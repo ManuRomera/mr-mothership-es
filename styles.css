@@ -84,5 +84,6 @@ body.mr-mosh-cabecera .mosh.sheet.actor:not(#sheet-modifiers):has(> .window-head
 .mr-lista { min-height: 4rem; }
 .mr-desc { margin-top: 8px; padding: 8px 12px; height: 7.4em; overflow-y: auto; border-radius: 10px; background: rgba(128, 128, 128, .16); border: 1px solid rgba(128, 128, 128, .4); font-size: 13px; }
 .mr-desc p { margin: 3px 0 0; }
+.mr-desc { box-sizing: border-box; width: 100%; overflow-wrap: anywhere; }
 .mr-desc small { opacity: .7; text-transform: uppercase; letter-spacing: .06em; margin-left: 6px; }
 .mr-desc .mr-pre { opacity: .75; font-style: italic; }

@@ -1,6 +1,7 @@
 # Cambios
 
 ## 1.9.2 - 2026-10-31
+- **Elección de habilidades: arreglado el «baile» de la ventana.** La causa real era el ancho: el diálogo se ajustaba al texto de la descripción y saltaba de estrecho a ancho al pasar el cursor, moviendo las opciones bajo el puntero (la v1.9.1 solo había fijado el alto). Ahora el ancho (hasta 780 px) y el alto son fijos y las opciones no se mueven.
 - **Modo oscuro: casillas y puntos de elección bien visibles.** Los puntos (p. ej. al elegir característica para una tirada) y las casillas (ajustes de Accesibilidad…) se dibujan con borde claro y, al marcarlos, un punto o relleno blanco; antes apenas se distinguía el marcado del desmarcado.
 
 ## 1.9.1 - 2026-10-31
