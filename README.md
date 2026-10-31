@@ -38,7 +38,10 @@ Activa **MR- Mothership en español** en tu mundo y pon Foundry en **Español** 
 El módulo trae sus propios compendios (**Clases, Habilidades, Armas, Armaduras, Objetos, Parches, Tablas de creación de personaje y Reglas rápidas**) con 16 clases en español. Abre el «Generador de personajes» del sistema, elige clase y listo: aplica los bonos, te deja elegir habilidades, tira el equipo inicial, el parche (d100 con imagen) y la baratija, y lo cose todo a la ficha al guardar. Elige sexo y pulsa «Nombre y biografía» para recibir un personaje con nombre, mote y una biografía propia (editable) que se guarda en la ficha. Todas las clases, armas, armaduras, habilidades, objetos y averías llevan descripción ambiental. Si tenías «Básicos de Mosh», desactívalo: este módulo lo sustituye.
 
 ## ⚔️ Combate
-Automatismos según la Guía de supervivencia, cada uno activable en los ajustes del módulo: aplicar daño desde la tarjeta (reducción de daño, cobertura, armadura, antiarmadura, heridas con su tabla y salvación de muerte secreta), orden de turno por Velocidad, sorpresa, sangrado por ronda, salir de cobertura al disparar, pánico tras un crítico, respuestas al trauma de cada clase y estados en el token.
+Automatismos según la Guía de supervivencia, cada uno activable en los ajustes del módulo: aplicar daño desde la tarjeta (reducción de daño, cobertura, armadura, antiarmadura, heridas con su tabla y sus efectos —sangrado, estrés, fuego, lesiones letales con cuenta atrás— y salvación de muerte secreta), orden de turno por Velocidad, sorpresa, sangrado y fuego por ronda, salir de cobertura al disparar, pánico tras un crítico, respuestas al trauma de cada clase y estados en el token.
+
+## ♿ Mesa
+Botón «Accesibilidad» en las hojas: modo oscuro (también en las tarjetas del chat), tamaño del texto, alto contraste, fuente de alta legibilidad, reducir movimiento y ayuda inmediata. Botón «Resumida» para ver la hoja de personaje en pequeño.
 
 ## 🔧 Cómo está hecho
 

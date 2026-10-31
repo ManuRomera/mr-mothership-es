@@ -186,6 +186,15 @@ for c in packs['clases']:
         sel['choose_skill_or'] = [[{'name': '1 habilidad experta', 'from_list': [], **_vacio(expert=1)}, {'name': '2 habilidades entrenadas', 'from_list': [], **_vacio(trained=2)}]]
     elif c['name'] == 'Científico': sel['choose_skill_and'] = _vacio(trained=1, expert=1, master_full_set=1)
     elif c['name'] == 'Tripulante': sel['choose_skill_and'] = _vacio(trained=1, expert=1)
+    # Psiónico (adaptación de «Psions & Psionics»): solo traía Psiónica (maestra) y acababa con una única habilidad.
+    # Recibe la base del árbol como el Tripulante: 1 entrenada + 1 experta con su requisito (Teología→Misticismo, Lingüística→Psicología...).
+    elif c['name'] == 'Psiónico': sel['choose_skill_and'] = _vacio(trained=1, expert=1)
+
+# tipo de herida (tabla) de cada arma: las que no lo traían, o lo traían en un formato que el sistema no entiende
+HERIDA_ARMA = {'Rifle de caza lejano': 'Gunshot', 'Mosquete': 'Gunshot', 'Rifle': 'Gunshot', 'Pistola pequeña': 'Gunshot', 'Pistola compacta oculta': 'Gunshot',
+               'Escopeta recortada': 'Gunshot', 'Rifle antiguo [-]': 'Gunshot', 'Pistola de bolsillo': 'Gunshot', 'Arco': 'Bleeding',
+               'Martillo a dos manos': 'Blunt Force [+]', 'Puños americanos': 'Blunt Force', 'Garrote': 'Blunt Force', 'Arma improvisada': 'Blunt Force',
+               'Pincho': 'Bleeding', 'Hacha de madera': 'Bleeding [+]', 'Cortadora láser': 'Bleeding [+] or Gore & Massive [+]', 'Vibechete': 'Bleeding or Gore & Massive'}
 
 # erratas de nombres (tildes y mayúsculas iniciales) en armas, armaduras y objetos
 NOMBRES = {'Revolver': 'Revólver', 'traje de vacio': 'Traje de vacío', 'Traje de peligro biologico': 'Traje de peligro biológico',
@@ -195,6 +204,7 @@ NOMBRES = {'Revolver': 'Revólver', 'traje de vacio': 'Traje de vacío', 'Traje 
 for cat in ('armas', 'armaduras', 'objetos'):
     for d in packs[cat]:
         n = NOMBRES.get(d['name'], d['name']); d['name'] = n[:1].upper() + n[1:]
+        if cat == 'armas' and d['name'] in HERIDA_ARMA: d['system']['woundEffect'] = HERIDA_ARMA[d['name']]
 
 # descripciones largas redactadas con tools/describir.py (la regla original se conserva debajo)
 def interior(h): return re.sub(r'^<p>|</p>$', '', (h or '').strip())

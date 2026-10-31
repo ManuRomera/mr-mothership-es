@@ -27,3 +27,32 @@
 /* diálogo de elegir habilidad: la descripción no estira la ventana */
 .macro-popup-dialog .macro_desc span p ~ p { display: none; }
 .macro-popup-dialog .macro_desc span { display: -webkit-box !important; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* ---------- títulos de tarjeta largos: el sistema les da alto fijo y se cortaban ---------- */
+.mosh .rollweaponh1 { height: auto; min-height: 32px; line-height: 1.15; overflow-wrap: anywhere; }
+.mosh .mr-herida-tipo { font-weight: bold; }
+
+/* ---------- ficha resumida: cabecera, características, salud y salvaciones ---------- */
+.mosh.sheet.actor.mr-resumida nav.sheet-tabs, .mosh.sheet.actor.mr-resumida section.sheet-body { display: none; }
+
+/* ---------- accesibilidad (ajustes de cliente) ---------- */
+.mosh.sheet .window-content, .macro-popup-dialog .window-content, #chat-log .mosh, #chat-notifications .mosh, .chat-popout .mosh { zoom: var(--mr-escala, 1); }
+body.mr-mosh-contraste .mosh.sheet .window-content, body.mr-mosh-contraste .macro-popup-dialog .window-content, body.mr-mosh-contraste .chat-message .mosh { filter: contrast(1.35); }
+body.mr-mosh-legible .mosh.sheet, body.mr-mosh-legible .macro-popup-dialog, body.mr-mosh-legible .chat-message .mosh,
+body.mr-mosh-legible .mosh.sheet :is(input, textarea, select, button) { font-family: Verdana, "Atkinson Hyperlegible", system-ui, sans-serif !important; letter-spacing: .02em; }
+body.mr-mosh-movimiento :is(.mosh, .macro-popup-dialog, .chat-message) *, body.mr-mosh-movimiento .mosh.sheet { transition: none !important; animation: none !important; }
+.mr-a11y .mr-a11y-fila { display: flex; align-items: center; gap: 10px; margin: 6px 0; }
+.mr-a11y .mr-a11y-fila span { flex: 1; display: flex; flex-direction: column; }
+.mr-a11y .mr-a11y-fila small { opacity: .75; }
+.mr-a11y .mr-a11y-fila input[type=number] { width: 70px; flex: none; }
+
+/* ---------- modo oscuro: MoSh es blanco y negro puro, así que se invierte y se devuelven sus colores a las ilustraciones ---------- */
+body.mr-mosh-oscuro .mosh.sheet .window-content, body.mr-mosh-oscuro .macro-popup-dialog .window-content,
+body.mr-mosh-oscuro .chat-message .mosh { filter: invert(1) hue-rotate(180deg); }
+body.mr-mosh-oscuro.mr-mosh-contraste .mosh.sheet .window-content, body.mr-mosh-oscuro.mr-mosh-contraste .macro-popup-dialog .window-content,
+body.mr-mosh-oscuro.mr-mosh-contraste .chat-message .mosh { filter: invert(1) hue-rotate(180deg) contrast(1.35); }
+body.mr-mosh-oscuro :is(.mosh.sheet .window-content, .macro-popup-dialog .window-content, .chat-message .mosh) :is(img:not([src*="/icons/ui/"]), video) { filter: invert(1) hue-rotate(180deg); }
+body.mr-mosh-oscuro .chat-message:has(.mosh) { background: #151515; border-color: #3a3a3a; }
+body.mr-mosh-oscuro .chat-message:has(.mosh) .message-content { color: #111; } /* se invierte con la tarjeta: queda casi blanco */
+body.mr-mosh-oscuro .chat-message:has(.mosh) .message-header :is(.message-sender, .message-metadata, a) { color: #e8e8e8; }
+.mosh .mr-aplicado { display: inline-block; padding: 1px 6px; border: 1px solid #999; border-radius: 3px; font-size: 12px; opacity: .8; }

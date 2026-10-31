@@ -1,5 +1,19 @@
 # Cambios
 
+## 1.8.0 - 2026-10-31
+- **Heridas según las reglas, integradas con las tablas del sistema** (Guía de supervivencia, cap. 28-29 y 32):
+  - salud a 0 → 1 herida y la salud vuelve al máximo restando el daño sobrante; la tarjeta dice cuántas heridas quedan antes de caer;
+  - **con las heridas al máximo el personaje ya está caído**: antes el daño se ignoraba sin explicación («Salud 14 → 14»); ahora la tarjeta lo dice y la salud queda a 0;
+  - el **resultado de la tabla de heridas se aplica solo**: sangrado, estrés (el de «los que estén cerca» va a los aliados cercanos), salvación de muerte inmediata en las lesiones fatales y **cuenta atrás de 1d10 rondas** en las letales (con botón «Herida tratada»). Sus enlaces quedan marcados como aplicados para no sumarlos dos veces;
+  - **fuego por ronda**: «Extremidad en llamas» y «Cuerpo en llamas» hacen 2d10/3d10 al empezar cada turno hasta que alguien pulse «Fuego apagado»; nuevo estado «En llamas»;
+  - si el arma admite varios tipos de herida («Sangrado [+] o Desgarro y masivo [+]») o no indica ninguno, se pregunta en qué tabla tirar;
+  - en la tarjeta del arma, el «Efecto de herida» deja de ser un enlace que sumaba una herida al pulsarlo: indica el tipo y que la tabla se tira sola.
+- Todas las armas tienen tipo de herida (17 no lo tenían).
+- **Psiónico**: solo recibía Psiónica y el generador lo dejaba con una habilidad. Ahora elige 1 entrenada + 1 experta con su requisito.
+- **Respuesta al trauma**: la letra se ajusta para que el texto quepa entero en su cuadro.
+- **Títulos de tarjeta** largos ya no se cortan.
+- **Mejoras de mesa** (ajustes de cada navegador, botón «Accesibilidad» en las hojas): modo oscuro para hojas, diálogos y **tarjetas del chat**; tamaño del texto; alto contraste; fuente de alta legibilidad; reducir movimiento; ayuda inmediata. Botón **«Resumida»** en la hoja de personaje: solo características, salud, heridas, estrés, armadura y salvaciones (se recuerda por personaje).
+
 ## 1.7.0 - 2026-10-30
 - **Automatismos de combate, cada uno con su interruptor** en Configuración → Ajustes del módulo («Combate: …»):
   - **Aplicar daño** (de la 1.6.0), ahora con botones «Objetivos» y «Selección» integrados dentro de la propia tarjeta del sistema.

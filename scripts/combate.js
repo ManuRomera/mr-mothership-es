@@ -3,15 +3,16 @@
 const ID = "mr-mothership-es";
 const SIS = "systems/mosh/images/icons/ui";
 const COBERTURA = { insignificant: { pa: 5, rd: 0, nombre: "insignificante" }, light: { pa: 10, rd: 0, nombre: "ligera" }, heavy: { pa: 20, rd: 5, nombre: "pesada" } };
-const HERIDAS = [ // [patrón en system.woundEffect, ajuste de la tabla del sistema]
-  [/bleeding|sangrado/i, "table1eWoundBleeding"], [/blunt|contundente/i, "table1eWoundBluntForce"], [/gunshot|disparo/i, "table1eWoundGunshot"],
-  [/fire|fuego|explosiv/i, "table1eWoundFireExplosives"], [/gore|desgarr|masiv/i, "table1eWoundGoreMassive"]];
+const HERIDAS = [ // [patrón en system.woundEffect, ajuste de la tabla del sistema, nombre]
+  [/bleeding|sangrado/i, "table1eWoundBleeding", "Sangrado"], [/blunt|contundente/i, "table1eWoundBluntForce", "Fuerza contundente"], [/gunshot|disparo/i, "table1eWoundGunshot", "Disparo"],
+  [/fire|fuego|explosiv/i, "table1eWoundFireExplosives", "Fuego y explosivos"], [/gore|desgarr|masiv/i, "table1eWoundGoreMassive", "Desgarro y masivo"]];
+const MUERTE = "NsRHfRuuNGPfkYVf"; // macro «Salvación de muerte» que enlazan las lesiones fatales
 const PANICO = "macros_hotbar_1e.IgWvaabVqzKDzLL4"; // enlace «Haz una tirada de pánico» que el sistema pone en los fallos críticos
 const AJUSTES = {
-  cbDanio: ["Combate: aplicar daño", "Botones «Aplicar a objetivos» y «A seleccionados» en las tarjetas de daño: reducción de daño, cobertura, armadura, heridas con su tabla y salvación de muerte secreta."],
+  cbDanio: ["Combate: aplicar daño", "Botones «Objetivos» y «Selección» en las tarjetas de daño: reducción de daño, cobertura, armadura, heridas con su tabla y sus efectos (sangrado, estrés, fuego, lesiones letales) y salvación de muerte secreta."],
   cbVelocidad: ["Combate: orden estricto por Velocidad", "La iniciativa es una tirada de Velocidad: quien la supera actúa antes que los enemigos y quien falla, después (regla opcional de la Guía)."],
   cbSorpresa: ["Combate: sorpresa", "Botón «Sorpresa» en el registro de combate: salvación de Miedo para los personajes; quien falla queda conmocionado y no actúa esta ronda."],
-  cbSangrado: ["Combate: sangrado por ronda", "Al empezar su turno, quien sangra pierde tanta salud como su Sangrado (ignora armadura y reducción de daño)."],
+  cbSangrado: ["Combate: sangrado y fuego por ronda", "Al empezar su turno, quien sangra pierde tanta salud como su Sangrado y quien arde, el daño de su herida (ignoran armadura y reducción de daño)."],
   cbCobertura: ["Combate: disparar desde cobertura", "Quien dispara desde cobertura queda fuera de ella hasta su próximo turno."],
   cbPanico: ["Combate: pánico automático", "Tras un fallo crítico se abre la tirada de pánico de ese personaje sin tener que pulsar el enlace."],
   cbTrauma: ["Combate: respuestas al trauma", "En las tarjetas de pánico y de salvación se muestra la respuesta al trauma de la clase con un botón para aplicarla a los aliados cercanos (Marine, Científico, Pastor) o un aviso (Androide)."],
@@ -45,11 +46,59 @@ async function chequeo(actor, attr, titulo, nota = "") {
 }
 
 // ---------------------------------------------------------------- daño (cap. 28-29)
-function herida(efecto = "") {
-  const primero = String(efecto).split(/\s+(?:or|o)\s+/i)[0];
-  const t = HERIDAS.find(([re]) => re.test(primero));
+function herida(texto = "") {
+  const t = HERIDAS.find(([re]) => re.test(texto));
   if (!t) return null;
-  return { ajuste: t[1], dado: /\[\+\]/.test(primero) ? "1d10 [+]" : /\[[-–]\]/.test(primero) ? "1d10 [-]" : "1d10" };
+  const dado = /\[\+\]/.test(texto) ? "1d10 [+]" : /\[[-–]\]/.test(texto) ? "1d10 [-]" : "1d10";
+  return { ajuste: t[1], dado, nombre: t[2] + (dado === "1d10" ? "" : ` ${dado.slice(5)}`) };
+}
+/** Tipo de herida del arma; si admite varios («Sangrado o Desgarro») o no dice ninguno, lo elige quien aplica el daño. */
+async function elegirHerida(efecto = "") {
+  let ops = String(efecto).split(/\s+(?:or|o|\+)\s+/i).map(herida).filter(Boolean);
+  if (ops.length === 1) return ops[0];
+  if (!ops.length) ops = HERIDAS.map(([, , n]) => herida(n));
+  const i = await foundry.applications.api.DialogV2.wait({
+    window: { title: "Tipo de herida" }, content: "<p>¿En qué tabla de heridas se tira?</p>", rejectClose: false,
+    buttons: ops.map((o, n) => ({ action: String(n), label: o.nombre, default: !n }))
+  });
+  return ops[Number(i) || 0];
+}
+/** Aplica sola lo que dice la herida que ha salido: sangrado, estrés, salud por ronda, salvación de muerte (inmediata o en 1d10 rondas). */
+async function efectosHerida(actor, msg) {
+  const html = msg?.content ?? "", texto = html.replace(/<[^>]+>/g, " ");
+  let cae = false;
+  if (msg?.isOwner) await msg.setFlag(ID, "aplicado", true); // sus enlaces se muestran como hechos para no aplicarlos dos veces
+  for (const [, pack, id] of html.matchAll(/Compendium\.mosh\.(macros_(?:triggered|hotbar)_1e)\.(?:Macro\.)?([A-Za-z0-9]{16})/g)) {
+    if (id === MUERTE) { await salvacionMuerte(actor); cae = true; continue; }
+    const cmd = (await game.packs.get(`mosh.${pack}`)?.getDocument(id))?.command ?? "";
+    let r;
+    if ((r = /initModifyItem\('([^']+)',\s*(-?\d+)\)/.exec(cmd))) await actor.modifyItem(r[1], Number(r[2]));
+    else if ((r = /initModifyActor\('([^']+)',\s*([^,]+),\s*([^,]+),/.exec(cmd))) {
+      const campo = r[1], val = r[2].trim() === "null" ? null : Number(r[2]), tirada = r[3].trim() === "null" ? null : r[3].replace(/['"\s]/g, "");
+      if (campo === "system.health.value" && tirada) { await arder(actor, tirada.replace(/^-/, "")); continue; } // «Xd10 de daño por ronda»
+      // «Los que estén cerca ganan 1 de Estrés»: el estrés es para los demás, no para quien sangra
+      const quien = campo === "system.other.stress.value" && /cerca|nearby/i.test(texto) ? cercanos(actor) : [actor];
+      for (const a of quien) await ejecutar("modificar", a, { campo, val, tirada });
+    }
+  }
+  if (/Salvaci[oó]n de Muerte en|Death Save in/i.test(texto)) {
+    const n = (await new Roll("1d10").evaluate()).total;
+    await actor.setFlag(ID, "muerteEn", { n, ronda: game.combat?.started ? game.combat.round + n : null });
+    await decir(actor, "Lesión letal", `${SIS}/conditions/doomed.png`, `<p><strong>${esc(actor.name)}</strong> hará la salvación de muerte dentro de <strong>${n} ${n === 1 ? "ronda" : "rondas"}</strong> si nadie trata la herida.</p>`,
+      { flags: { [ID]: { quitar: { uuid: actor.uuid, flag: "muerteEn", texto: "Herida tratada" } } } });
+  }
+  return cae;
+}
+async function arder(actor, formula) {
+  await actor.setFlag(ID, "llamas", formula);
+  await decir(actor, "En llamas", `${SIS}/conditions/extreme_heat.png`, `<p><strong>${esc(actor.name)}</strong> arde: pierde <strong>${formula}</strong> de salud al empezar cada uno de sus turnos (ignora armadura) hasta que alguien apague el fuego.</p>`,
+    { flags: { [ID]: { quitar: { uuid: actor.uuid, flag: "llamas", texto: "Fuego apagado" } } } });
+}
+async function salvacionMuerte(actor) {
+  await actor.unsetFlag(ID, "muerteEn");
+  if (actor.type !== "character") return actor.toggleStatusEffect("dead", { active: true, overlay: true });
+  await decir(actor, "Salvación de muerte", `${SIS}/conditions/doomed.png`, `<p><strong>${esc(actor.name)}</strong> cae. El Guardián tira en secreto la salvación de muerte: se revela cuando alguien dedique un turno a comprobar sus constantes vitales.</p>`);
+  await (await buscarTabla(game.settings.get("mosh", "table1eDeath")))?.draw({ rollMode: CONST.DICE_ROLL_MODES.BLIND });
 }
 async function buscarTabla(id) {
   const t = id && (await fromUuid(id).catch(() => null));
@@ -63,27 +112,35 @@ async function herirSalud(actor, resto, efecto, pasos) {
   const maxSalud = Number(actor.system.health.max), maximo = Number(actor.system.hits.max);
   let salud = Number(actor.system.health.value), heridas = Number(actor.system.hits.value), nuevas = 0;
   const antes = salud;
+  // con las heridas al máximo ya está fuera de combate: el daño no cambia nada, solo queda la salvación de muerte
+  if (maximo > 0 && heridas >= maximo) {
+    pasos.push(`Ya tiene sus heridas máximas (${heridas}/${maximo}): está caído a la espera de la salvación de muerte`);
+    if (salud) await actor.update({ "system.health.value": 0 });
+    return null;
+  }
+  // salud a 0 → 1 herida y la salud vuelve al máximo; el daño sobrante sigue restando (puede encadenar heridas)
   while (resto > 0 && heridas < maximo) {
     if (resto < salud) { salud -= resto; resto = 0; break; }
     resto -= salud; heridas++; nuevas++;
     salud = heridas < maximo ? maxSalud : 0;
   }
-  const h = herida(efecto);
-  const conTabla = actor.type === "character" && h && game.settings.get("mosh", "firstEdition");
+  const conTabla = actor.type === "character" && game.settings.get("mosh", "firstEdition");
   pasos.push(`Salud ${antes} → <strong>${salud}</strong>${nuevas ? ` · <strong>${nuevas === 1 ? "1 herida" : `${nuevas} heridas`}</strong> (${heridas}/${maximo})` : ""}`);
+  if (nuevas && heridas < maximo) pasos.push(`La salud se reinicia: le ${maximo - heridas === 1 ? "queda 1 herida" : `quedan ${maximo - heridas} heridas`} antes de caer`);
   await actor.update({ "system.health.value": salud, ...(conTabla ? {} : { "system.hits.value": heridas }) });
   return async () => {
-    // la tabla del sistema suma ella misma la herida (sin esperar a guardarla): una tirada cada vez y se espera al cambio
-    if (conTabla) for (let i = 0; i < nuevas; i++) {
-      const prev = Number(actor.system.hits.value);
+    // la tabla del sistema suma ella misma la herida (sin esperar a guardarla): una tirada cada vez, se espera al cambio
+    // y se aplican los efectos del resultado (sangrado, estrés, fuego, salvación de muerte)
+    let cae = false;
+    if (conTabla) for (let i = 0; i < nuevas && !cae; i++) {
+      const h = await elegirHerida(efecto), prev = Number(actor.system.hits.value);
       await actor.rollTable(game.settings.get("mosh", h.ajuste), h.dado, "low", true, false, null, null);
       for (let t = 0; t < 20 && Number(actor.system.hits.value) === prev; t++) await esperar(100);
+      cae = await efectosHerida(actor, game.messages.contents.findLast(m => m.speaker?.actor === actor.id && /Wound|Herida/.test(m.content)));
     }
-    if (!nuevas || heridas < maximo) return;
-    if (actor.type === "character") {
-      await decir(actor, "Heridas máximas", `${SIS}/attributes/health.png`, `<p><strong>${esc(actor.name)}</strong> ha sufrido sus heridas máximas. El Guardián tira en secreto la salvación de muerte: se revela cuando alguien dedique un turno a comprobar sus constantes vitales.</p>`);
-      await (await buscarTabla(game.settings.get("mosh", "table1eDeath")))?.draw({ rollMode: CONST.DICE_ROLL_MODES.BLIND });
-    } else await actor.toggleStatusEffect("dead", { active: true, overlay: true });
+    if (!nuevas || heridas < maximo || cae) return;
+    if (actor.type === "character") await decir(actor, "Heridas máximas", `${SIS}/attributes/health.png`, `<p><strong>${esc(actor.name)}</strong> ha sufrido sus heridas máximas (${heridas}/${maximo}).</p>`);
+    await salvacionMuerte(actor);
   };
 }
 
@@ -122,6 +179,8 @@ async function aplicar(actor, danio, { aa = false, distancia = true, arma = "", 
 const ACCIONES = {
   danio: (actor, d) => aplicar(actor, d.danio, d),
   estres: (actor, n) => actor.modifyActor("system.other.stress.value", n, null, true),
+  modificar: (actor, d) => actor.modifyActor(d.campo, d.val, d.tirada, true),
+  quitar: (actor, flag) => actor.unsetFlag(ID, flag),
   miedo: (actor, nota) => chequeo(actor, "fear", "Salvación de Miedo", nota),
 };
 async function ejecutar(accion, actor, datos) {
@@ -150,13 +209,15 @@ const ESTADOS = [
   { id: "mr-armadura-rota", name: "Armadura destruida", img: `${SIS}/attributes/armor.png` },
   { id: "mr-muriendo", name: "Muriendo", img: `${SIS}/conditions/doomed.png` },
   { id: "mr-conmocionado", name: "Conmocionado", img: `${SIS}/conditions/dizzy.png` },
+  { id: "mr-en-llamas", name: "En llamas", img: `${SIS}/conditions/extreme_heat.png` },
 ];
 const sangrado = actor => Number(actor.items.find(i => i.type === "condition" && /^(bleeding|sangrado)$/i.test(i.name))?.system.severity || 0);
 async function sincronizar(actor) {
   if (!actor || !on("cbEstados") || !soyGM() || !["character", "creature"].includes(actor.type)) return;
   const w = Number(actor.system.hits?.value || 0), m = Number(actor.system.hits?.max || 0);
   const quiero = {
-    "mr-herido": w > 0 && w < m, "mr-sangrando": sangrado(actor) > 0, "mr-muriendo": actor.type === "character" && m > 0 && w >= m,
+    "mr-herido": w > 0 && w < m, "mr-sangrando": sangrado(actor) > 0, "mr-muriendo": actor.type === "character" && ((m > 0 && w >= m) || !!actor.getFlag(ID, "muerteEn")),
+    "mr-en-llamas": !!actor.getFlag(ID, "llamas"),
     "mr-armadura-rota": actor.items.some(i => i.type === "armor" && /\(destruida\)$/.test(i.name)) && !actor.items.some(i => i.type === "armor" && i.system.equipped),
   };
   for (const [id, v] of Object.entries(quiero)) if (actor.statuses.has(id) !== v) await actor.toggleStatusEffect(id, { active: v });
@@ -228,18 +289,24 @@ Hooks.on("renderCombatTracker", (app, html) => {
 // cambios de turno y ronda (los hace solo el Guardián)
 Hooks.on("updateCombat", async (combate, cambio) => {
   if (!soyGM() || !("turn" in cambio || "round" in cambio)) return;
-  if ("round" in cambio) for (const c of combate.combatants) if (c.actor?.statuses.has("mr-conmocionado")) await c.actor.toggleStatusEffect("mr-conmocionado", { active: false });
+  if ("round" in cambio) for (const c of combate.combatants) {
+    if (c.actor?.statuses.has("mr-conmocionado")) await c.actor.toggleStatusEffect("mr-conmocionado", { active: false });
+    const m = c.actor?.getFlag(ID, "muerteEn"); // lesión letal sin tratar: llega la salvación de muerte
+    if (m && (m.ronda ??= combate.round - 1 + m.n) <= combate.round) await salvacionMuerte(c.actor);
+  }
   const actor = combate.combatant?.actor; if (!actor) return;
   const previa = actor.getFlag(ID, "cobertura");
   if (previa) { await actor.update({ "system.stats.armor.cover": previa }); await actor.unsetFlag(ID, "cobertura"); }
-  const s = sangrado(actor);
-  if (on("cbSangrado") && s > 0 && combate.combatant.getFlag(ID, "sangro") !== combate.round) {
-    await combate.combatant.setFlag(ID, "sangro", combate.round);
-    const pasos = [`Sangrado ${s}: ignora armadura y reducción de daño`];
-    const despues = await herirSalud(actor, s, "Bleeding", pasos);
-    await decir(actor, "Sangrado", `${SIS}/conditions/bleeding.png`, `<ul class="mr-pasos">${pasos.map(p => `<li>${p}</li>`).join("")}</ul>`);
-    await despues();
-  }
+  if (!on("cbSangrado") || combate.combatant.getFlag(ID, "sangro") === combate.round) return;
+  // daño que no para (ignora armadura y reducción): sangrado y fuego de las heridas
+  const s = sangrado(actor), llamas = actor.getFlag(ID, "llamas");
+  if (!s && !llamas) return;
+  await combate.combatant.setFlag(ID, "sangro", combate.round);
+  const total = s + (llamas ? (await new Roll(llamas).evaluate()).total : 0);
+  const pasos = [[s && `Sangrado ${s}`, llamas && `En llamas ${llamas}`].filter(Boolean).join(" + ") + `: <strong>${total}</strong> de daño (ignora armadura y reducción de daño)`];
+  const despues = await herirSalud(actor, total, llamas ? "Fire & Explosives" : "Bleeding", pasos);
+  await decir(actor, llamas ? "Fuego" : "Sangrado", `${SIS}/conditions/${llamas ? "extreme_heat" : "bleeding"}.png`, `<ul class="mr-pasos">${pasos.map(p => `<li>${p}</li>`).join("")}</ul>`);
+  await despues?.();
 });
 
 // mensajes nuevos del propio usuario: pánico tras crítico y salir de cobertura al disparar
@@ -264,6 +331,8 @@ Hooks.on("createChatMessage", async msg => {
 // botones dentro de las tarjetas del sistema
 Hooks.on("renderChatMessageHTML", (msg, html) => {
   if (game.system?.id !== "mosh") return;
+  if (msg.flags?.[ID]?.aplicado) for (const a of html.querySelectorAll('a.content-link[data-uuid*="macros_"]'))
+    a.replaceWith(Object.assign(document.createElement("span"), { className: "mr-aplicado", innerHTML: `<i class="fa-solid fa-check" inert></i> ${esc(a.textContent.trim())}`, title: "Ya aplicado" }));
   const card = html.querySelector(".mosh .rollcontainer");
   if (!card || card.querySelector(".mr-botones")) return;
   const raw = msg.content ?? "", botones = [], notas = [];
@@ -279,8 +348,14 @@ Hooks.on("renderChatMessageHTML", (msg, html) => {
       const datos = () => { const a = buscarArma(); return { danio: Number(tirada.textContent.trim()), aa: !!a?.system?.antiArmor, arma: a?.name ?? "", efecto: a?.system?.woundEffect ?? "", distancia: !/adyacente|adjacent|cuerpo|melee/i.test(String(a?.system?.ranges?.value ?? "")) }; };
       botones.push(["fa-crosshairs", "Objetivos", () => aplicarA([...game.user.targets], datos()), "Aplicar el daño a los tokens marcados (T)"]);
       botones.push(["fa-users", "Selección", () => aplicarA(canvas.tokens.controlled, datos()), "Aplicar el daño a los tokens seleccionados"]);
+      // los enlaces «Efecto de herida» del sistema suman una herida al pulsarlos: con el daño automático la tabla se tira sola
+      const cuerpo = card.querySelector('.description .body a.content-link[data-uuid*="macros_"]')?.closest(".body");
+      const tipos = String(buscarArma().system.woundEffect ?? "").split(/\s+(?:or|o|\+)\s+/i).map(herida).filter(Boolean).map(h => h.nombre).join(" o ");
+      if (cuerpo) cuerpo.innerHTML = `<br><strong>Efecto de herida</strong><div class="mr-herida-tipo">${esc(tipos)}</div><p class="mr-nota">Si el daño causa una herida, la tabla se tira sola al aplicarlo.</p>`;
     }
   }
+  const quitar = msg.flags?.[ID]?.quitar;
+  if (quitar) botones.push(["fa-hand-holding-medical", quitar.texto, async () => { const a = await fromUuid(quitar.uuid); if (a) ejecutar("quitar", a, quitar.flag); }]);
 
   // respuestas al trauma
   const actor = ChatMessage.getSpeakerActor(msg.speaker);
